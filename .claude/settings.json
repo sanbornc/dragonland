@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "git -C \"$CLAUDE_PROJECT_DIR\" pull --ff-only 2>&1 || true",
+            "statusMessage": "Syncing Dragonland knowledge base from git…",
+            "timeout": 60
+          }
+        ]
+      }
+    ]
+  }
+}
