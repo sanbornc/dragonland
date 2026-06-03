@@ -18,7 +18,7 @@ The party is a band of professional hunters who call themselves
 
 - **Boilerdang Criddlycrotch** — Human Cleric 6 (Life Domain), the party's
   leader. See `wiki/characters/boilerdang-criddlycrotch.md`.
-- **Renob** (Chris's character) — debuted in the bridge session; details TBD.
+- **Renob "The Stabinator"** — Dwarf Fighter 6 (Champion), Chris's character.
   See `wiki/characters/renob.md`.
 - *(The rest of "the Biatches" — Ryan's, TJ's, and Jason's characters — to be
   added as their sheets are shared.)*
