@@ -20,8 +20,9 @@ The party is a band of professional hunters who call themselves
   leader. See `wiki/characters/boilerdang-criddlycrotch.md`.
 - **Renob "The Stabinator"** — Dwarf Fighter 6 (Champion), Chris's character.
   See `wiki/characters/renob.md`.
-- *(The rest of "the Biatches" — Ryan's, TJ's, and Jason's characters — to be
-  added as their sheets are shared.)*
+- **Jason's character** — sheet not yet public
+  (https://www.dndbeyond.com/characters/137649468); details to come.
+- *(Ryan's and TJ's characters — to be added as their sheets are shared.)*
 
 Add new characters in `wiki/characters/` and list them here.
 
