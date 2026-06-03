@@ -13,7 +13,8 @@ first-learned: session 01
 - 1/day: cast *detect thoughts*, but only to sense surface emotions and intent,
   not full thoughts; afterward the holder hears circus music for 1 minute.
   (session 01)
-- Acquired as Crimson Circus loot during the bridge session; holder not recorded.
+- Acquired as Crimson Circus loot during the bridge session; unclaimed, so
+  stored in the **party wagon** by default (`wiki/items/party-wagon.md`).
 
 ## Open questions
 - What was the Calliope Mind, and how/why was it broken?

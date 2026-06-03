@@ -20,4 +20,4 @@ first-learned: session 01
   carries it?
 
 ## See also
-- `wiki/lore/the-crimson-circus.md`
+- `wiki/lore/the-crimson-circus.md` · `wiki/items/party-wagon.md`

@@ -13,8 +13,8 @@ first-learned: session 01
 - 1/day: point at a creature within 30 ft and command it — DC 13 Wisdom save or
   be pulled 10 ft toward you, or forced to stop moving until your next turn. No
   effect on creatures immune to charm. (session 01)
-- Acquired as Crimson Circus loot during the bridge session; current holder not
-  recorded.
+- Acquired as Crimson Circus loot during the bridge session; unclaimed, so
+  stored in the **party wagon** by default (`wiki/items/party-wagon.md`).
 
 ## See also
 - `wiki/lore/the-crimson-circus.md` · `wiki/npcs/the-ringmaster.md`

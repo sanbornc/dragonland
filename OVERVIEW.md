@@ -29,6 +29,12 @@ The party is a band of professional hunters who call themselves
 
 Add new characters in `wiki/characters/` and list them here.
 
+## Party assets
+
+The party travels with an enchanted **wagon** that stores gear like a Bag of
+Holding; unclaimed loot is kept there by default. See
+`wiki/items/party-wagon.md`.
+
 ## Where we are now
 
 Dragonland picks up directly from the party's previous mini-campaign, **The

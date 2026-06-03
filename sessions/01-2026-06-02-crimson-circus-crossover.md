@@ -68,4 +68,5 @@ Also offered/detailed by the DM:
 ## Open questions
 
 - Who is holding each piece of magic loot? (Renob carries the magic bone dice;
-  the rest is not yet recorded.)
+  other unclaimed loot is stored in the **party wagon** —
+  `wiki/items/party-wagon.md`.)

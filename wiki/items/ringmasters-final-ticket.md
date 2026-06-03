@@ -13,7 +13,8 @@ first-learned: session 01
   restrained, or magically pulled: tear the ticket to reroll the save (you must
   use the new result). (session 01)
 - When used, the ticket burns away and whispers *"No refunds."* (session 01)
-- Acquired during the bridge session; holder not recorded.
+- Acquired during the bridge session; unclaimed, so stored in the **party
+  wagon** by default (`wiki/items/party-wagon.md`).
 
 ## See also
 - `wiki/lore/the-crimson-circus.md` · `wiki/npcs/the-ringmaster.md`
