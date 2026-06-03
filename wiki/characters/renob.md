@@ -24,7 +24,7 @@ and his Biatches."** Debuted in the Crimson Circus → Dragonland bridge session
 - **Skills:** Animal Handling, Athletics, Nature, Perception · **Tools:** Carpenter's Tools
 - **Languages:** Common, Dwarvish, Giant
 - **Fighting style:** Defense · **Champion:** Improved Critical (crits on 19–20), Extra Attack (2 attacks)
-- **Feats:** Tough, Dark Bargain, Runestones, Character Threads, Weapon Mastery, + ASIs
+- **Feats:** Tough, Runestones, Character Threads, Weapon Mastery, + ASIs
 
 ## Gear
 - **Flame Tongue Greatsword** (rare) — equipped main weapon

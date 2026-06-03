@@ -28,7 +28,7 @@ professional hunters known as **"Boilerdang and his Biatches"** (the party).
 - **Saves:** Wis & Cha proficient, +1 to all saves (Cloak of Protection)
 - **Skills:** Athletics, Insight, Medicine, Stealth, Survival · **Tools:** Cartographer's Tools
 - **Languages:** Common, Common Sign Language, Orc
-- **Feats:** Tough, Magic Initiate (Druid), Dark Bargain, + ASIs (incl. Guide ASIs)
+- **Feats:** Tough, Magic Initiate (Druid), + ASIs (incl. Guide ASIs)
 
 ## Spellcasting (Wisdom) — save DC 16, attack +8
 - **Cantrips:** Guidance, Sacred Flame, Toll the Dead, Word of Radiance, Spare the Dying, Message, Thorn Whip

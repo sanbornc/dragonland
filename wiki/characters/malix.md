@@ -24,7 +24,7 @@ TJ Smith's player character — a Tiefling Shadow-Magic Sorcerer and member of
 - **Skills:** Arcana, Deception, Intimidation, Perception, Persuasion, Sleight of
   Hand, Stealth · **Tools:** Forgery Kit, Thieves' Tools
 - **Languages:** Common, Draconic, Goblin
-- **Feats:** Skilled, Dark Bargain, + ASIs
+- **Feats:** Skilled, + ASIs
 - **Shadow Magic:** Eyes of the Dark (Darkness), Strength of the Grave, Hound of
   Ill Omen
 
