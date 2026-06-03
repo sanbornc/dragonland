@@ -24,8 +24,8 @@ The party is a band of professional hunters who call themselves
   See `wiki/characters/vaelor-grinward.md`.
 - **Malix** — Tiefling Sorcerer 6 (Shadow Magic), TJ's character.
   See `wiki/characters/malix.md`.
-- **Ryan's character** — sheet not yet public
-  (https://www.dndbeyond.com/characters/161707739); details to come.
+- **Pip Tumblewhistle** — Halfling Ranger 6 (Hunter), Ryan's character.
+  See `wiki/characters/pip-tumblewhistle.md`.
 
 Add new characters in `wiki/characters/` and list them here.
 
