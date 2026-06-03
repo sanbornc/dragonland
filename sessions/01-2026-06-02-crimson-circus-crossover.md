@@ -21,9 +21,10 @@ dm: Jeremy Maughan
   Crimson Cane, the Shadow-Stained Cloak, the Calliope Shard (a splinter of the
   broken Calliope Mind), the Ringmaster's Final Ticket, and a Bloodmoon Charm
   upgrade for the party's Wolfcall Whistle.
-- A merchant offered wares (see Merchant stock below). **Jason's character
-  received 2 Potions of Healing**, and a **450 gp purchase** was made (the item
-  was not recorded in chat).
+- A merchant offered wares (see Merchant stock below). **Vaelor (Jason)
+  received 2 Potions of Healing**, and a **450 gp purchase** was made (the
+  specific item wasn't recorded in chat). Party gold has since been distributed
+  among the characters — each PC's coin is tracked on their own sheet.
 
 ## Merchant stock ("Things For Sale")
 
@@ -66,6 +67,5 @@ Also offered/detailed by the DM:
 
 ## Open questions
 
-- Who is holding each piece of magic loot?
-- What did the 450 gp purchase buy?
-- Renob's class/race, and the other PCs (Ryan's, TJ's, and Jason's characters).
+- Who is holding each piece of magic loot? (Renob carries the magic bone dice;
+  the rest is not yet recorded.)
