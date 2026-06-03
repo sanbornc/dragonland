@@ -22,7 +22,9 @@ The party is a band of professional hunters who call themselves
   See `wiki/characters/renob.md`.
 - **Jason's character** — sheet not yet public
   (https://www.dndbeyond.com/characters/137649468); details to come.
-- *(Ryan's and TJ's characters — to be added as their sheets are shared.)*
+- **Ryan's character** — sheet not yet public
+  (https://www.dndbeyond.com/characters/161707739); details to come.
+- *(TJ's character — to be added once shared.)*
 
 Add new characters in `wiki/characters/` and list them here.
 
