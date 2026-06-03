@@ -22,9 +22,10 @@ The party is a band of professional hunters who call themselves
   See `wiki/characters/renob.md`.
 - **Vaelor Grinward** — Elf Paladin 5 (Oath of Devotion), Jason's character.
   See `wiki/characters/vaelor-grinward.md`.
+- **Malix** — Tiefling Sorcerer 6 (Shadow Magic), TJ's character.
+  See `wiki/characters/malix.md`.
 - **Ryan's character** — sheet not yet public
   (https://www.dndbeyond.com/characters/161707739); details to come.
-- *(TJ's character — to be added once shared.)*
 
 Add new characters in `wiki/characters/` and list them here.
 
