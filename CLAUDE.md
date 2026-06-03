@@ -75,10 +75,11 @@ When a member describes what happened:
 
 ## Committing & syncing
 
-There are no git hooks — syncing is your responsibility on every contribution.
-After any change, commit with a clear, specific message and `git push`. Keep
-commits focused (one session or one topic each, where practical). Always
-`git pull` again before pushing if time has passed.
+A `SessionStart` hook auto-runs `git pull` when the repo is opened, so each
+session starts from the latest. Beyond that, syncing is still your
+responsibility: `git pull` again before edits if time has passed, and after any
+change commit with a clear, specific message and `git push`. Keep commits
+focused (one session or one topic each, where practical).
 
 ## Tone
 
