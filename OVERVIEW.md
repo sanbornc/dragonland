@@ -18,15 +18,21 @@ The party is a band of professional hunters who call themselves
 
 - **Boilerdang Criddlycrotch** — Human Cleric 6 (Life Domain), the party's
   leader. See `wiki/characters/boilerdang-criddlycrotch.md`.
-- *(The rest of "the Biatches" — the other player characters — to be added as
-  their sheets are shared.)*
+- **Renob** (Chris's character) — debuted in the bridge session; details TBD.
+  See `wiki/characters/renob.md`.
+- *(The rest of "the Biatches" — Ryan's, TJ's, and Jason's characters — to be
+  added as their sheets are shared.)*
 
 Add new characters in `wiki/characters/` and list them here.
 
 ## Where we are now
 
-No sessions logged yet. This section will summarize the current situation once
-the first session is recorded.
+Dragonland picks up directly from the party's previous mini-campaign, **The
+Crimson Circus** (see `wiki/lore/the-crimson-circus.md`). The 2026-06-02 bridge
+session sorted Crimson Circus loot, introduced Renob, and stocked a merchant —
+see `sessions/01-2026-06-02-crimson-circus-crossover.md`. The party heads into
+Dragonland carrying circus-themed gear and an unresolved werewolf/lycanthropy
+thread.
 
 ## Major threads
 

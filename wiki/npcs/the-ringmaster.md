@@ -18,7 +18,10 @@ first-learned: recovered documents
 ## Open questions
 - Who is his patron/buyer? (A name was burned out of the ledger.)
 - What exactly is the "special cargo," and where is it now?
+- Is he the same Ringmaster as the party's previous arc, **The Crimson Circus**?
+  (Shared circus identity strongly implies it; not confirmed in-fiction.)
 
 ## See also
 - `wiki/items/the-ringmasters-ledger.md` · `wiki/lore/miracle-bearers.md`
 - `wiki/npcs/the-old-knight.md` · `wiki/factions/black-banners.md`
+- `wiki/lore/the-crimson-circus.md`
