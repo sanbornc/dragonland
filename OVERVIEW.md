@@ -20,8 +20,8 @@ The party is a band of professional hunters who call themselves
   leader. See `wiki/characters/boilerdang-criddlycrotch.md`.
 - **Renob "The Stabinator"** — Dwarf Fighter 6 (Champion), Chris's character.
   See `wiki/characters/renob.md`.
-- **Jason's character** — sheet not yet public
-  (https://www.dndbeyond.com/characters/137649468); details to come.
+- **Vaelor Grinward** — Elf Paladin 5 (Oath of Devotion), Jason's character.
+  See `wiki/characters/vaelor-grinward.md`.
 - **Ryan's character** — sheet not yet public
   (https://www.dndbeyond.com/characters/161707739); details to come.
 - *(TJ's character — to be added once shared.)*
