@@ -1,0 +1,5 @@
+# Full-resolution source images — keep compressed copies in assets/ instead
+IMG_*.png
+
+# OS cruft
+.DS_Store
