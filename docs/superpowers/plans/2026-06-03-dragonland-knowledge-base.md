@@ -25,7 +25,7 @@ dragonland/
 │   └── TEMPLATE.md                Task 1
 ├── wiki/
 │   ├── README.md                  Task 1
-│   ├── characters/README.md       Task 1
+│   ├── characters/README.md       Task 1  (+ boilerdang-criddlycrotch in Task 7)
 │   ├── quests/README.md           Task 1
 │   ├── npcs/                       Task 7  — the-ringmaster, the-old-knight, the-buyer, the-queen
 │   ├── locations/                  Task 7  — haven, solace, x-t, the-old-road
@@ -381,7 +381,15 @@ sought-after **Staff** that "must not reach X.T."
 
 ## The Party
 
-Add your characters in `wiki/characters/` and list them here as they're created.
+The party is a band of professional hunters who call themselves
+**"Boilerdang and his Biatches,"** led by Boilerdang Criddlycrotch.
+
+- **Boilerdang Criddlycrotch** — Human Cleric 6 (Life Domain), the party's
+  leader. See `wiki/characters/boilerdang-criddlycrotch.md`.
+- *(The rest of "the Biatches" — the other player characters — to be added as
+  their sheets are shared.)*
+
+Add new characters in `wiki/characters/` and list them here.
 
 ## Where we are now
 
@@ -681,6 +689,7 @@ git commit -m "Transcribe the six recovered Ringmaster's Ledger documents"
 - Create: `wiki/locations/haven.md`, `wiki/locations/solace.md`, `wiki/locations/x-t.md`, `wiki/locations/the-old-road.md`
 - Create: `wiki/items/the-staff.md`, `wiki/items/the-ringmasters-ledger.md`
 - Create: `wiki/lore/miracle-bearers.md`, `wiki/lore/the-gathering-war.md`
+- Create: `wiki/characters/boilerdang-criddlycrotch.md`
 
 > Record only what the documents state. Phrase inferences as "Open questions,"
 > not facts. Every "What we know" bullet cites its source document.
@@ -982,14 +991,68 @@ first-learned: recovered documents
 - `wiki/factions/black-banners.md` · `wiki/npcs/the-queen.md`
 ```
 
-- [ ] **Step 14: Verify and commit**
+- [ ] **Step 14: Write `wiki/characters/boilerdang-criddlycrotch.md`**
 
-Run: `find wiki/npcs wiki/factions wiki/locations wiki/items wiki/lore -name '*.md' | wc -l`
-Expected: `13`
+This is a player character (read from D&D Beyond), not a clue from a document.
+Record both the roleplay notes the player gave and the mechanical summary.
+
+```markdown
+---
+name: Boilerdang Criddlycrotch
+aliases: []
+type: character
+player: Canarias
+class: Cleric 6 (Life Domain)
+race: Human
+background: Guide
+alignment: Chaotic Neutral
+sheet: https://dndbeyond.com/characters/150879764
+first-learned: character creation
+---
+
+# Boilerdang Criddlycrotch
+
+Human Cleric 6 (Life Domain), Chaotic Neutral — leader of the band of
+professional hunters known as **"Boilerdang and his Biatches"** (the party).
+
+## Personality & goal
+- A little unhinged — in the mold of Stephen the Irishman from *Braveheart*.
+- Keeps his past close to the chest; shares little about his backstory.
+- **Ultimate goal:** to free his homeland from the tyranny of its oppressors.
+
+## Mechanics (level 6, proficiency +3)
+- **HP** ~69 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)
+- **Speed** 30 ft, plus a climbing speed; Boots of Speed for doubling
+- **Abilities:** STR 15 (+2) · DEX 10 (+0) · CON 19 (+4) · INT 10 (+0) · WIS 21 (+5) · CHA 8 (−1)
+- **Saves:** Wis & Cha proficient, +1 to all saves (Cloak of Protection)
+- **Skills:** Athletics, Insight, Medicine, Stealth, Survival · **Tools:** Cartographer's Tools
+- **Languages:** Common, Common Sign Language, Orc
+- **Feats:** Tough, Magic Initiate (Druid), Dark Bargain, + ASIs (incl. Guide ASIs)
+
+## Spellcasting (Wisdom) — save DC 16, attack +8
+- **Cantrips:** Guidance, Sacred Flame, Toll the Dead, Word of Radiance, Spare the Dying, Message, Thorn Whip
+- **1st (prepared):** Bless, Command, Cure Wounds, Healing Word, Protection from Evil and Good, Shield of Faith, Goodberry, Animal Friendship
+- **2nd:** Aid, Find Traps, Lesser Restoration, Prayer of Healing, Spiritual Weapon
+- **3rd:** Aura of Vitality, Remove Curse, Revivify, Spirit Guardians
+
+## Gear & coin
+- **Notable:** Adamantine Plate, Shield +1, Mace +1, Amulet of Health, Boots of Speed, Cloak of Protection, Ring of Necrotic Resistance
+- **Consumables:** 3× Greater Healing Potion, Potion of Climbing, Potion of Animal Friendship, Holy Water
+- **Other:** Holy Symbol, traveler's gear; a trophy from an animal he killed
+- **Coin:** 1,332 gp, 9 sp
+
+## See also
+- `OVERVIEW.md` — the party roster
+```
+
+- [ ] **Step 15: Verify and commit**
+
+Run: `find wiki/npcs wiki/factions wiki/locations wiki/items wiki/lore wiki/characters -name '*.md' | wc -l`
+Expected: `14` (13 document-seeded entries + Boilerdang's character sheet)
 
 ```bash
-git add wiki/npcs wiki/factions wiki/locations wiki/items wiki/lore
-git commit -m "Seed wiki entries from the recovered documents"
+git add wiki/npcs wiki/factions wiki/locations wiki/items wiki/lore wiki/characters
+git commit -m "Seed wiki entries from documents and add Boilerdang's character"
 ```
 
 ---
@@ -999,7 +1062,7 @@ git commit -m "Seed wiki entries from the recovered documents"
 - [ ] **Step 1: Confirm the whole tree looks right**
 
 Run: `git status -sb && find . -path ./.git -prune -o -name '*.md' -print | sort`
-Expected: working tree clean (aside from the ignored `IMG_*.png`); all README/CLAUDE/OVERVIEW, six documents, and thirteen wiki entries present.
+Expected: working tree clean (aside from the ignored `IMG_*.png`); all README/CLAUDE/OVERVIEW, six documents, thirteen document-seeded wiki entries, and Boilerdang's character sheet present.
 
 - [ ] **Step 2: Confirm originals are still uncommitted/ignored**
 
@@ -1018,7 +1081,7 @@ Expected: pushes all commits to `origin/main`; working tree clean afterward.
 
 ## Self-review notes (author)
 
-- **Spec coverage:** content model (Tasks 1,6,7), contribution-via-Claude + git sync (Task 3 CLAUDE.md), players-only/no-secrets (stated in README, CLAUDE.md, wiki/README), transcribe + compressed images (Tasks 5,6), repo structure & conventions (Tasks 1–4), seed from existing documents (Tasks 6,7), final sync (Task 8). All spec sections covered.
+- **Spec coverage:** content model (Tasks 1,6,7), contribution-via-Claude + git sync (Task 3 CLAUDE.md), players-only/no-secrets (stated in README, CLAUDE.md, wiki/README), transcribe + compressed images (Tasks 5,6), repo structure & conventions (Tasks 1–4), seed from existing documents (Tasks 6,7), party character Boilerdang in `wiki/characters/` + `OVERVIEW.md` roster (Tasks 4,7), final sync (Task 8). All spec sections covered.
 - **Placeholders:** living-document notes in OVERVIEW.md ("no sessions logged yet") are intentional and complete instructions, not plan gaps. No TBD/TODO remain.
 - **Type/name consistency:** document slugs are identical across Task 5 (jpg), Task 6 (md `source-image` paths), and the `See also`/citation links in Tasks 6–7. Folder names match `CLAUDE.md` and `wiki/README.md`.
 ```
