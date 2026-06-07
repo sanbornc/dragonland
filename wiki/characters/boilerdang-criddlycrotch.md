@@ -31,13 +31,21 @@ professional hunters known as **"Boilerdang and his Biatches"** (the party).
 - **Feats:** Tough, Magic Initiate (Druid), + ASIs (incl. Guide ASIs)
 
 ## Spellcasting (Wisdom) — save DC 16, attack +8
+Prepares WIS mod + cleric level = **11** spells. **Life Domain spells are always
+prepared and don't count against that limit**, and on D&D Beyond the domain,
+feat-, and item-granted spells all display in the "prepared" list automatically —
+so the chosen-prepared count is smaller than the raw list looks.
+
 - **Cantrips:** Guidance, Sacred Flame, Toll the Dead, Word of Radiance, Spare the Dying, Message, Thorn Whip
-- **1st (prepared):** Bless, Command, Cure Wounds, Healing Word, Protection from Evil and Good, Shield of Faith, Goodberry, Animal Friendship
-- **2nd:** Aid, Find Traps, Lesser Restoration, Prayer of Healing, Spiritual Weapon
-- **3rd:** Aura of Vitality, Remove Curse, Revivify, Spirit Guardians
+- **Domain (always prepared):** Bless, Cure Wounds, Lesser Restoration, Spiritual Weapon, Revivify
+- **1st (chosen):** Command, Guiding Bolt, Healing Word, Protection from Evil and Good
+- **2nd (chosen):** Aid, Hold Person, Prayer of Healing
+- **3rd (chosen):** Aura of Vitality, Remove Curse, Spirit Guardians
+- **Feat / item grants (free casts, not cleric slots):** Goodberry (Magic Initiate: Druid), Animal Friendship (Potion of Animal Friendship)
 
 ## Gear & coin
 - **Notable:** Adamantine Plate, Shield +1, Mace +1, Amulet of Health, Boots of Speed, Cloak of Protection, Ring of Necrotic Resistance
+- **Attuned (3/3):** Amulet of Health, Boots of Speed, Cloak of Protection — the Ring of Necrotic Resistance is currently **not attuned** (attunement caps at 3)
 - **Consumables:** 3× Greater Healing Potion, Potion of Climbing, Potion of Animal Friendship, Holy Water
 - **Other:** Holy Symbol, traveler's gear; a trophy from an animal he killed
 - **Coin:** 1,332 gp, 9 sp
