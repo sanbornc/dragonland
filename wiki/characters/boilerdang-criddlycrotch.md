@@ -31,15 +31,16 @@ professional hunters known as **"Boilerdang and his Biatches"** (the party).
 - **Feats:** Tough, Magic Initiate (Druid), + ASIs (incl. Guide ASIs)
 
 ## Spellcasting (Wisdom) — save DC 16, attack +8
-Prepares WIS mod + cleric level = **11** spells. **Life Domain spells are always
-prepared and don't count against that limit**, and on D&D Beyond the domain,
-feat-, and item-granted spells all display in the "prepared" list automatically —
-so the chosen-prepared count is smaller than the raw list looks.
+Under the 2024 rules a cleric prepares a **fixed number of spells by level — 10 at
+level 6** (not Wisdom modifier + level). **Life Domain spells are always prepared
+on top of that count and don't reduce it**; on D&D Beyond those domain spells, plus
+feat- and item-granted spells, all show in the "prepared" list automatically. The
+10 chosen spells below fill the list — there are no open prepared slots.
 
 - **Cantrips:** Guidance, Sacred Flame, Toll the Dead, Word of Radiance, Spare the Dying, Message, Thorn Whip
-- **Domain (always prepared):** Bless, Cure Wounds, Lesser Restoration, Spiritual Weapon, Mass Healing Word, Revivify
+- **Domain (always prepared):** Aid, Bless, Cure Wounds, Lesser Restoration, Mass Healing Word, Revivify
 - **1st (chosen):** Command, Guiding Bolt, Healing Word, Protection from Evil and Good
-- **2nd (chosen):** Aid, Hold Person, Prayer of Healing
+- **2nd (chosen):** Hold Person, Prayer of Healing, Spiritual Weapon
 - **3rd (chosen):** Aura of Vitality, Remove Curse, Spirit Guardians
 - **Feat / item grants (free casts, not cleric slots):** Goodberry (Magic Initiate: Druid), Animal Friendship (Potion of Animal Friendship)
 
