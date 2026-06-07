@@ -37,7 +37,7 @@ feat-, and item-granted spells all display in the "prepared" list automatically 
 so the chosen-prepared count is smaller than the raw list looks.
 
 - **Cantrips:** Guidance, Sacred Flame, Toll the Dead, Word of Radiance, Spare the Dying, Message, Thorn Whip
-- **Domain (always prepared):** Bless, Cure Wounds, Lesser Restoration, Spiritual Weapon, Revivify
+- **Domain (always prepared):** Bless, Cure Wounds, Lesser Restoration, Spiritual Weapon, Mass Healing Word, Revivify
 - **1st (chosen):** Command, Guiding Bolt, Healing Word, Protection from Evil and Good
 - **2nd (chosen):** Aid, Hold Person, Prayer of Healing
 - **3rd (chosen):** Aura of Vitality, Remove Curse, Spirit Guardians
