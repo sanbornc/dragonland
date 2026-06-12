@@ -18,3 +18,4 @@ first-learned: recovered documents
 
 ## See also
 - `wiki/locations/haven.md` · `wiki/locations/x-t.md` · `wiki/npcs/the-old-knight.md`
+- `wiki/locations/the-excavation-site.md` — the buried-archive dig may connect to Solace's "not all relics stay buried"

@@ -48,6 +48,10 @@ thread.
 
 - **The gathering war** — unmarked black-banner armies massing eastward.
   See `wiki/factions/black-banners.md`.
+- **The buried archive** — the Black Banners are digging out a pre-Cataclysm
+  military archive beneath an old watch station, guarded above by patrols and
+  below by the patrolling dead. The party recovered a patrol's papers and named
+  its commander, **S. Valane**. See `wiki/quests/the-buried-archive.md`.
 - **The Ringmaster's cargo** — smuggled "miracle-bearers" and hidden relics.
   See `wiki/npcs/the-ringmaster.md`.
 - **The Staff and X.T.** — a Staff that must not reach the unspoken site "X.T."
@@ -57,4 +61,6 @@ thread.
 
 - **Haven** — `wiki/locations/haven.md`
 - **Solace** — `wiki/locations/solace.md`
+- **The Excavation Site** (watch station over the buried archive) —
+  `wiki/locations/the-excavation-site.md`
 - **X.T.** (unspoken site) — `wiki/locations/x-t.md`
