@@ -38,6 +38,10 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   there** — answering the riddle by *giving* rather than taking — and the party
   **passes the Honor test**, proceeding to the second room, **Duty.** See
   `wiki/locations/hall-of-oaths.md`.
+- **Duty room** — maxim: ***"Duty is not noise. Duty is judgment."*** Three doors:
+  behind the first, **someone cries for help**; behind the second, **soldiers beg
+  for orders**; behind the third, **a child weeps alone in the dark.** A test of
+  judgment over which to answer. See `wiki/locations/hall-of-oaths.md`.
 
 ## New facts learned
 
@@ -66,6 +70,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - **Honor test passed:** an **empty slot** sat beside the altar sword; **Vaelor
   placed his sword** in it (giving, not taking). The party moves on to the
   **Duty** room. — `wiki/locations/hall-of-oaths.md`
+- The **Duty** test (***"Duty is not noise. Duty is judgment."***): three doors —
+  a cry for help, soldiers begging for orders, and a child weeping alone in the
+  dark. — `wiki/locations/hall-of-oaths.md`
 
 ## Loose threads
 
@@ -80,5 +87,8 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   — `wiki/quests/the-buried-archive.md`
 - Who is the voice in the **Hall of Oaths**, and what happens if a party member
   steps forward as a candidate for knighthood? — `wiki/locations/hall-of-oaths.md`
-- Does Vaelor reclaim his sword, and what do the **Duty** and **Sacrifice** rooms
-  demand? — `wiki/locations/hall-of-oaths.md`
+- Does Vaelor reclaim his sword, and what does the **Sacrifice** room demand? —
+  `wiki/locations/hall-of-oaths.md`
+- **Duty's judgment:** which door is right — the cry for help, the soldiers
+  begging for orders, or the weeping child? And does that **weeping child** tie to
+  the "child in the tower" question? — `wiki/locations/hall-of-oaths.md`
