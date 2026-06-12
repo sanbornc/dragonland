@@ -81,6 +81,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - **Mid-fight, the party persuades the Marshal** that **he is dead**, that **the
   archive survived long enough**, and that **his duty is fulfilled** — ending his
   watch and releasing him (as they freed Garreck). See `wiki/npcs/the-marshal.md`.
+- The party gains the **Blessing of the Oathbound** — **advantage on social
+  interactions with dead Solamnic knights.** See
+  `wiki/items/blessing-of-the-oathbound.md`.
 
 ## New facts learned
 
@@ -147,6 +150,8 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - **The Marshal released:** persuaded mid-combat that he was dead, the archive had
   survived long enough, and his **duty was fulfilled** — his watch ended (as
   Garreck's did). — `wiki/npcs/the-marshal.md`
+- **Boon — Blessing of the Oathbound:** advantage on social interactions with
+  **dead Solamnic knights.** — `wiki/items/blessing-of-the-oathbound.md`
 
 ## Loose threads
 
@@ -185,3 +190,6 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   `wiki/locations/the-excavation-site.md`
 - The **Marshal** was freed (convinced his duty was done) — does the archive now
   open to the party, and does he leave anything behind? — `wiki/npcs/the-marshal.md`
+- Does the **Blessing of the Oathbound** cover the whole party or only the
+  oathbound — does **Renob**, who abstained at the Sacrifice altars, get it? —
+  `wiki/items/blessing-of-the-oathbound.md`

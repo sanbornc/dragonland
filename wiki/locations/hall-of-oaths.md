@@ -27,6 +27,7 @@ of Solamnia site of oath-taking.
 - The third room, **"Sacrifice,"** holds **three altars** labeled **BLOOD**, **MEMORY**, and **BURDEN**, with the words: ***"No oath is sworn without cost."*** — swearing the oath demands a price. (session 02)
 - The party took the oath (Renob alone abstained), but the **realized costs fell on only two**: **Vaelor took damage** (paid in blood), and **Boilerdang's movement speed was reduced** (a lasting burden). The **other altars exacted no cost**, and **Renob** took no altar at all. (session 02)
 - Passing all three trials, the party received a final admonition: ***"And remember: duty without mercy becomes damnation."*** — tempering the Duty lesson: judgment, yes, but mercy still matters. Beyond the Hall they recovered the **Black Banner guards' orders** for the site (`wiki/documents/black-banner-guard-orders.md`). (session 02)
+- The oath (and seeing the Marshal's watch ended) granted the party the **Blessing of the Oathbound** — advantage on social interactions with dead Solamnic knights. (`wiki/items/blessing-of-the-oathbound.md`) (session 02)
 
 ## Open questions
 - Whose is the voice — Garreck, the "Marshal," or an oath-keeper spirit/construct bound to the hall?
