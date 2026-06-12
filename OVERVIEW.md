@@ -44,6 +44,11 @@ see `sessions/01-2026-06-02-crimson-circus-crossover.md`. The party heads into
 Dragonland carrying circus-themed gear and an unresolved werewolf/lycanthropy
 thread.
 
+As of the 2026-06-12 session, the party is **inside the tower over the buried
+archive**, descending with its centuries-dead Solamnic guardian, **Sir Garreck**,
+toward the records the Black Banners are hunting — see
+`sessions/02-2026-06-12-descending-the-tower.md`.
+
 ## Major threads
 
 - **The gathering war** — unmarked black-banner armies massing eastward.

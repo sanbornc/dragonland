@@ -15,6 +15,7 @@ first-learned: recovered documents
 - They have a military command structure — **Commander S. Valane** issues orders to field officers like **Captain Varek**. (`wiki/documents/captain-vareks-papers.md`)
 - At least one operation is **archaeological**: securing an excavation over a buried **pre-Cataclysm military archive**, recovering "knowledge, not wealth or relics." They prize records above lives ("Lives are expendable. Records are not.") and bar all outsiders. (`wiki/documents/captain-vareks-papers.md`)
 - That dig has stalled underground — survey teams lost to patrolling undead and a rumored "Marshal." (`wiki/documents/captain-vareks-papers.md`)
+- The archive has an **ancient guardian**: **Sir Garreck**, a **Knight of Solamnia** dead for centuries — though he says he is *not* the "Marshal," so a separate figure still haunts the depths. (session 02)
 
 ## Open questions
 - Are they tied to the Queen? How high above Commander S. Valane does the chain go?

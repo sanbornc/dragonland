@@ -17,10 +17,12 @@ with the surface patrol's papers and gear.
 - Commander **S. Valane** wants the archive's **sealed pre-Cataclysm military records** (reports, maps, surveys) recovered intact — "knowledge, not wealth." (`wiki/documents/captain-vareks-papers.md`)
 - The party recovered **Captain Varek's** papers, his **signet ring**, and a **compass that points to the depths** while underground. (`wiki/documents/captain-vareks-papers.md`)
 - The real obstacle is **below**: archive chambers guarded by patrolling undead and a rumored "Marshal," where three Black Banner survey teams already failed. (`wiki/documents/captain-vareks-papers.md`)
+- The archive's **original guardian** is **Sir Garreck**, a **Knight of Solamnia** dead for centuries. Convinced by the party that he is dead, he is now **leading them down to the archive** rather than barring the way — but he says he is **not** the "Marshal." (session 02)
 
 ## Open questions
-- Do the party press down into the archive themselves, or use the documents/ring to move against the Black Banners?
-- What is the "Marshal," and why are the dead still on patrol?
+- With Garreck guiding them, what state is the archive in — and will he let the party take the records, or only guard them?
+- Do the party secure the archive themselves, or use Varek's documents/ring to move against the Black Banners topside?
+- If Garreck isn't the **"Marshal,"** what is — and why are the dead still on patrol?
 - How does this tie to the wider gathering war and the Queen?
 
 ## See also
