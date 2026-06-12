@@ -19,4 +19,4 @@ first-learned: session 02 (2026-06-12)
 
 ## See also
 - `wiki/npcs/sir-garreck.md` · `wiki/items/solamnic-officers-compass.md`
-- `wiki/locations/the-tower.md` · `wiki/npcs/the-old-knight.md`
+- `wiki/locations/the-tower.md` · `wiki/locations/hall-of-oaths.md` · `wiki/npcs/the-old-knight.md`

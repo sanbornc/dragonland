@@ -21,6 +21,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   ago**, charged with **guarding the archive beneath the tower** — confirming the
   tower sits over the buried archive the Black Banners are now after. See
   `wiki/quests/the-buried-archive.md`.
+- Descending further, the party reaches the **Hall of Oaths**. A sign above the
+  door reads **"HONOR. DUTY. SACRIFICE."**; as they enter, a voice calls for
+  **candidates for knighthood to step forward.** See `wiki/locations/hall-of-oaths.md`.
 
 ## New facts learned
 
@@ -33,6 +36,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   the tower is the site's surface structure. — `wiki/quests/the-buried-archive.md`
 - Garreck states he is **not** the **"Marshal"** — so that figure remains a
   distinct unknown still below. — `wiki/quests/the-buried-archive.md`
+- **The Hall of Oaths** — a Solamnic oath-hall below the tower, marked
+  **"HONOR. DUTY. SACRIFICE."**; a voice within summons candidates for
+  knighthood. — `wiki/locations/hall-of-oaths.md`
 
 ## Loose threads
 
@@ -45,3 +51,5 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   chat; unconfirmed.)
 - How does this side-trek tie back to the gathering war and Commander S. Valane?
   — `wiki/quests/the-buried-archive.md`
+- Who is the voice in the **Hall of Oaths**, and what happens if a party member
+  steps forward as a candidate for knighthood? — `wiki/locations/hall-of-oaths.md`

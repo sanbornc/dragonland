@@ -21,4 +21,5 @@ A tower the party is currently exploring, descending through its lower levels.
 
 ## See also
 - `wiki/npcs/sir-garreck.md` · `wiki/locations/the-excavation-site.md`
+- `wiki/locations/hall-of-oaths.md` · `wiki/factions/knights-of-solamnia.md`
 - `wiki/quests/the-buried-archive.md` · `sessions/02-2026-06-12-descending-the-tower.md`
