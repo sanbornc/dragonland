@@ -46,6 +46,12 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   them all,"*** and **knights cannot be controlled by emotion** — and **the child
   disappears.** Duty is judgment, not the pull of the loudest grief. See
   `wiki/locations/hall-of-oaths.md`.
+- The party then opens the **second door** ("soldiers beg for orders") to find a
+  **gravely injured goblin**, which they **kill** — and the **next door opens**,
+  advancing them past Duty. See `wiki/locations/hall-of-oaths.md`.
+- The third room, **Sacrifice**, holds **three altars** — **BLOOD**, **MEMORY**,
+  **BURDEN** — and the words ***"No oath is sworn without cost."*** The oath
+  demands a price. See `wiki/locations/hall-of-oaths.md`.
 
 ## New facts learned
 
@@ -80,6 +86,10 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - **Duty — the child's door:** opening it drew the lesson that **"you can't save
   them all"** and that **knights cannot be controlled by emotion**; the **child
   vanished** (a test construct). — `wiki/locations/hall-of-oaths.md`
+- **Duty advanced:** behind the second door was a **gravely injured goblin**; the
+  party killed it and the **next door opened**. — `wiki/locations/hall-of-oaths.md`
+- The **Sacrifice** room: three altars — **BLOOD. MEMORY. BURDEN.** — and ***"No
+  oath is sworn without cost."*** — `wiki/locations/hall-of-oaths.md`
 
 ## Loose threads
 
@@ -96,6 +106,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   steps forward as a candidate for knighthood? — `wiki/locations/hall-of-oaths.md`
 - Does Vaelor reclaim his sword, and what does the **Sacrifice** room demand? —
   `wiki/locations/hall-of-oaths.md`
-- **Duty:** the child's door rebuked them ("you can't save them all"; "knights
-  can't be controlled by emotion") and the child vanished — did they pass, and was
-  the soldiers'-orders door the intended answer? — `wiki/locations/hall-of-oaths.md`
+- **Duty (advanced):** after the child-door lesson, the second door held a gravely
+  injured goblin; killing it opened the way onward. Was the goblin real, a mercy,
+  or a construct? — `wiki/locations/hall-of-oaths.md`
+- **Sacrifice:** "no oath is sworn without cost" — which altar (**Blood**,
+  **Memory**, or **Burden**) does the party pay at, who bears it, and what does
+  swearing the oath grant? — `wiki/locations/hall-of-oaths.md`

@@ -23,14 +23,16 @@ of Solamnia site of oath-taking.
 - Beyond Honor, the hall continues to a second room, **"Duty,"** which the party proceeds to next. (session 02)
 - **The "Duty" room** declares: ***"Duty is not noise. Duty is judgment."*** It holds **three doors** — behind the **first**, someone **cries for help**; behind the **second**, **soldiers beg for orders**; behind the **third**, **a child weeps alone in the dark.** The test is a judgment of which to answer. (session 02)
 - The party opened the **third door (the weeping child)**. A voice answered that ***you can't save them all*** and that ***knights cannot be controlled by emotion*** — and the **child vanished.** The emotional pull was the trap; Duty is judgment, not response to the loudest grief. (session 02)
+- They then opened the **second door** ("soldiers beg for orders"), finding a **gravely injured goblin**; the party **killed it**, and the **next door opened** — apparently satisfying the Duty test and granting passage onward. (session 02)
+- The third room, **"Sacrifice,"** holds **three altars** labeled **BLOOD**, **MEMORY**, and **BURDEN**, with the words: ***"No oath is sworn without cost."*** — swearing the oath demands a price. (session 02)
 
 ## Open questions
 - Whose is the voice — Garreck, the "Marshal," or an oath-keeper spirit/construct bound to the hall?
 - Whose sword is "entrusted" on the altar, and to whom? (Garreck's own?)
 - Does Vaelor reclaim his sword, or is it now an offering left behind?
-- **Duty's judgment:** opening the weeping-child door drew the rebuke ("you can't save them all"; "knights can't be controlled by emotion"). Did this fail or complete the test — and was the intended answer the **soldiers begging for orders** (command over grief)?
+- **Duty — resolved:** the way opened after the party dispatched the **gravely injured goblin** behind the second door (the unsentimental judgment call), having first learned not to be ruled by the weeping child. Was the goblin a real foe, a mercy, or another construct?
 - The weeping child **vanished** when its door opened — apparently a construct of the test, so probably *not* the literal child reportedly "kept in the tower" (the "Crit Happens" chat thread remains separate/unconfirmed).
-- What does the **Sacrifice** room test, and what lies beyond passing all three?
+- **Sacrifice:** the oath's price — which altar (**Blood**, **Memory**, or **Burden**) does the party pay at, and who bears the cost? What lies beyond, once all three virtues are met?
 - Is this where the Knights of Solamnia who guarded the archive were sworn in?
 
 ## See also
