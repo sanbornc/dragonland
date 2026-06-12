@@ -21,6 +21,7 @@ archive**.
 - The **Solamnic Officer's Compass** points toward the deepest part of the complex while underground. (`wiki/items/solamnic-officers-compass.md`)
 - The site's surface structure is **the tower** the party has now entered; its centuries-dead Solamnic guardian, **Sir Garreck**, is leading them down — and he says he is **not** the rumored "Marshal." (session 02)
 - On the **third floor down**, past the Hall of Oaths, the party found where a **goblin warband had tunneled in** — **nearly all dead.** A lone **near-dead survivor** gasped a warning about "the Marshal" before fading. Something below keeps killing intruders (as it did the Black Banners' survey teams). (session 02; see `wiki/npcs/the-marshal.md`)
+- The party reached the **archive** itself, finding a **near-dead Black Banner woman soldier** — her squad was **attacked by the Marshal the moment they began to loot**; a **few scrolls** lie beside her. (session 02)
 
 ## Open questions
 - Where is the site? (Possibly tied to Solace's "not all relics stay buried" and the map-scrap's "old stones?" near Solace — unconfirmed. Could it be the unspoken site "X.T."?)

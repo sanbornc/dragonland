@@ -68,6 +68,10 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   `wiki/npcs/the-marshal.md`.
 - Forewarned, the party **descends past the third floor toward the Marshal
   below.** See `wiki/npcs/the-marshal.md`.
+- The party reaches the **archive**, finding a **near-dead Black Banner woman
+  soldier** — her squad was **attacked by the Marshal when they started looting**;
+  a few **scrolls** lie beside her. See `wiki/locations/the-excavation-site.md` and
+  `wiki/npcs/the-marshal.md`.
 
 ## New facts learned
 
@@ -121,6 +125,11 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - A near-dead goblin's warning about **the Marshal**: he ***"walks below and he
   knows when you lie. Just don't answer when he asks what your post is."*** —
   `wiki/npcs/the-marshal.md`
+- **In the archive:** a **near-dead Black Banner woman soldier**; her group was
+  **attacked by the Marshal the moment they began to loot.** A few **scrolls** lie
+  beside her. — `wiki/locations/the-excavation-site.md`
+- **The Marshal attacks looters** — taking from the archive triggers him (echoing
+  "a knight does not take what is entrusted"). — `wiki/npcs/the-marshal.md`
 
 ## Loose threads
 
@@ -154,3 +163,6 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - **The Marshal's challenge:** he asks "what is your post?" and detects lies; the
   goblin's advice is *don't answer*. How will the party handle the encounter? —
   `wiki/npcs/the-marshal.md`
+- Do the party **heal or question the dying Black Banner woman** — and what are the
+  **scrolls** beside her (sealed archive records, or her own)? —
+  `wiki/locations/the-excavation-site.md`
