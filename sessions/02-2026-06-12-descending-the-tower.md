@@ -31,6 +31,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - Beside the altar lies a **dead scout in Black Banner gear**, one hand reaching
   toward the sword — one of the Black Banners' lost expedition. See
   `wiki/locations/hall-of-oaths.md`.
+- As they enter, a voice intones: ***"A knight does not take what is entrusted."***
+  — framing the Honor test as restraint; the dead scout reached for the sword
+  anyway. See `wiki/locations/hall-of-oaths.md`.
 
 ## New facts learned
 
@@ -52,6 +55,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   `wiki/locations/hall-of-oaths.md`
 - A **dead Black Banner scout** lies in the Honor room, hand reaching for the
   altar sword — the Black Banners' expedition reached this far and died here. —
+  `wiki/locations/hall-of-oaths.md`
+- The Honor room's test, spoken by a voice on entry: ***"A knight does not take
+  what is entrusted."*** — the sword is not to be taken. —
   `wiki/locations/hall-of-oaths.md`
 
 ## Loose threads
