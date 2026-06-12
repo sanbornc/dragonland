@@ -15,6 +15,7 @@ of Solamnia site of oath-taking.
 - Above its door, a sign reads **"HONOR. DUTY. SACRIFICE."** (session 02)
 - On entering, a **disembodied voice asked candidates for knighthood to step forward.** (session 02)
 - The party reached it while descending the tower with Sir Garreck toward the archive. (session 02)
+- The hall is divided into rooms, apparently one per virtue; the party entered **the first room, labeled "Honor."** (session 02)
 
 ## Open questions
 - Whose is the voice — Garreck, the "Marshal," or an oath-keeper spirit/construct bound to the hall?

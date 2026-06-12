@@ -24,6 +24,8 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - Descending further, the party reaches the **Hall of Oaths**. A sign above the
   door reads **"HONOR. DUTY. SACRIFICE."**; as they enter, a voice calls for
   **candidates for knighthood to step forward.** See `wiki/locations/hall-of-oaths.md`.
+- The hall opens into rooms named for the virtues; the party enters the **first
+  room, labeled "Honor."** See `wiki/locations/hall-of-oaths.md`.
 
 ## New facts learned
 
@@ -39,6 +41,8 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - **The Hall of Oaths** — a Solamnic oath-hall below the tower, marked
   **"HONOR. DUTY. SACRIFICE."**; a voice within summons candidates for
   knighthood. — `wiki/locations/hall-of-oaths.md`
+- The Hall of Oaths is divided into virtue-rooms; the **first is labeled
+  "Honor."** — `wiki/locations/hall-of-oaths.md`
 
 ## Loose threads
 
