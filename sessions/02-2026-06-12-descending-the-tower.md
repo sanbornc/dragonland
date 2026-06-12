@@ -42,6 +42,10 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   behind the first, **someone cries for help**; behind the second, **soldiers beg
   for orders**; behind the third, **a child weeps alone in the dark.** A test of
   judgment over which to answer. See `wiki/locations/hall-of-oaths.md`.
+- The party opens the **child's door**. A voice rebukes them — ***"you can't save
+  them all,"*** and **knights cannot be controlled by emotion** — and **the child
+  disappears.** Duty is judgment, not the pull of the loudest grief. See
+  `wiki/locations/hall-of-oaths.md`.
 
 ## New facts learned
 
@@ -73,6 +77,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - The **Duty** test (***"Duty is not noise. Duty is judgment."***): three doors —
   a cry for help, soldiers begging for orders, and a child weeping alone in the
   dark. — `wiki/locations/hall-of-oaths.md`
+- **Duty — the child's door:** opening it drew the lesson that **"you can't save
+  them all"** and that **knights cannot be controlled by emotion**; the **child
+  vanished** (a test construct). — `wiki/locations/hall-of-oaths.md`
 
 ## Loose threads
 
@@ -89,6 +96,6 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   steps forward as a candidate for knighthood? — `wiki/locations/hall-of-oaths.md`
 - Does Vaelor reclaim his sword, and what does the **Sacrifice** room demand? —
   `wiki/locations/hall-of-oaths.md`
-- **Duty's judgment:** which door is right — the cry for help, the soldiers
-  begging for orders, or the weeping child? And does that **weeping child** tie to
-  the "child in the tower" question? — `wiki/locations/hall-of-oaths.md`
+- **Duty:** the child's door rebuked them ("you can't save them all"; "knights
+  can't be controlled by emotion") and the child vanished — did they pass, and was
+  the soldiers'-orders door the intended answer? — `wiki/locations/hall-of-oaths.md`
