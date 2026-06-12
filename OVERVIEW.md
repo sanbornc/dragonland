@@ -9,7 +9,10 @@ east under unmarked **black banners**; a **Queen**'s forces are expected to
 march; and a traveling circus run by **the Ringmaster** has been smuggling
 "special cargo" along the old roads. Recovered pages from the Ringmaster's
 locked wagon hint at trafficked "miracle-bearers," buried relics, and a
-sought-after **Staff** that "must not reach X.T."
+sought-after **Staff** that "must not reach X.T." A brittle parchment recovered
+beneath an old Solamnic tower now ties it all to a darker omen: a **prophecy of
+the return of dragons**, with "iron … beneath black banners" among its signs.
+See `wiki/lore/the-dragon-prophecy.md`.
 
 ## The Party
 
@@ -53,6 +56,9 @@ toward the records the Black Banners are hunting — see
 
 - **The gathering war** — unmarked black-banner armies massing eastward.
   See `wiki/factions/black-banners.md`.
+- **The dragon prophecy** — a recovered parchment foretells the return of
+  dragons, naming the black banners among its signs. See
+  `wiki/lore/the-dragon-prophecy.md`.
 - **The buried archive** — the Black Banners are digging out a pre-Cataclysm
   military archive beneath an old watch station, guarded above by patrols and
   below by the patrolling dead. The party recovered a patrol's papers and named

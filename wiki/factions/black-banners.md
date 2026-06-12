@@ -17,10 +17,12 @@ first-learned: recovered documents
 - That dig has stalled underground — survey teams lost to patrolling undead and a rumored "Marshal." (`wiki/documents/captain-vareks-papers.md`)
 - The archive has an **ancient guardian**: **Sir Garreck**, a **Knight of Solamnia** dead for centuries — though he says he is *not* the "Marshal," so a separate figure still haunts the depths. (session 02)
 - Their guards' standing orders for the dig (recovered session 02): secure the lower entrance; recover/preserve all **sealed archive records, military ledgers, ruin surveys, and sealed correspondence**; **avoid the local dead unless obstructed**; report findings to command. (`wiki/documents/black-banner-guard-orders.md`)
+- A recovered prophecy names them directly: **"Iron will march beneath black banners"** — listed among the signs of a foretold **return of dragons.** (`wiki/lore/the-dragon-prophecy.md`)
 
 ## Open questions
 - Are they tied to the Queen? How high above Commander S. Valane does the chain go?
 - Is recovering buried pre-Cataclysm knowledge their wider war objective, or just this one operation?
+- Are they tied to the foretold **return of dragons** — fulfilling the prophecy, preventing it, or serving it? (`wiki/lore/the-dragon-prophecy.md`)
 - What do the five claw-like slashes signify?
 
 ## See also

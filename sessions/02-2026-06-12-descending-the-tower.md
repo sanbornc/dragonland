@@ -84,6 +84,12 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - The party gains the **Blessing of the Oathbound** — **advantage on social
   interactions with dead Solamnic knights.** See
   `wiki/items/blessing-of-the-oathbound.md`.
+- In the archive they recover a **brittle parchment** bearing a prophecy of the
+  **return of dragons** — naming the **black banners** among its signs ("Iron will
+  march beneath black banners… the world shall learn again to fear dragons"). See
+  `wiki/documents/dragon-prophecy-parchment.md`.
+- They also find a **sheet with a hand-sketched sigil of the Knights of Solamnia.**
+  See `wiki/factions/knights-of-solamnia.md`.
 
 ## New facts learned
 
@@ -152,6 +158,11 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   Garreck's did). — `wiki/npcs/the-marshal.md`
 - **Boon — Blessing of the Oathbound:** advantage on social interactions with
   **dead Solamnic knights.** — `wiki/items/blessing-of-the-oathbound.md`
+- **Recovered: the Dragon Prophecy** — a parchment foretelling dragons' return,
+  explicitly naming the **Black Banners** ("iron will march beneath black
+  banners"). — `wiki/lore/the-dragon-prophecy.md`
+- Recovered a **hand-sketched sigil of the Knights of Solamnia.** —
+  `wiki/factions/knights-of-solamnia.md`
 
 ## Loose threads
 
@@ -193,3 +204,6 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - Does the **Blessing of the Oathbound** cover the whole party or only the
   oathbound — does **Renob**, who abstained at the Sacrifice altars, get it? —
   `wiki/items/blessing-of-the-oathbound.md`
+- The **Dragon Prophecy** ties the Black Banners to a foretold return of dragons —
+  are they fulfilling it, preventing it, or pawns of it? —
+  `wiki/lore/the-dragon-prophecy.md`
