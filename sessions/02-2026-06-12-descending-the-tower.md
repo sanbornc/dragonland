@@ -1,7 +1,7 @@
 ---
 session: 02
 date: 2026-06-12
-players-present: [Charlie (Boilerdang); others TBC — Ryan (Pip) out]
+players-present: [Charlie (Boilerdang), Jason (Vaelor); others TBC — Ryan (Pip) out]
 dm: Jeremy Maughan (adventure designed with his assistant GM)
 ---
 
@@ -34,6 +34,10 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - As they enter, a voice intones: ***"A knight does not take what is entrusted."***
   — framing the Honor test as restraint; the dead scout reached for the sword
   anyway. See `wiki/locations/hall-of-oaths.md`.
+- The altar had an **empty slot** beside the sword. **Vaelor placed his own sword
+  there** — answering the riddle by *giving* rather than taking — and the party
+  **passes the Honor test**, proceeding to the second room, **Duty.** See
+  `wiki/locations/hall-of-oaths.md`.
 
 ## New facts learned
 
@@ -59,6 +63,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - The Honor room's test, spoken by a voice on entry: ***"A knight does not take
   what is entrusted."*** — the sword is not to be taken. —
   `wiki/locations/hall-of-oaths.md`
+- **Honor test passed:** an **empty slot** sat beside the altar sword; **Vaelor
+  placed his sword** in it (giving, not taking). The party moves on to the
+  **Duty** room. — `wiki/locations/hall-of-oaths.md`
 
 ## Loose threads
 
@@ -73,3 +80,5 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   — `wiki/quests/the-buried-archive.md`
 - Who is the voice in the **Hall of Oaths**, and what happens if a party member
   steps forward as a candidate for knighthood? — `wiki/locations/hall-of-oaths.md`
+- Does Vaelor reclaim his sword, and what do the **Duty** and **Sacrifice** rooms
+  demand? — `wiki/locations/hall-of-oaths.md`

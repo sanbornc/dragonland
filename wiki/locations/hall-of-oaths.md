@@ -19,12 +19,14 @@ of Solamnia site of oath-taking.
 - At the **center of the "Honor" room, a knight's sword lies on an altar.** (session 02)
 - Beside the altar lies a **dead scout in Black Banner gear, one hand reaching toward the sword** — apparently a member of the Black Banners' lost expedition who died reaching for it. (session 02)
 - On entering, a voice intoned: ***"A knight does not take what is entrusted."*** — framing the Honor test as one of **restraint**: the sword is not to be taken, and the dead scout reached for it anyway. (session 02)
+- **The party passed by giving, not taking:** there was an **empty slot beside the altar sword**, and **Vaelor placed his own sword** in it. (session 02)
+- Beyond Honor, the hall continues to a second room, **"Duty,"** which the party proceeds to next. (session 02)
 
 ## Open questions
 - Whose is the voice — Garreck, the "Marshal," or an oath-keeper spirit/construct bound to the hall?
-- What happens to one who steps forward — a trial, a blessing, a binding, or a trap?
-- The Honor test appears to be **restraint** ("a knight does not take what is entrusted") — the right move seems to be to leave the sword. What reward or passage does passing it grant?
-- Whose sword is "entrusted" here, and to whom? (Garreck's own?)
+- Whose sword is "entrusted" on the altar, and to whom? (Garreck's own?)
+- Does Vaelor reclaim his sword, or is it now an offering left behind?
+- What do the **Duty** and **Sacrifice** rooms test, and what lies beyond passing all three?
 - Is this where the Knights of Solamnia who guarded the archive were sworn in?
 
 ## See also
