@@ -26,6 +26,8 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   **candidates for knighthood to step forward.** See `wiki/locations/hall-of-oaths.md`.
 - The hall opens into rooms named for the virtues; the party enters the **first
   room, labeled "Honor."** See `wiki/locations/hall-of-oaths.md`.
+- At the center of the Honor room, a **knight's sword rests on an altar.** See
+  `wiki/locations/hall-of-oaths.md`.
 
 ## New facts learned
 
@@ -43,6 +45,8 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   knighthood. — `wiki/locations/hall-of-oaths.md`
 - The Hall of Oaths is divided into virtue-rooms; the **first is labeled
   "Honor."** — `wiki/locations/hall-of-oaths.md`
+- The **Honor** room holds a **knight's sword on an altar** at its center. —
+  `wiki/locations/hall-of-oaths.md`
 
 ## Loose threads
 
