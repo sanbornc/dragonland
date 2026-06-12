@@ -78,6 +78,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   red.** See `wiki/npcs/the-marshal.md`.
 - The party **fails to convince the Marshal** to stand down; he **attacks** —
   battle is joined. See `wiki/npcs/the-marshal.md`.
+- **Mid-fight, the party persuades the Marshal** that **he is dead**, that **the
+  archive survived long enough**, and that **his duty is fulfilled** — ending his
+  watch and releasing him (as they freed Garreck). See `wiki/npcs/the-marshal.md`.
 
 ## New facts learned
 
@@ -141,6 +144,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   cried **"Intruders!"** and the flames **turned red.** — `wiki/npcs/the-marshal.md`
 - The attempt to **release/convince the Marshal failed**; he **attacked** the
   party — combat begins. — `wiki/npcs/the-marshal.md`
+- **The Marshal released:** persuaded mid-combat that he was dead, the archive had
+  survived long enough, and his **duty was fulfilled** — his watch ended (as
+  Garreck's did). — `wiki/npcs/the-marshal.md`
 
 ## Loose threads
 
@@ -177,6 +183,5 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - Do the party **heal or question the dying Black Banner woman** — and what are the
   **scrolls** beside her (sealed archive records, or her own)? —
   `wiki/locations/the-excavation-site.md`
-- Talking the **Marshal** down failed and he attacked — is there still a way to
-  release him from his watch (a true name? proof the war is over?), or must he be
-  put down? — `wiki/npcs/the-marshal.md`
+- The **Marshal** was freed (convinced his duty was done) — does the archive now
+  open to the party, and does he leave anything behind? — `wiki/npcs/the-marshal.md`

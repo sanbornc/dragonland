@@ -21,12 +21,11 @@ Sir Garreck,** who explicitly says he is not the Marshal.
 - **Appearance:** a knight in **black, tainted (corrupted) armor**, with **blue flames crackling behind the armor.** When he deemed the party intruders, the flames **turned from blue to red.** (session 02)
 - **Garreck confronted him**, declaring **"the watch is ended"** — apparently trying to release the Marshal from his eternal watch. The Marshal rejected it, shouted **"Intruders!"**, and the flames went red. (session 02)
 - The party tried to **talk him down**, but **failed to convince him** — the Marshal **attacked.** Words alone did not release him. (session 02)
+- **Released mid-fight:** during the battle the party persuaded him that **he was dead**, that **the archive had survived long enough**, and that **his duty had been fulfilled** — ending his watch and freeing him (as they had freed Garreck). (session 02)
 
 ## Open questions
-- What is he — a Solamnic revenant/warden, the will animating the patrolling dead, or something else? (His tainted armor and "the watch" suggest a fallen knight, like a corrupted mirror of Garreck.)
-- What happens if you answer truthfully, lie, or stay silent to "what is your post?"
-- Does refraining from looting (and not answering his challenge) let you pass unharmed?
-- Can he be **released** from his watch — as the party freed Garreck — or only fought? Is the **black, tainted armor** the mark of a fall: "duty without mercy becomes damnation"?
+- What was he in life — a fallen Knight of Solamnia, set to watch the archive and corrupted by an endless duty ("duty without mercy becomes damnation")?
+- What happens if you answer truthfully, lie, or stay silent to "what is your post?" (Now moot — he is at rest.)
 - Is he the one who killed the Black Banner survey teams and the goblin warband?
 
 ## See also
