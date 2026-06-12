@@ -1,7 +1,7 @@
 ---
 session: 02
 date: 2026-06-12
-players-present: [Charlie (Boilerdang), Jason (Vaelor); others TBC — Ryan (Pip) out]
+players-present: [Charlie (Boilerdang), Jason (Vaelor), Chris (Renob); others TBC — Ryan (Pip) out]
 dm: Jeremy Maughan (adventure designed with his assistant GM)
 ---
 
@@ -52,6 +52,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - The third room, **Sacrifice**, holds **three altars** — **BLOOD**, **MEMORY**,
   **BURDEN** — and the words ***"No oath is sworn without cost."*** The oath
   demands a price. See `wiki/locations/hall-of-oaths.md`.
+- At the Sacrifice altars, **each party member pays a price at one of the three —
+  except Renob**, who takes no altar and pays nothing. See
+  `wiki/locations/hall-of-oaths.md`.
 
 ## New facts learned
 
@@ -90,6 +93,8 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   party killed it and the **next door opened**. — `wiki/locations/hall-of-oaths.md`
 - The **Sacrifice** room: three altars — **BLOOD. MEMORY. BURDEN.** — and ***"No
   oath is sworn without cost."*** — `wiki/locations/hall-of-oaths.md`
+- **Every party member paid a price at one of the altars except Renob**, who paid
+  none. — `wiki/locations/hall-of-oaths.md`
 
 ## Loose threads
 
@@ -109,6 +114,7 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - **Duty (advanced):** after the child-door lesson, the second door held a gravely
   injured goblin; killing it opened the way onward. Was the goblin real, a mercy,
   or a construct? — `wiki/locations/hall-of-oaths.md`
-- **Sacrifice:** "no oath is sworn without cost" — which altar (**Blood**,
-  **Memory**, or **Burden**) does the party pay at, who bears it, and what does
-  swearing the oath grant? — `wiki/locations/hall-of-oaths.md`
+- **Sacrifice (paid):** each member paid at one of Blood/Memory/Burden except
+  **Renob**, who paid nothing. What did each give up, what does the sworn oath
+  grant — and does Renob's abstention cost him, or spare him? —
+  `wiki/locations/hall-of-oaths.md`

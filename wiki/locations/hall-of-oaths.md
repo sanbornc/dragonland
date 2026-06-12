@@ -25,6 +25,7 @@ of Solamnia site of oath-taking.
 - The party opened the **third door (the weeping child)**. A voice answered that ***you can't save them all*** and that ***knights cannot be controlled by emotion*** — and the **child vanished.** The emotional pull was the trap; Duty is judgment, not response to the loudest grief. (session 02)
 - They then opened the **second door** ("soldiers beg for orders"), finding a **gravely injured goblin**; the party **killed it**, and the **next door opened** — apparently satisfying the Duty test and granting passage onward. (session 02)
 - The third room, **"Sacrifice,"** holds **three altars** labeled **BLOOD**, **MEMORY**, and **BURDEN**, with the words: ***"No oath is sworn without cost."*** — swearing the oath demands a price. (session 02)
+- **Each party member paid at one of the three altars — except Renob,** who took no altar and **paid no price.** (Which altar each chose, and what each gave up, isn't yet recorded.) (session 02)
 
 ## Open questions
 - Whose is the voice — Garreck, the "Marshal," or an oath-keeper spirit/construct bound to the hall?
@@ -32,7 +33,8 @@ of Solamnia site of oath-taking.
 - Does Vaelor reclaim his sword, or is it now an offering left behind?
 - **Duty — resolved:** the way opened after the party dispatched the **gravely injured goblin** behind the second door (the unsentimental judgment call), having first learned not to be ruled by the weeping child. Was the goblin a real foe, a mercy, or another construct?
 - The weeping child **vanished** when its door opened — apparently a construct of the test, so probably *not* the literal child reportedly "kept in the tower" (the "Crit Happens" chat thread remains separate/unconfirmed).
-- **Sacrifice:** the oath's price — which altar (**Blood**, **Memory**, or **Burden**) does the party pay at, and who bears the cost? What lies beyond, once all three virtues are met?
+- **Sacrifice:** which altar did each member pay at (**Blood**, **Memory**, or **Burden**), and what did each give up? What are the consequences — for those who paid, and for **Renob**, who paid nothing?
+- What lies beyond the Hall, now that the oath is sworn by all but Renob?
 - Is this where the Knights of Solamnia who guarded the archive were sworn in?
 
 ## See also
