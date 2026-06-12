@@ -19,7 +19,7 @@ See [The Dragon Prophecy](wiki/lore/the-dragon-prophecy.md).
 The party is a band of professional hunters who call themselves
 **"Boilerdang and his Biatches,"** led by Boilerdang Criddlycrotch.
 
-- **Boilerdang Criddlycrotch** — Human Cleric 6 (Life Domain), the party's
+- **Boilerdang Criddlycrotch** — Human Cleric 7 (Life Domain), the party's
   leader. See [Boilerdang Criddlycrotch](wiki/characters/boilerdang-criddlycrotch.md).
 - **Renob "The Stabinator"** — Dwarf Fighter 7 (Champion), Chris's character.
   See [Renob The Stabinator](wiki/characters/renob.md).
