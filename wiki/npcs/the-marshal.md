@@ -20,6 +20,7 @@ Sir Garreck,** who explicitly says he is not the Marshal.
 - He **attacks intruders who loot**: a near-dead Black Banner survivor in the archive reported her squad was set upon by the Marshal **the moment they began looting** — taking from the archive seems to trigger him, echoing the Honor lesson, "a knight does not take what is entrusted." (session 02)
 - **Appearance:** a knight in **black, tainted (corrupted) armor**, with **blue flames crackling behind the armor.** When he deemed the party intruders, the flames **turned from blue to red.** (session 02)
 - **Garreck confronted him**, declaring **"the watch is ended"** — apparently trying to release the Marshal from his eternal watch. The Marshal rejected it, shouted **"Intruders!"**, and the flames went red. (session 02)
+- The party tried to **talk him down**, but **failed to convince him** — the Marshal **attacked.** Words alone did not release him. (session 02)
 
 ## Open questions
 - What is he — a Solamnic revenant/warden, the will animating the patrolling dead, or something else? (His tainted armor and "the watch" suggest a fallen knight, like a corrupted mirror of Garreck.)
