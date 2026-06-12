@@ -8,7 +8,7 @@ first-learned: session 01
 
 ## What we know
 - A whistle the party carries, brought forward from the Crimson Circus arc.
-  (`sessions/01-2026-06-02-crimson-circus-crossover.md`)
+  ([Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md))
 - Gained a **Bloodmoon Charm** upgrade during the bridge session, adding 1/day
   **Hunter's Lure**: one beast, wolf, or werewolf within 60 ft that can hear the
   whistle makes a DC 14 Wisdom save or must use its next movement to move toward
@@ -20,4 +20,4 @@ first-learned: session 01
   carries it?
 
 ## See also
-- `wiki/lore/the-crimson-circus.md` · `wiki/items/party-wagon.md`
+- [The Crimson Circus](../lore/the-crimson-circus.md) · [Party Wagon](party-wagon.md)

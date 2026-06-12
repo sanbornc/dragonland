@@ -23,6 +23,6 @@ first-learned: recovered documents
 *black banners seen after dusk*
 
 ## Clues surfaced to the wiki
-- `wiki/factions/black-banners.md` · `wiki/locations/haven.md`
-- `wiki/locations/the-old-road.md` · `wiki/locations/solace.md`
-- `wiki/lore/the-gathering-war.md`
+- [Black Banners](../factions/black-banners.md) · [Haven](../locations/haven.md)
+- [The Old Road](../locations/the-old-road.md) · [Solace](../locations/solace.md)
+- [The Gathering War](../lore/the-gathering-war.md)

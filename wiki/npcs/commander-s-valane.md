@@ -13,15 +13,15 @@ A senior **Black Banner** commander, known so far only by the signature
 in the Black Banner chain of command.
 
 ## What we know
-- Commands at least the operation at the excavation site; Captain Varek reported to them. (`wiki/documents/captain-vareks-papers.md`)
-- Driven by recovering **knowledge, not wealth or relics**: "We are searching for knowledge. The old kingdoms buried more than treasure." (`wiki/documents/captain-vareks-papers.md`)
-- Ruthless about priorities — if resistance is met, surviving records come first: "Lives are expendable. Records are not." (`wiki/documents/captain-vareks-papers.md`)
-- Denied "Survey Team Three" an extraction, holding "archive priority" unchanged despite reports of danger below. (`wiki/documents/captain-vareks-papers.md`)
+- Commands at least the operation at the excavation site; Captain Varek reported to them. ([Captain Varek's Papers](../documents/captain-vareks-papers.md))
+- Driven by recovering **knowledge, not wealth or relics**: "We are searching for knowledge. The old kingdoms buried more than treasure." ([Captain Varek's Papers](../documents/captain-vareks-papers.md))
+- Ruthless about priorities — if resistance is met, surviving records come first: "Lives are expendable. Records are not." ([Captain Varek's Papers](../documents/captain-vareks-papers.md))
+- Denied "Survey Team Three" an extraction, holding "archive priority" unchanged despite reports of danger below. ([Captain Varek's Papers](../documents/captain-vareks-papers.md))
 
 ## Open questions
 - Full name, place in the wider Black Banner hierarchy, and whether they answer to the Queen.
 - On-site, or commanding from a distance?
 
 ## See also
-- `wiki/npcs/captain-varek.md` · `wiki/factions/black-banners.md` · `wiki/npcs/the-queen.md`
-- `wiki/documents/captain-vareks-papers.md`
+- [Captain Varek](captain-varek.md) · [Black Banners](../factions/black-banners.md) · [The Queen](the-queen.md)
+- [Captain Varek's Papers](../documents/captain-vareks-papers.md)

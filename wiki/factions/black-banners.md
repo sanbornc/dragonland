@@ -7,26 +7,26 @@ first-learned: recovered documents
 ---
 
 ## What we know
-- Armies "gathering eastward" under plain black banners with "no heraldry [the Ringmaster] knows." (`wiki/documents/ringmasters-ledger-roads-payments.md`)
-- Too large to be a "border dispute" — "too many boots." (`wiki/documents/ringmasters-ledger-roads-payments.md`)
-- "Seen after dusk." (`wiki/documents/ringmasters-ledger-roads-payments.md`)
-- Their soldiers are not to be trusted — "they promise protection like wolves promise mercy"; sell only for silver paid up front. (`wiki/documents/ringmasters-ledger-roads-payments.md`)
-- They **do** have an insignia after all: an officer's signet ring shows a **black field marked by five claw-like slashes**. (`wiki/items/black-banner-signet-ring.md`)
-- They have a military command structure — **Commander S. Valane** issues orders to field officers like **Captain Varek**. (`wiki/documents/captain-vareks-papers.md`)
-- At least one operation is **archaeological**: securing an excavation over a buried **pre-Cataclysm military archive**, recovering "knowledge, not wealth or relics." They prize records above lives ("Lives are expendable. Records are not.") and bar all outsiders. (`wiki/documents/captain-vareks-papers.md`)
-- That dig has stalled underground — survey teams lost to patrolling undead and a rumored "Marshal." (`wiki/documents/captain-vareks-papers.md`)
+- Armies "gathering eastward" under plain black banners with "no heraldry [the Ringmaster] knows." ([Ringmaster's Ledger — Roads / Payments / Witnesses](../documents/ringmasters-ledger-roads-payments.md))
+- Too large to be a "border dispute" — "too many boots." ([Ringmaster's Ledger — Roads / Payments / Witnesses](../documents/ringmasters-ledger-roads-payments.md))
+- "Seen after dusk." ([Ringmaster's Ledger — Roads / Payments / Witnesses](../documents/ringmasters-ledger-roads-payments.md))
+- Their soldiers are not to be trusted — "they promise protection like wolves promise mercy"; sell only for silver paid up front. ([Ringmaster's Ledger — Roads / Payments / Witnesses](../documents/ringmasters-ledger-roads-payments.md))
+- They **do** have an insignia after all: an officer's signet ring shows a **black field marked by five claw-like slashes**. ([Black Banner Signet Ring](../items/black-banner-signet-ring.md))
+- They have a military command structure — **Commander S. Valane** issues orders to field officers like **Captain Varek**. ([Captain Varek's Papers](../documents/captain-vareks-papers.md))
+- At least one operation is **archaeological**: securing an excavation over a buried **pre-Cataclysm military archive**, recovering "knowledge, not wealth or relics." They prize records above lives ("Lives are expendable. Records are not.") and bar all outsiders. ([Captain Varek's Papers](../documents/captain-vareks-papers.md))
+- That dig has stalled underground — survey teams lost to patrolling undead and a rumored "Marshal." ([Captain Varek's Papers](../documents/captain-vareks-papers.md))
 - The archive has an **ancient guardian**: **Sir Garreck**, a **Knight of Solamnia** dead for centuries — though he says he is *not* the "Marshal," so a separate figure still haunts the depths. (session 02)
-- Their guards' standing orders for the dig (recovered session 02): secure the lower entrance; recover/preserve all **sealed archive records, military ledgers, ruin surveys, and sealed correspondence**; **avoid the local dead unless obstructed**; report findings to command. (`wiki/documents/black-banner-guard-orders.md`)
-- A recovered prophecy names them directly: **"Iron will march beneath black banners"** — listed among the signs of a foretold **return of dragons.** (`wiki/lore/the-dragon-prophecy.md`)
-- They **subcontracted a goblin warband** as expendable diggers: goblin orders read "DIG HERE / FIND RECORDS / DON'T BREAK / BURN / EAT RECORDS / REPORT TO HUMAN CAPTAIN," and a pay chit marks "Squad Three / Surface Security." (`wiki/documents/goblin-camp-finds.md`)
+- Their guards' standing orders for the dig (recovered session 02): secure the lower entrance; recover/preserve all **sealed archive records, military ledgers, ruin surveys, and sealed correspondence**; **avoid the local dead unless obstructed**; report findings to command. ([Black Banner Guard Orders](../documents/black-banner-guard-orders.md))
+- A recovered prophecy names them directly: **"Iron will march beneath black banners"** — listed among the signs of a foretold **return of dragons.** ([The Dragon Prophecy](../lore/the-dragon-prophecy.md))
+- They **subcontracted a goblin warband** as expendable diggers: goblin orders read "DIG HERE / FIND RECORDS / DON'T BREAK / BURN / EAT RECORDS / REPORT TO HUMAN CAPTAIN," and a pay chit marks "Squad Three / Surface Security." ([Goblin Camp Finds](../documents/goblin-camp-finds.md))
 
 ## Open questions
 - Are they tied to the Queen? How high above Commander S. Valane does the chain go?
 - Is recovering buried pre-Cataclysm knowledge their wider war objective, or just this one operation?
-- Are they tied to the foretold **return of dragons** — fulfilling the prophecy, preventing it, or serving it? (`wiki/lore/the-dragon-prophecy.md`)
+- Are they tied to the foretold **return of dragons** — fulfilling the prophecy, preventing it, or serving it? ([The Dragon Prophecy](../lore/the-dragon-prophecy.md))
 - What do the five claw-like slashes signify?
 
 ## See also
-- `wiki/npcs/commander-s-valane.md` · `wiki/npcs/captain-varek.md` · `wiki/npcs/the-queen.md`
-- `wiki/documents/captain-vareks-papers.md` · `wiki/documents/black-banner-guard-orders.md`
-- `wiki/lore/the-gathering-war.md` · `wiki/locations/the-excavation-site.md` · `wiki/quests/the-buried-archive.md`
+- [Commander S. Valane](../npcs/commander-s-valane.md) · [Captain Varek](../npcs/captain-varek.md) · [The Queen](../npcs/the-queen.md)
+- [Captain Varek's Papers](../documents/captain-vareks-papers.md) · [Black Banner Guard Orders](../documents/black-banner-guard-orders.md)
+- [The Gathering War](../lore/the-gathering-war.md) · [The Excavation Site](../locations/the-excavation-site.md) · [The Buried Archive](../quests/the-buried-archive.md)

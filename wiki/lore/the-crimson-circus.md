@@ -9,7 +9,7 @@ first-learned: session 01
 ## What we know
 - **The Crimson Circus** was the party's previous mini-campaign; Dragonland
   follows directly from it, bridged by the 2026-06-02 session.
-  (`sessions/01-2026-06-02-crimson-circus-crossover.md`)
+  ([Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md))
 - Much of the party's circus-themed gear comes from this arc: the Ringmaster's
   Crimson Cane, the Shadow-Stained Cloak, the Calliope Shard, the Ringmaster's
   Final Ticket, and the Wolfcall Whistle. (session 01)
@@ -29,6 +29,6 @@ first-learned: session 01
 - How does the lycanthropy thread carry into Dragonland?
 
 ## See also
-- `wiki/npcs/the-ringmaster.md`
-- `wiki/items/calliope-shard.md` · `wiki/items/ringmasters-crimson-cane.md` · `wiki/items/wolfcall-whistle.md` · `wiki/items/ringmasters-final-ticket.md` · `wiki/items/shadow-stained-cloak.md`
-- `wiki/documents/ringmasters-ledger-special-cargo.md`
+- [The Ringmaster](../npcs/the-ringmaster.md)
+- [Calliope Shard](../items/calliope-shard.md) · [Ringmaster's Crimson Cane](../items/ringmasters-crimson-cane.md) · [Wolfcall Whistle](../items/wolfcall-whistle.md) · [Ringmaster's Final Ticket](../items/ringmasters-final-ticket.md) · [Shadow-Stained Cloak](../items/shadow-stained-cloak.md)
+- [Ringmaster's Ledger — Special Cargo / Things Not To Say](../documents/ringmasters-ledger-special-cargo.md)

@@ -17,7 +17,7 @@ Stamped:
 > Squad Three
 > Surface Security
 
-(Matches the dead Black Banner scout's unit — see `wiki/locations/hall-of-oaths.md`.)
+(Matches the dead Black Banner scout's unit — see [The Hall of Oaths](../locations/hall-of-oaths.md).)
 
 ## Crude Goblin Map
 A poorly drawn map showing:
@@ -36,5 +36,5 @@ Found in the goblin leader's tent, in terrible Common:
 > REPORT TO HUMAN CAPTAIN
 
 ## See also
-- `wiki/factions/black-banners.md` · `wiki/documents/captain-vareks-papers.md`
-- `wiki/locations/the-excavation-site.md` · `sessions/02-2026-06-12-descending-the-tower.md`
+- [Black Banners](../factions/black-banners.md) · [Captain Varek's Papers](captain-vareks-papers.md)
+- [The Excavation Site](../locations/the-excavation-site.md) · [Session 02 — Descending the Tower](../../sessions/02-2026-06-12-descending-the-tower.md)

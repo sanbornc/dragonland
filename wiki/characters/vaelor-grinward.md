@@ -33,7 +33,7 @@ his Biatches."**
 
 ## Gear
 - **Greataxe +1** (uncommon) — equipped main weapon (two-handed)
-- **Oathkeeper's Blade** (rare, +1 longsword) — gained session 02; 1/long rest, when an ally within 30 ft fails a save vs Fear/Charm/Frightened, let them reroll. See `wiki/items/oathkeepers-blade.md`.
+- **Oathkeeper's Blade** (rare, +1 longsword) — gained session 02; 1/long rest, when an ally within 30 ft fails a save vs Fear/Charm/Frightened, let them reroll. See [Oathkeeper's Blade](../items/oathkeepers-blade.md).
 - **Stone of Good Luck / Luckstone** (uncommon) — +1 to ability checks & saves
 - **Potion of Radiant Resistance** (uncommon)
 - Chain Mail, Shield, Longsword, 6× Javelin, Shortbow + 20 arrows, spare Greataxe
@@ -54,7 +54,7 @@ his Biatches."**
   belong to a different character/setting — confirm with Jason).
 
 ## See also
-- `OVERVIEW.md` — party roster
-- `wiki/items/oathkeepers-blade.md`
-- `sessions/01-2026-06-02-crimson-circus-crossover.md`
-- `sessions/02-2026-06-12-descending-the-tower.md`
+- [Dragonland — Campaign Overview](../../OVERVIEW.md) — party roster
+- [Oathkeeper's Blade](../items/oathkeepers-blade.md)
+- [Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md)
+- [Session 02 — Descending the Tower](../../sessions/02-2026-06-12-descending-the-tower.md)

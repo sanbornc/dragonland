@@ -52,5 +52,5 @@ TJ Smith's player character — a Tiefling Shadow-Magic Sorcerer and member of
 - Malix's backstory/personality.
 
 ## See also
-- `OVERVIEW.md` — party roster
-- `sessions/01-2026-06-02-crimson-circus-crossover.md`
+- [Dragonland — Campaign Overview](../../OVERVIEW.md) — party roster
+- [Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md)

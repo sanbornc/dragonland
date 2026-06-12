@@ -19,5 +19,5 @@ The relative positions match the torn map scrap: Haven and Solace lie to the
 west/north of the marked **X.T.** site.
 
 ## See also
-- `wiki/locations/haven.md` · `wiki/locations/solace.md` · `wiki/locations/x-t.md`
-- `wiki/documents/ringmasters-ledger-map-scrap.md`
+- [Haven](../locations/haven.md) · [Solace](../locations/solace.md) · [X.T.](../locations/x-t.md)
+- [Ringmaster's Ledger — Torn Map Scrap / Old Road](ringmasters-ledger-map-scrap.md)

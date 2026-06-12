@@ -32,7 +32,7 @@ and his Biatches."** Debuted in the Crimson Circus → Dragonland bridge session
 - Chain Mail; backup Greatsword, Flail, Sickle, 8× Javelin, 20× Caltrops
 - 2× Potion of Healing, Potion of Climbing, Healer's Kit
 - **Magic bone dice** (personal possession) — likely the "bone dice" from the
-  bridge-session merchant (`sessions/01-2026-06-02-crimson-circus-crossover.md`)
+  bridge-session merchant ([Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md))
 - Farmer/traveler kit: Carpenter's Tools, Cook's Utensils, Navigator's Tools,
   tent, rope, rations, torches, etc.
 
@@ -46,6 +46,6 @@ and his Biatches."** Debuted in the Crimson Circus → Dragonland bridge session
   they do.
 
 ## See also
-- `OVERVIEW.md` — party roster
-- `sessions/01-2026-06-02-crimson-circus-crossover.md`
-- `wiki/characters/boilerdang-criddlycrotch.md`
+- [Dragonland — Campaign Overview](../../OVERVIEW.md) — party roster
+- [Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md)
+- [Boilerdang Criddlycrotch](boilerdang-criddlycrotch.md)

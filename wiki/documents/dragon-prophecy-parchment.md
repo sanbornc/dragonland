@@ -19,5 +19,5 @@ A brittle parchment recovered from the buried archive beneath the tower
 > And the world shall learn again to fear dragons.
 
 ## See also
-- `wiki/lore/the-dragon-prophecy.md` · `wiki/factions/black-banners.md`
-- `wiki/locations/the-excavation-site.md` · `sessions/02-2026-06-12-descending-the-tower.md`
+- [The Dragon Prophecy](../lore/the-dragon-prophecy.md) · [Black Banners](../factions/black-banners.md)
+- [The Excavation Site](../locations/the-excavation-site.md) · [Session 02 — Descending the Tower](../../sessions/02-2026-06-12-descending-the-tower.md)

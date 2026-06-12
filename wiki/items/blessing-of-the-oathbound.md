@@ -16,6 +16,7 @@ each oathbound bears.
 - Grants **advantage on social interactions with dead Solamnic knights.** (session 02)
 - **Once per long rest:** when **frightened**, the bearer may **reroll the save.** (session 02)
 - The boon takes the form of a **tattoo** — a **Solamnic rose set on a knightly shield**, wreathed in thorns. (session 02)
+- **Every party member present received it — including Renob** (despite paying nothing at the Sacrifice altars). **Pip is the only party member who did not get the blessing** — Ryan was out for the session. (session 02)
 - Earned beneath the tower, tied to the **Hall of Oaths** oath and the release of the **Marshal** (and earlier **Sir Garreck**). (session 02)
 
 ## Appearance
@@ -26,10 +27,10 @@ illegible), rendered as if on aged, scorched parchment.
 ![The Blessing of the Oathbound tattoo](../../assets/items/blessing-of-the-oathbound.jpg)
 
 ## Open questions
-- Does it apply to the **whole party**, or only the **"oathbound"** who paid at the Sacrifice altars — i.e., does **Renob** (who took no altar) share it? (`wiki/locations/hall-of-oaths.md`)
 - Does "dead Solamnic knights" extend to other Solamnic spirits/undead the party may meet (e.g., the "old knight" near Solace)?
+- Can **Pip** gain the blessing later, having missed the oath?
 
 ## See also
-- `wiki/locations/hall-of-oaths.md` · `wiki/factions/knights-of-solamnia.md`
-- `wiki/npcs/sir-garreck.md` · `wiki/npcs/the-marshal.md`
-- `sessions/02-2026-06-12-descending-the-tower.md`
+- [The Hall of Oaths](../locations/hall-of-oaths.md) · [Knights of Solamnia](../factions/knights-of-solamnia.md)
+- [Sir Garreck](../npcs/sir-garreck.md) · [The Marshal](../npcs/the-marshal.md)
+- [Session 02 — Descending the Tower](../../sessions/02-2026-06-12-descending-the-tower.md)

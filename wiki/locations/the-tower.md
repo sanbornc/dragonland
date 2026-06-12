@@ -11,7 +11,7 @@ first-learned: session 02 (2026-06-12)
 A tower the party is currently exploring, descending through its lower levels.
 
 ## What we know
-- The tower sits over the **buried archive**, and the party is **descending toward it**. This is the same archive the Black Banners are excavating; the tower appears to be the site's surface structure (their intel called it a "watch station"). (session 02; `wiki/quests/the-buried-archive.md`)
+- The tower sits over the **buried archive**, and the party is **descending toward it**. This is the same archive the Black Banners are excavating; the tower appears to be the site's surface structure (their intel called it a "watch station"). (session 02; [The Buried Archive](../quests/the-buried-archive.md))
 - **Sir Garreck**, a Knight of Solamnia dead for centuries, was the archive's appointed **guardian**; now a cooperative ghost, he is leading the party down. (session 02)
 
 ## Open questions
@@ -20,6 +20,6 @@ A tower the party is currently exploring, descending through its lower levels.
 - Are the patrolling undead below Garreck's doing, fellow Solamnic dead, or something else?
 
 ## See also
-- `wiki/npcs/sir-garreck.md` · `wiki/locations/the-excavation-site.md`
-- `wiki/locations/hall-of-oaths.md` · `wiki/factions/knights-of-solamnia.md`
-- `wiki/quests/the-buried-archive.md` · `sessions/02-2026-06-12-descending-the-tower.md`
+- [Sir Garreck](../npcs/sir-garreck.md) · [The Excavation Site](the-excavation-site.md)
+- [The Hall of Oaths](hall-of-oaths.md) · [Knights of Solamnia](../factions/knights-of-solamnia.md)
+- [The Buried Archive](../quests/the-buried-archive.md) · [Session 02 — Descending the Tower](../../sessions/02-2026-06-12-descending-the-tower.md)

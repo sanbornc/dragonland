@@ -11,7 +11,7 @@ first-learned: session 02 (2026-06-12)
 Standing orders for the Black Banner guards posted at the buried archive,
 recovered by the party in session 02 as they moved past the Hall of Oaths toward
 the lower archive. They corroborate and extend Commander S. Valane's directives
-in `wiki/documents/captain-vareks-papers.md`.
+in [Captain Varek's Papers](captain-vareks-papers.md).
 
 ## Orders
 > - Secure the lower entrance.
@@ -26,5 +26,5 @@ in `wiki/documents/captain-vareks-papers.md`.
 - "Report findings to **command**" points back up the chain to S. Valane.
 
 ## See also
-- `wiki/documents/captain-vareks-papers.md` · `wiki/factions/black-banners.md`
-- `wiki/locations/the-excavation-site.md` · `wiki/quests/the-buried-archive.md`
+- [Captain Varek's Papers](captain-vareks-papers.md) · [Black Banners](../factions/black-banners.md)
+- [The Excavation Site](../locations/the-excavation-site.md) · [The Buried Archive](../quests/the-buried-archive.md)

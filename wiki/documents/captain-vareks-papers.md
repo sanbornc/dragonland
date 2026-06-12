@@ -15,8 +15,8 @@ are reproduced here as recovered in-world documents.
 
 ## Coin & valuables
 - 85 gp in mixed regional coinage
-- **Black Banner Signet Ring** — see `wiki/items/black-banner-signet-ring.md`
-- **Solamnic Officer's Compass** — see `wiki/items/solamnic-officers-compass.md`
+- **Black Banner Signet Ring** — see [Black Banner Signet Ring](../items/black-banner-signet-ring.md)
+- **Solamnic Officer's Compass** — see [Solamnic Officer's Compass](../items/solamnic-officers-compass.md)
 
 ## Military Field Journal
 Most entries are routine patrol notes — weather, supply inventories, guard
@@ -79,6 +79,6 @@ patrol officer):
 > If command wants old records so badly, they can come dig for them themselves.
 
 ## See also
-- `wiki/npcs/captain-varek.md` · `wiki/npcs/commander-s-valane.md`
-- `wiki/factions/black-banners.md` · `wiki/locations/the-excavation-site.md`
-- `wiki/quests/the-buried-archive.md`
+- [Captain Varek](../npcs/captain-varek.md) · [Commander S. Valane](../npcs/commander-s-valane.md)
+- [Black Banners](../factions/black-banners.md) · [The Excavation Site](../locations/the-excavation-site.md)
+- [The Buried Archive](../quests/the-buried-archive.md)

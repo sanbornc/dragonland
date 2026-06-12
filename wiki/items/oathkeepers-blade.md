@@ -16,5 +16,5 @@ Vaelor.** Possibly the Honor altar's return for the sword he offered there.
 - **Once per long rest:** when an **ally within 30 feet fails a save against Fear, Charm, or being Frightened**, the wielder may let them **reroll.** (session 02)
 
 ## See also
-- `wiki/characters/vaelor-grinward.md` · `wiki/locations/hall-of-oaths.md`
-- `wiki/locations/the-excavation-site.md` · `sessions/02-2026-06-12-descending-the-tower.md`
+- [Vaelor Grinward](../characters/vaelor-grinward.md) · [The Hall of Oaths](../locations/hall-of-oaths.md)
+- [The Excavation Site](../locations/the-excavation-site.md) · [Session 02 — Descending the Tower](../../sessions/02-2026-06-12-descending-the-tower.md)

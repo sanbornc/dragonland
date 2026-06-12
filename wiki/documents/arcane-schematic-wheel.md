@@ -23,4 +23,4 @@ title or caption is clearly readable.
   buried near Solace, or to something else entirely?
 
 ## See also
-- `wiki/items/the-staff.md`
+- [The Staff](../items/the-staff.md)

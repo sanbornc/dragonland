@@ -26,5 +26,5 @@ first-learned: recovered documents
 > not anyone at our table.*
 
 ## Clues surfaced to the wiki
-- `wiki/lore/miracle-bearers.md` · `wiki/npcs/the-old-knight.md`
-- `wiki/locations/haven.md` · `wiki/npcs/the-ringmaster.md`
+- [Miracle-bearers](../lore/miracle-bearers.md) · [The Old Knight](../npcs/the-old-knight.md)
+- [Haven](../locations/haven.md) · [The Ringmaster](../npcs/the-ringmaster.md)

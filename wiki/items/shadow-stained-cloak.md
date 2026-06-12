@@ -8,12 +8,12 @@ first-learned: session 01
 
 ## What we know
 - Uncommon wondrous item — a dark performer's cloak that seems to drink in
-  torchlight. (`sessions/01-2026-06-02-crimson-circus-crossover.md`)
+  torchlight. ([Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md))
 - +1 to Stealth checks in dim light or darkness. (session 01)
 - 1/day, bonus action: blur with shadow until the start of your next turn — the
   next attack against you has disadvantage. (session 01)
 - Acquired as Crimson Circus loot during the bridge session; unclaimed, so
-  stored in the **party wagon** by default (`wiki/items/party-wagon.md`).
+  stored in the **party wagon** by default ([Party Wagon](party-wagon.md)).
 
 ## See also
-- `wiki/lore/the-crimson-circus.md`
+- [The Crimson Circus](../lore/the-crimson-circus.md)

@@ -26,8 +26,8 @@ of Solamnia site of oath-taking.
 - They then opened the **second door** ("soldiers beg for orders"), finding a **gravely injured goblin**; the party **killed it**, and the **next door opened** — apparently satisfying the Duty test and granting passage onward. (session 02)
 - The third room, **"Sacrifice,"** holds **three altars** labeled **BLOOD**, **MEMORY**, and **BURDEN**, with the words: ***"No oath is sworn without cost."*** — swearing the oath demands a price. (session 02)
 - The party took the oath (Renob alone abstained), but the **realized costs fell on only two**: **Vaelor took damage** (paid in blood), and **Boilerdang's movement speed was reduced** (a lasting burden). The **other altars exacted no cost**, and **Renob** took no altar at all. (session 02)
-- Passing all three trials, the party received a final admonition: ***"And remember: duty without mercy becomes damnation."*** — tempering the Duty lesson: judgment, yes, but mercy still matters. Beyond the Hall they recovered the **Black Banner guards' orders** for the site (`wiki/documents/black-banner-guard-orders.md`). (session 02)
-- The oath (and seeing the Marshal's watch ended) granted the party the **Blessing of the Oathbound** — advantage on social interactions with dead Solamnic knights. (`wiki/items/blessing-of-the-oathbound.md`) (session 02)
+- Passing all three trials, the party received a final admonition: ***"And remember: duty without mercy becomes damnation."*** — tempering the Duty lesson: judgment, yes, but mercy still matters. Beyond the Hall they recovered the **Black Banner guards' orders** for the site ([Black Banner Guard Orders](../documents/black-banner-guard-orders.md)). (session 02)
+- The oath (and seeing the Marshal's watch ended) granted the party the **Blessing of the Oathbound** — advantage on social interactions with dead Solamnic knights. ([Blessing of the Oathbound](../items/blessing-of-the-oathbound.md)) (session 02)
 
 ## Open questions
 - Whose is the voice — Garreck, the "Marshal," or an oath-keeper spirit/construct bound to the hall?
@@ -40,6 +40,6 @@ of Solamnia site of oath-taking.
 - Is this where the Knights of Solamnia who guarded the archive were sworn in?
 
 ## See also
-- `wiki/factions/knights-of-solamnia.md` · `wiki/npcs/sir-garreck.md`
-- `wiki/locations/the-tower.md` · `wiki/quests/the-buried-archive.md`
-- `sessions/02-2026-06-12-descending-the-tower.md`
+- [Knights of Solamnia](../factions/knights-of-solamnia.md) · [Sir Garreck](../npcs/sir-garreck.md)
+- [The Tower](the-tower.md) · [The Buried Archive](../quests/the-buried-archive.md)
+- [Session 02 — Descending the Tower](../../sessions/02-2026-06-12-descending-the-tower.md)

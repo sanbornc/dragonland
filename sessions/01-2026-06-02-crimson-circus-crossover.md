@@ -60,7 +60,7 @@ Also offered/detailed by the DM:
 ## New facts & threads
 
 - The campaign carries the **circus thread** forward from the Crimson Circus —
-  see `wiki/lore/the-crimson-circus.md`.
+  see [The Crimson Circus](../wiki/lore/the-crimson-circus.md).
 - A **werewolf / lycanthropy** motif is prominent (Wolfcall Whistle, Bloodmoon
   Charm, anti-lycanthropy antitoxin).
 - The DM teased "a future set piece" with clown/circus imagery.
@@ -69,4 +69,4 @@ Also offered/detailed by the DM:
 
 - Who is holding each piece of magic loot? (Renob carries the magic bone dice;
   other unclaimed loot is stored in the **party wagon** —
-  `wiki/items/party-wagon.md`.)
+  [Party Wagon](../wiki/items/party-wagon.md).)

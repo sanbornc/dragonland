@@ -21,5 +21,5 @@ first-learned: recovered documents
 *— The Ringmaster*
 
 ## Clues surfaced to the wiki
-- `wiki/locations/solace.md` · `wiki/npcs/the-queen.md`
-- `wiki/items/the-ringmasters-ledger.md` · `wiki/npcs/the-ringmaster.md`
+- [Solace](../locations/solace.md) · [The Queen](../npcs/the-queen.md)
+- [The Ringmaster's Ledger](../items/the-ringmasters-ledger.md) · [The Ringmaster](../npcs/the-ringmaster.md)
