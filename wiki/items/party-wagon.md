@@ -22,13 +22,15 @@ first-learned: session 01
 shared party item — [Wolfcall Whistle](wolfcall-whistle.md).)*
 
 ## Session 02 — buried-archive haul (party inventory)
-All gold and moderate-value loot from the tower/archive is pooled here.
+All gold and moderate-value loot from the tower/archive is pooled here. The
+**live party inventory is maintained as custom items on Boilerdang's D&D Beyond
+sheet**; this list mirrors it.
 
 - **Coin:** 740 gp, 224 sp, 119 cp (85 gp from Captain Varek's patrol + 500 gp from the archive + 155 gp from the goblin camp).
 - **Gems & valuables:** 2 Moonstones (50 gp each); **Silver Holy Symbol of Paladine**.
 - **Magic / utility items:** **Black Banner Signet Ring** ([Black Banner Signet Ring](black-banner-signet-ring.md)); **Solamnic Officer's Compass** ([Solamnic Officer's Compass](solamnic-officers-compass.md)).
 - **Consumables & supplies:** 2 Potions of Healing, Medical Kit + bandages, ~4 days' rations and food, 4 lanterns, 6 flasks of oil, 2 bundles of torches.
-- **Bulk weapons (sellable):** 9 shortbows, 4 serviceable scimitars, 3 daggers, 120 arrows.
+- **Bulk weapons — SOLD (session 02 aftermath):** the 9 shortbows, 4 serviceable scimitars, and 3 daggers (with 120 arrows) were sold for gold added to the party pool. *(Verified gone from Boilerdang's live sheet.)*
 - **Documents (kept for the record):** Dragon Prophecy parchment, Knights of Solamnia sigil sheet, Captain Varek's papers, Black Banner guard orders, and the goblin-camp finds (pay chit, crude map, dig orders).
 - *Goblin trinkets (mostly worthless): chicken-bone necklace, three silver buttons, a wolf-head whistle, animal teeth, a "lucky" gold-painted copper, a pouch of colorful stones.*
 
