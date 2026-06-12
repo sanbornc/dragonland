@@ -23,7 +23,7 @@ The party is a band of professional hunters who call themselves
   leader. See [Boilerdang Criddlycrotch](wiki/characters/boilerdang-criddlycrotch.md).
 - **Renob "The Stabinator"** — Dwarf Fighter 7 (Champion), Chris's character.
   See [Renob The Stabinator](wiki/characters/renob.md).
-- **Vaelor Grinward** — Elf Paladin 5 (Oath of Devotion), Jason's character.
+- **Vaelor Grinward** — Elf Paladin 7 (Oath of Devotion), Jason's character.
   See [Vaelor Grinward](wiki/characters/vaelor-grinward.md).
 - **Malix** — Tiefling Sorcerer 7 (Shadow Magic), TJ's character.
   See [Malix](wiki/characters/malix.md).

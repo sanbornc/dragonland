@@ -3,7 +3,7 @@ name: Vaelor Grinward
 aliases: []
 type: character
 player: Jason Allen
-class: Paladin 5 (Oath of Devotion)
+class: Paladin 7 (Oath of Devotion)
 race: Elf
 background: Soldier
 alignment: Chaotic Good
@@ -16,24 +16,31 @@ first-learned: session 01
 Jason Allen's player character — an Elf Paladin and member of **"Boilerdang and
 his Biatches."**
 
-## Mechanics (level 5, proficiency +3)
-- **HP** ~44 · **AC 19** with shield (Chain Mail + Shield + Defense
+## Mechanics (level 7, proficiency +3)
+- **HP** ~60 · **AC 19** with shield (Chain Mail + Shield + Defense
   style); ~17 when two-handing the Greataxe +1
 - **Abilities:** STR 18 (+4) · DEX 12 (+1) · CON 14 (+2) · INT 8 (−1) · WIS 10 (+0) · CHA 15 (+2)
 - **Saves:** Wis & Cha proficient, **+1 to all saves and ability checks** (Stone of Good Luck)
 - **Skills:** Athletics, Insight, Intimidation, Perception, Survival
 - **Languages:** Common, Elvish, Giant
 - **Fighting style:** Defense · **Feats:** Savage Attacker, Weapon Mastery, + ASIs
+- **Extra Attack** (2 attacks); **Faithful Steed** (Find Steed)
 - **Oath of Devotion** (Sacred Weapon / Turn the Unholy channel divinity)
+- **Auras (10 ft):** **Aura of Protection** — he and nearby allies add **+2** (his CHA
+  mod) to every saving throw; **Aura of Devotion** (level 7) — he and allies in the
+  aura **can't be charmed**
 
-## Spellcasting (Charisma) — save DC 13, attack +5
-- **Paladin (prepared):** Protection from Evil and Good, Shield of Faith, Aid,
-  Zone of Truth; **Find Steed** known. Divine Smite on hit.
-- **Racial (Elf):** Dancing Lights, Faerie Fire, Darkness.
+## Spellcasting (Charisma) — save DC 13, spell attack +5
+- **1st-level:** Compelled Duel, Detect Magic, Divine Smite, Protection from Evil
+  and Good, Shield of Faith
+- **2nd-level:** Aid, Find Steed, Locate Object, Prayer of Healing, Shining Smite,
+  Warding Bond, Zone of Truth
+- **Racial (Elf):** Dancing Lights, Faerie Fire, Darkness
+- Divine Smite on a hit as usual.
 
 ## Gear
 - **Greataxe +1** (uncommon) — equipped main weapon (two-handed)
-- **Oathkeeper's Blade** (rare, +1 longsword) — gained session 02; 1/long rest, when an ally within 30 ft fails a save vs Fear/Charm/Frightened, let them reroll. See [Oathkeeper's Blade](../items/oathkeepers-blade.md).
+- **Oathkeeper's Blade** (rare, +1 longsword) — gained session 02; 1/long rest, when an ally within 30 ft fails a save vs Fear/Charm/Frightened, let them reroll. See [Oathkeeper's Blade](../items/oathkeepers-blade.md). *(Not yet entered on his D&D Beyond sheet — still shows the Greataxe +1 as his only magic weapon.)*
 - **Stone of Good Luck / Luckstone** (uncommon) — +1 to ability checks & saves
 - **Potion of Radiant Resistance** (uncommon)
 - Chain Mail, Shield, Longsword, 6× Javelin, Shortbow + 20 arrows, spare Greataxe
