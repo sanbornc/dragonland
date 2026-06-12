@@ -3,7 +3,7 @@ name: Boilerdang Criddlycrotch
 aliases: []
 type: character
 player: Canarias
-class: Cleric 6 (Life Domain)
+class: Cleric 7 (Life Domain)
 race: Human
 background: Guide
 alignment: Chaotic Neutral
@@ -13,7 +13,7 @@ first-learned: character creation
 
 # Boilerdang Criddlycrotch
 
-Human Cleric 6 (Life Domain), Chaotic Neutral — leader of the band of
+Human Cleric 7 (Life Domain), Chaotic Neutral — leader of the band of
 professional hunters known as **"Boilerdang and his Biatches"** (the party).
 
 ## Personality & goal
@@ -21,8 +21,8 @@ professional hunters known as **"Boilerdang and his Biatches"** (the party).
 - Keeps his past close to the chest; shares little about his backstory.
 - **Ultimate goal:** to free his homeland from the tyranny of its oppressors.
 
-## Mechanics (level 6, proficiency +3)
-- **HP** ~69 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)
+## Mechanics (level 7, proficiency +3)
+- **HP** ~80 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)
 - **Speed** 30 ft, plus a climbing speed; Boots of Speed for doubling
 - **Abilities:** STR 15 (+2) · DEX 10 (+0) · CON 19 (+4) · INT 10 (+0) · WIS 21 (+5) · CHA 8 (−1)
 - **Saves:** Wis & Cha proficient, +1 to all saves (Cloak of Protection)
@@ -31,17 +31,19 @@ professional hunters known as **"Boilerdang and his Biatches"** (the party).
 - **Feats:** Tough, Magic Initiate (Druid), + ASIs (incl. Guide ASIs)
 
 ## Spellcasting (Wisdom) — save DC 16, attack +8
-Under the 2024 rules a cleric prepares a **fixed number of spells by level — 10 at
-level 6** (not Wisdom modifier + level). **Life Domain spells are always prepared
-on top of that count and don't reduce it**; on D&D Beyond those domain spells, plus
-feat- and item-granted spells, all show in the "prepared" list automatically. The
-10 chosen spells below fill the list — there are no open prepared slots.
+He's a prepared caster: he chooses his prepared spells from the entire cleric
+list and can swap them on a long rest, so the list below is just what's
+**currently prepared on his live D&D Beyond sheet** (synced at level 7). At level
+7 he gains his first **4th-level slot** — spell slots are now **4 / 3 / 3 / 1**
+(1st–4th). The sheet has no separate auto-prepared Life Domain block configured;
+the domain staples (Aid, Bless, Cure Wounds, Lesser Restoration, Revivify) simply
+sit in the prepared list below.
 
 - **Cantrips:** Guidance, Sacred Flame, Toll the Dead, Word of Radiance, Spare the Dying, Message, Thorn Whip
-- **Domain (always prepared):** Aid, Bless, Cure Wounds, Lesser Restoration, Mass Healing Word, Revivify
-- **1st (chosen):** Command, Guiding Bolt, Healing Word, Protection from Evil and Good
-- **2nd (chosen):** Hold Person, Prayer of Healing, Spiritual Weapon
-- **3rd (chosen):** Aura of Vitality, Remove Curse, Spirit Guardians
+- **1st:** Bless, Command, Cure Wounds, Guiding Bolt, Healing Word, Protection from Evil and Good
+- **2nd:** Aid, Hold Person, Lesser Restoration, Prayer of Healing, Spiritual Weapon
+- **3rd:** Aura of Vitality, Remove Curse, Revivify, Spirit Guardians
+- **4th:** Banishment *(new at level 7)*
 - **Feat / item grants (free casts, not cleric slots):** Goodberry (Magic Initiate: Druid), Animal Friendship (Potion of Animal Friendship)
 
 ## Gear & coin
