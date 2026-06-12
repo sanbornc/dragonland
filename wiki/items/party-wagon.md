@@ -26,8 +26,8 @@ All gold and moderate-value loot from the tower/archive is pooled here. The
 **live party inventory is maintained as custom items on Boilerdang's D&D Beyond
 sheet**; this list mirrors it.
 
-- **Coin:** 740 gp, 224 sp, 119 cp (85 gp from Captain Varek's patrol + 500 gp from the archive + 155 gp from the goblin camp).
-- **Gems & valuables:** 2 Moonstones (50 gp each); **Silver Holy Symbol of Paladine**.
+- **Coin (party gold):** **1,356 gp, 224 sp, 119 cp** — the gold recovered in the archive plus the proceeds from selling the bulk weapons and the 2 moonstones.
+- **Gems & valuables:** **Silver Holy Symbol of Paladine.** *(The 2 Moonstones were sold.)*
 - **Magic / utility items:** **Black Banner Signet Ring** ([Black Banner Signet Ring](black-banner-signet-ring.md)); **Solamnic Officer's Compass** ([Solamnic Officer's Compass](solamnic-officers-compass.md)).
 - **Consumables & supplies:** 2 Potions of Healing, Medical Kit + bandages, ~4 days' rations and food, 4 lanterns, 6 flasks of oil, 2 bundles of torches.
 - **Bulk weapons — SOLD (session 02 aftermath):** the 9 shortbows, 4 serviceable scimitars, and 3 daggers (with 120 arrows) were sold for gold added to the party pool. *(Verified gone from Boilerdang's live sheet.)*
