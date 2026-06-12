@@ -28,6 +28,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   room, labeled "Honor."** See `wiki/locations/hall-of-oaths.md`.
 - At the center of the Honor room, a **knight's sword rests on an altar.** See
   `wiki/locations/hall-of-oaths.md`.
+- Beside the altar lies a **dead scout in Black Banner gear**, one hand reaching
+  toward the sword — one of the Black Banners' lost expedition. See
+  `wiki/locations/hall-of-oaths.md`.
 
 ## New facts learned
 
@@ -46,6 +49,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - The Hall of Oaths is divided into virtue-rooms; the **first is labeled
   "Honor."** — `wiki/locations/hall-of-oaths.md`
 - The **Honor** room holds a **knight's sword on an altar** at its center. —
+  `wiki/locations/hall-of-oaths.md`
+- A **dead Black Banner scout** lies in the Honor room, hand reaching for the
+  altar sword — the Black Banners' expedition reached this far and died here. —
   `wiki/locations/hall-of-oaths.md`
 
 ## Loose threads
