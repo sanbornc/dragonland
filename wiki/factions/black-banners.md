@@ -18,6 +18,7 @@ first-learned: recovered documents
 - The archive has an **ancient guardian**: **Sir Garreck**, a **Knight of Solamnia** dead for centuries — though he says he is *not* the "Marshal," so a separate figure still haunts the depths. (session 02)
 - Their guards' standing orders for the dig (recovered session 02): secure the lower entrance; recover/preserve all **sealed archive records, military ledgers, ruin surveys, and sealed correspondence**; **avoid the local dead unless obstructed**; report findings to command. (`wiki/documents/black-banner-guard-orders.md`)
 - A recovered prophecy names them directly: **"Iron will march beneath black banners"** — listed among the signs of a foretold **return of dragons.** (`wiki/lore/the-dragon-prophecy.md`)
+- They **subcontracted a goblin warband** as expendable diggers: goblin orders read "DIG HERE / FIND RECORDS / DON'T BREAK / BURN / EAT RECORDS / REPORT TO HUMAN CAPTAIN," and a pay chit marks "Squad Three / Surface Security." (`wiki/documents/goblin-camp-finds.md`)
 
 ## Open questions
 - Are they tied to the Queen? How high above Commander S. Valane does the chain go?

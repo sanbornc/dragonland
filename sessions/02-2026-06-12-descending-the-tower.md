@@ -7,8 +7,8 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 
 # Session 02 — Descending the Tower
 
-> In progress — recorded live as the session unfolds. This is the Friday
-> "campaign-adjacent" adventure the group planned while Ryan is out (see the
+> **Session complete.** Recorded live as it unfolded. This was the Friday
+> "campaign-adjacent" adventure the group planned while Ryan was out (see the
 > "Crit Happens" chat).
 
 ## Recap
@@ -94,6 +94,12 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   Oathkeeper's Blade** (rare +1 longsword; 1/long rest, let an ally within 30 ft
   reroll a failed save vs Fear/Charm/Frightened). See
   `wiki/items/oathkeepers-blade.md`.
+- Back at the surface, the party **ransacks the goblin camp**, hauling coin, gems,
+  potions, weapons, supplies, and three telling goblin documents (a Black Banner
+  pay chit, a crude site map, and the goblins' dig orders). See
+  `wiki/documents/goblin-camp-finds.md`.
+- **Session ends.** Party **XP is now 25,850.** All gold and moderate-value loot is
+  pooled into the **party inventory** (`wiki/items/party-wagon.md`).
 
 ## New facts learned
 
@@ -171,6 +177,15 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - **Loot:** 500 gp recovered; **Vaelor took the Oathkeeper's Blade** — rare +1
   longsword, 1/long rest lets an ally within 30 ft reroll a failed save vs
   Fear/Charm/Frightened. — `wiki/items/oathkeepers-blade.md`
+- **Goblin camp haul:** 155 gp, 224 sp, 119 cp, 2 Moonstones (50 gp ea), 2 Potions
+  of Healing, a **Silver Holy Symbol of Paladine**, plus bulk weapons and supplies.
+  — `wiki/documents/goblin-camp-finds.md`, `wiki/items/party-wagon.md`
+- **Goblin documents:** a Black Banner **pay chit** ("Squad Three / Surface
+  Security"), a **crude map** (Watchtower, Goblin Camp, Breach Tunnel; lower levels
+  = "OLD PLACE"), and **goblin orders** ("DIG HERE / FIND RECORDS / DON'T BREAK /
+  BURN / EAT RECORDS / REPORT TO HUMAN CAPTAIN") — the Black Banners **hired the
+  goblins** to dig for the archive records. — `wiki/documents/goblin-camp-finds.md`
+- **Party XP: 25,850.**
 
 ## Loose threads
 

@@ -16,6 +16,7 @@ first-learned: session 02 (2026-06-12)
 - It frames the setting: a post-faith, post-Cataclysm world on the edge of a return of dragons.
 
 ## Open questions
+- "The old faith" may be the worship of **Paladine** — a silver holy symbol of Paladine was recovered at the site. (session 02)
 - Are the Black Banners trying to **fulfil** the prophecy, **prevent** it, or unknowingly **enacting** it?
 - Who are the "scaled children of forgotten fire" — true dragons, draconians, or something else?
 - Is the buried archive's hidden knowledge connected to the prophecy?
