@@ -72,6 +72,10 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   soldier** — her squad was **attacked by the Marshal when they started looting**;
   a few **scrolls** lie beside her. See `wiki/locations/the-excavation-site.md` and
   `wiki/npcs/the-marshal.md`.
+- In the next room stands the **Marshal**: a knight in **black, tainted armor**
+  with **blue flames crackling behind it.** **Garreck** declares to him, **"the
+  watch is ended."** The Marshal roars **"Intruders!"** and the blue flames **turn
+  red.** See `wiki/npcs/the-marshal.md`.
 
 ## New facts learned
 
@@ -130,6 +134,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   beside her. — `wiki/locations/the-excavation-site.md`
 - **The Marshal attacks looters** — taking from the archive triggers him (echoing
   "a knight does not take what is entrusted"). — `wiki/npcs/the-marshal.md`
+- **The Marshal revealed:** a knight in **black tainted armor**, **blue flames**
+  behind the armor. **Garreck** told him **"the watch is ended"**; the Marshal
+  cried **"Intruders!"** and the flames **turned red.** — `wiki/npcs/the-marshal.md`
 
 ## Loose threads
 
@@ -166,3 +173,6 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - Do the party **heal or question the dying Black Banner woman** — and what are the
   **scrolls** beside her (sealed archive records, or her own)? —
   `wiki/locations/the-excavation-site.md`
+- Can the **Marshal** be released from his watch (as Garreck was freed), or must he
+  be fought? His **black tainted armor** suggests a fall — "duty without mercy
+  becomes damnation." — `wiki/npcs/the-marshal.md`

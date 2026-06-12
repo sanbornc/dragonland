@@ -17,6 +17,7 @@ through the tower.
 - He was **charged with guarding the archive beneath the tower** — the same buried archive the Black Banners now seek. (session 02)
 - Once convinced he was dead, he turned cooperative and is **leading the party down** toward the archive he was set to guard. (session 02)
 - He says plainly he is **not** the **"Marshal"** the Black Banners' survey teams reported patrolling below — that is a separate figure, still down there. (session 02; cf. `wiki/documents/captain-vareks-papers.md`)
+- In the archive he **confronted the Marshal**, declaring **"the watch is ended"** — apparently trying to release a fellow watcher from his post; the Marshal refused and named the party intruders. (session 02; `wiki/npcs/the-marshal.md`)
 
 ## Open questions
 - What still binds him now that he knows he's dead — and will he hand over / help secure the archive, or only guard it?
