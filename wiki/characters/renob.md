@@ -3,7 +3,7 @@ name: Renob The Stabinator
 aliases: [Renob]
 type: character
 player: Chris Gibbons
-class: Fighter 6 (Champion)
+class: Fighter 7 (Champion)
 race: Dwarf
 background: Farmer
 alignment: unknown
@@ -17,18 +17,24 @@ Chris Gibbons' player character — a Dwarf Fighter and member of **"Boilerdang
 and his Biatches."** Debuted in the Crimson Circus → Dragonland bridge session.
 *(The name is "Boner" reversed, in keeping with the party's naming humor.)*
 
-## Mechanics (level 6, proficiency +3)
-- **HP** ~76 (+2 temp) · **AC 18** (Chain Mail + Cloak of Protection + Defense style)
+## Mechanics (level 7, proficiency +3)
+- **HP** ~88 · **AC 17** (Chain Mail + Defense style); attacks against him have
+  disadvantage while the **Cloak of Displacement** is active (until he takes damage)
 - **Abilities:** STR 20 (+5) · DEX 13 (+1) · CON 16 (+3) · INT 10 (+0) · WIS 12 (+1) · CHA 8 (−1)
 - **Saves:** Strength & Constitution proficient
 - **Skills:** Animal Handling, Athletics, Nature, Perception · **Tools:** Carpenter's Tools
 - **Languages:** Common, Dwarvish, Giant
-- **Fighting style:** Defense · **Champion:** Improved Critical (crits on 19–20), Extra Attack (2 attacks)
-- **Feats:** Tough, Runestones, Character Threads, Weapon Mastery, + ASIs
+- **Fighting styles:** Defense + **Thrown Weapon Fighting** (Champion's Additional
+  Fighting Style)
+- **Champion:** Improved Critical (crits on 19–20), Remarkable Athlete; core 2024
+  Fighter — Second Wind (Tactical Mind), Tactical Shift, Action Surge, Extra Attack (2 attacks)
+- **Feats:** Tough, Weapon Mastery, Thrown Weapon Fighting, Runestones, Character
+  Threads, **Dark Bargain**, + ASIs
 
 ## Gear
 - **Flame Tongue Greatsword** (rare) — equipped main weapon
-- **Cloak of Protection** (uncommon) — +1 AC and saves
+- **Cloak of Displacement** (rare) — equipped; attacks against him have disadvantage
+  until he takes damage *(swapped in for the Cloak of Protection he carried in session 01)*
 - Chain Mail; backup Greatsword, Flail, Sickle, 8× Javelin, 20× Caltrops
 - 2× Potion of Healing, Potion of Climbing, Healer's Kit
 - **Magic bone dice** (personal possession) — likely the "bone dice" from the
@@ -44,6 +50,9 @@ and his Biatches."** Debuted in the Crimson Circus → Dragonland bridge session
 - Alignment, personality, and backstory — TBD.
 - Confirm the magic bone dice are the set from the bridge-session shop, and what
   they do.
+- **Dark Bargain** — a GM-adjudicated feat now on his sheet (and on
+  [Malix](malix.md)'s). What did the party bargain for, and what does it grant? The
+  sheet only notes "at your GM's discretion."
 
 ## See also
 - [Dragonland — Campaign Overview](../../OVERVIEW.md) — party roster

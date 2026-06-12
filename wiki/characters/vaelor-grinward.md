@@ -17,7 +17,7 @@ Jason Allen's player character — an Elf Paladin and member of **"Boilerdang an
 his Biatches."**
 
 ## Mechanics (level 5, proficiency +3)
-- **HP** ~44 (+5 temp) · **AC 19** with shield (Chain Mail + Shield + Defense
+- **HP** ~44 · **AC 19** with shield (Chain Mail + Shield + Defense
   style); ~17 when two-handing the Greataxe +1
 - **Abilities:** STR 18 (+4) · DEX 12 (+1) · CON 14 (+2) · INT 8 (−1) · WIS 10 (+0) · CHA 15 (+2)
 - **Saves:** Wis & Cha proficient, **+1 to all saves and ability checks** (Stone of Good Luck)
