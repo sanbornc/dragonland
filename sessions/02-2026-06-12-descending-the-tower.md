@@ -52,9 +52,18 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - The third room, **Sacrifice**, holds **three altars** — **BLOOD**, **MEMORY**,
   **BURDEN** — and the words ***"No oath is sworn without cost."*** The oath
   demands a price. See `wiki/locations/hall-of-oaths.md`.
-- At the Sacrifice altars, **each party member pays a price at one of the three —
-  except Renob**, who takes no altar and pays nothing. See
+- At the Sacrifice altars the party takes the oath (Renob abstains). The cost
+  lands on **Vaelor (takes damage)** and **Boilerdang (movement speed reduced)**;
+  the **other altars cost nothing**, and **Renob** takes no altar. See
   `wiki/locations/hall-of-oaths.md`.
+- Passing all three trials, the party is sent on with a final line: ***"And
+  remember: duty without mercy becomes damnation."*** Beyond the Hall they recover
+  the **Black Banner guards' standing orders** for the site. See
+  `wiki/documents/black-banner-guard-orders.md`.
+- On the **third floor down**, past the tests, the party finds where a **goblin
+  party had tunneled into** the complex — and the **entire goblin band is dead.**
+  Something down here has been killing intruders. See
+  `wiki/locations/the-excavation-site.md`.
 
 ## New facts learned
 
@@ -93,8 +102,18 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   party killed it and the **next door opened**. — `wiki/locations/hall-of-oaths.md`
 - The **Sacrifice** room: three altars — **BLOOD. MEMORY. BURDEN.** — and ***"No
   oath is sworn without cost."*** — `wiki/locations/hall-of-oaths.md`
-- **Every party member paid a price at one of the altars except Renob**, who paid
-  none. — `wiki/locations/hall-of-oaths.md`
+- **Sacrifice costs:** **Vaelor took damage**; **Boilerdang's movement speed was
+  reduced**; the **other altars cost nothing**; **Renob** took no altar. —
+  `wiki/locations/hall-of-oaths.md`
+- The Hall's parting admonition on passing: ***"And remember: duty without mercy
+  becomes damnation."*** — `wiki/locations/hall-of-oaths.md`
+- Recovered **Black Banner guard orders**: secure the lower entrance; recover all
+  sealed archive records; preserve military ledgers, ruin surveys, and sealed
+  correspondence; avoid conflict with the local dead unless obstructed; report
+  findings to command. — `wiki/documents/black-banner-guard-orders.md`
+- A **goblin warband tunneled into** the archive on the third floor down and was
+  found **entirely dead** — another group of intruders killed below. —
+  `wiki/locations/the-excavation-site.md`
 
 ## Loose threads
 
@@ -114,7 +133,14 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - **Duty (advanced):** after the child-door lesson, the second door held a gravely
   injured goblin; killing it opened the way onward. Was the goblin real, a mercy,
   or a construct? — `wiki/locations/hall-of-oaths.md`
-- **Sacrifice (paid):** each member paid at one of Blood/Memory/Burden except
-  **Renob**, who paid nothing. What did each give up, what does the sworn oath
-  grant — and does Renob's abstention cost him, or spare him? —
+- **Sacrifice (paid):** costs landed only on Vaelor (damage) and Boilerdang
+  (reduced movement speed); the other altars and Renob cost nothing. Does
+  Boilerdang's speed loss persist, and does abstaining matter for Renob? —
   `wiki/locations/hall-of-oaths.md`
+- The Black Banner **guard orders** name the prize (sealed archive records,
+  ledgers, ruin surveys, correspondence) and say to avoid the **local dead** unless
+  obstructed — the party now holds the same objective list as the enemy. —
+  `wiki/documents/black-banner-guard-orders.md`
+- What killed the **tunneled-in goblin party** (found dead on the third floor) —
+  the local dead, the "Marshal," or the archive's wards? —
+  `wiki/locations/the-excavation-site.md`
