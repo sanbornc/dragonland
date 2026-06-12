@@ -82,14 +82,18 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   archive survived long enough**, and that **his duty is fulfilled** — ending his
   watch and releasing him (as they freed Garreck). See `wiki/npcs/the-marshal.md`.
 - The party gains the **Blessing of the Oathbound** — **advantage on social
-  interactions with dead Solamnic knights.** See
-  `wiki/items/blessing-of-the-oathbound.md`.
+  interactions with dead Solamnic knights**, and **1/long rest, reroll a save when
+  frightened.** See `wiki/items/blessing-of-the-oathbound.md`.
 - In the archive they recover a **brittle parchment** bearing a prophecy of the
   **return of dragons** — naming the **black banners** among its signs ("Iron will
   march beneath black banners… the world shall learn again to fear dragons"). See
   `wiki/documents/dragon-prophecy-parchment.md`.
 - They also find a **sheet with a hand-sketched sigil of the Knights of Solamnia.**
   See `wiki/factions/knights-of-solamnia.md`.
+- The party loots the now-safe archive: **500 gp**, and **Vaelor takes the
+  Oathkeeper's Blade** (rare +1 longsword; 1/long rest, let an ally within 30 ft
+  reroll a failed save vs Fear/Charm/Frightened). See
+  `wiki/items/oathkeepers-blade.md`.
 
 ## New facts learned
 
@@ -157,12 +161,16 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   survived long enough, and his **duty was fulfilled** — his watch ended (as
   Garreck's did). — `wiki/npcs/the-marshal.md`
 - **Boon — Blessing of the Oathbound:** advantage on social interactions with
-  **dead Solamnic knights.** — `wiki/items/blessing-of-the-oathbound.md`
+  **dead Solamnic knights**; **1/long rest, reroll a save vs being frightened.** —
+  `wiki/items/blessing-of-the-oathbound.md`
 - **Recovered: the Dragon Prophecy** — a parchment foretelling dragons' return,
   explicitly naming the **Black Banners** ("iron will march beneath black
   banners"). — `wiki/lore/the-dragon-prophecy.md`
 - Recovered a **hand-sketched sigil of the Knights of Solamnia.** —
   `wiki/factions/knights-of-solamnia.md`
+- **Loot:** 500 gp recovered; **Vaelor took the Oathkeeper's Blade** — rare +1
+  longsword, 1/long rest lets an ally within 30 ft reroll a failed save vs
+  Fear/Charm/Frightened. — `wiki/items/oathkeepers-blade.md`
 
 ## Loose threads
 
@@ -177,8 +185,9 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   — `wiki/quests/the-buried-archive.md`
 - Who is the voice in the **Hall of Oaths**, and what happens if a party member
   steps forward as a candidate for knighthood? — `wiki/locations/hall-of-oaths.md`
-- Does Vaelor reclaim his sword, and what does the **Sacrifice** room demand? —
-  `wiki/locations/hall-of-oaths.md`
+- Vaelor offered his sword at the Honor altar and later took the **Oathkeeper's
+  Blade** from the archive — was the blade the altar's return for what he gave? —
+  `wiki/items/oathkeepers-blade.md`
 - **Duty (advanced):** after the child-door lesson, the second door held a gravely
   injured goblin; killing it opened the way onward. Was the goblin real, a mercy,
   or a construct? — `wiki/locations/hall-of-oaths.md`

@@ -13,6 +13,7 @@ of Oaths' oath and seeing the Marshal's watch ended.
 
 ## What we know
 - Grants **advantage on social interactions with dead Solamnic knights.** (session 02)
+- **Once per long rest:** when **frightened**, the bearer may **reroll the save.** (session 02)
 - Earned beneath the tower, tied to the **Hall of Oaths** oath and the release of the **Marshal** (and earlier **Sir Garreck**). (session 02)
 
 ## Open questions
