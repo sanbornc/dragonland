@@ -66,6 +66,8 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - A lone **near-dead goblin** gasps a warning: ***"the marshal walks below and he
   knows when you lie. Just don't answer when he asks what your post is."*** See
   `wiki/npcs/the-marshal.md`.
+- Forewarned, the party **descends past the third floor toward the Marshal
+  below.** See `wiki/npcs/the-marshal.md`.
 
 ## New facts learned
 
