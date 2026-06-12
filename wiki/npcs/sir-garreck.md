@@ -25,6 +25,6 @@ through the tower.
 - Does he connect to the child reportedly kept in the tower? (raised in the "Crit Happens" chat — unconfirmed)
 
 ## See also
-- `wiki/factions/knights-of-solamnia.md` · `wiki/locations/the-tower.md`
+- `wiki/factions/knights-of-solamnia.md` · `wiki/npcs/the-marshal.md` · `wiki/locations/the-tower.md`
 - `wiki/locations/the-excavation-site.md` · `wiki/quests/the-buried-archive.md`
 - `sessions/02-2026-06-12-descending-the-tower.md`

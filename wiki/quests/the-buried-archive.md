@@ -23,7 +23,7 @@ with the surface patrol's papers and gear.
 ## Open questions
 - With Garreck guiding them, what state is the archive in — and will he let the party take the records, or only guard them?
 - Do the party secure the archive themselves, or use Varek's documents/ring to move against the Black Banners topside?
-- If Garreck isn't the **"Marshal,"** what is — and why are the dead still on patrol?
+- The **"Marshal"** walks below, knows when you lie, and challenges intruders ("what is your post?"). What is he, and how do you survive the challenge — answer, lie, or stay silent? — `wiki/npcs/the-marshal.md`
 - How does this tie to the wider gathering war and the Queen?
 
 ## See also

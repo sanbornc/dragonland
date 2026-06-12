@@ -61,9 +61,11 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   the **Black Banner guards' standing orders** for the site. See
   `wiki/documents/black-banner-guard-orders.md`.
 - On the **third floor down**, past the tests, the party finds where a **goblin
-  party had tunneled into** the complex — and the **entire goblin band is dead.**
-  Something down here has been killing intruders. See
-  `wiki/locations/the-excavation-site.md`.
+  party had tunneled into** the complex — **nearly all dead.** Something down here
+  has been killing intruders. See `wiki/locations/the-excavation-site.md`.
+- A lone **near-dead goblin** gasps a warning: ***"the marshal walks below and he
+  knows when you lie. Just don't answer when he asks what your post is."*** See
+  `wiki/npcs/the-marshal.md`.
 
 ## New facts learned
 
@@ -112,8 +114,11 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
   correspondence; avoid conflict with the local dead unless obstructed; report
   findings to command. — `wiki/documents/black-banner-guard-orders.md`
 - A **goblin warband tunneled into** the archive on the third floor down and was
-  found **entirely dead** — another group of intruders killed below. —
+  found **nearly all dead** — another group of intruders killed below. —
   `wiki/locations/the-excavation-site.md`
+- A near-dead goblin's warning about **the Marshal**: he ***"walks below and he
+  knows when you lie. Just don't answer when he asks what your post is."*** —
+  `wiki/npcs/the-marshal.md`
 
 ## Loose threads
 
@@ -144,3 +149,6 @@ dm: Jeremy Maughan (adventure designed with his assistant GM)
 - What killed the **tunneled-in goblin party** (found dead on the third floor) —
   the local dead, the "Marshal," or the archive's wards? —
   `wiki/locations/the-excavation-site.md`
+- **The Marshal's challenge:** he asks "what is your post?" and detects lies; the
+  goblin's advice is *don't answer*. How will the party handle the encounter? —
+  `wiki/npcs/the-marshal.md`

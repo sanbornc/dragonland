@@ -20,14 +20,14 @@ archive**.
 - A **"Marshal"** is rumored to be below — dismissed as superstition in Varek's journal. (`wiki/documents/captain-vareks-papers.md`)
 - The **Solamnic Officer's Compass** points toward the deepest part of the complex while underground. (`wiki/items/solamnic-officers-compass.md`)
 - The site's surface structure is **the tower** the party has now entered; its centuries-dead Solamnic guardian, **Sir Garreck**, is leading them down — and he says he is **not** the rumored "Marshal." (session 02)
-- On the **third floor down**, past the Hall of Oaths, the party found where a **goblin warband had tunneled in** — and the **entire goblin party lay dead.** Something below keeps killing intruders (as it did the Black Banners' survey teams). (session 02)
+- On the **third floor down**, past the Hall of Oaths, the party found where a **goblin warband had tunneled in** — **nearly all dead.** A lone **near-dead survivor** gasped a warning about "the Marshal" before fading. Something below keeps killing intruders (as it did the Black Banners' survey teams). (session 02; see `wiki/npcs/the-marshal.md`)
 
 ## Open questions
 - Where is the site? (Possibly tied to Solace's "not all relics stay buried" and the map-scrap's "old stones?" near Solace — unconfirmed. Could it be the unspoken site "X.T."?)
-- Who or what is the **"Marshal"**? Garreck says it isn't him (session 02), so a distinct figure still patrols the depths — and what animates the other dead?
+- Who or what is the **"Marshal"**? He "walks below," "knows when you lie," and challenges intruders with "what is your post?" (session 02). Garreck says it isn't him. See `wiki/npcs/the-marshal.md`.
 - What knowledge is worth "expendable" lives to the Black Banners?
 - What killed the **goblin warband** that tunneled in (found dead on the third floor) — the patrolling dead, the "Marshal," or the archive's wards? (session 02)
 
 ## See also
-- `wiki/quests/the-buried-archive.md` · `wiki/factions/black-banners.md`
+- `wiki/quests/the-buried-archive.md` · `wiki/factions/black-banners.md` · `wiki/npcs/the-marshal.md`
 - `wiki/locations/solace.md` · `wiki/locations/x-t.md` · `wiki/documents/captain-vareks-papers.md`
