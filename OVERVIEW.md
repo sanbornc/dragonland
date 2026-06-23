@@ -60,6 +60,12 @@ archive**, descending with its centuries-dead Solamnic guardian, **Sir Garreck**
 toward the records the Black Banners are hunting — see
 [Session 02 — Descending the Tower](sessions/02-2026-06-12-descending-the-tower.md).
 
+In the 2026-06-23 session, the party is **traveling through a forest toward
+[Solace](wiki/locations/solace.md)**. They calmed two goblin-wounded bears that
+were chasing a pair of travelers, befriending the bears, and the rescued
+travelers — also Solace-bound — asked for an escort. See
+[Session 03 — The Friendly Bears](sessions/03-2026-06-23-the-friendly-bears.md).
+
 ## Major threads
 
 - **The gathering war** — unmarked black-banner armies massing eastward.
