@@ -1,18 +1,23 @@
 ---
 name: The Two Travelers
-aliases: []
+aliases: [Goldmoon and Riverwind, Goldmoon, Riverwind]
 type: npc
 tags: [travelers, solace]
 first-learned: session 03
 ---
 
-# The Two Travelers
+# The Two Travelers — Goldmoon & Riverwind
+
+The pair the party rescued and is escorting to Solace. This page holds their
+**shared story**; see their individual entries for who each one is:
+[Goldmoon](goldmoon.md) and [Riverwind](riverwind.md).
 
 ## What we know
 
 - **Two people** the party found being **chased by two bears** in a forest on the
   way to [Solace](../locations/solace.md). (Session 03)
-- The **female of the two is "the Chieftain's daughter."** (Session 03)
+- They are **[Goldmoon](goldmoon.md)** — the **woman**, "the Chieftain's daughter"
+  — and **[Riverwind](riverwind.md)**, the **man.** (Session 03)
 - The party rescued them by **de-escalating the bears** (Animal Handling + healing
   the wounded bears). (Session 03)
 - They are **also bound for Solace** and **asked the party for an escort.**
@@ -24,16 +29,17 @@ first-learned: session 03
 
 ## Open questions
 
-- Who are they — names, occupations? What exactly are the questions they're chasing,
-  and how do they overlap with the party's?
-- **Who is the Chieftain** (her father), and of what people/tribe/clan? Who is the
-  second traveler, and how is he related to her?
+- What exactly are the questions Goldmoon and Riverwind are chasing, and how do they
+  overlap with the party's?
+- **Who is the Chieftain** (Goldmoon's father), and of what people/tribe/clan? How
+  are Goldmoon and Riverwind connected to each other?
 - What do they expect Hederick to be able to tell them?
 - Any connection to the goblins that wounded the bears, or to other campaign
   threads?
 
 ## See also
 
+- [Goldmoon](goldmoon.md) · [Riverwind](riverwind.md) — the two of them individually
 - [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md)
 - [The Friendly Bears](the-friendly-bears.md) — the bears that were chasing them
 - [High Theocrat Hederick](high-theocrat-hederick.md) — whom they're trying to find

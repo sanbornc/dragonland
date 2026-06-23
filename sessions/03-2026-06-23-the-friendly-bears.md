@@ -39,11 +39,11 @@ players-present: [TBC]
 - **The Friendly Bears** — two bears, wounded by goblins, that had turned on a
   pair of travelers; the party calmed them with Animal Handling and healed them,
   earning their goodwill. — [The Friendly Bears](../wiki/npcs/the-friendly-bears.md)
-- **The Two Travelers** — two people the bears were chasing; rescued and now
-  **escorted by the party** toward Solace. They seek answers to the same questions
-  the party has and want to find High Theocrat Hederick. The **female of the two
-  is "the Chieftain's daughter."** —
-  [The Two Travelers](../wiki/npcs/the-two-travelers.md)
+- **The Two Travelers — [Goldmoon](../wiki/npcs/goldmoon.md) & [Riverwind](../wiki/npcs/riverwind.md)**
+  — the people the bears were chasing; rescued and now **escorted by the party**
+  toward Solace. **Goldmoon** is the woman, "the Chieftain's daughter"; **Riverwind**
+  is the man. They seek answers to the same questions the party has and want to find
+  High Theocrat Hederick. — [The Two Travelers](../wiki/npcs/the-two-travelers.md)
 - **High Theocrat Hederick** — a figure the travelers want to question for
   information; the party doesn't like him. —
   [High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md)
