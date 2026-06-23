@@ -32,7 +32,8 @@ players-present: [TBC]
   earning their goodwill. — [The Friendly Bears](../wiki/npcs/the-friendly-bears.md)
 - **The Two Travelers** — two people the bears were chasing; rescued and now
   **escorted by the party** toward Solace. They seek answers to the same questions
-  the party has and want to find High Theocrat Hederick. —
+  the party has and want to find High Theocrat Hederick. The **female of the two
+  is "the Chieftain's daughter."** —
   [The Two Travelers](../wiki/npcs/the-two-travelers.md)
 - **High Theocrat Hederick** — a figure the travelers want to question for
   information; the party doesn't like him. —

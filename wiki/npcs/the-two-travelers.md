@@ -12,6 +12,7 @@ first-learned: session 03
 
 - **Two people** the party found being **chased by two bears** in a forest on the
   way to [Solace](../locations/solace.md). (Session 03)
+- The **female of the two is "the Chieftain's daughter."** (Session 03)
 - The party rescued them by **de-escalating the bears** (Animal Handling + healing
   the wounded bears). (Session 03)
 - They are **also bound for Solace** and **asked the party for an escort.**
@@ -25,6 +26,8 @@ first-learned: session 03
 
 - Who are they — names, occupations? What exactly are the questions they're chasing,
   and how do they overlap with the party's?
+- **Who is the Chieftain** (her father), and of what people/tribe/clan? Who is the
+  second traveler, and how is he related to her?
 - What do they expect Hederick to be able to tell them?
 - Any connection to the goblins that wounded the bears, or to other campaign
   threads?
