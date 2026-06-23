@@ -39,4 +39,5 @@ players-present: [TBC]
   [The Friendly Bears](../wiki/npcs/the-friendly-bears.md)
 - Will the bears help the party again — fight alongside them, guide them, or
   follow? What does their goodwill actually get the party?
+- Where in the forest did this encounter happen?
 - Players present this session still **[TBC]**.
