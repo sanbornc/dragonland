@@ -22,6 +22,10 @@ first-learned: session 03
   sharper teeth than mine."** (Session 03)
 - He is **based in Solace**: checkpoint crews were ordered to **"report discovery to
   Fewmaster Toede in Solace."** (Session 03)
+- **He does not know the party destroyed his roadblock crew.** The party staged the
+  bodies as an **internal dispute** and passed a Deception check, so Toede should
+  believe his crew killed each other — not that the party (or Goldmoon/Riverwind)
+  came through. (Session 03)
 - His operation runs **"by authority of the High Theocrat's office"** — so he acts
   with [Hederick](high-theocrat-hederick.md)'s / the [Seekers](../factions/the-seekers.md)'
   backing. (Session 03)
@@ -34,8 +38,8 @@ first-learned: session 03
   Banners? the Seekers' leadership? a dragon, given "teeth"?)
 - Is Toede a **Seeker**, or just leveraging their checkpoint authority to hunt the
   Staff?
-- He's **in Solace** — how will he react to losing his whole roadblock crew, and
-  will he recognize the party as the cause?
+- He's **in Solace** — how does he react when the roadblock goes silent? Does the
+  "internal dispute" ruse hold, or does he eventually see through it?
 
 ## See also
 

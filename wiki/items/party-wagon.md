@@ -56,9 +56,13 @@ should be updated to match.**
     **wooden symbol of [Mishakal](../lore/mishakal.md)** labeled "false god token";
     a **broken Solamnic kingfisher brooch** ([Knights of Solamnia](../factions/knights-of-solamnia.md)).
   - **2 healing herb bundles**; **1 sealed bottle of decent brandy.**
-- **Bulk (likely to sell, as in session 02):** 7 crude scimitars, 7 shortbows,
-  83 black-feathered arrows, 5 dented small shields, 7 sets of poor goblin leather
-  armor, 2 hunting snares, 50 ft. rough rope, 3 days of (bad) trail rations.
+- **Bulk gear — USED to stage the scene (NOT in inventory):** the 7 crude scimitars,
+  7 shortbows, 83 black-feathered arrows, 5 dented small shields, 7 sets of poor
+  goblin leather armor, 2 hunting snares, 50 ft. rough rope, and 3 days of (bad)
+  trail rations were **expended/left at the roadblock** to pose the dead crew as
+  having died in an **internal dispute.** The party passed a **Deception check**, so
+  [Fewmaster Toede](../npcs/fewmaster-toede.md) should believe it was infighting —
+  not the party. (Session 03)
 
 ## Open questions
 - Exact capacity and any limits (described only as "similar to a bag of holding").

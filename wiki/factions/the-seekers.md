@@ -31,10 +31,14 @@ first-learned: divine power lore (Boilerdang); session 03
   claimed holy power as fraud — making them an acute danger to a true healer like
   [Boilerdang](../characters/boilerdang-criddlycrotch.md). See
   [Divine power in the world](../lore/divine-power.md).
-- **The party is now in open conflict with them.** At the Solace roadblock, when
-  the **head goblin refused to identify the searchers**, the standoff broke into
-  **combat** — and the party **killed the entire roadblock crew** (≈7 goblins plus
-  the human [Pellan Voss](../npcs/pellan-voss.md)). (Session 03)
+- At the Solace roadblock, when the **head goblin refused to identify the
+  searchers**, the standoff broke into **combat** — and the party **killed the
+  entire roadblock crew** (≈7 goblins plus the human [Pellan Voss](../npcs/pellan-voss.md)).
+  (Session 03)
+- **The party's role is hidden (for now).** They **staged the bodies as an internal
+  dispute** (successful Deception), so [Fewmaster Toede](../npcs/fewmaster-toede.md)
+  should believe the crew turned on itself rather than suspect the party — buying
+  cover to enter Solace. (Session 03)
 - **Their insignia is a sunburst** (a Seeker-marked **cloak clasp shaped like a
   sunburst** was recovered), and the High Theocrat's office issues **brass authority
   tokens.** (Session 03)

@@ -48,6 +48,10 @@ players-present: [TBC]
   their [notice](../wiki/documents/notice-of-road-authority.md) condemns.)
 - **The party killed the entire roadblock crew** — ≈7 goblins plus the human
   **[Pellan Voss](../wiki/npcs/pellan-voss.md)**. No survivors.
+- **Cover-up (successful Deception check):** the party used the crew's **bulk
+  weapons and gear** to **stage the scene as an internal dispute** — making it look
+  like the mob turned on itself. It worked: **[Fewmaster Toede](../wiki/npcs/fewmaster-toede.md)
+  should be none the wiser**, assuming infighting rather than suspecting the party.
 - **Loot recovered** and pooled in the [wagon](../wiki/items/party-wagon.md):
   coin (+27 gp, +69 sp, +31 cp), bulk goblin weapons/armor, a **Hederick authority
   token**, a **Seeker sunburst clasp**, a bone whistle, checkpoint lanterns, Voss's
@@ -118,9 +122,10 @@ players-present: [TBC]
 - **What is the Staff?** — the Seekers keep priests/scholars/Solamnics from it, so
   those are the people who could explain it. Boilerdang (a true priest) and the
   party's Solamnic finds may be the key. — [The Staff](../wiki/items/the-staff.md)
-- **Entering Solace after a gate massacre** — the party wiped out a checkpoint run by
-  the High Theocrat's office. Can they get in, and how does Toede react to losing the
-  crew? — [The Seekers](../wiki/factions/the-seekers.md)
+- **Entering Solace under cover** — the party wiped out a checkpoint run by the High
+  Theocrat's office, but **staged it as internal infighting** (successful Deception),
+  so Toede shouldn't suspect them. Risks remain: someone could see through the ruse,
+  or Toede may tighten security when his crew goes silent. — [The Seekers](../wiki/factions/the-seekers.md)
 - Are the **goblins** that wounded the bears the **same Seeker goblins** at the
   Solace roadblock, the **Black Banner–hired goblins** from the tower/archive
   (Session 02), or a separate band? — [The Friendly Bears](../wiki/npcs/the-friendly-bears.md)
