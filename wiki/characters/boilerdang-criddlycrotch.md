@@ -44,6 +44,11 @@ As the campaign begins, Boilerdang has started to feel that something is changin
   hunt **"false holy symbols"** and **"items used in fraudulent healing."** To that
   regime, Boilerdang's holy symbol and his real healing read as fraud or heresy —
   openly using his power at their checkpoint is high-risk. ([Notice of Road Authority](../documents/notice-of-road-authority.md))
+- **Exposure (Session 03):** in the roadblock fight he **cast Spirit Guardians and
+  cut down several of the Seeker crew** as he walked through them — an unmistakable,
+  public display of **true divine power** against the very faction that brands it
+  heresy. Anyone who survives or hears of it now has reason to mark him a
+  miracle-worker.
 
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~80 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)

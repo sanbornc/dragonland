@@ -37,7 +37,13 @@ players-present: [TBC]
 - The party **turned the questioning around** and demanded to know **who the
   searchers were.** When the **head goblin refused to answer**, the standoff broke
   into **combat** — the party is now **fighting the roadblock crew** (the Seeker
-  goblins and the other person). *(Outcome still unfolding.)*
+  goblins and the other person).
+- **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) cast Spirit
+  Guardians and walked through the crowd, killing several** of the roadblock crew
+  with the radiant aura. (Note: this is an **open display of true divine power
+  against Seeker agents** — exactly the "fraudulent healing / false holy" heresy
+  their [notice](../wiki/documents/notice-of-road-authority.md) condemns.)
+  *(Outcome still unfolding.)*
 
 ## New facts learned
 
