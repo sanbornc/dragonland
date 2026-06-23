@@ -3,3 +3,6 @@ IMG_*.png
 
 # OS cruft
 .DS_Store
+
+# Personal, untracked notes (e.g. combat optimization cheat-sheets) — never committed
+*.local.md

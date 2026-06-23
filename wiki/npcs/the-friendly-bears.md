@@ -16,6 +16,8 @@ first-learned: session 03
 - The party **de-escalated the encounter through Animal Handling and healing the
   bears**. The bears calmed and are now **friendly / well-disposed toward the
   party.** (Session 03)
+- The bears then **retreated into the woods before the party reached Solace** — so
+  they were **not present** for the roadblock fight. (Session 03)
 
 ## Open questions
 

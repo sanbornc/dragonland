@@ -16,7 +16,8 @@ players-present: [TBC]
   **wounded by goblins** and were agitated, which is why they had turned on the
   travelers.
 - The party **de-escalated the encounter through Animal Handling and healing the
-  bears.** The bears calmed and are now **friendly toward the party.** See
+  bears.** The bears calmed and are now **friendly toward the party**, then
+  **retreated into the woods before the party reached Solace.** See
   [The Friendly Bears](../wiki/npcs/the-friendly-bears.md).
 - The **two rescued travelers are also bound for Solace** and **asked the party
   for an escort** — **the party agreed.** See
@@ -70,7 +71,8 @@ players-present: [TBC]
   questions overlap with the party's? — [The Two Travelers](../wiki/npcs/the-two-travelers.md)
 - **The roadblock fight (in progress)** — the standoff became combat when the head
   goblin wouldn't say who they were. How does it end, and at what cost? Do the
-  **friendly bears** or the **travelers** join in?
+  **travelers (Goldmoon & Riverwind)** join in? *(The friendly bears are **not**
+  present — they retreated into the woods before Solace.)*
 - **Open conflict with the Seekers** — the party is now **fighting Hederick's
   agents at Solace's gate.** That likely marks them as outlaws/heretics to the
   regime ("transfer to higher authority"). Can they enter Solace after this, and
