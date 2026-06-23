@@ -20,8 +20,9 @@ first-learned: session 03
 ## Open questions
 
 - What kind of bears, and where exactly in the forest?
-- Are the goblins that wounded them the same **Black Banner–hired goblins** seen at
-  the tower and excavation site (Session 02), or an unrelated band?
+- Are the goblins that wounded them the same **[Seeker](../factions/the-seekers.md)
+  goblins** manning the Solace roadblock (Session 03), the **Black Banner–hired
+  goblins** from the tower and excavation site (Session 02), or an unrelated band?
 - Does the bears' goodwill translate into aid — fighting alongside the party,
   guiding them, or following?
 

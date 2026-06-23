@@ -24,6 +24,9 @@ players-present: [TBC]
 - The travelers are **seeking answers to many of the same questions the party
   has.** To get them, they're **trying to find [High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md)**
   — a figure the **party dislikes** ("a bit of an ass").
+- **Arriving at [Solace](../wiki/locations/solace.md), the party hit a roadblock.**
+  **Goblins wearing [Seeker](../wiki/factions/the-seekers.md) symbols**, along with
+  **another person**, stopped to **search** them.
 
 ## New facts learned
 
@@ -38,6 +41,9 @@ players-present: [TBC]
 - **High Theocrat Hederick** — a figure the travelers want to question for
   information; the party doesn't like him. —
   [High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md)
+- **The Seekers** — a religious authority with an armed presence at Solace: their
+  **goblins (wearing Seeker symbols)** and another person run a search roadblock at
+  the town's entrance. — [The Seekers](../wiki/factions/the-seekers.md)
 
 ## Loose threads
 
@@ -47,9 +53,12 @@ players-present: [TBC]
   **Seekers** / [divine power](../wiki/lore/divine-power.md)?
 - **The travelers' questions** — what are they actually chasing, and how do their
   questions overlap with the party's? — [The Two Travelers](../wiki/npcs/the-two-travelers.md)
-- Are the **goblins** that wounded the bears connected to the **Black Banner–hired
-  goblins** from the tower/archive (Session 02), or a separate band? —
-  [The Friendly Bears](../wiki/npcs/the-friendly-bears.md)
+- **The Seeker roadblock** — what are the Seekers searching arrivals for at Solace,
+  and how do they react to the party (and to a true miracle-worker like Boilerdang)?
+  Do they run the town or just police its approaches? — [The Seekers](../wiki/factions/the-seekers.md)
+- Are the **goblins** that wounded the bears the **same Seeker goblins** at the
+  Solace roadblock, the **Black Banner–hired goblins** from the tower/archive
+  (Session 02), or a separate band? — [The Friendly Bears](../wiki/npcs/the-friendly-bears.md)
 - Will the bears help the party again — fight alongside them, guide them, or
   follow? What does their goodwill actually get the party?
 - Where in the forest did this encounter happen?

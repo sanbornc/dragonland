@@ -65,6 +65,8 @@ In the 2026-06-23 session, the party is **traveling through a forest toward
 were chasing a pair of travelers, befriending the bears, and **agreed to escort**
 the rescued travelers — who are chasing answers to many of the same questions the
 party has and want to find the disliked **[High Theocrat Hederick](wiki/npcs/high-theocrat-hederick.md)**.
+At Solace's entrance they hit a **[Seeker](wiki/factions/the-seekers.md) roadblock** —
+goblins in Seeker symbols, plus another person, searching arrivals.
 See [Session 03 — The Friendly Bears](sessions/03-2026-06-23-the-friendly-bears.md).
 
 ## Major threads

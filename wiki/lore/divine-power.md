@@ -29,8 +29,10 @@ first-learned: GM background (Boilerdang)
   divine magic works — almost unheard of in this world. (GM background)
 
 ## Open questions
-- Who or what are the **Seekers**, and what authority do they hold? Are they the
-  "new lies" the Ringmaster's ledger alludes to?
+- Who or what are the **[Seekers](../factions/the-seekers.md)**, and what authority
+  do they hold? Are they the "new lies" the Ringmaster's ledger alludes to? *(We now
+  know they have an armed, goblin-staffed presence controlling entry to Solace —
+  Session 03.)*
 - *Why* has divine power gone silent — and why is it answering Boilerdang now?
 - Is Boilerdang's power tied to a specific god, an "old spirit," or something else?
 
