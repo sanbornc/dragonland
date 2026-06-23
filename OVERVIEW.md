@@ -14,6 +14,14 @@ beneath an old Solamnic tower now ties it all to a darker omen: a **prophecy of
 the return of dragons**, with "iron … beneath black banners" among its signs.
 See [The Dragon Prophecy](wiki/lore/the-dragon-prophecy.md).
 
+## Rules
+
+This campaign uses the **2024 Dungeons & Dragons rules** (the revised *Player's
+Handbook*), **not** the 2014 5e rules. When answering mechanics questions
+(spells, features, actions), use 2024 rulings — these differ from 2014 in places.
+For example, **Spiritual Weapon now requires Concentration** under the 2024 rules,
+so it can't be stacked with another concentration spell like Spirit Guardians.
+
 ## The Party
 
 The party is a band of professional hunters who call themselves
