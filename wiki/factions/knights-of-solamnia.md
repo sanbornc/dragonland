@@ -12,6 +12,7 @@ first-learned: session 02 (2026-06-12)
 - Their symbol includes a **rose** — a "faded Solamnic rose" is engraved on the officer's compass recovered from Captain Varek. ([Solamnic Officer's Compass](../items/solamnic-officers-compass.md))
 - **Knights have been seen near Solace**, where "not all relics stay buried." ([Ringmaster's Ledger — Back-Cover List](../documents/ringmasters-ledger-back-cover-list.md))
 - The party recovered a **sheet with a hand-sketched sigil of the order** from the archive — a reference for recognizing (or proving) Solamnic allegiance. (session 02)
+- **The order is now treated as contraband / suspect by the Seekers.** Hederick's road notice makes **"Solamnic arms or insignia" subject to mandatory surrender** at Solace's checkpoint — so the party's recovered Solamnic items are at risk. ([Notice of Road Authority](../documents/notice-of-road-authority.md))
 
 ## Open questions
 - Does the order still exist, or did it fall with "the old kingdoms" before the Cataclysm?

@@ -18,6 +18,19 @@ first-learned: divine power lore (Boilerdang); session 03
   Seeker symbols** alongside **another (non-goblin) person.** (Session 03)
 - So the Seekers **command or employ goblins** — and **control who enters Solace.**
   (Session 03)
+- They style themselves **"lawful agents of regional protection,"** acting **by
+  order of the High Theocrat.** ([Notice of Road Authority](../documents/notice-of-road-authority.md))
+- Their inspections **confiscate**: unauthorized relics, **false holy symbols**,
+  foreign magical implements, **Solamnic arms or insignia**, and **items used in
+  fraudulent healing.** ([Notice of Road Authority](../documents/notice-of-road-authority.md))
+- They criminalize **harboring** "heretics, oath-cultists, foreign agitators, or
+  known fugitives" — penalties up to "transfer to higher authority."
+  ([Notice of Road Authority](../documents/notice-of-road-authority.md))
+- That they hunt **"false holy symbols"** and **"fraudulent healing"** confirms the
+  lore: in a world that believes true divine power is gone, the Seekers treat *all*
+  claimed holy power as fraud — making them an acute danger to a true healer like
+  [Boilerdang](../characters/boilerdang-criddlycrotch.md). See
+  [Divine power in the world](../lore/divine-power.md).
 
 ## Open questions
 
@@ -33,7 +46,8 @@ first-learned: divine power lore (Boilerdang); session 03
 
 ## See also
 
-- [Divine power in the world](../lore/divine-power.md) ·
+- [Notice of Road Authority](../documents/notice-of-road-authority.md) — their checkpoint notice ·
+  [Divine power in the world](../lore/divine-power.md) ·
   [High Theocrat Hederick](../npcs/high-theocrat-hederick.md) ·
   [Solace](../locations/solace.md) ·
   [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md)

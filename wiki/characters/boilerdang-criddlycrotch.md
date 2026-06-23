@@ -40,6 +40,10 @@ As the campaign begins, Boilerdang has started to feel that something is changin
 - This makes him, in the world's terms, a true **[miracle-bearer](../lore/miracle-bearers.md)**
   — exactly the rare and dangerous thing the [Ringmaster](../npcs/the-ringmaster.md)
   traffics as "special cargo." See also [Divine power in the world](../lore/divine-power.md).
+- **Active danger (Session 03):** the [Seekers](../factions/the-seekers.md) at Solace
+  hunt **"false holy symbols"** and **"items used in fraudulent healing."** To that
+  regime, Boilerdang's holy symbol and his real healing read as fraud or heresy —
+  openly using his power at their checkpoint is high-risk. ([Notice of Road Authority](../documents/notice-of-road-authority.md))
 
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~80 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)

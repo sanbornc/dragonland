@@ -27,6 +27,12 @@ players-present: [TBC]
 - **Arriving at [Solace](../wiki/locations/solace.md), the party hit a roadblock.**
   **Goblins wearing [Seeker](../wiki/factions/the-seekers.md) symbols**, along with
   **another person**, stopped to **search** them.
+- Asked **by what authority**, the searchers produced a **[Notice of Road Authority](../wiki/documents/notice-of-road-authority.md)**
+  signed by the **High Theocrat** — confiscating relics, *false holy symbols*,
+  foreign magic, *Solamnic arms/insignia*, and *items used in fraudulent healing*,
+  and criminalizing the harboring of heretics, oath-cultists, agitators, and
+  fugitives. This confirms **[Hederick](../wiki/npcs/high-theocrat-hederick.md)** rules
+  the region's roads through the Seekers.
 
 ## New facts learned
 
@@ -43,7 +49,12 @@ players-present: [TBC]
   [High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md)
 - **The Seekers** — a religious authority with an armed presence at Solace: their
   **goblins (wearing Seeker symbols)** and another person run a search roadblock at
-  the town's entrance. — [The Seekers](../wiki/factions/the-seekers.md)
+  the town's entrance, acting "by order of the High Theocrat." —
+  [The Seekers](../wiki/factions/the-seekers.md)
+- **Notice of Road Authority** — the checkpoint notice signed "High Theocrat":
+  mandatory surrender of relics, false holy symbols, foreign magic, Solamnic
+  arms/insignia, and fraudulent-healing items; harboring heretics/fugitives
+  punishable. — [Notice of Road Authority](../wiki/documents/notice-of-road-authority.md)
 
 ## Loose threads
 
@@ -53,9 +64,12 @@ players-present: [TBC]
   **Seekers** / [divine power](../wiki/lore/divine-power.md)?
 - **The travelers' questions** — what are they actually chasing, and how do their
   questions overlap with the party's? — [The Two Travelers](../wiki/npcs/the-two-travelers.md)
-- **The Seeker roadblock** — what are the Seekers searching arrivals for at Solace,
-  and how do they react to the party (and to a true miracle-worker like Boilerdang)?
-  Do they run the town or just police its approaches? — [The Seekers](../wiki/factions/the-seekers.md)
+- **The Seeker roadblock** — how does the party get past a search that targets
+  exactly what they carry? **Boilerdang's** holy symbol / real healing = "fraudulent
+  healing" + "false holy symbols"; their **Solamnic** items = contraband; **Vaelor**
+  could read as an "oath-cultist"; and escorting the **Chieftain's daughter** risks
+  a "harboring fugitives/agitators" charge. Comply, hide, bluff, or fight? —
+  [Notice of Road Authority](../wiki/documents/notice-of-road-authority.md)
 - Are the **goblins** that wounded the bears the **same Seeker goblins** at the
   Solace roadblock, the **Black Banner–hired goblins** from the tower/archive
   (Session 02), or a separate band? — [The Friendly Bears](../wiki/npcs/the-friendly-bears.md)
