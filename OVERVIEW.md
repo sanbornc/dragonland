@@ -27,6 +27,8 @@ so it can't be stacked with another concentration spell like Spirit Guardians.
 The party is a band of professional hunters who call themselves
 **"Boilerdang and his Biatches,"** led by Boilerdang Criddlycrotch.
 
+**Party XP:** 28,000 as of end of Session 03 (level 7; level 8 at 34,000).
+
 - **Boilerdang Criddlycrotch** — Human Cleric 7 (Life Domain), the party's
   leader. See [Boilerdang Criddlycrotch](wiki/characters/boilerdang-criddlycrotch.md).
 - **Renob "The Stabinator"** — Dwarf Fighter 7 (Champion), Chris's character.

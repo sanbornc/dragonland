@@ -6,8 +6,11 @@ players-present: [TBC]
 
 # Session 03 — The Friendly Bears
 
-> **Recording live as it unfolds.** Opening beat logged; more to come as the
-> session plays out.
+> **Session concluded.** The party traveled the forest to Solace, befriended two
+> goblin-wounded bears, took on escorting the Que-Shu travelers Goldmoon &
+> Riverwind, and wiped out a Seeker staff-hunt roadblock at the town gate.
+>
+> **Party XP total: 28,000** (still level 7 — level 8 is at 34,000, so ~6,000 to go).
 
 ## Recap
 
@@ -125,3 +128,12 @@ players-present: [TBC]
   follow? What does their goodwill actually get the party?
 - Where in the forest did this encounter happen?
 - Players present this session still **[TBC]**.
+
+## Next session — Solace leads
+
+- **Head to the [Inn of the Last Home](../wiki/locations/inn-of-the-last-home.md).**
+  **[Tika](../wiki/npcs/tika.md)** (barmaid / part owner, a **friend** of the party)
+  runs it and is the **best source for the going-ons in Solace.** Her co-owner
+  **[Otik](../wiki/npcs/otik.md)** (cook) makes the **best spiced potatoes** around.
+- The Inn is the natural place to ask about **Hederick**, the **Seekers**, and what
+  the **Staff** is — without tipping off Toede.

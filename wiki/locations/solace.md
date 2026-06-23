@@ -15,6 +15,11 @@ first-learned: recovered documents
 - **Entry is controlled by a [Seeker](../factions/the-seekers.md) roadblock.** As the
   party arrived, **goblins wearing Seeker symbols** and **another person** stopped
   and searched them. (Session 03)
+- **The [Inn of the Last Home](inn-of-the-last-home.md)** is here — run by
+  **[Tika](../npcs/tika.md)** (barmaid / part owner, a friend of the party) and
+  **[Otik](../npcs/otik.md)** (cook / co-owner, famed for his spiced potatoes).
+  **Tika is the party's best source for local news and the going-ons in Solace.**
+  (Session 03)
 
 ## Open questions
 - Is "Selace" a variant spelling or a different place?
@@ -25,3 +30,4 @@ first-learned: recovered documents
 - [Haven](haven.md) · [X.T.](x-t.md) · [The Old Knight](../npcs/the-old-knight.md)
 - [The Excavation Site](the-excavation-site.md) — the buried-archive dig may connect to Solace's "not all relics stay buried"
 - [The Seekers](../factions/the-seekers.md) — they man the roadblock at Solace · [High Theocrat Hederick](../npcs/high-theocrat-hederick.md)
+- [Inn of the Last Home](inn-of-the-last-home.md) · [Tika](../npcs/tika.md) · [Otik](../npcs/otik.md)
