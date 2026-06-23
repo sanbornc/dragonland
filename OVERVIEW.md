@@ -62,9 +62,10 @@ toward the records the Black Banners are hunting — see
 
 In the 2026-06-23 session, the party is **traveling through a forest toward
 [Solace](wiki/locations/solace.md)**. They calmed two goblin-wounded bears that
-were chasing a pair of travelers, befriending the bears, and the rescued
-travelers — also Solace-bound — asked for an escort. See
-[Session 03 — The Friendly Bears](sessions/03-2026-06-23-the-friendly-bears.md).
+were chasing a pair of travelers, befriending the bears, and **agreed to escort**
+the rescued travelers — who are chasing answers to many of the same questions the
+party has and want to find the disliked **[High Theocrat Hederick](wiki/npcs/high-theocrat-hederick.md)**.
+See [Session 03 — The Friendly Bears](sessions/03-2026-06-23-the-friendly-bears.md).
 
 ## Major threads
 
