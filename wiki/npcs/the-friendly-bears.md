@@ -10,14 +10,16 @@ first-learned: session 03
 
 ## What we know
 
-- A group of **bears** the party encountered after they had been **attacked by
-  goblins**. (Session 03)
-- The party **healed the wounded bears**, and the bears are now **friendly /
-  well-disposed toward the party.** (Session 03)
+- **Two bears**, first encountered as they were **chasing some travelers**.
+  (Session 03)
+- The bears had been **attacked by goblins**. The party **healed them**, and the
+  bears are now **friendly / well-disposed toward the party.** (Session 03)
 
 ## Open questions
 
-- How many bears, what kind, and where was this?
+- What kind of bears, and where was this?
+- Who were the **travelers** the bears were chasing — relevant to the party, and
+  did the party meet them?
 - Are the attacking goblins the same **Black Banner–hired goblins** seen at the
   tower and excavation site (Session 02), or an unrelated band?
 - Does the bears' goodwill translate into aid — fighting alongside the party,
