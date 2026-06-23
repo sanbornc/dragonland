@@ -77,7 +77,7 @@ sit in the prepared list below.
 
 ## Gear & coin
 - **Notable:** Adamantine Plate, Shield +1, Mace +1, Amulet of Health, Boots of Speed, Cloak of Protection, Ring of Necrotic Resistance
-- **Attuned (3/3):** Amulet of Health, Boots of Speed, Cloak of Protection — the Ring of Necrotic Resistance is currently **not attuned** (attunement caps at 3)
+- **Attuned (3/3):** Amulet of Health, Boots of Speed, Cloak of Protection — the **Ring of Necrotic Resistance needs no attunement** (and can't be attuned), so its necrotic resistance is always active on top of these three
 - **Consumables:** 3× Greater Healing Potion, Potion of Climbing, Potion of Animal Friendship, Holy Water
 - **Other:** Holy Symbol, traveler's gear; a trophy from an animal he killed
 - **Coin:** 1,332 gp, 9 sp
