@@ -31,6 +31,10 @@ first-learned: divine power lore (Boilerdang); session 03
   claimed holy power as fraud — making them an acute danger to a true healer like
   [Boilerdang](../characters/boilerdang-criddlycrotch.md). See
   [Divine power in the world](../lore/divine-power.md).
+- **The party is now in open conflict with them.** At the Solace roadblock, when
+  the **head goblin refused to identify the searchers**, the standoff broke into
+  **combat** — the party is fighting the Seeker roadblock crew. (Session 03,
+  outcome unfolding)
 
 ## Open questions
 

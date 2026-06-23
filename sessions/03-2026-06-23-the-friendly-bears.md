@@ -33,6 +33,10 @@ players-present: [TBC]
   and criminalizing the harboring of heretics, oath-cultists, agitators, and
   fugitives. This confirms **[Hederick](../wiki/npcs/high-theocrat-hederick.md)** rules
   the region's roads through the Seekers.
+- The party **turned the questioning around** and demanded to know **who the
+  searchers were.** When the **head goblin refused to answer**, the standoff broke
+  into **combat** — the party is now **fighting the roadblock crew** (the Seeker
+  goblins and the other person). *(Outcome still unfolding.)*
 
 ## New facts learned
 
@@ -64,12 +68,13 @@ players-present: [TBC]
   **Seekers** / [divine power](../wiki/lore/divine-power.md)?
 - **The travelers' questions** — what are they actually chasing, and how do their
   questions overlap with the party's? — [The Two Travelers](../wiki/npcs/the-two-travelers.md)
-- **The Seeker roadblock** — how does the party get past a search that targets
-  exactly what they carry? **Boilerdang's** holy symbol / real healing = "fraudulent
-  healing" + "false holy symbols"; their **Solamnic** items = contraband; **Vaelor**
-  could read as an "oath-cultist"; and escorting the **Chieftain's daughter** risks
-  a "harboring fugitives/agitators" charge. Comply, hide, bluff, or fight? —
-  [Notice of Road Authority](../wiki/documents/notice-of-road-authority.md)
+- **The roadblock fight (in progress)** — the standoff became combat when the head
+  goblin wouldn't say who they were. How does it end, and at what cost? Do the
+  **friendly bears** or the **travelers** join in?
+- **Open conflict with the Seekers** — the party is now **fighting Hederick's
+  agents at Solace's gate.** That likely marks them as outlaws/heretics to the
+  regime ("transfer to higher authority"). Can they enter Solace after this, and
+  how does it change the plan to reach Hederick? — [The Seekers](../wiki/factions/the-seekers.md)
 - Are the **goblins** that wounded the bears the **same Seeker goblins** at the
   Solace roadblock, the **Black Banner–hired goblins** from the tower/archive
   (Session 02), or a separate band? — [The Friendly Bears](../wiki/npcs/the-friendly-bears.md)
