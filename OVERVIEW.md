@@ -67,9 +67,14 @@ Chieftain's daughter") and **[Riverwind](wiki/npcs/riverwind.md)** — befriendi
 bears, and **agreed to escort** them. The travelers are chasing answers to many of
 the same questions the party has and want to find the disliked
 **[High Theocrat Hederick](wiki/npcs/high-theocrat-hederick.md)**.
-At Solace's entrance they hit a **[Seeker](wiki/factions/the-seekers.md) roadblock** —
-goblins in Seeker symbols, plus another person, searching arrivals.
-See [Session 03 — The Friendly Bears](sessions/03-2026-06-23-the-friendly-bears.md).
+At Solace's entrance they hit a **[Seeker](wiki/factions/the-seekers.md) roadblock**
+and, when the head goblin wouldn't identify the crew, **killed them all**. Recovered
+orders revealed the checkpoint was a **targeted staff-hunt**: **Goldmoon** is a
+**Que-Shu** woman who **carries [the Staff](wiki/items/the-staff.md)** the campaign
+has been circling (the relic that "must not reach [X.T.](wiki/locations/x-t.md)"), to
+be taken alive and the Staff seized intact — run from Solace by
+**[Fewmaster Toede](wiki/npcs/fewmaster-toede.md)** under the High Theocrat's
+authority. See [Session 03 — The Friendly Bears](sessions/03-2026-06-23-the-friendly-bears.md).
 
 ## Major threads
 

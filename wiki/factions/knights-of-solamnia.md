@@ -9,10 +9,11 @@ first-learned: session 02 (2026-06-12)
 ## What we know
 - An old knightly order. **Sir Garreck**, the ghost guardian of the tower archive, was a Knight of Solamnia who died **hundreds of years ago**. (session 02)
 - The order was **charged with guarding the buried archive** beneath the tower. (session 02)
-- Their symbol includes a **rose** — a "faded Solamnic rose" is engraved on the officer's compass recovered from Captain Varek. ([Solamnic Officer's Compass](../items/solamnic-officers-compass.md))
+- Their symbols include a **rose** — a "faded Solamnic rose" is engraved on the officer's compass recovered from Captain Varek ([Solamnic Officer's Compass](../items/solamnic-officers-compass.md)) — and a **kingfisher**: a **broken Solamnic kingfisher brooch** was among the holy items the Seekers had confiscated (Session 03).
 - **Knights have been seen near Solace**, where "not all relics stay buried." ([Ringmaster's Ledger — Back-Cover List](../documents/ringmasters-ledger-back-cover-list.md))
 - The party recovered a **sheet with a hand-sketched sigil of the order** from the archive — a reference for recognizing (or proving) Solamnic allegiance. (session 02)
 - **The order is now treated as contraband / suspect by the Seekers.** Hederick's road notice makes **"Solamnic arms or insignia" subject to mandatory surrender** at Solace's checkpoint — so the party's recovered Solamnic items are at risk. ([Notice of Road Authority](../documents/notice-of-road-authority.md))
+- The Seekers specifically bar **"Solamnic sympathizers" (along with priests and scholars) from [the Staff](../items/the-staff.md)** Goldmoon carries — suggesting Solamnics would recognize or value it. ([Seeker Intercept Orders](../documents/seeker-field-order-toede.md))
 
 ## Open questions
 - Does the order still exist, or did it fall with "the old kingdoms" before the Cataclysm?

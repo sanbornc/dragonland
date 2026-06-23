@@ -33,8 +33,20 @@ first-learned: divine power lore (Boilerdang); session 03
   [Divine power in the world](../lore/divine-power.md).
 - **The party is now in open conflict with them.** At the Solace roadblock, when
   the **head goblin refused to identify the searchers**, the standoff broke into
-  **combat** — the party is fighting the Seeker roadblock crew. (Session 03,
-  outcome unfolding)
+  **combat** — and the party **killed the entire roadblock crew** (≈7 goblins plus
+  the human [Pellan Voss](../npcs/pellan-voss.md)). (Session 03)
+- **Their insignia is a sunburst** (a Seeker-marked **cloak clasp shaped like a
+  sunburst** was recovered), and the High Theocrat's office issues **brass authority
+  tokens.** (Session 03)
+- They **confiscate holy items**: the crew's lock box held confiscated holy trinkets,
+  a **wooden symbol of [Mishakal](../lore/mishakal.md) labeled "false god token,"**
+  and a **broken Solamnic kingfisher brooch.** (Session 03)
+- **The roadblock was a staff-hunt.** Recovered orders show the Seekers were hunting
+  **[Goldmoon](../npcs/goldmoon.md)** (a Que-Shu woman) and **[Riverwind](../npcs/riverwind.md)**
+  to **seize [the Staff](../items/the-staff.md) intact** — run by **[Fewmaster Toede](../npcs/fewmaster-toede.md)**
+  from Solace, **"by authority of the High Theocrat's office."** They specifically
+  bar **priests, scholars, and Solamnic sympathizers** from the object.
+  ([intercept orders](../documents/seeker-field-order-toede.md))
 
 ## Open questions
 
@@ -51,6 +63,8 @@ first-learned: divine power lore (Boilerdang); session 03
 ## See also
 
 - [Notice of Road Authority](../documents/notice-of-road-authority.md) — their checkpoint notice ·
+  [Seeker Intercept Orders](../documents/seeker-field-order-toede.md) — the staff-hunt orders ·
+  [Fewmaster Toede](../npcs/fewmaster-toede.md) · [Mishakal](../lore/mishakal.md) ·
   [Divine power in the world](../lore/divine-power.md) ·
   [High Theocrat Hederick](../npcs/high-theocrat-hederick.md) ·
   [Solace](../locations/solace.md) ·

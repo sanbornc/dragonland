@@ -43,7 +43,22 @@ players-present: [TBC]
   with the radiant aura. (Note: this is an **open display of true divine power
   against Seeker agents** — exactly the "fraudulent healing / false holy" heresy
   their [notice](../wiki/documents/notice-of-road-authority.md) condemns.)
-  *(Outcome still unfolding.)*
+- **The party killed the entire roadblock crew** — ≈7 goblins plus the human
+  **[Pellan Voss](../wiki/npcs/pellan-voss.md)**. No survivors.
+- **Loot recovered** and pooled in the [wagon](../wiki/items/party-wagon.md):
+  coin (+27 gp, +69 sp, +31 cp), bulk goblin weapons/armor, a **Hederick authority
+  token**, a **Seeker sunburst clasp**, a bone whistle, checkpoint lanterns, Voss's
+  rapier, and a lock box of confiscated holy items (a **[Mishakal](../wiki/lore/mishakal.md)
+  "false god token,"** a **Solamnic kingfisher brooch**, holy trinkets, healing
+  herbs, brandy) — plus **three intercept orders.**
+- **Major reveal — the intercept orders** ([transcribed here](../wiki/documents/seeker-field-order-toede.md)):
+  the roadblock was a **targeted staff-hunt.** **[Goldmoon](../wiki/npcs/goldmoon.md)**
+  (a **Que-Shu** woman) **carries [the Staff](../wiki/items/the-staff.md)** — the
+  sought-after relic that "must not reach [X.T.](../wiki/locations/x-t.md)" — and is
+  to be **taken alive, the Staff seized intact**; **[Riverwind](../wiki/npcs/riverwind.md)**
+  (the "tall plainsman") is "expendable." It's run by **[Fewmaster Toede](../wiki/npcs/fewmaster-toede.md)**
+  **from Solace**, "by authority of the High Theocrat's office," and orders crews to
+  **keep priests, scholars, and Solamnic sympathizers away** from the Staff.
 
 ## New facts learned
 
@@ -66,6 +81,20 @@ players-present: [TBC]
   mandatory surrender of relics, false holy symbols, foreign magic, Solamnic
   arms/insignia, and fraudulent-healing items; harboring heretics/fugitives
   punishable. — [Notice of Road Authority](../wiki/documents/notice-of-road-authority.md)
+- **The Staff** — Goldmoon carries the sought-after Staff (wrapped in cloth/leather);
+  the Seekers want it seized intact. — [The Staff](../wiki/items/the-staff.md)
+- **Goldmoon is Que-Shu** — "the Chieftain's daughter" of the **Que-Shu** people;
+  the manhunt wants her alive. — [Goldmoon](../wiki/npcs/goldmoon.md)
+- **Riverwind** — the "tall plainsman," deemed "expendable." — [Riverwind](../wiki/npcs/riverwind.md)
+- **Fewmaster Toede** — commands the staff-hunt from Solace, under the High
+  Theocrat's authority; answers to scarier masters ("sharper teeth"). —
+  [Fewmaster Toede](../wiki/npcs/fewmaster-toede.md)
+- **Pellan Voss** — the human leading the roadblock crew; killed. —
+  [Pellan Voss](../wiki/npcs/pellan-voss.md)
+- **Mishakal** — a god the Seekers brand "false"; a wooden Mishakal token was among
+  their confiscated holy items. — [Mishakal](../wiki/lore/mishakal.md)
+- **Seeker intercept orders** — three recovered notes detailing the staff-hunt. —
+  [Seeker Intercept Orders](../wiki/documents/seeker-field-order-toede.md)
 
 ## Loose threads
 
@@ -75,14 +104,20 @@ players-present: [TBC]
   **Seekers** / [divine power](../wiki/lore/divine-power.md)?
 - **The travelers' questions** — what are they actually chasing, and how do their
   questions overlap with the party's? — [The Two Travelers](../wiki/npcs/the-two-travelers.md)
-- **The roadblock fight (in progress)** — the standoff became combat when the head
-  goblin wouldn't say who they were. How does it end, and at what cost? Do the
-  **travelers (Goldmoon & Riverwind)** join in? *(The friendly bears are **not**
-  present — they retreated into the woods before Solace.)*
-- **Open conflict with the Seekers** — the party is now **fighting Hederick's
-  agents at Solace's gate.** That likely marks them as outlaws/heretics to the
-  regime ("transfer to higher authority"). Can they enter Solace after this, and
-  how does it change the plan to reach Hederick? — [The Seekers](../wiki/factions/the-seekers.md)
+- **The roadblock fight — won.** The party killed the whole crew (≈7 goblins +
+  Voss), no survivors. *(The friendly bears were not present.)* Did Goldmoon or
+  Riverwind reveal anything during/after the fight?
+- **The Staff manhunt** — the party now knows Goldmoon is hunted for the Staff. Do
+  they tell the travelers what the orders say? How do they protect Goldmoon/the
+  Staff from Toede, who is **in Solace** and expecting a report?
+- **Toede's masters** — who are the "people with sharper teeth"? Tie to X.T., the
+  Black Banners, or the Seekers' top? — [Fewmaster Toede](../wiki/npcs/fewmaster-toede.md)
+- **What is the Staff?** — the Seekers keep priests/scholars/Solamnics from it, so
+  those are the people who could explain it. Boilerdang (a true priest) and the
+  party's Solamnic finds may be the key. — [The Staff](../wiki/items/the-staff.md)
+- **Entering Solace after a gate massacre** — the party wiped out a checkpoint run by
+  the High Theocrat's office. Can they get in, and how does Toede react to losing the
+  crew? — [The Seekers](../wiki/factions/the-seekers.md)
 - Are the **goblins** that wounded the bears the **same Seeker goblins** at the
   Solace roadblock, the **Black Banner–hired goblins** from the tower/archive
   (Session 02), or a separate band? — [The Friendly Bears](../wiki/npcs/the-friendly-bears.md)
