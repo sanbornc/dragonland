@@ -21,6 +21,26 @@ professional hunters known as **"Boilerdang and his Biatches"** (the party).
 - Keeps his past close to the chest; shares little about his backstory.
 - **Ultimate goal:** to free his homeland from the tyranny of its oppressors.
 
+## The nature of his power (GM background)
+As the campaign begins, Boilerdang has started to feel that something is changing
+— his prayers no longer feel empty, and his magic answers. (GM background)
+- His divine magic genuinely **works**, which in this world is almost unheard of.
+  Most people believe **true divine power vanished centuries ago**. (GM background)
+- Mundane healing still exists — herbs, skill, rest, potions, rare arcane magic —
+  but **true holy healing** (wounds closing through prayer, disease lifting by
+  divine grace, life returning because a god *answered*) is something most people
+  have never seen. (GM background)
+- That makes real healing **dangerous**: some would worship it, some would fear
+  it, and some would call it fraud, witchcraft, or heresy. (GM background)
+- False priests and **Seekers** still claim religious authority, but they cannot
+  perform real miracles. (GM background)
+- Boilerdang may not fully understand *why* his power answers when others' prayers
+  do not — he might attribute it to faith, discipline, luck, an old spirit, or a
+  god whose name he is only beginning to recognize. (GM background)
+- This makes him, in the world's terms, a true **[miracle-bearer](../lore/miracle-bearers.md)**
+  — exactly the rare and dangerous thing the [Ringmaster](../npcs/the-ringmaster.md)
+  traffics as "special cargo." See also [Divine power in the world](../lore/divine-power.md).
+
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~80 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)
 - **Speed** 30 ft, plus a climbing speed; Boots of Speed for doubling
@@ -55,3 +75,5 @@ sit in the prepared list below.
 
 ## See also
 - [Dragonland — Campaign Overview](../../OVERVIEW.md) — the party roster
+- [Divine power in the world](../lore/divine-power.md) — why his magic is rare and dangerous
+- [Miracle-bearers](../lore/miracle-bearers.md) · [The Ringmaster](../npcs/the-ringmaster.md)
