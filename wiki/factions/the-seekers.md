@@ -66,6 +66,7 @@ first-learned: divine power lore (Boilerdang); session 03
 
 ## See also
 
+- [The Silent Gods & the Seekers](../quests/the-silent-gods.md) · [The Staff & Goldmoon](../quests/the-staff-and-goldmoon.md) — the active quests
 - [Notice of Road Authority](../documents/notice-of-road-authority.md) — their checkpoint notice ·
   [Seeker Intercept Orders](../documents/seeker-field-order-toede.md) — the staff-hunt orders ·
   [Fewmaster Toede](../npcs/fewmaster-toede.md) · [Mishakal](../lore/mishakal.md) ·

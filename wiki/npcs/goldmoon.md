@@ -36,6 +36,7 @@ first-learned: session 03
 
 ## See also
 
+- [The Staff & Goldmoon](../quests/the-staff-and-goldmoon.md) — the active quest
 - [The Two Travelers](the-two-travelers.md) · [Riverwind](riverwind.md)
 - [The Staff](../items/the-staff.md) — she carries it · [Fewmaster Toede](fewmaster-toede.md) — hunting her for it
 - [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md) · [Solace](../locations/solace.md)

@@ -91,8 +91,13 @@ authority. See [Session 03 — The Friendly Bears](sessions/03-2026-06-23-the-fr
   its commander, **S. Valane**. See [The Buried Archive](wiki/quests/the-buried-archive.md).
 - **The Ringmaster's cargo** — smuggled "miracle-bearers" and hidden relics.
   See [The Ringmaster](wiki/npcs/the-ringmaster.md).
-- **The Staff and X.T.** — a Staff that must not reach the unspoken site "X.T."
-  See [The Staff](wiki/items/the-staff.md) and [X.T.](wiki/locations/x-t.md).
+- **The Staff & Goldmoon** — the party is escorting Goldmoon, who carries the
+  sought-after Staff (which "must not reach X.T."), while the Seekers hunt it.
+  See [The Staff & Goldmoon](wiki/quests/the-staff-and-goldmoon.md) and
+  [X.T.](wiki/locations/x-t.md).
+- **The silent gods & the Seekers** — true divine power is thought long dead, yet
+  Boilerdang's works; the theocratic Seekers brand all such power heresy. See
+  [The Silent Gods & the Seekers](wiki/quests/the-silent-gods.md).
 
 ## Key places
 

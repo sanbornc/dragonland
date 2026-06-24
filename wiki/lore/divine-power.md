@@ -37,6 +37,7 @@ first-learned: GM background (Boilerdang)
 - Is Boilerdang's power tied to a specific god, an "old spirit," or something else?
 
 ## See also
+- [The Silent Gods & the Seekers](../quests/the-silent-gods.md) — the active quest
 - [Boilerdang Criddlycrotch](../characters/boilerdang-criddlycrotch.md) ·
   [Miracle-bearers](miracle-bearers.md) ·
   [The Ringmaster](../npcs/the-ringmaster.md) ·

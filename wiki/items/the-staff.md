@@ -20,5 +20,6 @@ first-learned: recovered documents
 - Is it connected to the "relics" said to be buried near Solace, or to the recovered arcane schematic?
 
 ## See also
+- [The Staff & Goldmoon](../quests/the-staff-and-goldmoon.md) — the active quest
 - [Goldmoon](../npcs/goldmoon.md) — she carries it · [Seeker Field Order — Toede to Voss](../documents/seeker-field-order-toede.md)
 - [Fewmaster Toede](../npcs/fewmaster-toede.md) — hunting it · [X.T.](../locations/x-t.md) · [The Buyer](../npcs/the-buyer.md) · [Arcane Schematic — Eight-Armed Wheel](../documents/arcane-schematic-wheel.md)
