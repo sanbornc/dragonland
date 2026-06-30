@@ -17,8 +17,9 @@ players-present: [TBC]
 > goblins** converging, the party **fled Solace into the woods** — Staff, travelers, and a
 > captive theocrat in tow.
 >
-> **XP (per D&D Beyond sheets, end of Session 04):** **28,800** — Boilerdang, Renob,
-> Malix (+800); **28,540** — Vaelor, Pip (+540). Still **level 7** (level 8 at 34,000).
+> **XP (end of Session 04):** **28,800** for the whole party (+800), still **level 7**
+> (level 8 at 34,000). *Note: Vaelor & Pip's D&D Beyond sheets read 28,540 — they missed
+> 260 of the award and need **+260 each** added on their sheets to reach 28,800.*
 
 ## Recap
 

@@ -27,8 +27,9 @@ so it can't be stacked with another concentration spell like Spirit Guardians.
 The party is a band of professional hunters who call themselves
 **"Boilerdang and his Biatches,"** led by Boilerdang Criddlycrotch.
 
-**Party XP:** as of end of Session 04 — **28,800** (Boilerdang, Renob, Malix) /
-**28,540** (Vaelor, Pip). Still **level 7**; level 8 at 34,000 (~5,200 to go).
+**Party XP:** **28,800** as of end of Session 04 (level 7; level 8 at 34,000,
+~5,200 to go). *(Vaelor & Pip were 260 behind on their D&D Beyond sheets — a missed
+award; their sheets need +260 each to reach 28,800.)*
 
 - **Boilerdang Criddlycrotch** — Human Cleric 7 (Life Domain), the party's
   leader. See [Boilerdang Criddlycrotch](wiki/characters/boilerdang-criddlycrotch.md).
