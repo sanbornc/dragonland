@@ -264,7 +264,11 @@ players-present: [TBC]
   the bound, barely-living High Theocrat into the [wagon](../wiki/items/party-wagon.md)**,
   and **the party retreats into the woods with the wagon(s), following [Goldmoon](../wiki/npcs/goldmoon.md)
   & [Riverwind](../wiki/npcs/riverwind.md).** They leave Solace behind with the Staff, the
-  travelers, and a captive theocrat — and a dead High Theocrat's whole regime in chaos.
+  travelers, and a captive theocrat.
+- **On the way out, Boilerdang gave [Tika](../wiki/npcs/tika.md) 50 gp (from party funds)
+  to cover the damages** to the [Inn of the Last Home](../wiki/locations/inn-of-the-last-home.md).
+  A decent gesture toward a friend whose inn just hosted a fire, a brawl, and a dead
+  theocrat. **Party gold: 1,383 → 1,333 gp.**
 
 ## New facts learned
 

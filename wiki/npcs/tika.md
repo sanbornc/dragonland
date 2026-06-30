@@ -21,8 +21,11 @@ first-learned: session 03
   (Session 04)
 - **She helped the party escape.** When the inn brawl drew **18+ goblins** converging on
   the [Inn of the Last Home](../locations/inn-of-the-last-home.md), Tika **told the party
-  to go out the back door** — giving them an escape route. A friend who covered for them
-  even after a theocrat died in her common room. (Session 04)
+  to go out the back door** (and pointed out a **trap-door rope route** down) — giving them
+  escape routes. A friend who covered for them even after a theocrat died in her common room.
+  (Session 04)
+- **The party paid her back.** On their way out, [Boilerdang](../characters/boilerdang-criddlycrotch.md)
+  **gave Tika 50 gp (from party funds) to cover the damages** to the inn. (Session 04)
 
 ## Open questions
 

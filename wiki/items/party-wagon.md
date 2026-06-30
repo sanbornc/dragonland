@@ -64,6 +64,15 @@ should be updated to match.**
   [Fewmaster Toede](../npcs/fewmaster-toede.md) should believe it was infighting —
   not the party. (Session 03)
 
+## Session 04 — Solace / Inn of the Last Home
+- **Coin spent:** **−50 gp** — [Boilerdang](../characters/boilerdang-criddlycrotch.md) paid
+  **[Tika](../npcs/tika.md)** 50 gp from party funds to cover damages to the
+  [Inn of the Last Home](../locations/inn-of-the-last-home.md) on the way out. New party
+  total: **1,333 gp, 293 sp, 150 cp.** (Session 04)
+- **Passenger (not loot):** **[High Theocrat Hederick](../npcs/high-theocrat-hederick.md)** —
+  killed, revived twice, and now **bound captive** riding in the wagon as the party flees
+  Solace. (Session 04)
+
 ## Open questions
 - Exact capacity and any limits (described only as "similar to a bag of holding").
 - Does the wagon have a name?
