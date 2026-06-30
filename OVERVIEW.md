@@ -78,6 +78,18 @@ be taken alive and the Staff seized intact — run from Solace by
 **[Fewmaster Toede](wiki/npcs/fewmaster-toede.md)** under the High Theocrat's
 authority. See [Session 03 — The Friendly Bears](sessions/03-2026-06-23-the-friendly-bears.md).
 
+In the 2026-06-30 session, the party reached the **[Inn of the Last Home](wiki/locations/inn-of-the-last-home.md)**
+in Solace and found **[High Theocrat Hederick](wiki/npcs/high-theocrat-hederick.md)** drinking
+there. **Goldmoon sang [The Song of Riverwind](wiki/documents/song-of-riverwind.md)**, revealing
+**[the Staff](wiki/items/the-staff.md)** is a **blue, ice-bright healing relic** (it heals by
+touch and once flared blue to teleport Goldmoon & Riverwind from a stoning), and that the wizard
+**[Fizban](wiki/npcs/fizban.md)** — who knows the Staff intimately — is in play. A drunken Hederick
+fell in the inn's fire, was **healed by the Staff, rejected it as "blasphemy,"** and turned hostile;
+in the brawl that followed Boilerdang **killed, revived, (after a suicide leap) revived again, and
+bound** him. With **18+ goblins** converging, the party **fled Solace into the woods** with the
+Staff, the travelers, and a **captive Hederick** — now fugitives who killed/abducted the regional
+theocrat. See [Session 04 — The Inn of the Last Home](sessions/04-2026-06-30-the-inn-of-the-last-home.md).
+
 ## Major threads
 
 - **The gathering war** — unmarked black-banner armies massing eastward.

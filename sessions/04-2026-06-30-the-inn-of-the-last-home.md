@@ -6,10 +6,16 @@ players-present: [TBC]
 
 # Session 04 — The Inn of the Last Home
 
-> **Session in progress.** Picks up from the Solace gate (end of Session 03):
-> the party, escorting [Goldmoon](../wiki/npcs/goldmoon.md) and
-> [Riverwind](../wiki/npcs/riverwind.md), heads into Solace toward the
-> [Inn of the Last Home](../wiki/locations/inn-of-the-last-home.md).
+> **Session concluded.** The party reached the [Inn of the Last Home](../wiki/locations/inn-of-the-last-home.md)
+> in [Solace](../wiki/locations/solace.md), got on the good side of **[High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md)**
+> with a round of drinks, and heard **[Goldmoon](../wiki/npcs/goldmoon.md)** sing **[The Song of
+> Riverwind](../wiki/documents/song-of-riverwind.md)** — revealing the blue, healing
+> **[Staff](../wiki/items/the-staff.md)** and the travelers' backstory. The wizard **[Fizban](../wiki/npcs/fizban.md)**
+> revealed himself; a drunken Hederick fell in the fire, was healed by the Staff, rejected it
+> as "blasphemy," and turned hostile. In the brawl that followed, Boilerdang **killed, revived,
+> (after Hederick's suicide leap) revived again, and bound** the High Theocrat. With **18+
+> goblins** converging, the party **fled Solace into the woods** — Staff, travelers, and a
+> captive theocrat in tow.
 
 ## Recap
 
@@ -236,6 +242,29 @@ players-present: [TBC]
   nat-1 of the night.)
 - **[Pip](../wiki/characters/pip-tumblewhistle.md) kills the two fleeing goblins** —
   cleaning up the retreaters.
+- **[Malix](../wiki/characters/malix.md) attacks goblins for damage — no kills.**
+- **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) moves down the stairs and
+  whiffs on the lead goblin with both attacks** (Spiritual Weapon + Toll the Dead).
+- **⚰️ Hederick jumps from the tree and kills himself.** Revived at 1 HP and refusing to
+  live as a captive of "blasphemers" — or as living proof that true divine power exists —
+  **[Hederick](../wiki/npcs/high-theocrat-hederick.md) hurled himself from the vallenwood
+  and died** (any fall is lethal at 1 HP). The fanatic who burned his own arm rather than
+  accept the Staff's healing now **chose death over the party's mercy**, taking with him
+  whatever the [travelers](../wiki/npcs/the-two-travelers.md) hoped to learn from him. The
+  party's leverage and information source is **gone by his own hand.**
+- **[Pip](../wiki/characters/pip-tumblewhistle.md) moved to the back of the inn to take the
+  trapdoor down** — heading for the same rope route to the ground.
+- **[Malix](../wiki/characters/malix.md) pops out from cover, hits the back two goblins —
+  killing one and bloodying the other — then ducks back to cover.** Clean hit-and-run.
+- **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) kills the goblin at the top
+  of the stairs; the one below it runs, slips on the wrecked stairway, falls and dies —
+  ending the fight.** (Vaelor's botched-javelin hazard terrain claimed the last goblin.)
+- **Escape complete.** Boilerdang rappels down, **revives [Hederick](../wiki/npcs/high-theocrat-hederick.md)
+  a second time** — and this time **ties him up** so he can't kill himself again — **loads
+  the bound, barely-living High Theocrat into the [wagon](../wiki/items/party-wagon.md)**,
+  and **the party retreats into the woods with the wagon(s), following [Goldmoon](../wiki/npcs/goldmoon.md)
+  & [Riverwind](../wiki/npcs/riverwind.md).** They leave Solace behind with the Staff, the
+  travelers, and a captive theocrat — and a dead High Theocrat's whole regime in chaos.
 
 ## New facts learned
 
@@ -312,15 +341,15 @@ players-present: [TBC]
 - **How does Goldmoon react to Fizban taking and using her Staff** in public, on
   Hederick of all people? *(She asked for it back and Boilerdang returned it — but does
   she trust Fizban now, and does she confront him over it?)* — [Goldmoon](../wiki/npcs/goldmoon.md) · [Fizban](../wiki/npcs/fizban.md)
-- **Hederick: killed, then revived — now what?** Boilerdang killed him, then **brought him
-  back at 1 HP with Revivify.** The party holds a **living, captive High Theocrat.** Why
-  keep him — interrogation, hostage, a bargaining chip with the Seekers? Does he talk or
-  spite them? And what's the **fallout** of a public, witnessed theocrat-killing in
-  Solace, regardless of the revive? How do the [Seekers](../wiki/factions/the-seekers.md),
-  his superiors, and [Toede](../wiki/npcs/fewmaster-toede.md) react?
-- **The travelers can still get their answers — from a revived Hederick.** Goldmoon &
-  Riverwind came to question him; he's alive again and in the party's custody. Do they
-  interrogate him? — [The Two Travelers](../wiki/npcs/the-two-travelers.md)
+- **Hederick is the party's bound captive** (killed → revived → suicide → revived again &
+  tied up, in the [wagon](../wiki/items/party-wagon.md)). **Will he talk** — about the Staff,
+  the staff-hunt, [Toede](../wiki/npcs/fewmaster-toede.md)'s masters, the Seekers — or keep
+  trying to die? He's the **information source the travelers crossed the country for.**
+- **Fallout in Solace:** the party killed and **abducted** the regional High Theocrat and
+  fled into the woods. They are now **fugitives in earnest** — manhunt, a successor, and
+  [Toede](../wiki/npcs/fewmaster-toede.md)'s response all loom. Does word of a theocrat
+  healed/raised/kidnapped by true divine power **shake or martyr** the
+  [Seekers](../wiki/factions/the-seekers.md)? — [The Silent Gods & the Seekers](../wiki/quests/the-silent-gods.md)
 - **Reinforcements still inbound.** Goblins up the stairs + two groups approaching — the
   fight isn't over even with Hederick dead. Hold and grind, or extract with Goldmoon and
   the Staff?

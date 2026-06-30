@@ -36,9 +36,11 @@ The pair the party rescued and is escorting to Solace. This page holds their
 
 ## Open questions
 
-- **They came to Solace to find Hederick for information — the party killed him, then
-  revived him (Session 04).** So their information source is **alive again and in the
-  party's hands** at 1 HP. Will Goldmoon & Riverwind get to **question** him? Will he talk?
+- **They came to Solace to find Hederick for information — and the party is now hauling him
+  along bound and alive (Session 04).** He was killed, revived, suicided, and **revived a
+  second time and tied up in the [wagon](../items/party-wagon.md).** Their information
+  source rides with them as a captive — if he can be made to talk. Both travelers **fled
+  into the forest with the Staff**, the party following.
 - What exactly are the questions Goldmoon and Riverwind are chasing, and how do they
   overlap with the party's?
 - **Who is the Chieftain** (Goldmoon's father), and of what people/tribe/clan? How

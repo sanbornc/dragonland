@@ -2,17 +2,19 @@
 name: High Theocrat Hederick
 aliases: [Hederick]
 type: npc
-tags: [religion, authority, solace]
-status: alive (revived)
+tags: [religion, authority, solace, captive]
+status: alive — bound captive in the party's wagon
 first-learned: session 03
 ---
 
 # High Theocrat Hederick
 
-> **Status: ALIVE — but only just** (Session 04). [Boilerdang](../characters/boilerdang-criddlycrotch.md)
-> **killed** him with Spiritual Weapon, then **brought him back with Revivify at 1 HP.**
-> He has now been **healed, killed, and raised** by the true divine power he calls
-> blasphemy — and is presumably in the party's hands as leverage / a source of answers.
+> **Status: ALIVE — the party's bound prisoner** (end of Session 04). Across one night he
+> was **healed by the Staff (refused) → killed by Spiritual Weapon → revived → leapt to his
+> death → revived again and tied up.** [Boilerdang](../characters/boilerdang-criddlycrotch.md)
+> brought him back a **second** time and **restrained him** so he can't suicide again, then
+> loaded him into the **[party wagon](../items/party-wagon.md)**. Solace's deposed High
+> Theocrat now travels with the party as a captive — and a potential source of answers.
 
 ## What we know
 
@@ -66,17 +68,30 @@ first-learned: session 03
   local [Seekers](../factions/the-seekers.md), author of the staff-hunt — was **killed
   by true divine power**, the very thing he called blasphemy. (Session 04)
 - **🔄 …then Boilerdang revived him.** Minutes later, mid-escape, Boilerdang **cast
-  Revivify and brought Hederick back at 1 HP.** He is **alive again** — thrice-touched now
-  by true divine power (Staff-healed → slain → raised). Almost certainly kept alive on
-  purpose: **leverage, a hostage, or the very information source the [travelers](the-two-travelers.md)
-  came to Solace to question.** (Session 04)
+  Revivify and brought Hederick back at 1 HP** — as leverage / a captive / the
+  [travelers](the-two-travelers.md)' information source. (Session 04)
+- **⚰️ …he killed himself…** At 1 HP, Hederick **threw himself from the vallenwood tree and
+  died** — choosing death over being a prisoner of "blasphemers" and over living as proof
+  that the divine power he denounced is real. (Session 04)
+- **…and Boilerdang revived him a SECOND time, bound, in the wagon.** Wise to the suicide,
+  Boilerdang **cast Revivify again**, **tied him up** so he can't repeat it, and **loaded
+  him into the [party wagon](../items/party-wagon.md).** As the party flees Solace into the
+  woods, Hederick rides with them — **a restrained, living captive**, and the travelers'
+  shot at answers after all. (Session 04)
 
 ## Open questions
 
-- **What information did he have that the travelers (and the party) wanted?** Killed and
-  then **revived**, he can still be **questioned** — the party now holds a living (barely)
-  High Theocrat. Will [Goldmoon & Riverwind](the-two-travelers.md) get their answers from
-  him after all? Will he talk, or die spiting them?
+- **Will he talk?** Bound, revived twice against his will, and riding in the party's wagon,
+  Hederick is the **information source the [travelers](the-two-travelers.md) crossed
+  dangerous country to find.** He tried to die rather than be taken — will he answer
+  anything, or keep seeking a way to end himself? What does he actually know (about the
+  Staff, the staff-hunt, [Toede](fewmaster-toede.md)'s masters, the [Seekers](../factions/the-seekers.md))?
+- **What does it all *mean* for the Seekers?** Their High Theocrat would rather die than
+  accept a miracle — and is now a kidnapped prisoner of true divine power. Does word of
+  this shake or martyr the faith? — see [The Silent Gods & the Seekers](../quests/the-silent-gods.md)
+- **Fallout in Solace:** the party killed/abducted the regional theocrat and fled. A
+  manhunt, a successor, [Toede](fewmaster-toede.md)'s response? They are now fugitives in
+  earnest.
 - **What are the consequences of killing the regional High Theocrat?** How do the
   [Seekers](../factions/the-seekers.md) — and his superiors / [Toede](fewmaster-toede.md)
   — react when Solace's theocrat turns up dead in a burned-up inn brawl? Does the room

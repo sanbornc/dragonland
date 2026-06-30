@@ -55,12 +55,14 @@ As the campaign begins, Boilerdang has started to feel that something is changin
   [Hederick](../npcs/high-theocrat-hederick.md) from the fire and **healed him with
   [Goldmoon](../npcs/goldmoon.md)'s blue [Staff](../items/the-staff.md)** — only for
   Hederick to reject the cure as "blasphemy." When the High Theocrat turned hostile and
-  refused a final surrender, Boilerdang **killed him with Spiritual Weapon** — then,
-  minutes later mid-escape, **revived him with Revivify at 1 HP.** A true cleric **healed,
-  slew, and raised** Solace's chief denier of true divine power, keeping him alive as
-  **leverage / a prisoner** (and a possible answer to what the [travelers](../npcs/the-two-travelers.md)
-  sought). This is **far louder exposure than Session 03**: a room of townsfolk saw his
-  magic heal, kill, and resurrect.
+  refused a final surrender, Boilerdang **killed him with Spiritual Weapon**, **revived him
+  with Revivify**, watched him **leap to his death** rather than be taken, then **revived
+  him a second time, tied him up, and loaded him into the [wagon](../items/party-wagon.md)**
+  as a bound prisoner. So Boilerdang **healed, slew, raised, and (after his suicide) raised
+  again** Solace's chief denier of true divine power — and now hauls him along as a captive.
+  This is **far louder exposure than Session 03**: a room of townsfolk saw his magic heal,
+  kill, and resurrect the High Theocrat (twice). The party left Solace as fugitives with a
+  kidnapped theocrat.
 
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~80 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)
