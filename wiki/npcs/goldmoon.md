@@ -26,6 +26,25 @@ first-learned: session 03
   set the Solace ambush specifically to intercept her. (Session 03)
 - For the **shared story** (the rescue, the escort, seeking Hederick), see
   [The Two Travelers](the-two-travelers.md).
+- **She knows the Staff is dangerous to be seen with.** In the [Inn of the Last Home](../locations/inn-of-the-last-home.md),
+  when the staff came up in conversation, she **tried to avoid notice** — head down,
+  not drawing attention. She is aware she carries it and that the association is a
+  liability, even if she doesn't know the full scope of the manhunt. (Session 04)
+- **Her backstory, from [The Song of Riverwind](../documents/song-of-riverwind.md)**
+  (which she sang at the inn — Session 04): she is "the princess," the chieftain's
+  daughter, and **loves [Riverwind](riverwind.md), "a poor man's son."** Her father
+  **opposed the match** and sent Riverwind east on a quest for "strong magic." When
+  Riverwind returned with the **blue Staff** and the tribe condemned him to **stoning**,
+  **she joined him** — and **the Staff flared blue and made them both vanish**, carrying
+  them out of the grasslands.
+- **She can sing**, and did so publicly at the inn at an unnamed wizard's invitation —
+  performing the very ballad of her own story, which [Hederick](high-theocrat-hederick.md)
+  heard without recognizing her. (Session 04)
+- **Her Staff was taken and used without her willing consent.** When Hederick fell into
+  the fire, the [lute-wizard](the-lute-wizard.md) **produced her [Staff](../items/the-staff.md)** —
+  **not given up willingly by Goldmoon** — and handed it to [Boilerdang](../characters/boilerdang-criddlycrotch.md),
+  who healed Hederick with it. The relic she has guarded was wielded in public, on the
+  man hunting it, against her wishes. Her reaction is an open question. (Session 04)
 
 ## Open questions
 

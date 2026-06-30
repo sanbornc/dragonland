@@ -51,6 +51,10 @@ first-learned: divine power lore (Boilerdang); session 03
   from Solace, **"by authority of the High Theocrat's office."** They specifically
   bar **priests, scholars, and Solamnic sympathizers** from the object.
   ([intercept orders](../documents/seeker-field-order-toede.md))
+- **The hunt has moved inside the town.** Per [Tika](../npcs/tika.md), the Seekers are
+  now **going door to door through Solace searching for the staff** — the search has
+  escalated from a single road checkpoint to a **house-by-house sweep**, alongside
+  broader **military actions and checkpoints** clamping down on the town. (Session 04)
 
 ## Open questions
 

@@ -17,6 +17,8 @@ first-learned: session 03
 - Famous for its **spiced potatoes**, the best around, made by Otik. (Session 03)
 - **Tika is a friend of the party** and the **best source for the going-ons in
   Solace** — the place to go for local news. (Session 03)
+- **Two [Seeker](../factions/the-seekers.md) goblin guards are posted outside the
+  inn.** When the party entered, they **ignored them** — no challenge. (Session 04)
 
 ## Open questions
 

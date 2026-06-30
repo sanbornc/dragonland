@@ -20,6 +20,13 @@ first-learned: recovered documents
   **[Otik](../npcs/otik.md)** (cook / co-owner, famed for his spiced potatoes).
   **Tika is the party's best source for local news and the going-ons in Solace.**
   (Session 03)
+- **The town is under a tightening clamp.** As of Session 04, [Tika](../npcs/tika.md)
+  reports Solace has changed — **military actions and checkpoints**, and the
+  **[Seekers](../factions/the-seekers.md) going door to door searching for a staff**
+  ([the Staff](../items/the-staff.md) [Goldmoon](../npcs/goldmoon.md) carries). Goblin
+  guards are even posted **outside the Inn of the Last Home.** (Session 04)
+- **[High Theocrat Hederick](../npcs/high-theocrat-hederick.md) is in town** — found
+  drinking at the Inn of the Last Home. (Session 04)
 
 ## Open questions
 - Is "Selace" a variant spelling or a different place?

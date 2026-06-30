@@ -20,11 +20,23 @@ first-learned: session 03
   to be taken **alive.** (Session 03)
 - For the **shared story** (the rescue, the escort, seeking Hederick), see
   [The Two Travelers](the-two-travelers.md).
+- **His story, from [The Song of Riverwind](../documents/song-of-riverwind.md)**
+  (Session 04): he is **"a poor man's son"** who **loves [Goldmoon](goldmoon.md)**, the
+  chieftain's daughter. The chief, opposing the match, **sent him east** "to search for
+  strong magic at the lip of the morning" — a quest / bride-price. He **returned changed**
+  — "darkness of stone in his eyes" — **carrying the blue [Staff](../items/the-staff.md).**
+- **He is the one who found / brought back the Staff.** The tribe **mocked his claim**
+  and the chief **ordered him stoned**; as Goldmoon joined him, the **Staff flared blue
+  and the two vanished.** (Session 04)
 
 ## Open questions
 
-- Is Riverwind also **Que-Shu**, or from another plains people? What's his role and
-  his relationship to Goldmoon?
+- Is Riverwind also **Que-Shu**, or from another plains people? (The song places him in
+  the same grasslands as Goldmoon.) What's his role and his relationship to Goldmoon?
+  **(Answered Session 04: they are lovers; he is "a poor man's son," she the chief's
+  daughter.)**
+- **What did he find "at the lip of the morning,"** and what gave him "darkness of
+  stone in his eyes"? Where did the Staff come from?
 - What answers is he seeking, and why from [Hederick](high-theocrat-hederick.md)?
 
 ## See also

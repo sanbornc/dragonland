@@ -15,6 +15,10 @@ first-learned: session 03
 - **A friend of the party.** (Session 03)
 - **The most likely person to know the going-ons in Solace** — the party's best
   local source for news and rumor. (Session 03)
+- **She came through on that.** On the party's arrival she told them **the [Seekers](../factions/the-seekers.md)
+  are going door to door through town searching for a staff**, and that **Solace has
+  changed** — **military actions and checkpoints**, the town under a tightening clamp.
+  (Session 04)
 
 ## Open questions
 
