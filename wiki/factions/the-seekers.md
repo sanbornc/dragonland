@@ -55,6 +55,12 @@ first-learned: divine power lore (Boilerdang); session 03
   now **going door to door through Solace searching for the staff** — the search has
   escalated from a single road checkpoint to a **house-by-house sweep**, alongside
   broader **military actions and checkpoints** clamping down on the town. (Session 04)
+- **Their High Theocrat at Solace is dead.** In a brawl at the [Inn of the Last Home](../locations/inn-of-the-last-home.md),
+  **[Hederick](../npcs/high-theocrat-hederick.md) was killed by [Boilerdang](../characters/boilerdang-criddlycrotch.md)**
+  after refusing to surrender. Seeker **goblins and guards** fought the party there (the
+  first wave wiped out), with **more goblins converging on the inn** as reinforcements.
+  The Seekers' local authority just lost its head — fallout, and any successor, TBD.
+  (Session 04)
 
 ## Open questions
 

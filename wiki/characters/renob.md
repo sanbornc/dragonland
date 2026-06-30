@@ -45,6 +45,12 @@ and his Biatches."** Debuted in the Crimson Circus → Dragonland bridge session
 ## Personality & backstory
 - Not recorded on the sheet yet (personality, ideals, bonds, flaws, and
   appearance are all blank).
+- **Crude, irreverent humor (in play).** In the [Inn of the Last Home](../locations/inn-of-the-last-home.md)
+  (Session 04) he took an **ash from the fire and drew a phallus on [Fizban](../npcs/fizban.md)'s
+  head** mid-crisis — which Fizban delighted in, asking for one on his back too.
+- **His "family crest" is a crudely drawn penis** — his signature mark. He **drew it on a
+  dead goblin's forehead** after killing it in the inn fight (Session 04), calling it his
+  family crest.
 
 ## Open questions
 - Alignment, personality, and backstory — TBD.

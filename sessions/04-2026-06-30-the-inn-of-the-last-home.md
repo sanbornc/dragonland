@@ -91,10 +91,10 @@ players-present: [TBC]
     had just gone face-first into a fire).
   - **The wizard knew exactly what the Staff was and what it could do** — and had access
     to it. He orchestrated the song *and* supplied the relic at the decisive moment. He
-    is clearly no random patron. *(Still unnamed — see [The Lute Wizard](../wiki/npcs/the-lute-wizard.md).)*
+    is clearly no random patron. *(Still unnamed — see [The Lute Wizard](../wiki/npcs/fizban.md).)*
 - **Goldmoon did NOT appear to give up the Staff willingly.** The wizard did not get the
   blue Staff from her with her consent — he seems to have **taken / produced it without
-  her agreement.** That casts the [lute-wizard](../wiki/npcs/the-lute-wizard.md) in an
+  her agreement.** That casts the [lute-wizard](../wiki/npcs/fizban.md) in an
   ambiguous light: he may be protecting the Staff and steering a rescue, or he may have
   his own designs on it — but he is **not** simply acting as Goldmoon's agent.
 - **The relic was used openly, in a packed room, during a door-to-door hunt *for that
@@ -103,6 +103,107 @@ players-present: [TBC]
 - **The guards never responded.** Despite Hederick calling for them, **no guards came**
   — not the goblins outside the inn, not the town guard. The alarm fizzled. For the
   moment the party is *not* cornered, and the scene did not escalate into a fight.
+- **Hederick rejected the healing as blasphemy — and burned his own arm to undo it.**
+  Coming to, the High Theocrat turned **aggressive**: he **thrust his own arm into the
+  fire and held it there**, declaring he **"will not be healed by blasphemy."** He
+  recognizes the [Staff](../wiki/items/the-staff.md)'s cure as **true (heretical) divine
+  power** — the very "fraudulent healing / false holy" his own notice condemns — and a
+  fanatic to the bone, he'd rather **maim himself** than accept a miracle. The cordial
+  cover is gone: Hederick now treats the party / the healing as **heresy**, and is hostile.
+- **Hederick called for the guards again and bolted for the door** — trying to escape
+  the inn and raise the town against the party.
+- **The party moved to contain him and seal the room.** [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)
+  cast **Hold Person** (on Hederick), and **[Malix](../wiki/characters/malix.md)** cast
+  **Web across the door** to **hold the guards outside.**
+- **The wizard dispelled the party's magic — and revealed himself as Fizban.** The
+  lute-wizard **dispelled the spell**, gave [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)
+  a **drunken wink**, and the party learned his name: **[Fizban](../wiki/npcs/fizban.md).**
+  (A powerful, clearly-not-just-a-drunk caster who can casually unravel the party's
+  control magic.)
+- **An act of trust: Boilerdang returned the Staff to Goldmoon.** [Goldmoon](../wiki/npcs/goldmoon.md)
+  **asked for [the Staff](../wiki/items/the-staff.md) back**, and Boilerdang **gave it back
+  to her** — choosing to trust her with the relic Fizban had taken from her without consent.
+- **Comic relief: [Renob](../wiki/characters/renob.md) drew an ash phallus on Fizban's
+  head.** Renob took an **ash from the fire** and **drew a penis on Fizban's head**;
+  **Fizban loved it and asked for one on his back as well.** (Establishes Fizban as a
+  jovial, good-humored eccentric who rolls with the party's antics.)
+- **Hederick bolted again — and [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)
+  froze him with Command ("Halt!").** With the Hold Person dispelled, Hederick tried to
+  run; Boilerdang **cast Command, yelling "Halt!",** and stopped him in his tracks. The
+  party is still actively containing the hostile High Theocrat inside the inn.
+- **Combat broke out before the party could win the room.** The **[Seeker](../wiki/factions/the-seekers.md)
+  goblins and guards** finally engaged — entering the fight inside the [Inn of the Last
+  Home](../wiki/locations/inn-of-the-last-home.md). They **attacked Boilerdang but missed.**
+  The social standoff is over; this is now an open fight in the inn, with Hederick, Fizban,
+  Goldmoon & Riverwind, and a room of townsfolk all present.
+
+### The inn fight (blow-by-blow)
+- Goblins/guards open on **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)** — **miss.**
+- **[Renob](../wiki/characters/renob.md)** swings his **Flame Tongue greatsword** at a goblin — **miss.**
+- **Renob burns Action Surge** for two more swings — **both miss**, but the greatsword's
+  **Graze** weapon mastery still deals his STR mod on each miss: **10 total damage** chipped
+  into the goblin even on whiffs.
+- **[Vaelor](../wiki/characters/vaelor-grinward.md)** casts **Darkness** — dropping a sphere
+  of magical darkness over the fight.
+- **[Pip](../wiki/characters/pip-tumblewhistle.md)** fires into the murk at **disadvantage**
+  (the Darkness): **first shot a natural 1** — the arrow goes wide, **hits a lantern and
+  starts a fire** in the inn. **Second shot hits and kills the grazed goblin** — first
+  enemy down.
+- ⚠️ **The inn is now catching fire.** Between Hederick's hearth and Pip's stray-arrow
+  lantern, there are flames spreading in the [Inn of the Last Home](../wiki/locations/inn-of-the-last-home.md)
+  — [Tika](../wiki/npcs/tika.md) & [Otik](../wiki/npcs/otik.md)'s place, full of townsfolk.
+- **[Vaelor](../wiki/characters/vaelor-grinward.md) drops concentration on Darkness** —
+  the sphere dissipates and the room is lit again (no more disadvantage from the dark).
+- **[Malix](../wiki/characters/malix.md) put out the fire** — crisis averted, the inn saved.
+- **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)** hits a goblin with
+  **Toll the Dead**, then **moves into the doorway to block the exit** — bottling Hederick
+  and the guards inside.
+- **Hederick tries to bowl Boilerdang over** to escape through the door — **fails to get
+  past.** The High Theocrat is still trapped in the inn.
+- **[Renob](../wiki/characters/renob.md) kills the second goblin** (after taking some damage
+  from it) — and **drew a penis on the dead goblin's forehead**, declaring it his **"family
+  crest."** (His signature mark — cf. the ash phallus on Fizban.)
+- **[Vaelor](../wiki/characters/vaelor-grinward.md) and [Riverwind](../wiki/npcs/riverwind.md)
+  attack the enemy together — Riverwind has joined the fight on the party's side.** The
+  plainsman is in the fray alongside the party, answering where he stands: with them.
+  (Vaelor & Riverwind are fighting guards in a **back room** of the inn — a second front.)
+- **The first wave of goblins is all dead.** But **reinforcements are converging:**
+  **more goblins are coming up the stairs into the inn**, and **two additional groups of
+  goblins have been spotted approaching** from outside. The [Seekers](../wiki/factions/the-seekers.md)
+  are massing on the [Inn of the Last Home](../wiki/locations/inn-of-the-last-home.md) —
+  the contained brawl is turning into a siege.
+- **[Malix](../wiki/characters/malix.md) moves to the back room to help Vaelor & Riverwind**
+  and casts **Chromatic Orb (lightning)** at the hurt guard — **natural 1.** The orb
+  **explodes in his hand**, dealing minor damage to **Malix** and to **Vaelor** beside him.
+  (Second fumble of the night after Pip's lantern-arrow — a streak of nat-1 mishaps.)
+- **🗡️ Hederick is dead.** [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)
+  gave the cornered High Theocrat **one last chance to surrender.** Hederick **refused** —
+  so Boilerdang **cast Spiritual Weapon and killed him.** The man who ran the staff-hunt,
+  who branded true healing "blasphemy" and burned his own arm rather than accept it, is
+  **slain by a true cleric's divine power** in the [Inn of the Last Home](../wiki/locations/inn-of-the-last-home.md).
+  See [High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md).
+- **Back room:** **[Vaelor](../wiki/characters/vaelor-grinward.md) kills one guard** but
+  **misses the other** with his second attack. The surviving **Seeker guard hits Vaelor
+  for 3** (and **misses** a second swing).
+- **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) moves outside to hold the
+  top of the stairs**, blocking the goblins climbing up to the inn — turning the stairway
+  into a chokepoint.
+- **[Pip](../wiki/characters/pip-tumblewhistle.md) steps out and shoots the stair-goblins:
+  kills the lead goblin, then hits and kills the second** — two more down on the steps.
+- **The scale changes: 18+ goblins are converging on the inn.** Too many to grind through
+  at the chokepoint. **[Fizban](../wiki/npcs/fizban.md) advised the party to run**, and
+  **[Tika](../wiki/npcs/tika.md) told them to go out the back door** — opening an escape
+  route through the [Inn of the Last Home](../wiki/locations/inn-of-the-last-home.md).
+  The plan flips from *hold* to *extract*: get [Goldmoon](../wiki/npcs/goldmoon.md),
+  [Riverwind](../wiki/npcs/riverwind.md), and [the Staff](../wiki/items/the-staff.md) out
+  before the swarm surrounds the tree.
+- **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) sends his Spiritual Weapon
+  down the stairs and Readies an attack.** A goblin moves into range, triggering the
+  readied strike — **11 damage.**
+- **[Renob](../wiki/characters/renob.md), still drunk, leaps out the window** — a **~50-ft
+  fall** from the vallenwood inn — **taking 16 damage** — and **yells up: "I need the
+  stick!"** (i.e., he wants [the Staff](../wiki/items/the-staff.md) tossed down to heal his
+  drunken plummet). Confirms the inn sits high up a vallenwood tree.
 
 ## New facts learned
 
@@ -141,11 +242,19 @@ players-present: [TBC]
   [The Staff](../wiki/items/the-staff.md)
 - **The lute-wizard is a knowing player** — he chose the song and supplied the Staff at
   the key moment; he knows what it is and how it works. —
-  [The Lute Wizard](../wiki/npcs/the-lute-wizard.md)
+  [The Lute Wizard](../wiki/npcs/fizban.md)
 - **The wizard did not take the Staff from Goldmoon willingly** — he is not simply her
-  agent. — [The Lute Wizard](../wiki/npcs/the-lute-wizard.md) · [Goldmoon](../wiki/npcs/goldmoon.md)
+  agent. — [The Lute Wizard](../wiki/npcs/fizban.md) · [Goldmoon](../wiki/npcs/goldmoon.md)
 - **Hederick was saved by the party — using the very relic he hunts**, and the **guards
   he summoned never came.** — [High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md)
+- **Hederick rejected the cure as blasphemy and burned his own arm** rather than accept
+  it — a fanatic who'd self-maim over a "false" miracle; now openly hostile. —
+  [High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md)
+- **The lute-wizard is named Fizban** — a powerful caster (dispelled the party's Hold
+  Person/Web), jovial and eccentric, with deep knowledge of Goldmoon and the Staff. —
+  [Fizban](../wiki/npcs/fizban.md)
+- **Boilerdang returned the Staff to Goldmoon as an act of trust** — she asked for it
+  back and he gave it over. — [Goldmoon](../wiki/npcs/goldmoon.md) · [The Staff](../wiki/items/the-staff.md)
 
 ## Loose threads
 
@@ -153,9 +262,10 @@ players-present: [TBC]
   intercept orders reveal about the staff-hunt?
 - Why did the goblin guards ignore the party — cover holding, or are they simply
   not looking for these faces yet?
-- **Who is the wizard with the lute?** He knows Goldmoon, knows the Staff, and had it to
-  hand — yet **took it from her without her consent.** Ally, manipulator, guide, or
-  thief? Get a name and his angle. — [The Lute Wizard](../wiki/npcs/the-lute-wizard.md)
+- **Who is Fizban, really?** Name learned this session — but a "drunk" who can dispel a
+  cleric's and a sorcerer's spells, knows Goldmoon and the Staff intimately, and steers
+  the whole scene is hiding something. Ally, trickster, or something stranger? What's his
+  claim on the Staff, and why did he take it from Goldmoon? — [Fizban](../wiki/npcs/fizban.md)
 - **Why is Goldmoon singing now**, when moments earlier she was hiding from the word
   "staff"? Does she trust the room, not grasp the danger, or is the song itself
   significant? And does her drawing the room's eye risk exposing her to the sweep / Hederick?
@@ -167,5 +277,23 @@ players-present: [TBC]
   miracle during a door-to-door hunt for that exact object. — [The Staff](../wiki/items/the-staff.md)
 - **Why didn't the guards respond to Hederick's call?** Stretched thin by the door-to-door
   sweep, ignored, intercepted, or something else?
-- **How does Goldmoon react to the wizard taking and using her Staff** in public, on
-  Hederick of all people? Does she confront him? — [Goldmoon](../wiki/npcs/goldmoon.md)
+- **How does Goldmoon react to Fizban taking and using her Staff** in public, on
+  Hederick of all people? *(She asked for it back and Boilerdang returned it — but does
+  she trust Fizban now, and does she confront him over it?)* — [Goldmoon](../wiki/npcs/goldmoon.md) · [Fizban](../wiki/npcs/fizban.md)
+- **Hederick is dead — what now?** *(Resolved in-scene: the party contained him and
+  Boilerdang killed him after he refused to surrender.)* The open part is the **fallout:**
+  killing Solace's High Theocrat in a public, witnessed brawl. Do the townsfolk back the
+  party (they saw him rave and self-immolate) or turn on them? How do the
+  [Seekers](../wiki/factions/the-seekers.md), his superiors, and [Toede](../wiki/npcs/fewmaster-toede.md)
+  respond? Who fills the power vacuum?
+- **The travelers' reason for coming to Solace just died.** Goldmoon & Riverwind came to
+  question Hederick; he's now dead. Is what they wanted recoverable elsewhere (his office,
+  papers, the Seekers)? — [The Two Travelers](../wiki/npcs/the-two-travelers.md)
+- **Reinforcements still inbound.** Goblins up the stairs + two groups approaching — the
+  fight isn't over even with Hederick dead. Hold and grind, or extract with Goldmoon and
+  the Staff?
+- **Boilerdang's power is now loudly exposed.** A packed room watched his magic heal and
+  kill the man who called such power heresy. The Session 03 "no survivors / staged it"
+  cover does not apply here. — [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)
+- **Where does Fizban stand?** Still hasn't committed to the fight; a god-tier caster
+  watching it all. — [Fizban](../wiki/npcs/fizban.md)

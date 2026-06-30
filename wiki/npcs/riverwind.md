@@ -28,6 +28,10 @@ first-learned: session 03
 - **He is the one who found / brought back the Staff.** The tribe **mocked his claim**
   and the chief **ordered him stoned**; as Goldmoon joined him, the **Staff flared blue
   and the two vanished.** (Session 04)
+- **He fights alongside the party.** In the inn brawl (Session 04) Riverwind **joined the
+  fight on the party's side**, attacking the Seeker guards/goblins together with
+  [Vaelor](../characters/vaelor-grinward.md) — a proven ally in a scrap, not a passenger.
+  (Session 04)
 
 ## Open questions
 

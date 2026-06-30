@@ -2,11 +2,16 @@
 name: High Theocrat Hederick
 aliases: [Hederick]
 type: npc
-tags: [religion, authority, solace]
+tags: [religion, authority, solace, deceased]
+status: dead
 first-learned: session 03
 ---
 
 # High Theocrat Hederick
+
+> **Status: DEAD** (Session 04) — killed by [Boilerdang](../characters/boilerdang-criddlycrotch.md)
+> with **Spiritual Weapon** in the [Inn of the Last Home](../locations/inn-of-the-last-home.md),
+> after refusing a final offer to surrender.
 
 ## What we know
 
@@ -41,20 +46,38 @@ first-learned: session 03
   outside, not the town guard. (Session 04)
 - **The party saved him — with the very Staff he hunts.** [Boilerdang](../characters/boilerdang-criddlycrotch.md)
   pulled him from the fire, and (handed [Goldmoon](goldmoon.md)'s blue [Staff](../items/the-staff.md)
-  by the [lute-wizard](the-lute-wizard.md)) **struck him with it and healed his burns.**
-  He is **alive**, mended by the hunted relic, owing his life to the people escorting his
-  quarry. **Whether he realizes what healed him — or who — is an open question.** (Session 04)
+  by [Fizban](fizban.md)) **struck him with it and healed his burns.**
+  He is **alive**, mended by the hunted relic. (Session 04)
+- **He is a fanatic — and he rejected the cure as blasphemy.** Coming to, Hederick
+  turned **aggressive**, **thrust his own arm into the fire and held it there**, and
+  declared he **"will not be healed by blasphemy."** He recognizes the Staff's healing
+  as **true (heretical) divine power** and would sooner **maim himself** than accept it.
+  This is the [Seeker](../factions/the-seekers.md) doctrine made flesh: all real holy
+  power is fraud/heresy to him. **The cordial cover is over — he now treats the party /
+  the miracle as heresy and is hostile.** (Session 04)
+- **He tried to flee and raise the town, and the party contained him.** He called the
+  guards again and bolted; Boilerdang **Held** him, then (after [Fizban](fizban.md)
+  dispelled it) **Commanded "Halt!"** and finally **blocked the doorway** so Hederick
+  couldn't get past. Combat broke out as Seeker goblins/guards engaged. (Session 04)
+- **💀 Boilerdang killed him.** Cornered at the door, Hederick was given **one last
+  chance to surrender** — and **refused.** [Boilerdang](../characters/boilerdang-criddlycrotch.md)
+  then **cast Spiritual Weapon and slew him.** The High Theocrat of Solace — head of the
+  local [Seekers](../factions/the-seekers.md), author of the staff-hunt — is **dead, killed
+  by true divine power**, the very thing he called blasphemy. (Session 04)
 
 ## Open questions
 
-- Where is Hederick — in [Solace](../locations/solace.md), or elsewhere? **(Answered
-  Session 04: at the Inn of the Last Home.)**
-- What information does he have that the travelers (and the party) want?
-- Confirmed to wield Seeker authority — but is he the **Seekers' supreme leader**,
-  or one High Theocrat among several? See [The Seekers](../factions/the-seekers.md).
-- Why does the party dislike him — past history, or just his manner?
-- The travelers want information *from* him, yet his regime would treat them as
-  contraband-carriers (and possibly fugitives). How do they expect to approach him?
+- **What information did he have that the travelers (and the party) wanted — now that
+  he's dead and can't be asked?** Killing him may have **cut off** whatever
+  [Goldmoon & Riverwind](the-two-travelers.md) came to Solace to learn. Is it recoverable
+  another way (his papers, his office, the Seekers)?
+- **What are the consequences of killing the regional High Theocrat?** How do the
+  [Seekers](../factions/the-seekers.md) — and his superiors / [Toede](fewmaster-toede.md)
+  — react when Solace's theocrat turns up dead in a burned-up inn brawl? Does the room
+  full of witnesses back the party (they saw him rave and self-immolate) or damn them?
+- Was he the **Seekers' supreme leader**, or one High Theocrat among several? (His death
+  may leave a power vacuum — or bring a worse successor.)
+- Why did the party dislike him — past history, or just his manner?
 
 ## See also
 

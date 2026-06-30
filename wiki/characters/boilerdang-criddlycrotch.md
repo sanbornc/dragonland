@@ -50,6 +50,15 @@ As the campaign begins, Boilerdang has started to feel that something is changin
   heresy. But there were **no survivors**, and the party **staged the scene as an
   internal dispute** (successful Deception), so for now the secret holds and
   [Fewmaster Toede](../npcs/fewmaster-toede.md) suspects nothing.
+- **He healed — and then killed — the High Theocrat (Session 04).** At the [Inn of the
+  Last Home](../locations/inn-of-the-last-home.md) he pulled a drunk, burning
+  [Hederick](../npcs/high-theocrat-hederick.md) from the fire and **healed him with
+  [Goldmoon](../npcs/goldmoon.md)'s blue [Staff](../items/the-staff.md)** — only for
+  Hederick to reject the cure as "blasphemy." When the High Theocrat turned hostile and
+  refused a final surrender, Boilerdang **killed him with Spiritual Weapon.** A true
+  cleric slew Solace's chief denier of true divine power — open, public, and witnessed.
+  This is **far louder exposure than Session 03**: a room of townsfolk saw his magic
+  heal and kill.
 
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~80 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)

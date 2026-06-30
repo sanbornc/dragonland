@@ -19,6 +19,10 @@ first-learned: session 03
   are going door to door through town searching for a staff**, and that **Solace has
   changed** — **military actions and checkpoints**, the town under a tightening clamp.
   (Session 04)
+- **She helped the party escape.** When the inn brawl drew **18+ goblins** converging on
+  the [Inn of the Last Home](../locations/inn-of-the-last-home.md), Tika **told the party
+  to go out the back door** — giving them an escape route. A friend who covered for them
+  even after a theocrat died in her common room. (Session 04)
 
 ## Open questions
 

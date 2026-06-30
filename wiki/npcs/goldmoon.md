@@ -41,10 +41,13 @@ first-learned: session 03
   performing the very ballad of her own story, which [Hederick](high-theocrat-hederick.md)
   heard without recognizing her. (Session 04)
 - **Her Staff was taken and used without her willing consent.** When Hederick fell into
-  the fire, the [lute-wizard](the-lute-wizard.md) **produced her [Staff](../items/the-staff.md)** —
+  the fire, **[Fizban](fizban.md)** **produced her [Staff](../items/the-staff.md)** —
   **not given up willingly by Goldmoon** — and handed it to [Boilerdang](../characters/boilerdang-criddlycrotch.md),
   who healed Hederick with it. The relic she has guarded was wielded in public, on the
-  man hunting it, against her wishes. Her reaction is an open question. (Session 04)
+  man hunting it, against her wishes. (Session 04)
+- **Then the party gave the Staff back.** Goldmoon **asked for the Staff back**, and
+  **Boilerdang returned it to her** as an act of trust — a goodwill gesture toward the
+  woman they're escorting after Fizban had taken it from her. (Session 04)
 
 ## Open questions
 
