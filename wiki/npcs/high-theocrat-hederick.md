@@ -2,16 +2,17 @@
 name: High Theocrat Hederick
 aliases: [Hederick]
 type: npc
-tags: [religion, authority, solace, deceased]
-status: dead
+tags: [religion, authority, solace]
+status: alive (revived)
 first-learned: session 03
 ---
 
 # High Theocrat Hederick
 
-> **Status: DEAD** (Session 04) — killed by [Boilerdang](../characters/boilerdang-criddlycrotch.md)
-> with **Spiritual Weapon** in the [Inn of the Last Home](../locations/inn-of-the-last-home.md),
-> after refusing a final offer to surrender.
+> **Status: ALIVE — but only just** (Session 04). [Boilerdang](../characters/boilerdang-criddlycrotch.md)
+> **killed** him with Spiritual Weapon, then **brought him back with Revivify at 1 HP.**
+> He has now been **healed, killed, and raised** by the true divine power he calls
+> blasphemy — and is presumably in the party's hands as leverage / a source of answers.
 
 ## What we know
 
@@ -62,15 +63,20 @@ first-learned: session 03
 - **💀 Boilerdang killed him.** Cornered at the door, Hederick was given **one last
   chance to surrender** — and **refused.** [Boilerdang](../characters/boilerdang-criddlycrotch.md)
   then **cast Spiritual Weapon and slew him.** The High Theocrat of Solace — head of the
-  local [Seekers](../factions/the-seekers.md), author of the staff-hunt — is **dead, killed
+  local [Seekers](../factions/the-seekers.md), author of the staff-hunt — was **killed
   by true divine power**, the very thing he called blasphemy. (Session 04)
+- **🔄 …then Boilerdang revived him.** Minutes later, mid-escape, Boilerdang **cast
+  Revivify and brought Hederick back at 1 HP.** He is **alive again** — thrice-touched now
+  by true divine power (Staff-healed → slain → raised). Almost certainly kept alive on
+  purpose: **leverage, a hostage, or the very information source the [travelers](the-two-travelers.md)
+  came to Solace to question.** (Session 04)
 
 ## Open questions
 
-- **What information did he have that the travelers (and the party) wanted — now that
-  he's dead and can't be asked?** Killing him may have **cut off** whatever
-  [Goldmoon & Riverwind](the-two-travelers.md) came to Solace to learn. Is it recoverable
-  another way (his papers, his office, the Seekers)?
+- **What information did he have that the travelers (and the party) wanted?** Killed and
+  then **revived**, he can still be **questioned** — the party now holds a living (barely)
+  High Theocrat. Will [Goldmoon & Riverwind](the-two-travelers.md) get their answers from
+  him after all? Will he talk, or die spiting them?
 - **What are the consequences of killing the regional High Theocrat?** How do the
   [Seekers](../factions/the-seekers.md) — and his superiors / [Toede](fewmaster-toede.md)
   — react when Solace's theocrat turns up dead in a burned-up inn brawl? Does the room

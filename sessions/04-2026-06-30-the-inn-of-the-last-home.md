@@ -204,6 +204,38 @@ players-present: [TBC]
   fall** from the vallenwood inn — **taking 16 damage** — and **yells up: "I need the
   stick!"** (i.e., he wants [the Staff](../wiki/items/the-staff.md) tossed down to heal his
   drunken plummet). Confirms the inn sits high up a vallenwood tree.
+- **[Vaelor](../wiki/characters/vaelor-grinward.md) takes the controlled way down:** he
+  goes to a **trap door [Tika](../wiki/npcs/tika.md) pointed out** and **rappels to the
+  ground.** (Tika's second escape assist — back door *and* a trap-door rope route.)
+- **[Pip](../wiki/characters/pip-tumblewhistle.md) starts shooting goblins on the ground**,
+  thinning the force massing at the base of the tree and covering the descent.
+- **[Malix](../wiki/characters/malix.md) drops out the trap door, mounts his broom (flying),
+  and Fireballs a cluster of 8 goblins on the ground — killing all but two that saved.**
+  Six goblins dead in one blast; the swarm at the base of the tree is badly thinned, and
+  Malix now has the air.
+- **🔄 Twist — Boilerdang REVIVED Hederick.** Having killed the High Theocrat minutes
+  earlier, **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) cast Revivify on
+  [Hederick](../wiki/npcs/high-theocrat-hederick.md), bringing him back at 1 hit point.**
+  Hederick is **alive again** — now thrice-touched by the true divine power he calls
+  blasphemy (healed by the Staff → killed by Spiritual Weapon → raised by Revivify). Likely
+  motives: a living High Theocrat is leverage, a hostage, or the **information source the
+  travelers came to Solace for.**
+- **Boilerdang then moved down the stairs and missed a goblin with his Spiritual Weapon.**
+- **Goblins shot [Malix](../wiki/characters/malix.md) out of the air**, hitting him for
+  damage as he flew.
+- **Two goblins retreated** — the swarm is breaking.
+- **[Goldmoon](../wiki/npcs/goldmoon.md) and [Riverwind](../wiki/npcs/riverwind.md)
+  rappelled out and fled into the forest** — the travelers (and presumably
+  [the Staff](../wiki/items/the-staff.md)) are getting clear of Solace.
+- **[Renob](../wiki/characters/renob.md) retreated into a blacksmith's shop** on the ground
+  — taking cover after his window leap.
+- **[Vaelor](../wiki/characters/vaelor-grinward.md) throws javelins up at the stair-goblins
+  from the ground:** first **hits for strong damage**; the **second is a critical fail
+  (nat 1)** — but the errant throw **turns the stairway into dangerous terrain** (anyone
+  traversing risks falling), fouling the goblins' route down. (A *helpful* botch, third
+  nat-1 of the night.)
+- **[Pip](../wiki/characters/pip-tumblewhistle.md) kills the two fleeing goblins** —
+  cleaning up the retreaters.
 
 ## New facts learned
 
@@ -280,15 +312,15 @@ players-present: [TBC]
 - **How does Goldmoon react to Fizban taking and using her Staff** in public, on
   Hederick of all people? *(She asked for it back and Boilerdang returned it — but does
   she trust Fizban now, and does she confront him over it?)* — [Goldmoon](../wiki/npcs/goldmoon.md) · [Fizban](../wiki/npcs/fizban.md)
-- **Hederick is dead — what now?** *(Resolved in-scene: the party contained him and
-  Boilerdang killed him after he refused to surrender.)* The open part is the **fallout:**
-  killing Solace's High Theocrat in a public, witnessed brawl. Do the townsfolk back the
-  party (they saw him rave and self-immolate) or turn on them? How do the
-  [Seekers](../wiki/factions/the-seekers.md), his superiors, and [Toede](../wiki/npcs/fewmaster-toede.md)
-  respond? Who fills the power vacuum?
-- **The travelers' reason for coming to Solace just died.** Goldmoon & Riverwind came to
-  question Hederick; he's now dead. Is what they wanted recoverable elsewhere (his office,
-  papers, the Seekers)? — [The Two Travelers](../wiki/npcs/the-two-travelers.md)
+- **Hederick: killed, then revived — now what?** Boilerdang killed him, then **brought him
+  back at 1 HP with Revivify.** The party holds a **living, captive High Theocrat.** Why
+  keep him — interrogation, hostage, a bargaining chip with the Seekers? Does he talk or
+  spite them? And what's the **fallout** of a public, witnessed theocrat-killing in
+  Solace, regardless of the revive? How do the [Seekers](../wiki/factions/the-seekers.md),
+  his superiors, and [Toede](../wiki/npcs/fewmaster-toede.md) react?
+- **The travelers can still get their answers — from a revived Hederick.** Goldmoon &
+  Riverwind came to question him; he's alive again and in the party's custody. Do they
+  interrogate him? — [The Two Travelers](../wiki/npcs/the-two-travelers.md)
 - **Reinforcements still inbound.** Goblins up the stairs + two groups approaching — the
   fight isn't over even with Hederick dead. Hold and grind, or extract with Goldmoon and
   the Staff?

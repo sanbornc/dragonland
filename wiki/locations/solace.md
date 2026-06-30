@@ -25,11 +25,11 @@ first-learned: recovered documents
   **[Seekers](../factions/the-seekers.md) going door to door searching for a staff**
   ([the Staff](../items/the-staff.md) [Goldmoon](../npcs/goldmoon.md) carries). Goblin
   guards are even posted **outside the Inn of the Last Home.** (Session 04)
-- **[High Theocrat Hederick](../npcs/high-theocrat-hederick.md) is dead** — found
-  drinking at the Inn of the Last Home, he turned hostile and was **killed by
-  [Boilerdang](../characters/boilerdang-criddlycrotch.md)** in a brawl there. Solace's
-  ruling theocrat is gone; the fallout (and who fills the vacuum) is unresolved.
-  (Session 04)
+- **[High Theocrat Hederick](../npcs/high-theocrat-hederick.md) was killed, then revived
+  and taken by the party** — found drinking at the Inn of the Last Home, he turned hostile,
+  was **killed by [Boilerdang](../characters/boilerdang-criddlycrotch.md)** in a brawl, and
+  then **brought back at 1 HP with Revivify** (leverage / prisoner). Solace's ruling
+  theocrat is alive but in the party's hands; the town's fallout is unresolved. (Session 04)
 
 ## Open questions
 - Is "Selace" a variant spelling or a different place?

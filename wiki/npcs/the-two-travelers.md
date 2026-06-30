@@ -36,10 +36,9 @@ The pair the party rescued and is escorting to Solace. This page holds their
 
 ## Open questions
 
-- **They came to Solace to find Hederick for information — and the party killed him
-  (Session 04).** Whatever the travelers hoped to learn from the High Theocrat may now
-  be **lost with him.** How do Goldmoon & Riverwind take that? Is the information
-  recoverable another way (his office, papers, the Seekers)?
+- **They came to Solace to find Hederick for information — the party killed him, then
+  revived him (Session 04).** So their information source is **alive again and in the
+  party's hands** at 1 HP. Will Goldmoon & Riverwind get to **question** him? Will he talk?
 - What exactly are the questions Goldmoon and Riverwind are chasing, and how do they
   overlap with the party's?
 - **Who is the Chieftain** (Goldmoon's father), and of what people/tribe/clan? How
