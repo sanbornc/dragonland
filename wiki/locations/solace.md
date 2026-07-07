@@ -31,6 +31,14 @@ first-learned: recovered documents
   Solace's ruling theocrat is **gone — kidnapped**; the leadership vacuum, manhunt, and the
   party's new fugitive status are all unresolved. The brawl drew **18+ goblins** and the
   party **fled town into the woods.** (Session 04)
+- **On the DM regional map, Solace sits in the upper-right (northeast) of the region.**
+  A road runs **south from Solace toward [Haven](haven.md)** (center-left), **passing
+  [Darken Wood](darken-wood.md)** — the central forest that lies **between Solace and
+  Haven.** ([Regional Map: Solace–Haven](../documents/regional-map-solace-haven.md), Session 05)
+- **[Que-Shu](que-shu.md)** — the plains homeland of [Goldmoon](../npcs/goldmoon.md) &
+  [Riverwind](../npcs/riverwind.md) — lies **just east / south-east of Solace** on the map.
+  A partial label **"Kas…"** runs off the torn top edge above Solace (cut off / unreadable).
+  ([Regional Map: Solace–Haven](../documents/regional-map-solace-haven.md), Session 05)
 
 ## Open questions
 - Is "Selace" a variant spelling or a different place?
@@ -42,3 +50,6 @@ first-learned: recovered documents
 - [The Excavation Site](the-excavation-site.md) — the buried-archive dig may connect to Solace's "not all relics stay buried"
 - [The Seekers](../factions/the-seekers.md) — they man the roadblock at Solace · [High Theocrat Hederick](../npcs/high-theocrat-hederick.md)
 - [Inn of the Last Home](inn-of-the-last-home.md) · [Tika](../npcs/tika.md) · [Otik](../npcs/otik.md)
+- [Darken Wood](darken-wood.md) — the forest south of Solace, toward Haven · [Que-Shu](que-shu.md) — just east of Solace
+- [Regional Map: Solace–Haven](../documents/regional-map-solace-haven.md)
+- [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)
