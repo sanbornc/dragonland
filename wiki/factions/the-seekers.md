@@ -65,6 +65,30 @@ first-learned: divine power lore (Boilerdang); session 03
   woods** with the Staff, the travelers, and Hederick. The Seekers have **lost their local
   figurehead to abduction** — leadership vacuum, manhunt, and [Toede](../npcs/fewmaster-toede.md)'s
   response all open. (Session 04)
+- **They answer to [Haven](../locations/haven.md) / [Lord Seeker Elistan](../npcs/elistan.md).**
+  Under interrogation, [Hederick](../npcs/high-theocrat-hederick.md) revealed the staff-hunt
+  is **ordered from Haven**, and that **Elistan** commands both Haven and the Seekers'
+  **doctrine** — Hederick is one theocrat *under* Elistan, not the top of the faith.
+  (Session 05)
+- **Their "allies" are the [draconians](../npcs/draconians.md) — a black-claw military.** The
+  goblins were sent "from Haven as allies," but the true power behind the hunt is the winged
+  [draconians](../npcs/draconians.md) of the [Black Banners](black-banners.md), who carry the
+  standing orders and want the Staff for themselves. Even Hederick admits the "allies" have
+  left his own priests **afraid to speak** — occupation, not alliance. (Session 05)
+- **They branded the party fugitives and threatened collective punishment.** A recovered
+  proclamation **"by order of the Highseekers of Solace"** condemns the party's HQ as *"a den
+  of murderers, blasphemers, and enemies of the people,"* declares that any who **harbored,
+  aided, or hid** the fugitives will be **questioned, judged, or share their fate**, and
+  stands the fire up as a warning — *"no home, hall, shop, or family name will shield
+  traitors from justice."* → [Highseekers' Condemnation Notice](../documents/highseekers-condemnation-notice.md)
+  (Session 05)
+- **New authority named: the "Highseekers of Solace."** The body issuing the condemnation —
+  above or alongside [High Theocrat Hederick](../npcs/high-theocrat-hederick.md) in the Seeker
+  hierarchy. (Session 05)
+- **Doctrine: those healed by true divine power are marked for death.** Being cured by "witch"
+  / genuine holy power is a **capital heresy** under Elistan's doctrine — Hederick warns the
+  whole party (especially [Boilerdang](../characters/boilerdang-criddlycrotch.md)) is now
+  marked. (Session 05) — see [The Silent Gods & the Seekers](../quests/the-silent-gods.md)
 
 ## Open questions
 
@@ -83,8 +107,11 @@ first-learned: divine power lore (Boilerdang); session 03
 - [The Silent Gods & the Seekers](../quests/the-silent-gods.md) · [The Staff & Goldmoon](../quests/the-staff-and-goldmoon.md) — the active quests
 - [Notice of Road Authority](../documents/notice-of-road-authority.md) — their checkpoint notice ·
   [Seeker Intercept Orders](../documents/seeker-field-order-toede.md) — the staff-hunt orders ·
+  [Highseekers' Condemnation Notice](../documents/highseekers-condemnation-notice.md) — the fugitive decree ·
   [Fewmaster Toede](../npcs/fewmaster-toede.md) · [Mishakal](../lore/mishakal.md) ·
   [Divine power in the world](../lore/divine-power.md) ·
   [High Theocrat Hederick](../npcs/high-theocrat-hederick.md) ·
+  [Lord Seeker Elistan](../npcs/elistan.md) · [Haven](../locations/haven.md) ·
+  [Draconians](../npcs/draconians.md) · [Black Banners](black-banners.md) ·
   [Solace](../locations/solace.md) ·
-  [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md)
+  [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md) · [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)

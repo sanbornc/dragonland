@@ -32,6 +32,14 @@ first-learned: session 03
   fight on the party's side**, attacking the Seeker guards/goblins together with
   [Vaelor](../characters/vaelor-grinward.md) — a proven ally in a scrap, not a passenger.
   (Session 04)
+- **He recognized the [draconians](draconians.md) — as a distant memory.** In
+  [Darken Wood](../locations/darken-wood.md) (Session 05), as he drew closer to the winged,
+  reptilian creatures the party fought, Riverwind **knew them from somewhere in his past**,
+  though the recollection is **faint.** This dovetails with the draconians' claim that the
+  [Staff](../items/the-staff.md) *"was taken from us"* and with his own quest **east** for
+  "strong magic" ([Song of Riverwind](../documents/song-of-riverwind.md)) — his
+  half-forgotten eastern journey may be the **shared origin of both the Staff and the
+  draconians.** (Session 05)
 
 ## Open questions
 
@@ -42,8 +50,11 @@ first-learned: session 03
 - **What did he find "at the lip of the morning,"** and what gave him "darkness of
   stone in his eyes"? Where did the Staff come from?
 - What answers is he seeking, and why from [Hederick](high-theocrat-hederick.md)?
+- **Where has he seen [draconians](draconians.md) before?** His distant memory and eastern
+  quest may hold the shared origin of both the Staff and the creatures. (Session 05)
 
 ## See also
 
-- [The Two Travelers](the-two-travelers.md) · [Goldmoon](goldmoon.md)
-- [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md) · [Solace](../locations/solace.md)
+- [The Two Travelers](the-two-travelers.md) · [Goldmoon](goldmoon.md) · [Draconians](draconians.md)
+- [The Staff](../items/the-staff.md) · [The Song of Riverwind](../documents/song-of-riverwind.md)
+- [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md) · [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md) · [Solace](../locations/solace.md)

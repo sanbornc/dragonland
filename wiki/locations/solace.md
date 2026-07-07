@@ -39,6 +39,16 @@ first-learned: recovered documents
   [Riverwind](../npcs/riverwind.md) — lies **just east / south-east of Solace** on the map.
   A partial label **"Kas…"** runs off the torn top edge above Solace (cut off / unreadable).
   ([Regional Map: Solace–Haven](../documents/regional-map-solace-haven.md), Session 05)
+- **The party is originally from Solace, and their HQ is here.** Established Session 05 —
+  the town is the party's home base. (Session 05)
+- **🔥 Solace is burning — and the party's HQ was burned by [Seeker](../factions/the-seekers.md)
+  decree.** From his broom, [Malix](../characters/malix.md) saw the town ablaze under **three
+  moons**, the party's own **headquarters among the flames**, and a goblin search party below.
+  A looted proclamation **"by order of the Highseekers of Solace"** reveals the fire was a
+  **targeted condemnation** — the party's HQ burned as a **warning** to anyone who would
+  harbor the fugitives, *not* a random blaze. Hederick, meanwhile, believed he had been
+  **"assured the town would not be touched."** → [Highseekers' Condemnation Notice](../documents/highseekers-condemnation-notice.md)
+  (Session 05)
 
 ## Open questions
 - Is "Selace" a variant spelling or a different place?
@@ -51,5 +61,6 @@ first-learned: recovered documents
 - [The Seekers](../factions/the-seekers.md) — they man the roadblock at Solace · [High Theocrat Hederick](../npcs/high-theocrat-hederick.md)
 - [Inn of the Last Home](inn-of-the-last-home.md) · [Tika](../npcs/tika.md) · [Otik](../npcs/otik.md)
 - [Darken Wood](darken-wood.md) — the forest south of Solace, toward Haven · [Que-Shu](que-shu.md) — just east of Solace
+- [Highseekers' Condemnation Notice](../documents/highseekers-condemnation-notice.md) — the decree behind the burning of the party's HQ
 - [Regional Map: Solace–Haven](../documents/regional-map-solace-haven.md)
 - [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)

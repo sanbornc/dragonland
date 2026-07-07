@@ -48,8 +48,19 @@ first-learned: session 03
 - **Then the party gave the Staff back.** Goldmoon **asked for the Staff back**, and
   **Boilerdang returned it to her** as an act of trust — a goodwill gesture toward the
   woman they're escorting after Fizban had taken it from her. (Session 04)
+- **The [draconians](draconians.md) want her taken *alive* — she is the priority capture.**
+  Their standing order, on a looted Draconic token, reads **"Staff intact. Woman alive.
+  Others expendable."** — recover the [Staff](../items/the-staff.md) undamaged, take
+  Goldmoon **alive**, kill everyone else. The **entire hunt orbits her**: she bears the
+  Staff, she is the Que-Shu chieftain's daughter, and every party of hunters carries the
+  same order to capture *her* and no one else. (Session 05) — see
+  [Darken Wood](../locations/darken-wood.md), [Black Banners](../factions/black-banners.md)
 
 ## Open questions
+
+- **Why do they want her *alive*?** The draconians single her out for **capture**, not
+  death — because she bears/commands the Staff, because of who she is (the Que-Shu
+  chieftain's daughter), or something more? (Session 05)
 
 - Who is her father, the **Que-Shu Chieftain**, and where are the Que-Shu people?
 - What is her relationship to Riverwind?
@@ -61,4 +72,5 @@ first-learned: session 03
 - [The Staff & Goldmoon](../quests/the-staff-and-goldmoon.md) — the active quest
 - [The Two Travelers](the-two-travelers.md) · [Riverwind](riverwind.md)
 - [The Staff](../items/the-staff.md) — she carries it · [Fewmaster Toede](fewmaster-toede.md) — hunting her for it
-- [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md) · [Solace](../locations/solace.md)
+- [Draconians](draconians.md) — want her taken alive · [Que-Shu](../locations/que-shu.md) — her homeland
+- [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md) · [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md) · [Solace](../locations/solace.md)

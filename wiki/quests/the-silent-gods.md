@@ -20,6 +20,8 @@ power fraud or heresy. The party has just openly used it against them.
 - The **Seekers** are a theocratic authority under **[High Theocrat Hederick](../npcs/high-theocrat-hederick.md)**, controlling [Solace](../locations/solace.md) by checkpoint. They **confiscate holy items, hunt "false holy symbols" and "fraudulent healing,"** and brand **[Mishakal](../lore/mishakal.md)** a "false god." ([Notice of Road Authority](../documents/notice-of-road-authority.md), Session 03)
 - Named gods are surfacing: **Mishakal** (Seekers call false) and **Paladine** (a silver holy symbol of Paladine was recovered; the prophecy's "old faith" may be his worship). ([The Dragon Prophecy](../lore/the-dragon-prophecy.md))
 - At the Solace roadblock, **Boilerdang openly cast Spirit Guardians** against Seeker agents — a public display of real divine power. For now it's **contained** (no survivors; scene staged as infighting). (Session 03)
+- **The doctrine has a head: [Lord Seeker Elistan](../npcs/elistan.md).** Under interrogation (Session 05), [Hederick](../npcs/high-theocrat-hederick.md) named Elistan as commander of **[Haven](../locations/haven.md)** and of the Seekers' **doctrine** — his superior, above him. Elistan's doctrine **condemns those healed by true divine power** as a **capital heresy** (a death-mark): by curing Hederick with the Staff, Boilerdang marked *him* — and, Hederick warns, the whole party. It explains Hederick's Session 04 suicide (to a believer, being healed was **damnation**). (Session 05)
+- **The gods may be *returning* — the sky is changing.** On the night of Session 05, under **three moons**, two constellations **vanished** — the **Dragon** and the **Queen of Darkness** — just as winged **[draconians](../npcs/draconians.md)** walked out of [Darken Wood](../locations/darken-wood.md). A sky-omen that reframes the "silent gods": powers may be **descending into the world.** This dovetails with Boilerdang's prayers newly answering — and with his **radiant power proving effective against the draconians** where fire failed (the light answers the dark). (Session 05) — see [The Dragon Prophecy](../lore/the-dragon-prophecy.md)
 
 ## Open questions
 - **Who and what are the Seekers** — and is Hederick their supreme leader or one theocrat among many? Are they the **"new lies"** the Ringmaster's ledger sets against the "old gods"?
@@ -30,5 +32,6 @@ power fraud or heresy. The party has just openly used it against them.
 
 ## See also
 - [Divine power in the world](../lore/divine-power.md) · [The Seekers](../factions/the-seekers.md) · [High Theocrat Hederick](../npcs/high-theocrat-hederick.md)
+- [Lord Seeker Elistan](../npcs/elistan.md) — the doctrine's head · [Haven](../locations/haven.md) · [Draconians](../npcs/draconians.md)
 - [Mishakal](../lore/mishakal.md) · [Miracle-bearers](../lore/miracle-bearers.md) · [Boilerdang Criddlycrotch](../characters/boilerdang-criddlycrotch.md)
-- [The Staff & Goldmoon](the-staff-and-goldmoon.md) · [The Dragon Prophecy](../lore/the-dragon-prophecy.md) · [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md)
+- [The Staff & Goldmoon](the-staff-and-goldmoon.md) · [The Dragon Prophecy](../lore/the-dragon-prophecy.md) · [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md) · [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)

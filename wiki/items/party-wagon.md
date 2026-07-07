@@ -73,9 +73,34 @@ should be updated to match.**
   killed, revived twice, and now **bound captive** riding in the wagon as the party flees
   Solace. (Session 04)
 
+## Session 05 — Darken Wood ambush loot (pooled to the wagon)
+Recovered from the [draconian](../npcs/draconians.md) / goblin hunting party the
+party killed in [Darken Wood](../locations/darken-wood.md). (Session 05)
+
+- **Coin added:** 23 cp, 16 sp, 5 gp; plus a pouch of **14 steel pieces / strange
+  foreign coins.**
+- **Weapons:** 5 crude scimitars; 4 curved short swords / hooked blades; 5 shortbows /
+  battered hunting bows; **47 mixed-quality arrows.**
+- **Armor:** 2 usable **shields marked with a black claw symbol** (a
+  [Black Banners](../factions/black-banners.md) insignia).
+- **Signaling:** 2 curved signal whistles; 1 **black iron command whistle.**
+- **Provisions:** 1 half-eaten ration bundle; 1 pouch of dried mushrooms.
+- **Curios / intel:**
+  - 1 small **bone charm shaped like a claw.**
+  - 1 **strip of black leather stamped with claw-like military markings.**
+  - 1 **[Draconic](../npcs/draconians.md) order-token** — [Malix](../characters/malix.md)
+    reads it: ***"Staff intact. Woman alive. Others expendable."*** (Standing orders:
+    recover the [Staff](the-staff.md) undamaged, take [Goldmoon](../npcs/goldmoon.md)
+    **alive**, kill everyone else.)
+  - 1 **intact draconian scale**, chipped from one before it died — a physical
+    trophy / proof of what the party fought. ([Draconians](../npcs/draconians.md))
+  - 1 **dirty map scrap** showing the **party's own wagon trail marked in charcoal** —
+    proof the hunters were **tracking the party specifically.**
+
 ## Open questions
 - Exact capacity and any limits (described only as "similar to a bag of holding").
 - Does the wagon have a name?
 
 ## See also
 - [Dragonland — Campaign Overview](../../OVERVIEW.md) · [Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md)
+- [Draconians](../npcs/draconians.md) · [Black Banners](../factions/black-banners.md) · [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)

@@ -3,7 +3,7 @@ name: High Theocrat Hederick
 aliases: [Hederick]
 type: npc
 tags: [religion, authority, solace, captive]
-status: alive — bound captive in the party's wagon
+status: alive (again) — freshly revived after the draconians stabbed him, and furious
 first-learned: session 03
 ---
 
@@ -79,6 +79,43 @@ first-learned: session 03
   woods, Hederick rides with them — **a restrained, living captive**, and the travelers'
   shot at answers after all. (Session 04)
 
+### Session 05 — he talks, is traded, dies, and is raised again
+- **🗣️ He talked under interrogation.** Bound in the wagon, Hederick gave up real
+  intelligence:
+  - **The staff-hunt comes from [Haven](../locations/haven.md), not him** — he and the
+    [Seekers](../factions/the-seekers.md) act on Haven's orders.
+  - **He commands Haven and the Seekers' doctrine: [Lord Seeker Elistan](elistan.md)** —
+    Hederick's **superior**, the head of the faith behind the staff-hunt. *(New NPC.)*
+  - **The goblins are Haven's "allies," sent as escorts / guards** — but *"allies do not
+    make priests afraid to speak."* Even the fanatic senses the "alliance" has **cowed his
+    own priests into silence** — it reads more like occupation.
+  - **Why the Staff, really:** because its **genuine miracles threaten the Seekers' power.**
+    A relic performing *true* healing disproves the founding claim that divine power is dead
+    — an existential threat to Seeker **legitimacy**, so Haven wants it seized and silenced.
+  - **He was assured [Solace](../locations/solace.md) would not be touched** — and it is
+    **burning.** Watching his hometown and the party's HQ burn troubled him: a **broken
+    promise** from the "allies" he serves, wedging him from his Haven masters.
+- **☠️ The death-mark.** By healing him with the Staff, Boilerdang **marked Hederick for
+  death** under Elistan's doctrine — being cured by "witch" / true divine power is itself a
+  **capital heresy.** Hederick warns the **whole party is now marked**, and that if Elistan
+  has marked you, **you will die.** (This recasts his Session 04 self-maiming and suicide:
+  to a true believer, being healed by the Staff was **damnation**, not rescue.)
+- **🤝 The party traded him to the [draconians](draconians.md).** In [Darken Wood](../locations/darken-wood.md),
+  the winged draconians demanded Hederick and the Staff. The party **handed over Hederick**
+  along with a **forged fake staff** (keeping the real relic with [Goldmoon](goldmoon.md)).
+- **🗡️ The draconians stabbed him on receipt.** They wanted the marked theocrat **dead** —
+  the death-mark carried out by *their* hand — and knifed Hederick the instant he was handed
+  over, then saw through the forgery and combat resumed. (Session 05)
+- **🔄 …and Boilerdang revived him a THIRD time — now alive and furious.** With the fight
+  won, Boilerdang cast **Revivify** on the stabbed theocrat and healed him. Hederick is
+  **alive once more — and enraged**: the party **traded him to the very creatures who knifed
+  him**, and dragged him back yet again by the "blasphemous" divine power he despises.
+  (Session 05)
+
+> **Death & revival tally:** killed (Spiritual Weapon) → revived → suicide (leapt from the
+> tree) → revived → stabbed by the draconians → revived. **Three deaths, three
+> resurrections** — the man cannot stay dead, and hates every return.
+
 ## Open questions
 
 - **Will he talk?** Bound, revived twice against his will, and riding in the party's wagon,
@@ -105,4 +142,6 @@ first-learned: session 03
 - [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md)
 - [The Two Travelers](the-two-travelers.md) — they seek him for information
 - [The Seekers](../factions/the-seekers.md) — the authority he commands · [Notice of Road Authority](../documents/notice-of-road-authority.md) — signed in his name
+- [Lord Seeker Elistan](elistan.md) — his superior at Haven · [Haven](../locations/haven.md) — source of his orders · [Draconians](draconians.md) — bought him, stabbed him
 - [Divine power in the world](../lore/divine-power.md) — the Seekers and religious authority
+- [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)

@@ -63,6 +63,19 @@ As the campaign begins, Boilerdang has started to feel that something is changin
   This is **far louder exposure than Session 03**: a room of townsfolk saw his magic heal,
   kill, and resurrect the High Theocrat (twice). The party left Solace as fugitives with a
   kidnapped theocrat.
+- **His radiant power is the counter to the [draconians](../npcs/draconians.md) (Session 05).**
+  He drank a **Potion of Watchful Rest** to stay awake and alert on watch through the long
+  rest outside Solace. In [Darken Wood](../locations/darken-wood.md), where
+  [Malix](malix.md)'s Fireball barely marked the fire-resistant draconians, Boilerdang's
+  **Spirit Guardians** (radiant) **bloodied two of three in a single cast** — true divine
+  power bites the dragon-kin where fire fails, and the aura's spell damage also sidesteps
+  their weapon-trapping stone-death. The very "heretical" power the Seekers brand a
+  death-mark is the party's best weapon against the prophecy's creatures. (Session 05)
+- **He revived [Hederick](../npcs/high-theocrat-hederick.md) a THIRD time (Session 05).**
+  After the party traded Hederick to the draconians and they **stabbed him on receipt**,
+  Boilerdang cast **Revivify** once the fight was won and healed him — Hederick lives again,
+  and is **furious.** (Tally: killed → revived → suicide → revived → stabbed by draconians →
+  revived.) (Session 05)
 
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~80 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)
@@ -100,3 +113,5 @@ sit in the prepared list below.
 - [Dragonland — Campaign Overview](../../OVERVIEW.md) — the party roster
 - [Divine power in the world](../lore/divine-power.md) — why his magic is rare and dangerous
 - [Miracle-bearers](../lore/miracle-bearers.md) · [The Ringmaster](../npcs/the-ringmaster.md)
+- [Draconians](../npcs/draconians.md) — his radiant power counters them · [High Theocrat Hederick](../npcs/high-theocrat-hederick.md) — thrice revived
+- [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)

@@ -52,6 +52,20 @@ advantage.*
 ## Personality & backstory
 - Not recorded on the sheet yet (all narrative fields blank).
 
+## In play (session notes)
+- **He speaks [Draconic](../npcs/draconians.md) — and it paid off.** In
+  [Darken Wood](../locations/darken-wood.md) (Session 05) Malix **decoded the draconians'
+  Draconic order-token**, reading their standing orders aloud: ***"Staff intact. Woman
+  alive. Others expendable."*** — the intel that revealed the hunt wants
+  [Goldmoon](../npcs/goldmoon.md) taken **alive.** (Session 05)
+- **He dropped a Fireball on the ambush** — killing the goblins and badly wounding the human,
+  though it **barely marked** the fire-resistant [draconian](../npcs/draconians.md). (Session 05)
+- **The Chromatic Orb curse continues — another natural 1.** Casting Chromatic Orb in the
+  draconian fight, Malix **rolled a nat 1**: the spell misfired, he **took 1 damage** and
+  **failed a Con save**, leaving him with **disadvantage on all spellcasting until the end
+  of combat.** (A second Chromatic Orb mishap — cf. the exploding orb in Session 04. The bit
+  endures.) (Session 05)
+
 ## Open questions
 - **Dark Bargain** — a GM-adjudicated feat now on his sheet (and on
   [Renob](renob.md)'s). What did the party bargain for, and what does it grant? The
@@ -60,4 +74,5 @@ advantage.*
 
 ## See also
 - [Dragonland — Campaign Overview](../../OVERVIEW.md) — party roster
-- [Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md)
+- [Draconians](../npcs/draconians.md) — he reads their Draconic orders
+- [Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md) · [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)
