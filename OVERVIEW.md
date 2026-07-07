@@ -27,9 +27,8 @@ so it can't be stacked with another concentration spell like Spirit Guardians.
 The party is a band of professional hunters who call themselves
 **"Boilerdang and his Biatches,"** led by Boilerdang Criddlycrotch.
 
-**Party XP:** **28,800** as of end of Session 04 (level 7; level 8 at 34,000,
-~5,200 to go). *(Vaelor & Pip were 260 behind on their D&D Beyond sheets — a missed
-award; their sheets need +260 each to reach 28,800.)*
+**Party XP:** **29,410** as of end of Session 05 (level 7; level 8 at 34,000,
+~4,590 to go). *(XP is awarded by the DM as a flat per-character amount.)*
 
 - **Boilerdang Criddlycrotch** — Human Cleric 7 (Life Domain), the party's
   leader. See [Boilerdang Criddlycrotch](wiki/characters/boilerdang-criddlycrotch.md).
@@ -92,12 +91,34 @@ bound** him. With **18+ goblins** converging, the party **fled Solace into the w
 Staff, the travelers, and a **captive Hederick** — now fugitives who killed/abducted the regional
 theocrat. See [Session 04 — The Inn of the Last Home](sessions/04-2026-06-30-the-inn-of-the-last-home.md).
 
+In the 2026-07-07 session, camped in the woods south of Solace, the party — who are
+**natives of Solace** — took a long rest and watched their home town, and their own
+**[HQ](wiki/locations/solace.md)**, **burn**, while two constellations, the **Queen of
+Darkness** and the **Dragon**, vanished from the sky beneath three moons. Interrogating
+captive **[Hederick](wiki/npcs/high-theocrat-hederick.md)** revealed the staff-hunt is
+directed from **[Haven](wiki/locations/haven.md)** by **[Lord Seeker Elistan](wiki/npcs/elistan.md)**,
+that the Staff is hunted because its miracles threaten the Seekers' legitimacy, and that a
+looted **[Highseeker condemnation notice](wiki/documents/highseekers-condemnation-notice.md)**
+brands the party fugitives and threatens any who shelter them. Pressing south through
+**[Darken Wood](wiki/locations/darken-wood.md)** toward Haven, the party was ambushed and,
+for the first time, fought **[draconians](wiki/npcs/draconians.md)** — the prophecy's
+"scaled children of forgotten fire" made flesh (fire-resistant, dying into stone; **radiant
+divine power is the counter**). They killed four, and a decoded **Draconic order-token** laid
+out the enemy plan: *"Staff intact. Woman alive. Others expendable."* The draconians claim the
+Staff **"was taken from us,"** and **[Riverwind](wiki/npcs/riverwind.md)** recognized them from
+a distant memory. A forged-staff ruse offloaded Hederick — whom the draconians promptly
+**stabbed**, and Boilerdang revived a third time (alive and furious). See
+[Session 05 — The Missing Stars](sessions/05-2026-07-07-the-missing-stars.md).
+
 ## Major threads
 
-- **The gathering war** — unmarked black-banner armies massing eastward.
-  See [Black Banners](wiki/factions/black-banners.md).
+- **The gathering war** — unmarked black-banner armies massing eastward; their
+  troops are now known to include **[draconians](wiki/npcs/draconians.md)** (winged,
+  reptilian dragon-kin, marked with a black claw). See [Black Banners](wiki/factions/black-banners.md).
 - **The dragon prophecy** — a recovered parchment foretells the return of
-  dragons, naming the black banners among its signs. See
+  dragons, naming the black banners among its signs. **Now manifesting:** the Dragon
+  constellation has left the sky and the prophecy's "scaled children of forgotten fire"
+  — draconians — walk the world (Session 05). See
   [The Dragon Prophecy](wiki/lore/the-dragon-prophecy.md).
 - **The buried archive** — the Black Banners are digging out a pre-Cataclysm
   military archive beneath an old watch station, guarded above by patrols and
@@ -106,17 +127,23 @@ theocrat. See [Session 04 — The Inn of the Last Home](sessions/04-2026-06-30-t
 - **The Ringmaster's cargo** — smuggled "miracle-bearers" and hidden relics.
   See [The Ringmaster](wiki/npcs/the-ringmaster.md).
 - **The Staff & Goldmoon** — the party is escorting Goldmoon, who carries the
-  sought-after Staff (which "must not reach X.T."), while the Seekers hunt it.
+  sought-after Staff (which "must not reach X.T."), while the Seekers hunt it. The hunt's
+  true masters are the **draconians**, who want the Staff **intact** (they claim it "was
+  taken from us") and **Goldmoon alive** — everyone else expendable.
   See [The Staff & Goldmoon](wiki/quests/the-staff-and-goldmoon.md) and
   [X.T.](wiki/locations/x-t.md).
 - **The silent gods & the Seekers** — true divine power is thought long dead, yet
-  Boilerdang's works; the theocratic Seekers brand all such power heresy. See
-  [The Silent Gods & the Seekers](wiki/quests/the-silent-gods.md).
+  Boilerdang's works; the theocratic Seekers brand all such power heresy. The Seekers answer
+  to **[Lord Seeker Elistan](wiki/npcs/elistan.md)** at Haven, and the vanished constellations
+  hint the gods are returning as Boilerdang's power — the draconians' one weakness — awakens.
+  See [The Silent Gods & the Seekers](wiki/quests/the-silent-gods.md).
 
 ## Key places
 
 - **Haven** — [Haven](wiki/locations/haven.md)
-- **Solace** — [Solace](wiki/locations/solace.md)
+- **Solace** (the party's home town; HQ burned by Seeker decree) — [Solace](wiki/locations/solace.md)
+- **Darken Wood** (haunted forest on the road south to Haven; current location) — [Darken Wood](wiki/locations/darken-wood.md)
+- **Que-Shu** (Goldmoon & Riverwind's homeland, near Solace) — [Que-Shu](wiki/locations/que-shu.md)
 - **The Excavation Site** (watch station over the buried archive) —
   [The Excavation Site](wiki/locations/the-excavation-site.md)
 - **X.T.** (unspoken site) — [X.T.](wiki/locations/x-t.md)
