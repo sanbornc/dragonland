@@ -97,9 +97,32 @@ party killed in [Darken Wood](../locations/darken-wood.md). (Session 05)
   - 1 **dirty map scrap** showing the **party's own wagon trail marked in charcoal** —
     proof the hunters were **tracking the party specifically.**
 
+## Session 06 — CACHED IN DARKEN WOOD
+
+**⚠️ The wagons are not with the party.** With the road to
+[Xak Tsaroth](../locations/xak-tsaroth.md) drowned and passable only by **stone roads beneath
+a swamp**, the **[Forest Master](../npcs/the-forest-master.md)** allowed the party to **leave
+the wagons — and everything in them — in [Darken Wood](../locations/darken-wood.md)** under
+her protection and her centaurs'. The safest storage in the region: a wood the
+[Seekers](../factions/the-seekers.md) do not enter and the dragon army cannot follow them
+into. It also takes the party's **wagon ruts** — which the draconians were tracking on a
+charcoal map — off the board. (Session 06)
+
+**Carried out with the party** (everything else stays with the wagons — coin, documents,
+bulk gear, circus items):
+- The **[Staff](the-staff.md)** (with [Goldmoon](../npcs/goldmoon.md))
+- The **[Amulet of the Remembered Paw](amulet-of-the-remembered-paw.md)**
+  ([Boilerdang](../characters/boilerdang-criddlycrotch.md))
+- The **wooden [Mishakal](../lore/mishakal.md) token** (the Seekers' "false god token")
+- The **Forest Master's maps** of the submerged stone roads
+- The **Silver Holy Symbol of Paladine**
+- Potions, rations, and personal gear
+
 ## Open questions
 - Exact capacity and any limits (described only as "similar to a bag of holding").
 - Does the wagon have a name?
+- **When and how do the party retrieve the wagons** — and does the wood give back what it
+  keeps? (Session 06)
 
 ## See also
 - [Dragonland — Campaign Overview](../../OVERVIEW.md) · [Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md)

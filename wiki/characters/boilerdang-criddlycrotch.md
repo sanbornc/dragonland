@@ -77,6 +77,32 @@ As the campaign begins, Boilerdang has started to feel that something is changin
   and is **furious.** (Tally: killed → revived → suicide → revived → stabbed by draconians →
   revived.) (Session 05)
 
+- **🕊️ He ended a three-century haunting with absolution, not combat (Session 06).** In
+  [Darken Wood](../locations/darken-wood.md), **[Emrich](../npcs/emrich.md)** — a Knight of
+  Solamnia looping at the moment of the Cataclysm with ~50 knights against endless shadow
+  figures — confessed he had **sounded the horn for retreat when the mountain fell** and
+  believed the loop was his punishment. Boilerdang **convinced him it was not a failure of
+  the oath**: with the world ending, the order that got men out alive was the right one. The
+  knights faded into the forest and the shadows disappeared. **A priest did what fifty armed
+  knights could not do in three hundred years** — and did it in front of
+  [Goldmoon](../npcs/goldmoon.md), [Riverwind](../npcs/riverwind.md), and a captive
+  [Hederick](../npcs/high-theocrat-hederick.md).
+- **🧿 He was given the [Amulet of the Remembered Paw](../items/amulet-of-the-remembered-paw.md)
+  (Session 06).** In the [Forest Master](../npcs/the-forest-master.md)'s clearing, the large
+  bear the party had **spared in Session 03** growled in his face and indicated he should
+  take the amulet from her neck. **Once per long rest it summons one of the
+  [bears](../npcs/the-friendly-bears.md) to fight for the party for 10 minutes.** *(Add to
+  the D&D Beyond sheet.)*
+- **His god may have a name at last (Session 06).** The Forest Master named the
+  [Staff](../items/the-staff.md) as **[Mishakal](../lore/mishakal.md)'s promise** — "a promise
+  that the gods have not forgotten the people; the people have forgotten the gods" — and
+  revealed that her own knowledge came from **a voice that spoke directly from her.** A god is
+  speaking into the world *now*. *(Open: is it the same voice that answers Boilerdang — "a god
+  whose name he is only beginning to recognize"?)*
+- **🎁 Boon (Session 06):** the Forest Master granted him **one extra 4th-level spell slot**,
+  lasting **until the battle with the evil at [Xak Tsaroth](../locations/xak-tsaroth.md).**
+  *(Confirm at the table whether it refreshes per long rest.)*
+
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~80 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)
 - **Speed** 30 ft, plus a climbing speed; Boots of Speed for doubling

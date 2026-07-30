@@ -15,7 +15,7 @@ into [Solace](../locations/solace.md) — the very town from which
 [Fewmaster Toede](../npcs/fewmaster-toede.md) is running a hunt to seize it.
 
 ## The thread
-- The campaign has circled a **Staff** for some time: per the Ringmaster's ledger, **"the Staff must not reach [X.T.](../locations/x-t.md)"** — the buyer said it twice. ([Ringmaster's Ledger — Torn Map Scrap](../documents/ringmasters-ledger-map-scrap.md))
+- The campaign has circled a **Staff** for some time: per the Ringmaster's ledger, **"the Staff must not reach [X.T.](../locations/xak-tsaroth.md)"** — the buyer said it twice. ([Ringmaster's Ledger — Torn Map Scrap](../documents/ringmasters-ledger-map-scrap.md))
 - **Goldmoon carries that Staff**, wrapped in cloth or leather. She is a **Que-Shu** woman, "the Chieftain's daughter," traveling with the plainsman **[Riverwind](../npcs/riverwind.md)**. (Session 03)
 - The party rescued the pair from goblin-wounded bears in the forest and **agreed to escort them to Solace.** (Session 03)
 - The Solace roadblock was a **targeted ambush**: standing orders were to **detain the woman alive, seize the Staff intact**, treat Riverwind as "expendable," and **keep priests, scholars, and Solamnic sympathizers away** from the object — run by **Toede in Solace, "by authority of the High Theocrat's office."** ([Seeker Intercept Orders](../documents/seeker-field-order-toede.md))
@@ -26,6 +26,20 @@ into [Solace](../locations/solace.md) — the very town from which
 - **The High Theocrat: killed → revived → suicide → revived again, now captive.** After the goblins/guards fell, Hederick refused a last surrender and **Boilerdang killed him**, **revived him**, watched him **leap to his death**, then **revived him a second time and tied him up** in the **[party wagon](../items/party-wagon.md).** With **18+ goblins converging**, **[Tika](../npcs/tika.md) opened the back door / trap-door rope** and **[Fizban](../npcs/fizban.md) said run**; **[Malix](../characters/malix.md) Fireballed the swarm**; **[Goldmoon](../npcs/goldmoon.md) & [Riverwind](../npcs/riverwind.md) fled into the forest with the Staff**, and **the party retreated into the woods with the wagons, following them** — carrying a bound [Hederick](../npcs/high-theocrat-hederick.md). The hunt's named authority is now the party's prisoner. (Session 04)
 - **The true masters of the hunt revealed: the [draconians](../npcs/draconians.md) (Session 05).** In [Darken Wood](../locations/darken-wood.md), winged draconian trackers — following the party's own wagon trail — demanded **[Hederick](../npcs/high-theocrat-hederick.md) and the Staff**. Their standing order, on a Draconic token, is **"Staff intact. Woman alive. Others expendable."** — recover the Staff undamaged, take **[Goldmoon](../npcs/goldmoon.md) alive**, kill everyone else. They claim the Staff **"was taken from us"** and can tell the real relic from a fake. So the whole staff-hunt — checkpoints, the town sweep, the burning of Solace, the Seekers, Haven — traces up to **these creatures**; the Seekers are their servants, not sponsors. (Session 05)
 - **The forgery gambit — and the trade.** Rather than surrender the real relic, the party **forged a fake staff** and brought it with Hederick to the handoff; a strong Deception made the trade happen. The draconians **stabbed Hederick on receipt** (enforcing his death-mark), then **saw through the forgery** and combat resumed. The party **kept the real Staff** (still with Goldmoon), **offloaded Hederick**, and **killed all four draconians** — Boilerdang's radiant **Spirit Guardians** being the counter to the fire-immune creatures. (Boilerdang later revived Hederick a third time.) (Session 05)
+
+- **⭐✅ ANSWERED (Session 06): whose Staff it is, and what it is.** The
+  **[Forest Master](../npcs/the-forest-master.md)** of [Darken Wood](../locations/darken-wood.md)
+  told the party the Staff is **"a promise that the gods have not forgotten the people; the
+  people have forgotten the gods"** — a promise made by **[Mishakal](../lore/mishakal.md)** —
+  and that the **[draconians](../npcs/draconians.md)' claim it "was taken from us" is FALSE**.
+  **[Goldmoon](../npcs/goldmoon.md) is its rightful owner.** The party is not holding stolen
+  property, and the Darken Wood forgery gambit was legitimate.
+- **New heading: [Xak Tsaroth](../locations/xak-tsaroth.md).** The Forest Master sent the party
+  east to find the **[Disks of Mishakal](the-disks-of-mishakal.md)** — revealing that the
+  campaign's unspoken **"X.T."** is Xak Tsaroth, and that the **dragon army is racing them for
+  the same relics.** The party left the [wagons](../items/party-wagon.md) in Darken Wood and
+  set out through the swamp with **[Riverwind](../npcs/riverwind.md) guiding.** (Session 06)
+  → see [The Disks of Mishakal](the-disks-of-mishakal.md).
 
 ## Open questions
 
@@ -44,5 +58,5 @@ into [Solace](../locations/solace.md) — the very town from which
 - [The Song of Riverwind](../documents/song-of-riverwind.md) — the ballad of the Staff and the travelers
 - [Draconians](../npcs/draconians.md) — the true masters of the hunt · [Black Banners](../factions/black-banners.md) · [Lord Seeker Elistan](../npcs/elistan.md) · [Haven](../locations/haven.md)
 - [Fewmaster Toede](../npcs/fewmaster-toede.md) · [Seeker Intercept Orders](../documents/seeker-field-order-toede.md)
-- [The Seekers](../factions/the-seekers.md) · [X.T.](../locations/x-t.md) · [The Buyer](../npcs/the-buyer.md) · [High Theocrat Hederick](../npcs/high-theocrat-hederick.md)
+- [The Seekers](../factions/the-seekers.md) · [X.T.](../locations/xak-tsaroth.md) · [The Buyer](../npcs/the-buyer.md) · [High Theocrat Hederick](../npcs/high-theocrat-hederick.md)
 - [The Silent Gods & the Seekers](the-silent-gods.md) · [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md) · [Session 04](../../sessions/04-2026-06-30-the-inn-of-the-last-home.md) · [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)

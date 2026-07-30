@@ -20,7 +20,7 @@ first-learned: session 03
 - Travels with **[Riverwind](riverwind.md)**, the man of the pair. (Session 03)
 - **She carries "the staff."** Captured orders on the roadblock crew name her as the
   target: **"The woman has the staff"** — almost certainly the sought-after
-  **[Staff](../items/the-staff.md)** that "must not reach [X.T.](../locations/x-t.md)."
+  **[Staff](../items/the-staff.md)** that "must not reach [X.T.](../locations/xak-tsaroth.md)."
   ([Seeker Field Order — Toede to Voss](../documents/seeker-field-order-toede.md)) (Session 03)
 - She is being **actively hunted** for it: **[Fewmaster Toede](fewmaster-toede.md)**
   set the Solace ambush specifically to intercept her. (Session 03)
@@ -56,8 +56,24 @@ first-learned: session 03
   same order to capture *her* and no one else. (Session 05) — see
   [Darken Wood](../locations/darken-wood.md), [Black Banners](../factions/black-banners.md)
 
+- **✅ She is the [Staff](../items/the-staff.md)'s RIGHTFUL OWNER — and the draconians lied.**
+  The **[Forest Master](the-forest-master.md)** of [Darken Wood](../locations/darken-wood.md)
+  stated flatly that the [draconians](draconians.md)' claim the Staff *"was taken from us"* is
+  **false**, and that **Goldmoon is its rightful bearer.** (Session 06)
+- **⭐ What she carries.** The Staff is **not merely a weapon or a vessel of healing** but
+  **"a promise that the gods have not forgotten the people; the people have forgotten the
+  gods"** — a promise made by **[Mishakal](../lore/mishakal.md)**. Goldmoon is the bearer of a
+  goddess's promise, and heard it named in front of her. (Session 06)
+- **She travels on toward [Xak Tsaroth](../locations/xak-tsaroth.md)** with the party and
+  [Riverwind](riverwind.md), carrying the Staff, to find the
+  **[Disks of Mishakal](../quests/the-disks-of-mishakal.md)** ahead of the dragon army.
+  (Session 06)
+
 ## Open questions
 
+- **"Rightful owner," not "current carrier" — does the Staff answer only to her?** Put beside
+  the standing draconian order (*Staff intact, woman alive, others expendable*), it may be that
+  seizing the Staff **without** her is worthless. *(Inference, Session 06 — worth testing.)*
 - **Why do they want her *alive*?** The draconians single her out for **capture**, not
   death — because she bears/commands the Staff, because of who she is (the Que-Shu
   chieftain's daughter), or something more? (Session 05)

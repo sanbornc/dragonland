@@ -67,14 +67,31 @@ them: **draconians.**
 - **Body count:** the party **killed 4** in Darken Wood — the first cloaked figure plus
   the three that appeared to parley. (Session 05)
 
+- **❌ Their claim on the Staff is a LIE.** The **[Forest Master](the-forest-master.md)** of
+  [Darken Wood](../locations/darken-wood.md) — a unicorn — states flatly that the draconians'
+  *"it was taken from us"* is **false**, and that **[Goldmoon](goldmoon.md) is the Staff's
+  rightful owner.** The [Staff](../items/the-staff.md) is a promise left by
+  **[Mishakal](../lore/mishakal.md)**. They lied to the party's faces about provenance —
+  which suggests they know **exactly** what it is. (Session 06)
+- **They are a "dragon army," and they are collecting Mishakal's relics.** Shown the
+  confiscated Mishakal token, the Forest Master revealed the **dragon army is also seeking
+  the [Disks of Mishakal](../quests/the-disks-of-mishakal.md)** at
+  [Xak Tsaroth](../locations/xak-tsaroth.md). They are not merely hunting one Staff — they
+  are gathering the goddess's relics wholesale, which would strip away the evidence that the
+  gods ever answered. (Session 06)
+
 ## Open questions
 
 - Are these truly the prophecy's **"scaled children of forgotten fire"** — and is this
   **first contact** with the dragons' foretold return?
 - **Where has [Riverwind](../npcs/riverwind.md) seen them before?** His eastern quest may
-  hold the shared origin of both the draconians and the Staff.
-- **How was the Staff "taken from" them** — if their claim is true, whose relic is it
-  really (theirs, the Que-Shu's, a god's)?
+  hold the shared origin of both the draconians and the Staff. **If they never owned the
+  Staff, were they *guarding* it at [Xak Tsaroth](../locations/xak-tsaroth.md) when he took
+  it?** *(Inference, Session 06.)*
+- **Why lie about owning it** — to make the party feel like thieves, or to conceal that they
+  are collecting a goddess?
+- **Are they the "great evil" at Xak Tsaroth, or does something older wait there?** (Session 06)
+- **How far ahead of the party are they in the race for the Disks?** (Session 06)
 - How many more units carry the same standing orders? This was **one** tracking party of
   a black-claw army.
 - Are they Haven's dreaded **"allies"** — the ones who leave priests afraid to speak?

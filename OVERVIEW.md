@@ -27,8 +27,8 @@ so it can't be stacked with another concentration spell like Spirit Guardians.
 The party is a band of professional hunters who call themselves
 **"Boilerdang and his Biatches,"** led by Boilerdang Criddlycrotch.
 
-**Party XP:** **29,410** as of end of Session 05 (level 7; level 8 at 34,000,
-~4,590 to go). *(XP is awarded by the DM as a flat per-character amount.)*
+**Party XP:** **30,210** as of end of Session 06 (level 7; level 8 at 34,000,
+~3,790 to go). *(XP is awarded by the DM as a flat per-character amount.)*
 
 - **Boilerdang Criddlycrotch** — Human Cleric 7 (Life Domain), the party's
   leader. See [Boilerdang Criddlycrotch](wiki/characters/boilerdang-criddlycrotch.md).
@@ -74,7 +74,7 @@ At Solace's entrance they hit a **[Seeker](wiki/factions/the-seekers.md) roadblo
 and, when the head goblin wouldn't identify the crew, **killed them all**. Recovered
 orders revealed the checkpoint was a **targeted staff-hunt**: **Goldmoon** is a
 **Que-Shu** woman who **carries [the Staff](wiki/items/the-staff.md)** the campaign
-has been circling (the relic that "must not reach [X.T.](wiki/locations/x-t.md)"), to
+has been circling (the relic that "must not reach [X.T.](wiki/locations/xak-tsaroth.md)"), to
 be taken alive and the Staff seized intact — run from Solace by
 **[Fewmaster Toede](wiki/npcs/fewmaster-toede.md)** under the High Theocrat's
 authority. See [Session 03 — The Friendly Bears](sessions/03-2026-06-23-the-friendly-bears.md).
@@ -110,6 +110,30 @@ a distant memory. A forged-staff ruse offloaded Hederick — whom the draconians
 **stabbed**, and Boilerdang revived a third time (alive and furious). See
 [Session 05 — The Missing Stars](sessions/05-2026-07-07-the-missing-stars.md).
 
+In the 2026-07-30 session, deep in **[Darken Wood](wiki/locations/darken-wood.md)** — where
+shadows lagged and the party's trail closed behind them — they found ~50
+**[Knights of Solamnia](wiki/factions/knights-of-solamnia.md)** holding a line against endless
+shadow figures. It was a **loop**: **[Emrich](wiki/npcs/emrich.md)** and his knights replaying
+the moment of the **Cataclysm**, pinned there by his guilt at having *sounded the horn for
+retreat when the mountain fell*. **Boilerdang absolved him** — the knights faded and the
+shadows vanished, a three-century haunting ended by a priest rather than a sword. Centaurs then
+escorted the party to the wood's ruler, the **[Forest Master](wiki/npcs/the-forest-master.md)**,
+a **unicorn** — where the **[bears the party spared in Session 03](wiki/npcs/the-friendly-bears.md)**
+had already vouched for them, and one gave Boilerdang the
+**[Amulet of the Remembered Paw](wiki/items/amulet-of-the-remembered-paw.md)**. The Forest
+Master named the **[Staff](wiki/items/the-staff.md)** *"a promise that the gods have not
+forgotten the people; the people have forgotten the gods"* — the promise of
+**[Mishakal](wiki/lore/mishakal.md)** — confirmed **[Goldmoon](wiki/npcs/goldmoon.md)** as its
+**rightful owner** and the draconians' claim on it a **lie**, and said the vanished
+constellations **represent the old gods**. She then solved the campaign's oldest mystery:
+**"X.T." is [Xak Tsaroth](wiki/locations/xak-tsaroth.md)** — and sent the party there to find
+the **[Disks of Mishakal](wiki/quests/the-disks-of-mishakal.md)**, warning that the **dragon
+army seeks the same relics.** With the wagons cached in the wood, a boon in hand, and a
+faith-shaken **[Hederick](wiki/npcs/high-theocrat-hederick.md)** now travelling *willingly*,
+the party set out east through the swamp with **[Riverwind](wiki/npcs/riverwind.md)** — who
+remembers a swamp from the journey on which he found the Staff — guiding them. See
+[Session 06 — The Promise of Mishakal](sessions/06-2026-07-30-the-promise-of-mishakal.md).
+
 ## Major threads
 
 - **The gathering war** — unmarked black-banner armies massing eastward; their
@@ -131,7 +155,15 @@ a distant memory. A forged-staff ruse offloaded Hederick — whom the draconians
   true masters are the **draconians**, who want the Staff **intact** (they claim it "was
   taken from us") and **Goldmoon alive** — everyone else expendable.
   See [The Staff & Goldmoon](wiki/quests/the-staff-and-goldmoon.md) and
-  [X.T.](wiki/locations/x-t.md).
+  [Xak Tsaroth](wiki/locations/xak-tsaroth.md). **Session 06: the
+  [Forest Master](wiki/npcs/the-forest-master.md) confirms the draconians' claim is a lie and
+  Goldmoon is the Staff's rightful owner — the Staff is [Mishakal](wiki/lore/mishakal.md)'s
+  promise.**
+- **The Disks of Mishakal (current objective)** — the [Forest Master](wiki/npcs/the-forest-master.md)
+  sent the party east to **[Xak Tsaroth](wiki/locations/xak-tsaroth.md)** to find
+  **Mishakal's Disks**, ahead of a **dragon army** hunting the same relics. The road is
+  drowned; the way in is a swamp crossed by **stone roads beneath the water**, and the site is
+  guarded by **a great evil**. See [The Disks of Mishakal](wiki/quests/the-disks-of-mishakal.md).
 - **The silent gods & the Seekers** — true divine power is thought long dead, yet
   Boilerdang's works; the theocratic Seekers brand all such power heresy. The Seekers answer
   to **[Lord Seeker Elistan](wiki/npcs/elistan.md)** at Haven, and the vanished constellations
@@ -142,8 +174,13 @@ a distant memory. A forged-staff ruse offloaded Hederick — whom the draconians
 
 - **Haven** — [Haven](wiki/locations/haven.md)
 - **Solace** (the party's home town; HQ burned by Seeker decree) — [Solace](wiki/locations/solace.md)
-- **Darken Wood** (haunted forest on the road south to Haven; current location) — [Darken Wood](wiki/locations/darken-wood.md)
+- **Darken Wood** (forest between Solace and Haven; its haunting **ended** in Session 06 —
+  ruled by the [Forest Master](wiki/npcs/the-forest-master.md), and where the party's wagons
+  are now cached) — [Darken Wood](wiki/locations/darken-wood.md)
+- **The swamp east of Darken Wood** (drowned road to Xak Tsaroth, crossed by submerged stone
+  roads; **current location**) — [Xak Tsaroth](wiki/locations/xak-tsaroth.md)
 - **Que-Shu** (Goldmoon & Riverwind's homeland, near Solace) — [Que-Shu](wiki/locations/que-shu.md)
 - **The Excavation Site** (watch station over the buried archive) —
   [The Excavation Site](wiki/locations/the-excavation-site.md)
-- **X.T.** (unspoken site) — [X.T.](wiki/locations/x-t.md)
+- **Xak Tsaroth** (the site formerly known only as "X.T."; current destination) —
+  [Xak Tsaroth](wiki/locations/xak-tsaroth.md)

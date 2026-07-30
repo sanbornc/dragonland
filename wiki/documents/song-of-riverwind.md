@@ -84,7 +84,7 @@ and are the party's clearest account yet of where the Staff came from and what i
 ## Open questions
 
 - **What is the "strong magic at the lip of the morning"** Riverwind found the Staff
-  at — a place, a ruin, a being? Is it tied to [X.T.](../locations/x-t.md), the buried
+  at — a place, a ruin, a being? Is it tied to [X.T.](../locations/xak-tsaroth.md), the buried
   relics near Solace, or the broken gods?
 - **What does the Staff actually do** beyond the blue flare and the escape — is the
   vanishing teleportation, planar travel, or protection?

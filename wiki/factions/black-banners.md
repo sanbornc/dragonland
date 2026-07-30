@@ -25,7 +25,12 @@ first-learned: recovered documents
 - **They claim the Staff "was taken from" them** and want it back intact — asserting prior ownership of [Goldmoon](../npcs/goldmoon.md)'s relic. ([The Staff](../items/the-staff.md)) (Session 05)
 - **Weakness discovered:** they are **fire-resistant** but **vulnerable to true divine / radiant power** ([Boilerdang](../characters/boilerdang-criddlycrotch.md)'s Spirit Guardians bloodied them where Fireball failed), and they **die into stone**, trapping the weapon that killed them. ([Draconians](../npcs/draconians.md)) (Session 05)
 
+- **They are a "dragon army" — and they are collecting [Mishakal](../lore/mishakal.md)'s relics.** The **[Forest Master](../npcs/the-forest-master.md)** of [Darken Wood](../locations/darken-wood.md), shown the confiscated Mishakal token, revealed the **dragon army is also seeking the [Disks of Mishakal](../quests/the-disks-of-mishakal.md)** at **[Xak Tsaroth](../locations/xak-tsaroth.md)**. Their objective is not one Staff but the goddess's relics **wholesale** — which would strip away the evidence that the gods ever answered, and make the [Seekers](the-seekers.md)' doctrine true by default. The party is now **racing them.** (Session 06)
+- **Their claim on the Staff was a lie.** The Forest Master states the draconians' *"it was taken from us"* is **false** and that [Goldmoon](../npcs/goldmoon.md) is the rightful owner. (Session 06)
+- **The archive dig now reads differently.** An army that prizes "knowledge, not wealth" and digs out **pre-Cataclysm** records is the same army hunting a **pre-Cataclysm goddess's** relics — the [buried archive](../quests/the-buried-archive.md) operation and the staff-hunt may be one campaign, not two. *(Inference, Session 06.)*
+
 ## Open questions
+- **Is "[the Queen](../npcs/the-queen.md)" a god rather than a monarch?** The *Queen of Darkness* constellation vanished in Session 05, and the Forest Master says the vanished constellations **represent the old gods** (Session 06). If so, the gathering war is a **god's** war. *(Inference — not stated.)*
 - Are they tied to the Queen? How high above Commander S. Valane does the chain go?
 - Is recovering buried pre-Cataclysm knowledge their wider war objective, or just this one operation?
 - Are they tied to the foretold **return of dragons** — fulfilling the prophecy, preventing it, or serving it? *(Session 05: their soldiers are **[draconians](../npcs/draconians.md)** — they may **be** the prophecy's dragon-kin.)* ([The Dragon Prophecy](../lore/the-dragon-prophecy.md))

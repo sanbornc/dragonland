@@ -14,4 +14,4 @@ first-learned: recovered documents
 - Is the buyer the same as the Ringmaster's burned-out patron?
 
 ## See also
-- [The Staff](../items/the-staff.md) · [X.T.](../locations/x-t.md)
+- [The Staff](../items/the-staff.md) · [X.T.](../locations/xak-tsaroth.md)

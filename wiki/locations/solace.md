@@ -56,7 +56,7 @@ first-learned: recovered documents
   searching arrivals for?
 
 ## See also
-- [Haven](haven.md) · [X.T.](x-t.md) · [The Old Knight](../npcs/the-old-knight.md)
+- [Haven](haven.md) · [X.T.](xak-tsaroth.md) · [The Old Knight](../npcs/the-old-knight.md)
 - [The Excavation Site](the-excavation-site.md) — the buried-archive dig may connect to Solace's "not all relics stay buried"
 - [The Seekers](../factions/the-seekers.md) — they man the roadblock at Solace · [High Theocrat Hederick](../npcs/high-theocrat-hederick.md)
 - [Inn of the Last Home](inn-of-the-last-home.md) · [Tika](../npcs/tika.md) · [Otik](../npcs/otik.md)

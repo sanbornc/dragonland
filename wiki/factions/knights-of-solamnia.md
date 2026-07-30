@@ -15,8 +15,25 @@ first-learned: session 02 (2026-06-12)
 - **The order is now treated as contraband / suspect by the Seekers.** Hederick's road notice makes **"Solamnic arms or insignia" subject to mandatory surrender** at Solace's checkpoint — so the party's recovered Solamnic items are at risk. ([Notice of Road Authority](../documents/notice-of-road-authority.md))
 - The Seekers specifically bar **"Solamnic sympathizers" (along with priests and scholars) from [the Staff](../items/the-staff.md)** Goldmoon carries — suggesting Solamnics would recognize or value it. ([Seeker Intercept Orders](../documents/seeker-field-order-toede.md))
 
+- **🕊️ A second Solamnic company found — and released (Session 06).** In
+  [Darken Wood](../locations/darken-wood.md) the party found **~50 knights** under
+  **[Emrich](../npcs/emrich.md)** holding a battle line against endless **shadow figures** —
+  a **loop** replaying the moment of the **Cataclysm.** Emrich believed the year was the year
+  of the Cataclysm, that he was still under orders, and that the loop was his **punishment
+  for sounding the horn for retreat when the mountain fell.**
+  [Boilerdang](../characters/boilerdang-criddlycrotch.md) **absolved him** — the knights faded
+  into the forest and the shadows vanished.
+- **The pattern:** with **[Sir Garreck](../npcs/sir-garreck.md)** in the tower archive, that
+  is now **two Solamnic knights, in two places, both still at their posts from before the
+  Cataclysm.** The order did not simply fall — parts of it **never stood down.** (Session 06)
+- **First eyewitness account of the Cataclysm: "the mountain fell."** From Emrich, who was
+  there. (Session 06)
+
 ## Open questions
-- Does the order still exist, or did it fall with "the old kingdoms" before the Cataclysm?
+- Does the order still exist **in the living world**, or only as those who never stood down?
+  *(Session 06: Emrich fell **at** the Cataclysm, so the order was intact up to that moment.)*
+- **Is there a horn** left where Emrich's knights stood — the object his whole haunting
+  turned on? (Session 06)
 - Is "the old knight" who dealt with the Ringmaster a Knight of Solamnia? ([The Old Knight](../npcs/the-old-knight.md))
 - How did a Black Banner captain end up carrying a Solamnic officer's compass?
 

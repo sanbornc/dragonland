@@ -50,7 +50,7 @@ scattered hills, and forest. Posted by the DM (Jeremy Maughan) in the group's
 
 - [Burned Regional Map](regional-map-burned.md) — a previously-recovered, heavily
   charred regional map that depicts **overlapping territory** (it also shows Haven and
-  Solace, plus [X.T.](../locations/x-t.md)); this DM map is clearer and adds the elven
+  Solace, plus [X.T.](../locations/xak-tsaroth.md)); this DM map is clearer and adds the elven
   lands, Darken Wood, and Que-Shu.
 - [Solace](../locations/solace.md) · [Haven](../locations/haven.md) ·
   [Darken Wood](../locations/darken-wood.md) · [Que-Shu](../locations/que-shu.md) ·

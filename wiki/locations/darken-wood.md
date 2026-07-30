@@ -26,12 +26,41 @@ first-learned: Session 05 / DM map
   **loud** (a Fireball, an alerted search party) — the wood's undead or reinforcements may
   yet answer. (Session 05)
 
+- **The wood behaves strangely.** Travelling deeper (Session 06), the party found their
+  **shadows delayed and falling in the wrong direction**, and their **trail closing over
+  behind them** as they walked. **Rumour holds that those who enter Darken Wood do not
+  return** — the vanishing trail gives the rumour a mechanism. (Session 06)
+- **🕊️ The haunting explained — and ended.** The "undead" of Darken Wood were a **loop**:
+  **[Emrich](../npcs/emrich.md)**, a Knight of Solamnia, and ~50 knights holding a battle
+  line against endless **shadow figures**, replaying the moment of the **Cataclysm** over and
+  over. Emrich believed the loop was his punishment for **sounding the horn for retreat when
+  the mountain fell.** [Boilerdang](../characters/boilerdang-criddlycrotch.md) **absolved
+  him** — the knights faded into the forest and the shadows disappeared. **A three-century
+  haunting ended by a priest, not by combat.** (Session 06)
+- **The wood has a living ruler: the [Forest Master](../npcs/the-forest-master.md)**, a
+  **unicorn**, served by **centaurs**. The centaurs surrounded the party's wagons after the
+  loop broke and escorted them to her clearing. Their leader — *"that did not turn out as I
+  expected"* — revealed they had been **watching**, and expected the party to fail.
+  (Session 06)
+- **The [friendly bears](../npcs/the-friendly-bears.md) live here** (or are known here), and
+  had **already told the Forest Master of the party's mercy** in Session 03 — the party was
+  known to the wood before they entered it. (Session 06)
+- **A safe haven.** The Forest Master allowed the party to **leave their
+  [wagons](../items/party-wagon.md) — and everything in them — in the wood** while they
+  travelled to [Xak Tsaroth](xak-tsaroth.md). A wood the [Seekers](../factions/the-seekers.md)
+  do not enter and the dragon army cannot follow them into. (Session 06)
+
 ## Open questions
 
-- What undead walk in Darken Wood, and do they answer to anyone? Does the noise of the
-  ambush draw them?
+- **Is the whole wood clear now, or only Emrich's battle?** Does the trail still close
+  behind travellers; do the shadows still lag?
+- **Is there a horn**, or anything else, left on the ground where the knights stood?
+- **Can [Vaelor](../characters/vaelor-grinward.md) recover his axe** from the petrified
+  draconian at the Session 05 ambush site?
 - Was the draconian tracking party native to the wood, or did they follow the party's trail
   **into** it? (A looted map scrap shows they were tracking the party's wagon.)
+- How long has the **[Forest Master](../npcs/the-forest-master.md)** ruled here, and did she
+  know the knights were looping all along? Was the loop a **test**?
 
 ## See also
 

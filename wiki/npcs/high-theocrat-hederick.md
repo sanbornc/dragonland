@@ -116,8 +116,31 @@ first-learned: session 03
 > tree) → revived → stabbed by the draconians → revived. **Three deaths, three
 > resurrections** — the man cannot stay dead, and hates every return.
 
+## Session 06 — the faith breaks
+
+- **💔 His beliefs are shaking.** Present in the
+  [Forest Master](the-forest-master.md)'s clearing for all of it, Hederick watched:
+  a **priest's absolution** end [Emrich](emrich.md)'s three-century haunting where steel had
+  failed; a **unicorn** — a power of the old order his creed says is gone — rule
+  [Darken Wood](../locations/darken-wood.md); and that unicorn name the
+  [Staff](../items/the-staff.md) as **[Mishakal](../lore/mishakal.md)'s promise** — the very
+  goddess the [Seekers](../factions/the-seekers.md) file as a **"false god."**
+- **Stacked on Session 05's wedges** — Solace burned after he was **promised it would not
+  be**, and his own "allies" **stabbed him** on receipt while the heretics kept reviving him —
+  the doctrinal ground under him has gone. **The fanatic is cracking.**
+- **🔥 He *wants* to come.** When the party set out east for
+  [Xak Tsaroth](../locations/xak-tsaroth.md), Hederick expressed a **desire to come along.**
+  The man who burned his own arm rather than accept a cure, and threw himself off a building
+  to escape one, now **chooses** to walk toward Mishakal's relics with the people who kept
+  reviving him. His status shifts from **prisoner** toward **companion / witness.**
+
 ## Open questions
 
+- **Convert, penitent, or spy?** Does he break toward the party for good — or is the desire to
+  come along a play for [Elistan](elistan.md)? (Session 06)
+- **Could he recant publicly?** A **High Theocrat who renounced the doctrine** would be the
+  most damaging possible witness against Elistan's claim that divine power is dead — and the
+  party is carrying him toward proof. (Session 06)
 - **Will he talk?** Bound, revived twice against his will, and riding in the party's wagon,
   Hederick is the **information source the [travelers](the-two-travelers.md) crossed
   dangerous country to find.** He tried to die rather than be taken — will he answer

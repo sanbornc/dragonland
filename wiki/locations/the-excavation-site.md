@@ -32,4 +32,4 @@ archive**.
 
 ## See also
 - [The Buried Archive](../quests/the-buried-archive.md) · [Black Banners](../factions/black-banners.md) · [The Marshal](../npcs/the-marshal.md)
-- [Solace](solace.md) · [X.T.](x-t.md) · [Captain Varek's Papers](../documents/captain-vareks-papers.md)
+- [Solace](solace.md) · [X.T.](xak-tsaroth.md) · [Captain Varek's Papers](../documents/captain-vareks-papers.md)

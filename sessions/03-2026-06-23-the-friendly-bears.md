@@ -61,7 +61,7 @@ players-present: [TBC]
 - **Major reveal — the intercept orders** ([transcribed here](../wiki/documents/seeker-field-order-toede.md)):
   the roadblock was a **targeted staff-hunt.** **[Goldmoon](../wiki/npcs/goldmoon.md)**
   (a **Que-Shu** woman) **carries [the Staff](../wiki/items/the-staff.md)** — the
-  sought-after relic that "must not reach [X.T.](../wiki/locations/x-t.md)" — and is
+  sought-after relic that "must not reach [X.T.](../wiki/locations/xak-tsaroth.md)" — and is
   to be **taken alive, the Staff seized intact**; **[Riverwind](../wiki/npcs/riverwind.md)**
   (the "tall plainsman") is "expendable." It's run by **[Fewmaster Toede](../wiki/npcs/fewmaster-toede.md)**
   **from Solace**, "by authority of the High Theocrat's office," and orders crews to

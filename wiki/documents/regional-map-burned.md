@@ -20,5 +20,5 @@ west/north of the marked **X.T.** site.
 
 ## See also
 - [Regional Map: Solace–Haven](regional-map-solace-haven.md) — the clearer DM regional map (Session 05) that depicts **overlapping territory** (also shows Haven and Solace)
-- [Haven](../locations/haven.md) · [Solace](../locations/solace.md) · [X.T.](../locations/x-t.md)
+- [Haven](../locations/haven.md) · [Solace](../locations/solace.md) · [X.T.](../locations/xak-tsaroth.md)
 - [Ringmaster's Ledger — Torn Map Scrap / Old Road](ringmasters-ledger-map-scrap.md)

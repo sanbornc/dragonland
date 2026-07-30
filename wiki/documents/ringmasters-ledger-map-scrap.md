@@ -23,6 +23,6 @@ first-learned: recovered documents
 *route uncertain — ink ruined by rain*
 
 ## Clues surfaced to the wiki
-- [The Staff](../items/the-staff.md) · [X.T.](../locations/x-t.md)
+- [The Staff](../items/the-staff.md) · [X.T.](../locations/xak-tsaroth.md)
 - [Solace](../locations/solace.md) · [Haven](../locations/haven.md)
 - [The Buyer](../npcs/the-buyer.md)

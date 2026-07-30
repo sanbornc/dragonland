@@ -24,6 +24,25 @@ first-learned: recovered documents
 - **They can tell the real Staff from a forgery.** A strong Deception and a crude fake fooled the draconians only briefly; on inspection they knew it wasn't the real relic — consistent with "it was taken from us." (Session 05)
 - **True divine (radiant) power channels *through* the theme of the Staff.** Where the Staff heals, [Boilerdang](../characters/boilerdang-criddlycrotch.md)'s radiant **Spirit Guardians** bloodied the fire-immune draconians — the same divine light that mends flesh is the weapon that bit these dark, scaled foes. A divine relic amid a divine-vs-dark conflict. (Session 05)
 
+- **⭐ It is a PROMISE FROM [MISHAKAL](../lore/mishakal.md).** The
+  **[Forest Master](../npcs/the-forest-master.md)** — the unicorn ruling
+  [Darken Wood](../locations/darken-wood.md) — told the party the Staff is **not merely a
+  weapon or a vessel of healing**, but **"a promise that the gods have not forgotten the
+  people; the people have forgotten the gods,"** and named **Mishakal** as its maker.
+  This answers the standing question of which god it belongs to, and inverts the
+  [Seekers](../factions/the-seekers.md)' founding doctrine: the abandonment ran the *other
+  way.* (Session 06)
+- **✅ The [draconians](../npcs/draconians.md)' claim is FALSE, and [Goldmoon](../npcs/goldmoon.md)
+  is the rightful owner.** Stated flatly by the Forest Master. The party is not holding
+  stolen property; refusing the Darken Wood handoff was right, and the forgery gambit was
+  legitimate. *(Open: if the draconians never owned it, were they **guarding** it at
+  [Xak Tsaroth](../locations/xak-tsaroth.md) when Riverwind took it — and does their lie mean
+  they know exactly what it is?)* (Session 06)
+- **It is why the Staff is hunted.** A relic that performs genuine miracles is **evidence**,
+  deliberately left, that the Seekers' claim the gods are dead is a lie — which is also why
+  the **[dragon army](../factions/black-banners.md) is collecting Mishakal's relics
+  wholesale.** (Session 06)
+
 ## Open questions
 - What does the Staff *do* in full — it **heals by touch** (Session 04) and can **flare blue and make its bearer vanish** under threat (the song). Are these one power or several? Why is it worth a manhunt (and worth keeping from X.T.)?
 - **Does it work for anyone, or only some?** It healed in Boilerdang's hands. Many holy relics answer only to the faithful or the pure — is that why the Seekers (false priests) want it but fear who can use it?
@@ -37,5 +56,5 @@ first-learned: recovered documents
 - [The Staff & Goldmoon](../quests/the-staff-and-goldmoon.md) — the active quest
 - [The Song of Riverwind](../documents/song-of-riverwind.md) — the ballad describing the blue Staff and how Riverwind found it
 - [Goldmoon](../npcs/goldmoon.md) — she carries it · [Riverwind](../npcs/riverwind.md) — he found it · [Seeker Field Order — Toede to Voss](../documents/seeker-field-order-toede.md)
-- [Draconians](../npcs/draconians.md) — claim it "was taken from us" · [Fewmaster Toede](../npcs/fewmaster-toede.md) — hunting it · [X.T.](../locations/x-t.md) · [The Buyer](../npcs/the-buyer.md) · [Arcane Schematic — Eight-Armed Wheel](../documents/arcane-schematic-wheel.md) · [Mishakal](../lore/mishakal.md)
+- [Draconians](../npcs/draconians.md) — claim it "was taken from us" · [Fewmaster Toede](../npcs/fewmaster-toede.md) — hunting it · [X.T.](../locations/xak-tsaroth.md) · [The Buyer](../npcs/the-buyer.md) · [Arcane Schematic — Eight-Armed Wheel](../documents/arcane-schematic-wheel.md) · [Mishakal](../lore/mishakal.md)
 - [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)

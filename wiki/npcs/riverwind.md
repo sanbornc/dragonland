@@ -41,8 +41,23 @@ first-learned: session 03
   half-forgotten eastern journey may be the **shared origin of both the Staff and the
   draconians.** (Session 05)
 
+- **🗺️ He remembers a swamp from his eastern journey — and now leads the party through it.**
+  When the [Forest Master](the-forest-master.md) revealed the road to
+  **[Xak Tsaroth](../locations/xak-tsaroth.md)** is drowned and must be crossed by
+  **stone roads beneath a swamp**, Riverwind **remembered a swamp** from his quest "at the
+  lip of the morning." Strong indication he has **already been to Xak Tsaroth** — and that
+  the [Staff](../items/the-staff.md) came from there. **He is guiding the party in.**
+  (Session 06)
+- **The [draconians](draconians.md)' claim on the Staff is false** — the Forest Master says
+  so outright, and names [Goldmoon](goldmoon.md) the rightful owner. Which reframes
+  Riverwind's find: if the draconians never owned it, they may have been **guarding** it at
+  Xak Tsaroth when he took it — a possible source of the faint memory of them. *(Inference,
+  not confirmed.)* (Session 06)
+
 ## Open questions
 
+- **Is Xak Tsaroth "the lip of the morning"** — the place he found the Staff and half-remembers
+  draconians? (Session 06)
 - Is Riverwind also **Que-Shu**, or from another plains people? (The song places him in
   the same grasslands as Goldmoon.) What's his role and his relationship to Goldmoon?
   **(Answered Session 04: they are lovers; he is "a poor man's son," she the chief's
