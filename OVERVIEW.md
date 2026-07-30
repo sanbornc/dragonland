@@ -131,8 +131,12 @@ the **[Disks of Mishakal](wiki/quests/the-disks-of-mishakal.md)**, warning that 
 army seeks the same relics.** With the wagons cached in the wood, a boon in hand, and a
 faith-shaken **[Hederick](wiki/npcs/high-theocrat-hederick.md)** now travelling *willingly*,
 the party set out east through the swamp with **[Riverwind](wiki/npcs/riverwind.md)** — who
-remembers a swamp from the journey on which he found the Staff — guiding them. See
-[Session 06 — The Promise of Mishakal](sessions/06-2026-07-30-the-promise-of-mishakal.md).
+remembers a swamp from the journey on which he found the Staff — guiding them. **The session
+ended mid-crossing:** seven islands in, every save made, having found and given last rites to a
+**third dead Knight of Solamnia** on the causeway, the party felt the "island" beneath them
+**contract** and saw a **tendril** rise. **Session 07 opens on initiative.** See
+[Session 06 — The Promise of Mishakal](sessions/06-2026-07-30-the-promise-of-mishakal.md) and
+[The Drowned Swamp](wiki/locations/the-drowned-swamp.md).
 
 ## Major threads
 
@@ -177,8 +181,8 @@ remembers a swamp from the journey on which he found the Staff — guiding them.
 - **Darken Wood** (forest between Solace and Haven; its haunting **ended** in Session 06 —
   ruled by the [Forest Master](wiki/npcs/the-forest-master.md), and where the party's wagons
   are now cached) — [Darken Wood](wiki/locations/darken-wood.md)
-- **The swamp east of Darken Wood** (drowned road to Xak Tsaroth, crossed by submerged stone
-  roads; **current location**) — [Xak Tsaroth](wiki/locations/xak-tsaroth.md)
+- **The Drowned Swamp** (the drowned road to Xak Tsaroth, crossed island-to-island by
+  submerged stone roads; **current location**) — [The Drowned Swamp](wiki/locations/the-drowned-swamp.md)
 - **Que-Shu** (Goldmoon & Riverwind's homeland, near Solace) — [Que-Shu](wiki/locations/que-shu.md)
 - **The Excavation Site** (watch station over the buried archive) —
   [The Excavation Site](wiki/locations/the-excavation-site.md)

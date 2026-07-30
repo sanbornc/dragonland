@@ -387,7 +387,65 @@ players-present: [TBC]
   his half-remembered eastern journey plus the Forest Master's maps of the **submerged stone
   roads** beneath the drowned direct road. The man who walked out of that country carrying
   [Mishakal](../wiki/lore/mishakal.md)'s [Staff](../wiki/items/the-staff.md) is now walking
-  back into it. *(Scene in progress — next session picks up in the swamp.)*
+  back into it.
+- **Crossing the swamp: island by island.** The route runs across a chain of **islands**
+  linked by the **submerged stone roads**, and **each island requires a saving throw** to
+  cross safely. The party has **made their saves on the first three islands.** *(Scene in
+  progress — what the saves are against is not yet recorded.)*
+- **The fourth island is the source of the fog.** The party reached an island that appears to
+  be **generating the swamp's fog** — and it is coming off the **refuse on the ground**:
+  **rotting cabbage, trash, and debris are emanating the fog** themselves. Not weather, and
+  not a natural mist rising off water: the **rubbish itself is producing it.**
+  *(Open: is this decay gone magical, something buried under the refuse, or a deliberate
+  screen laid over the road to [Xak Tsaroth](../wiki/locations/xak-tsaroth.md)? And where
+  did **household** rubbish in the middle of a drowned swamp come from — someone lives, or
+  lived, near here.)*
+- **The fifth island was unremarkable.** The party moved on past the fog-source island
+  without investigating the refuse further; the next island held nothing of note.
+- **On to the sixth island — still no failed saves.** The party has cleared **six islands**
+  of the causeway without a single failure. The crossing is holding.
+- **The seventh island is larger — and the fog is thicker.** A bigger landmass than the
+  stepping-stones behind it, with the fog noticeably denser here. *(Both changes point the
+  same way: more ground to hold something, and less ability to see it coming. Note the party
+  left the **fog source** unexamined back on the fourth island.)*
+- **⚔️ A dead knight on the seventh island — the party takes his sword and shield.** A
+  knight's body lies on the island with **a sword and a shield**; the party **looted both.**
+  *(Open and worth settling: **whose** knight — is he
+  [Solamnic](../wiki/factions/knights-of-solamnia.md), like
+  [Emrich](../wiki/npcs/emrich.md) and [Sir Garreck](../wiki/npcs/sir-garreck.md), or does the
+  shield carry a **black claw** like the draconian gear looted in Session 05? Check the
+  heraldry, how long he's been dead, and how he died — someone came this way before the party
+  and did not make it out. Also unrecorded: whether the sword or shield is **magical**, and
+  whether the body was **left in the open** as bait in the thickest fog on the crossing.)*
+- **The shield bears a [Solamnic](../wiki/factions/knights-of-solamnia.md) crest.** He is a
+  **Knight of Solamnia** — the **third** the party has found still lying where he fell, after
+  **[Sir Garreck](../wiki/npcs/sir-garreck.md)** in the tower archive and
+  **[Emrich](../wiki/npcs/emrich.md)** in Darken Wood. The order did not simply vanish at the
+  Cataclysm: its knights are scattered across the region, unburied and unrited, at posts
+  nobody relieved.
+  - **A Solamnic died on the road to [Xak Tsaroth](../wiki/locations/xak-tsaroth.md).** Someone
+    of the old order came this way before the party — carrying a shield the
+    [Seekers](../wiki/factions/the-seekers.md) now class as contraband — and did not make it
+    out. *(Open: was he going **to** Xak Tsaroth, and for what? Guarding the causeway,
+    escorting something, or hunting the same relics?)*
+  - **🕊️ [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) gave him last rites.**
+    A second unrited Solamnic knight given the words in one session, by a priest of a faith the
+    world says is dead. **Nothing else on the body to search** — no orders, seal, or name; only
+    the sword and shield, which the party took.
+  - *(Open: are the sword or shield magical?)*
+- **⚠️ Ripples in the water — and the ground contracts.** Immediately after the looting and
+  the rites, the party sees **ripples moving in the water** around the island and **feels the
+  ground contract beneath them.** The island is **not an island.** *(Scene in progress. Note
+  the shape of it: the largest landmass on the crossing, the thickest fog, a dead knight left
+  with his gear untouched in the open, and the party standing in the middle of it when it
+  moved.)*
+- **🔚 SESSION ENDS — a tendril rises.** A **tendril** breaks from the "island" as the session
+  runs out. **Next session opens by rolling initiative**, with the party standing on top of
+  the creature, in heavy fog, seven islands deep into the swamp, escorting
+  [Goldmoon](../wiki/npcs/goldmoon.md) and the [Staff](../wiki/items/the-staff.md), with
+  [Hederick](../wiki/npcs/high-theocrat-hederick.md) and the
+  [travelers](../wiki/npcs/the-two-travelers.md) in tow and the wagons far behind in
+  [Darken Wood](../wiki/locations/darken-wood.md).
 - **🕯️ Her knowledge of the Disks came from a voice that spoke directly from her.** Pressed
   on how she knows about the **Disks of Mishakal**, the Forest Master implies she was **told**
   — **a voice spoke directly from/through her.** She is not merely an ancient scholar of the
@@ -405,11 +463,91 @@ players-present: [TBC]
 
 ## New facts learned
 
-- <fact> — link the wiki entry it updates
+- **Darken Wood's haunting was a loop, and it is over.** ~50 Knights of Solamnia under
+  **[Emrich](../wiki/npcs/emrich.md)** replayed the moment of the Cataclysm against endless
+  shadow figures; **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)'s absolution
+  ended it** and the shadows vanished. — [Emrich](../wiki/npcs/emrich.md) ·
+  [Darken Wood](../wiki/locations/darken-wood.md) · [Knights of Solamnia](../wiki/factions/knights-of-solamnia.md)
+- **Emrich sounded the horn for retreat when the mountain fell**, and believed the loop was his
+  punishment for it. First eyewitness detail of the Cataclysm in the repo. —
+  [Emrich](../wiki/npcs/emrich.md)
+- **Darken Wood has a living ruler: the [Forest Master](../wiki/npcs/the-forest-master.md), a
+  unicorn**, served by centaurs. — [Darken Wood](../wiki/locations/darken-wood.md)
+- **The [friendly bears](../wiki/npcs/the-friendly-bears.md) vouched for the party** — the
+  Session 03 mercy is why the wood received them. —
+  [The Friendly Bears](../wiki/npcs/the-friendly-bears.md)
+- **The [Amulet of the Remembered Paw](../wiki/items/amulet-of-the-remembered-paw.md)**: once
+  per long rest, summons a bear to fight for 10 minutes. Given to Boilerdang. —
+  [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)
+- **⭐ The [Staff](../wiki/items/the-staff.md) is "a promise that the gods have not forgotten
+  the people; the people have forgotten the gods"** — and the promise was
+  **[Mishakal](../wiki/lore/mishakal.md)'s.** The Seekers' founding doctrine is inverted. —
+  [The Staff](../wiki/items/the-staff.md) · [Mishakal](../wiki/lore/mishakal.md) ·
+  [The Silent Gods & the Seekers](../wiki/quests/the-silent-gods.md)
+- **✅ The [draconians](../wiki/npcs/draconians.md)' claim on the Staff is FALSE;
+  [Goldmoon](../wiki/npcs/goldmoon.md) is its rightful owner.** —
+  [The Staff & Goldmoon](../wiki/quests/the-staff-and-goldmoon.md)
+- **The vanished constellations represent the old gods** — they are moving into the world, not
+  absent. — [The Dragon Prophecy](../wiki/lore/the-dragon-prophecy.md)
+- **🕯️ A voice spoke directly from the Forest Master** — a god is speaking *now*, not merely
+  leaving relics. — [Divine power in the world](../wiki/lore/divine-power.md)
+- **🗝️ "X.T." is [XAK TSAROTH](../wiki/locations/xak-tsaroth.md)** — the campaign's oldest
+  mystery, named at last. The party is sent there to find the **Disks of Mishakal**. —
+  [The Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.md)
+- **The dragon army seeks Mishakal's relics too** — it is a race. —
+  [Black Banners](../wiki/factions/black-banners.md) · [Draconians](../wiki/npcs/draconians.md)
+- **Xak Tsaroth is guarded by a great evil; the direct road is drowned; the way in is a swamp
+  crossed by submerged stone roads.** The Forest Master gave the party maps. —
+  [Xak Tsaroth](../wiki/locations/xak-tsaroth.md)
+- **[Riverwind](../wiki/npcs/riverwind.md) remembers a swamp from his eastern quest** — he may
+  have been to Xak Tsaroth before, and the Staff may have come from there. He guides the party
+  in. — [Riverwind](../wiki/npcs/riverwind.md)
+- **[Hederick](../wiki/npcs/high-theocrat-hederick.md)'s faith is breaking, and he chose to come
+  along** — prisoner shifting toward witness. —
+  [High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md)
+- **The wagons are cached in Darken Wood** under the Forest Master's protection; the party
+  travels light. — [Party Wagon](../wiki/items/party-wagon.md)
+- **Boon (until the battle at Xak Tsaroth):** +1 weapons (Renob, Pip), extra 4th-level slot
+  (Boilerdang, Malix), extra radiant Divine Smite (Vaelor). —
+  [The Forest Master](../wiki/npcs/the-forest-master.md)
+- **A third Knight of Solamnia found dead — on the causeway to Xak Tsaroth.** Solamnic crest,
+  nothing else on the body; the party took his sword and shield and Boilerdang gave him last
+  rites. The order's knights lie scattered and unrited across the region. —
+  [Knights of Solamnia](../wiki/factions/knights-of-solamnia.md)
 
 ## Loose threads
 
-- <unresolved question or hook>
+- **What is the thing the party is standing on?** The seventh "island" contracted and put up a
+  **tendril.** Next session opens on initiative.
+- **What was the fog source on the fourth island** — rotting cabbage and household trash
+  emanating fog in a drowned swamp? Who eats and throws things away out here? *(Left
+  uninvestigated.)*
+- **Whose voice spoke through the [Forest Master](../wiki/npcs/the-forest-master.md)** — and is
+  it the same one that answers [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md), "a
+  god whose name he is only beginning to recognize"?
+- **What is the great evil guarding [Xak Tsaroth](../wiki/locations/xak-tsaroth.md)**, and how
+  far ahead is the dragon army?
+- **What are the Disks of Mishakal, and what do they do?** Never described.
+- **⚠️ Why did the [buyer](../wiki/npcs/the-buyer.md) insist "the Staff must not reach X.T."** —
+  in direct conflict with the Forest Master's instruction? Enemy, or someone who knows something
+  the party doesn't?
+- **Is "[the Queen](../wiki/npcs/the-queen.md)" a god?** If the *Queen of Darkness* is an old god
+  entering the world, the gathering war is a god's war. *(Inference — ask outright.)*
+- **Does [Goldmoon](../wiki/npcs/goldmoon.md) being the *rightful owner* mean the Staff answers
+  only to her** — and is that why the standing order is to take her **alive**?
+- **Has [Riverwind](../wiki/npcs/riverwind.md) been to Xak Tsaroth before?** Is it "the lip of
+  the morning," and were the draconians *guarding* the Staff there when he took it?
+- **Which way does [Hederick](../wiki/npcs/high-theocrat-hederick.md) break** — convert,
+  penitent, or [Elistan](../wiki/npcs/elistan.md)'s spy? Could he be made to recant publicly?
+- **Who was the dead Solamnic on the causeway**, and what was he doing on the road to Xak
+  Tsaroth? Are his sword and shield magical?
+- **Is Darken Wood fully clear**, or only Emrich's battle? Is there a **horn** left where the
+  knights stood — and can [Vaelor](../wiki/characters/vaelor-grinward.md) recover his axe from
+  the petrified draconian at the Session 05 ambush site?
+- **[Haven](../wiki/locations/haven.md) and [Elistan](../wiki/npcs/elistan.md) are unfinished** —
+  the party turned east instead of south. The death-mark still stands.
+- *(carried)* **Who is [Fizban](../wiki/npcs/fizban.md), really?**
+- *(carried)* **What was at the party's HQ in Solace**, and who did they lose to the fire?
 
 ## XP (Session 06)
 

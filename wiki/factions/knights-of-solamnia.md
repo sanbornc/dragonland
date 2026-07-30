@@ -23,9 +23,17 @@ first-learned: session 02 (2026-06-12)
   for sounding the horn for retreat when the mountain fell.**
   [Boilerdang](../characters/boilerdang-criddlycrotch.md) **absolved him** — the knights faded
   into the forest and the shadows vanished.
-- **The pattern:** with **[Sir Garreck](../npcs/sir-garreck.md)** in the tower archive, that
-  is now **two Solamnic knights, in two places, both still at their posts from before the
-  Cataclysm.** The order did not simply fall — parts of it **never stood down.** (Session 06)
+- **A third knight, dead on the causeway to [Xak Tsaroth](../locations/xak-tsaroth.md).** On
+  the seventh island of the swamp crossing the party found a **dead knight with a sword and a
+  **shield bearing a Solamnic crest** — **nothing else on the body**, no orders, seal, or name.
+  The party took the sword and shield;
+  [Boilerdang](../characters/boilerdang-criddlycrotch.md) **gave him last rites.** A Solamnic
+  came this way — toward Xak Tsaroth — and did not make it out. (Session 06)
+- **The pattern:** with **[Sir Garreck](../npcs/sir-garreck.md)** in the tower archive,
+  **[Emrich](../npcs/emrich.md)** in Darken Wood, and the nameless knight on the causeway,
+  that is now **three Solamnic knights in three places, all still lying where they fell.**
+  The order did not simply fall — parts of it **never stood down**, and its dead lie scattered
+  and unrited across the region. (Session 06)
 - **First eyewitness account of the Cataclysm: "the mountain fell."** From Emrich, who was
   there. (Session 06)
 
