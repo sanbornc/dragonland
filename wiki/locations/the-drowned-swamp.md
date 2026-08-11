@@ -70,6 +70,8 @@ The swamp east of [Darken Wood](darken-wood.md) that has swallowed the direct ro
 - [The Forest Master](../npcs/the-forest-master.md) — gave the maps · [Riverwind](../npcs/riverwind.md) — guiding
 - [Knights of Solamnia](../factions/knights-of-solamnia.md) — a knight died here
 - [The Heart of the Swamp](../npcs/the-heart-of-the-swamp.md) — its keeper, now dead ·
-  [The Dragon in the Fog](../npcs/the-dragon-in-the-fog.md)
+  [The Dragon in the Fog](../npcs/the-dragon-in-the-fog.md) ·
+  [The Drowned Adventurer's Journal](../documents/drowned-adventurers-journal.md) — *"it isn't
+  a dragon"*
 - [Session 06 — The Promise of Mishakal](../../sessions/06-2026-07-30-the-promise-of-mishakal.md) ·
   [Session 07 — The Heart of the Swamp](../../sessions/07-2026-08-11-the-heart-of-the-swamp.md)

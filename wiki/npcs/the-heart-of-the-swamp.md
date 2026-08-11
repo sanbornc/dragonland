@@ -62,7 +62,20 @@ species — the same shape of name as **[the Forest Master](the-forest-master.md
   **The party removed it.**
 - **What was the fog-producing refuse on the fourth island** — its doing, its feeding, or
   something else living out here?
-- Is there anything to recover from the corpse? *(Loot pending from the DM.)*
+- **✅ Answered — the corpse gave up a hoard.** When it collapsed, **years of swallowed gear,
+  bones, packs, weapons and treasure** rose out of the ruined root-bed: coin and gems, potions
+  and scrolls, **[Stillwater](../items/stillwater.md)** (+1 longsword, untouched by rust), a +1
+  longbow with **a running stag carved along one limb**, a mithral breastplate, the
+  **[Mirewalker Ring](../items/mirewalker-ring.md)**, and harvestable pieces of the Heart
+  itself — **3 Heartroot Resin** (50 gp ea.), **2 Noxious Vent Sacs** (75 gp ea.), and a
+  **Swamp Heart Core** (~250 gp to the right buyer). Full manifest in
+  [the party inventory](../items/party-wagon.md). (Session 07)
+- **⚠️ And a body under the oldest roots** — a **dead adventurer clutching a waterproof
+  journal** whose one surviving page warns *"It isn't a dragon. Whatever you see in the mist—do
+  not follow it."* See
+  [The Drowned Adventurer's Journal](../documents/drowned-adventurers-journal.md). (Session 07)
+- **How many people had it swallowed over the years**, and is anyone still missing who came
+  this way?
 
 ## See also
 

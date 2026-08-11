@@ -118,7 +118,50 @@ bulk gear, circus items):
 - The **Silver Holy Symbol of Paladine**
 - Potions, rations, and personal gear
 
+## Session 07 — the Heart of the Swamp hoard (CARRIED, not in the wagons)
+
+Recovered when **[the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md)** collapsed and
+**years of swallowed gear, bones, packs, weapons and treasure** rose out of its ruined
+root-bed. **The wagons are still cached in [Darken Wood](../locations/darken-wood.md)**, so all
+of this is **carried on the party's persons** — weight and attunement actually matter here.
+**Boilerdang's live D&D Beyond sheet should be updated to match.** (Session 07)
+
+- **Coin (carried, separate from the cached pool):** **624 gp, 1,380 sp, 73 cp.**
+- **Gems & valuables:** 6 × gemstone (50 gp each) · 2 × gemstone (100 gp each) ·
+  **silver holy symbol** (75 gp) · **gold signet ring** (125 gp) ·
+  **small ivory dragon carving** (150 gp).
+  *(Two of these are worth a second look rather than a sale: a **signet ring** is somebody's
+  identity, and an **ivory dragon carving** turned up on the road to Xak Tsaroth the same day
+  the party saw a dragon-shape in the fog.)*
+- **Potions & consumables:** 3 **Potions of Healing** · 1 **Potion of Greater Healing** ·
+  1 **Potion of Poison Resistance** · 1 **Potion of Water Breathing** · 2 **Antitoxin vials** ·
+  **Spell Scroll: Lesser Restoration** · **Spell Scroll: Protection from Poison.**
+- **Magic items:**
+  - **[Stillwater](stillwater.md)** — **+1 Longsword**, old but **completely untouched by
+    rust.** *(Unclaimed.)*
+  - **+1 Longbow** — **a running stag carved along one limb.** *(Unclaimed — the obvious
+    upgrade for [Pip](../characters/pip-tumblewhistle.md), though his bow already carries the
+    Forest Master's +1 boon until Xak Tsaroth.)*
+  - **Mithral Breastplate** — AC 14 + Dex (max +2), **no disadvantage on Stealth.**
+    *(Unclaimed.)*
+  - **[Mirewalker Ring](mirewalker-ring.md)** — **requires attunement.** Ignore difficult
+    terrain from mud, shallow water, roots and swamp vegetation; advantage on saves against
+    being restrained by plants or mud; once per long rest a swim speed equal to walking speed
+    for 10 minutes. *(Unclaimed — and the party is still in a swamp, heading for a **drowned**
+    ruin.)*
+- **Harvested from the Heart:** 3 × **Heartroot Resin** (50 gp each) · 2 × **Noxious Vent Sac**
+  (75 gp each) · 1 × **Swamp Heart Core** (~250 gp **to the right buyer**).
+- **📄 Not loot — evidence:** the
+  **[drowned adventurer's journal](../documents/drowned-adventurers-journal.md)**, found under
+  the oldest roots in a dead man's hands. One legible page: a drawing of a dragon-shaped
+  silhouette in fog, and *"It isn't a dragon. Whatever you see in the mist—do not follow it."*
+
 ## Open questions
+- **Who claims the four magic items, and who attunes to the Mirewalker Ring?** Nothing was
+  assigned at the table. (Session 07)
+- **Who is the signet ring**, and does the **ivory dragon carving** mean anything? (Session 07)
+- **Who is "the right buyer" for a Swamp Heart Core** — and does selling pieces of a dead
+  guardian spirit have a cost? (Session 07)
 - Exact capacity and any limits (described only as "similar to a bag of holding").
 - Does the wagon have a name?
 - **When and how do the party retrieve the wagons** — and does the wood give back what it

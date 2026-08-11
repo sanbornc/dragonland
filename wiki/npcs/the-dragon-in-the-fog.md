@@ -36,11 +36,39 @@ killed [the Heart of the Swamp](the-heart-of-the-swamp.md).
 - **Nothing attacked during the party's long rest** afterward, despite both the scout and this
   creature knowing roughly where they were. (Session 07)
 
+## ⚠️ Someone has seen it before — and left a warning
+
+Beneath the oldest roots of [the Heart of the Swamp](the-heart-of-the-swamp.md), the party
+found **a dead adventurer clutching a waterproof journal.** Almost all of it is ruined. The one
+surviving page carries **a rough drawing of a huge dragon-shaped silhouette hidden in heavy
+fog**, and beneath it:
+
+> ***"It isn't a dragon. Whatever you see in the mist—do not follow it."***
+
+- **A prior witness drew the same shape** the party saw, in the same swamp, and wrote the
+  correction down. See
+  [The Drowned Adventurer's Journal](../documents/drowned-adventurers-journal.md).
+- **"It isn't a dragon"** matches everything the party did *not* observe — no feet, no roar, no
+  clear movement — and the DM's framing of *what they think they just saw.*
+- **"Do not follow it"** is the specific warning: not *don't fight it*, not *don't approach* —
+  **don't follow.** That implies the thing **leads**, and that being drawn after it, off the
+  causeway, is how it kills. *(Inference from the wording.)*
+- **The party saw it after the Heart was already dead**, so it is **not** the Heart's illusion.
+  (Session 07)
+
 ## Open questions
 
+- **⚠️ If it isn't a dragon, what is it?** A lure, an illusion, a projection, something wearing
+  a dragon's shape, or something the writer had no word for.
+- **What happens to those who follow it?** The one person known to have written the warning
+  down still died in this swamp — swallowed by the Heart, not by the shape.
 - **What colour, and whose?** Nothing about allegiance was established — only the shape.
 - **Was it physically there at all?** No feet, no sound, no clear movement, and the wording
   *"what they think they just saw."* A body, a projection, or a warning.
+- **Was the DC 14 Wisdom save really a fear effect?** Note the irony: **failing** it leaves a
+  character **unable to willingly move toward the thing** — which is exactly what the journal
+  says to do. If the shape lures rather than frightens, the characters who **succeeded** may be
+  the ones at risk.
 - **Did it see them** — and does it know about [Goldmoon](goldmoon.md) and the
   [Staff](../items/the-staff.md)? Had the draconian scout already reported?
 - **Is it between the party and [Xak Tsaroth](../locations/xak-tsaroth.md)?** Two party members

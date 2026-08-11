@@ -120,9 +120,38 @@ him last rites. Then **ripples moved in the water, the ground contracted, and a 
   draconian scout having withdrawn into the fog and a dragon somewhere out in the swamp.
   **The rest is safe and uninterrupted.** Nothing came for them: not the draconian that watched
   the fight, not the dragon that looked straight at the island.
-- **🎁 Loot from the island is still to be posted** by the DM. When it arrives it goes into
-  [the party inventory](../wiki/items/party-wagon.md) as **carried** gear — the wagons are
-  cached back in Darken Wood.
+- **🎁 Loot from the Heart of the Swamp.** *(DM post.)* When the Heart collapsed, **years of
+  swallowed gear, bones, packs, weapons, and treasure rose out of the ruined root-bed.** All of
+  it is **carried** — the [wagons](../wiki/items/party-wagon.md) are cached in Darken Wood.
+
+  **Coin & valuables:** 624 gp · 1,380 sp · 73 cp · **6 gemstones (50 gp each)** · **2
+  gemstones (100 gp each)** · **silver holy symbol (75 gp)** · **gold signet ring (125 gp)** ·
+  **small ivory dragon carving (150 gp)**.
+
+  **Potions & consumables:** 3 Potions of Healing · 1 Potion of Greater Healing · 1 Potion of
+  Poison Resistance · 1 Potion of Water Breathing · 2 Antitoxin vials · **Spell Scroll: Lesser
+  Restoration** · **Spell Scroll: Protection from Poison**.
+
+  **Magic items:**
+  - **[Stillwater](../wiki/items/stillwater.md)** — **+1 Longsword**; the blade is old but
+    **completely untouched by rust.**
+  - **+1 Longbow** — **a running stag carved along one limb.**
+  - **Mithral Breastplate** — AC 14 + Dex (max +2), **no disadvantage on Stealth.**
+  - **[Mirewalker Ring](../wiki/items/mirewalker-ring.md)** *(attunement)* — ignore difficult
+    terrain from mud, shallow water, roots and swamp vegetation; **advantage on saves against
+    being restrained by plants or mud**; **once per long rest, a swim speed equal to your
+    walking speed for 10 minutes.**
+
+  **Harvested from the Heart:** 3 **Heartroot Resin** (50 gp each) · 2 **Noxious Vent Sacs**
+  (75 gp each) · 1 **Swamp Heart Core** (~250 gp to the right buyer).
+- **🗝️⚠️ And one strange discovery.** Beneath the oldest roots lies **a dead adventurer
+  clutching a waterproof journal.** Most of it is ruined. **One surviving page** shows a rough
+  drawing of **a huge dragon-shaped silhouette hidden in heavy fog**, and underneath it:
+  > ***"It isn't a dragon. Whatever you see in the mist—do not follow it."***
+
+  Someone came this way before, saw the same shape, wrote it down, and died here. See
+  [The Drowned Adventurer's Journal](../wiki/documents/drowned-adventurers-journal.md) and
+  [The Dragon in the Fog](../wiki/npcs/the-dragon-in-the-fog.md).
 - **🔚 Session ends** with the party rested on the seventh island, the road to Xak Tsaroth open
   ahead of them, and a dragon somewhere between here and there.
 
@@ -193,7 +222,20 @@ him last rites. Then **ripples moved in the water, the ground contracted, and a 
 - *(carried)* **Who is [Fizban](../wiki/npcs/fizban.md), really?**
 - *(carried)* **[Haven](../wiki/locations/haven.md) and [Elistan](../wiki/npcs/elistan.md)
   are unfinished**; the death-mark still stands.
-- **🎁 Loot from the island — still to be posted by the DM.**
+- **⚠️ "It isn't a dragon."** A prior traveller drew the same silhouette and left a warning:
+  **do not follow it.** Not *don't fight it* — **don't follow**, which implies the thing
+  **leads.** Note the irony in the save: **failing** the DC 14 Wisdom check leaves a character
+  unable to move toward it. ([The Drowned Adventurer's Journal](../wiki/documents/drowned-adventurers-journal.md))
+- **Who claims the four magic items**, and **who attunes to the
+  [Mirewalker Ring](../wiki/items/mirewalker-ring.md)?** Nothing was assigned at the table —
+  and the party is still in a swamp, walking toward a **drowned** ruin.
+- **Whose was [Stillwater](../wiki/items/stillwater.md)?** A **named** blade, **untouched by
+  rust** after years inside the Heart — and a **+1 longbow with a running stag** carved on it.
+  Both had owners the swamp swallowed.
+- **Who is the gold signet ring**, and does the **small ivory dragon carving** mean anything
+  on the road to Xak Tsaroth?
+- **Who is "the right buyer" for a Swamp Heart Core** — and is there a cost to selling pieces
+  of a dead guardian?
 
 ## XP (Session 07)
 
