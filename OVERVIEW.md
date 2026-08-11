@@ -27,8 +27,8 @@ so it can't be stacked with another concentration spell like Spirit Guardians.
 The party is a band of professional hunters who call themselves
 **"Boilerdang and his Biatches,"** led by Boilerdang Criddlycrotch.
 
-**Party XP:** **30,210** as of end of Session 06 (level 7; level 8 at 34,000,
-~3,790 to go). *(XP is awarded by the DM as a flat per-character amount.)*
+**Party XP:** **31,310** as of end of Session 07 (level 7; level 8 at 34,000,
+~2,690 to go). *(XP is awarded by the DM as a flat per-character amount.)*
 
 - **Boilerdang Criddlycrotch** — Human Cleric 7 (Life Domain), the party's
   leader. See [Boilerdang Criddlycrotch](wiki/characters/boilerdang-criddlycrotch.md).
@@ -134,9 +134,31 @@ the party set out east through the swamp with **[Riverwind](wiki/npcs/riverwind.
 remembers a swamp from the journey on which he found the Staff — guiding them. **The session
 ended mid-crossing:** seven islands in, every save made, having found and given last rites to a
 **third dead Knight of Solamnia** on the causeway, the party felt the "island" beneath them
-**contract** and saw a **tendril** rise. **Session 07 opens on initiative.** See
+**contract** and saw a **tendril** rise. See
 [Session 06 — The Promise of Mishakal](sessions/06-2026-07-30-the-promise-of-mishakal.md) and
 [The Drowned Swamp](wiki/locations/the-drowned-swamp.md).
+
+**Session 07** opened on initiative, standing on the creature. The seventh island *was* the
+**[Heart of the Swamp](wiki/npcs/the-heart-of-the-swamp.md)** — a huge plant-creature whose
+"roots" under the water were tentacles, and the swamp's ruling keeper, the counterpart to
+Darken Wood's [Forest Master](wiki/npcs/the-forest-master.md). It fought with poison-gas
+clouds, at-will mud elementals, and water surges that knocked the whole party prone; the
+tentacles were separate ~85-HP pools and it could replace its summons faster than the party
+could kill them. **Radiant was the answer** —
+[Boilerdang](wiki/characters/boilerdang-criddlycrotch.md)'s **Spirit Guardians** killed two
+tentacles, an elemental, and finally the Heart itself. Mid-fight,
+**[Renob](wiki/characters/renob.md) shoved [Hederick](wiki/npcs/high-theocrat-hederick.md) into
+the water** and the theocrat **drowned**; Boilerdang stabilised him and
+**[Goldmoon](wiki/npcs/goldmoon.md) raised him with the [Staff](wiki/items/the-staff.md)** —
+the man who called Mishakal a false god, saved by her relic, saying **"I am grateful."** He
+believes the swamp killed him and does not know he was pushed. **The Heart's death thinned the
+fog** — opening the causeway for the party, and for anyone behind them. Then a
+**[draconian](wiki/npcs/draconians.md) scout** was seen withdrawing into the mist, and beyond
+it **the campaign's first dragon**: a vast silhouette standing out in the swamp that **turned
+and looked directly at the island** before the fog closed. The party took a **safe long rest**
+on the Heart's corpse — nothing came for them. See
+[Session 07 — The Heart of the Swamp](sessions/07-2026-08-11-the-heart-of-the-swamp.md) and
+[The Dragon in the Fog](wiki/npcs/the-dragon-in-the-fog.md).
 
 ## Major threads
 
@@ -168,6 +190,12 @@ ended mid-crossing:** seven islands in, every save made, having found and given 
   **Mishakal's Disks**, ahead of a **dragon army** hunting the same relics. The road is
   drowned; the way in is a swamp crossed by **stone roads beneath the water**, and the site is
   guarded by **a great evil**. See [The Disks of Mishakal](wiki/quests/the-disks-of-mishakal.md).
+  **Session 07: the swamp's keeper is dead and the road is open — but a draconian scout and a
+  dragon are already in the swamp with them.**
+- **🐉 The dragon in the fog (new, Session 07)** — the campaign's first dragon, seen at a
+  distance across the swamp, which **turned and looked at the party.** No feet, no roar, no
+  clear movement — the DM's own framing is *what they think they just saw.* Two characters
+  cannot willingly move toward it. See [The Dragon in the Fog](wiki/npcs/the-dragon-in-the-fog.md).
 - **The silent gods & the Seekers** — true divine power is thought long dead, yet
   Boilerdang's works; the theocratic Seekers brand all such power heresy. The Seekers answer
   to **[Lord Seeker Elistan](wiki/npcs/elistan.md)** at Haven, and the vanished constellations
@@ -182,7 +210,9 @@ ended mid-crossing:** seven islands in, every save made, having found and given 
   ruled by the [Forest Master](wiki/npcs/the-forest-master.md), and where the party's wagons
   are now cached) — [Darken Wood](wiki/locations/darken-wood.md)
 - **The Drowned Swamp** (the drowned road to Xak Tsaroth, crossed island-to-island by
-  submerged stone roads; **current location**) — [The Drowned Swamp](wiki/locations/the-drowned-swamp.md)
+  submerged stone roads; its keeper the **[Heart of the Swamp](wiki/npcs/the-heart-of-the-swamp.md)**
+  killed in Session 07 and the fog thinned; **current location** — camped on the seventh
+  island) — [The Drowned Swamp](wiki/locations/the-drowned-swamp.md)
 - **Que-Shu** (Goldmoon & Riverwind's homeland, near Solace) — [Que-Shu](wiki/locations/que-shu.md)
 - **The Excavation Site** (watch station over the buried archive) —
   [The Excavation Site](wiki/locations/the-excavation-site.md)

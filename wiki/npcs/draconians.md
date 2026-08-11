@@ -80,8 +80,21 @@ them: **draconians.**
   are gathering the goddess's relics wholesale, which would strip away the evidence that the
   gods ever answered. (Session 06)
 
+- **👁️ A scout watched the party fight in the swamp — and withdrew (Session 07).** After the
+  party killed [the Heart of the Swamp](the-heart-of-the-swamp.md), a draconian figure was
+  seen in the distance disappearing into the fog. **It did not engage.** The dragon army is
+  **already inside [the Drowned Swamp](../locations/the-drowned-swamp.md)**, on the same road
+  to Xak Tsaroth — and it now has eyes on the party, [Goldmoon](goldmoon.md), and the
+  [Staff](../items/the-staff.md), with a spent party as the picture it carried away.
+- **Minutes later, a dragon appeared in the fog** — see
+  [The Dragon in the Fog](the-dragon-in-the-fog.md). Whether the scout had already reported is
+  unknown. **Nothing attacked during the party's long rest.** (Session 07)
+
 ## Open questions
 
+- **Did the scout report, and to what?** A draconian withdraws, and a dragon-shaped silhouette
+  turns to look at the party's island. (Session 07)
+- **Why did nothing come for them overnight?** (Session 07)
 - Are these truly the prophecy's **"scaled children of forgotten fire"** — and is this
   **first contact** with the dragons' foretold return?
 - **Where has [Riverwind](../npcs/riverwind.md) seen them before?** His eastern quest may

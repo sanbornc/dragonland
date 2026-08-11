@@ -29,7 +29,12 @@ first-learned: recovered documents
 - **Their claim on the Staff was a lie.** The Forest Master states the draconians' *"it was taken from us"* is **false** and that [Goldmoon](../npcs/goldmoon.md) is the rightful owner. (Session 06)
 - **The archive dig now reads differently.** An army that prizes "knowledge, not wealth" and digs out **pre-Cataclysm** records is the same army hunting a **pre-Cataclysm goddess's** relics — the [buried archive](../quests/the-buried-archive.md) operation and the staff-hunt may be one campaign, not two. *(Inference, Session 06.)*
 
+- **🐉 A DRAGON — the campaign's first (Session 07).** In [the Drowned Swamp](../locations/the-drowned-swamp.md), minutes after a **[draconian](../npcs/draconians.md) scout** watched the party kill [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md) and withdrew into the fog, a **dragon-shaped silhouette** — long neck, horned head, two enormous wings — stood in the mist at the far edge of the swamp and **turned to look directly at the party's island.** No feet ever visible, no roar, no clear movement. An army named for dragons finally has one on the board. See [The Dragon in the Fog](../npcs/the-dragon-in-the-fog.md).
+- **They are in the swamp, on the same road, at the same time.** The race for the [Disks of Mishakal](../quests/the-disks-of-mishakal.md) is no longer theoretical — and the party may have **cleared the causeway for them** by killing the Heart. (Session 07)
+
 ## Open questions
+- **What was the dragon, and whose?** Colour, allegiance, and whether it was physically present at all. (Session 07)
+- **Did the scout report before the dragon appeared** — and does the army now know where Goldmoon and the Staff are? **Nothing attacked during the party's long rest.** (Session 07)
 - **Is "[the Queen](../npcs/the-queen.md)" a god rather than a monarch?** The *Queen of Darkness* constellation vanished in Session 05, and the Forest Master says the vanished constellations **represent the old gods** (Session 06). If so, the gathering war is a **god's** war. *(Inference — not stated.)*
 - Are they tied to the Queen? How high above Commander S. Valane does the chain go?
 - Is recovering buried pre-Cataclysm knowledge their wider war objective, or just this one operation?

@@ -2,8 +2,8 @@
 name: High Theocrat Hederick
 aliases: [Hederick]
 type: npc
-tags: [religion, authority, solace, captive]
-status: alive (again) — freshly revived after the draconians stabbed him, and furious
+tags: [religion, authority, solace, captive, companion]
+status: alive (a fourth time) — drowned in the swamp, raised by Mishakal's Staff, and grateful
 first-learned: session 03
 ---
 
@@ -134,8 +134,41 @@ first-learned: session 03
   to escape one, now **chooses** to walk toward Mishakal's relics with the people who kept
   reviving him. His status shifts from **prisoner** toward **companion / witness.**
 
+## Session 07 — drowned, and raised by the Staff
+
+- **💔 [Renob](../characters/renob.md) shoved him into the water** during the fight with
+  [the Heart of the Swamp](the-heart-of-the-swamp.md) — into the tentacles, mid-combat. **No
+  motive was stated.** Hederick went under and stayed under for most of the fight.
+  (Session 07)
+- **☠️ He drowned.** When the water receded he was found unresponsive.
+  [Boilerdang](../characters/boilerdang-criddlycrotch.md) reached him with **Spare the Dying**;
+  he had been *dying*, not dead. (Session 07)
+- **🕊️ [Goldmoon](goldmoon.md) healed him with the [Staff](../items/the-staff.md)** — the man
+  who filed [Mishakal](../lore/mishakal.md) as a **"false god,"** confiscated her token and
+  called Goldmoon a fraud was **raised by Mishakal's own relic, in Goldmoon's hands.**
+  (Session 07)
+- **🗝️ "I am grateful."** Coming to half-submerged with one leg trapped in the mud, he saw the
+  dead Heart and understood: *"That thing killed me." … "I was crushed by a swamp." … "I have
+  spent my life surrounded by idiots, heretics, goblins, and bureaucrats... and somehow **this**
+  is how I die?" … "A plant." … "Get me out of this filth."* Then, to whoever revived him:
+  > *"And do not misunderstand my gratitude. **I am grateful.**"* … *"I am also going to burn
+  > this entire swamp down."*
+
+  **The first thanks he has ever given the party** — and the first time he has accepted the
+  Staff's healing without calling it blasphemy. He is not softened; he is the same imperious,
+  furious man, now pointed somewhere new. (Session 07)
+- **⚠️ He blames the swamp, not Renob.** Hederick does **not know** he was pushed. Goldmoon and
+  [Riverwind](riverwind.md) both saw it happen. (Session 07)
+
+> **Death & revival tally:** killed (Spiritual Weapon) → revived → suicide (leapt from the
+> tree) → revived → stabbed by the draconians → revived → **drowned in the swamp → raised by
+> the Staff.** **Four deaths, four returns.**
+
 ## Open questions
 
+- **Does he ever learn what [Renob](../characters/renob.md) did?** Two witnesses know.
+  (Session 07)
+- **Why did Renob do it?** Never stated. (Session 07)
 - **Convert, penitent, or spy?** Does he break toward the party for good — or is the desire to
   come along a play for [Elistan](elistan.md)? (Session 06)
 - **Could he recant publicly?** A **High Theocrat who renounced the doctrine** would be the
@@ -167,4 +200,7 @@ first-learned: session 03
 - [The Seekers](../factions/the-seekers.md) — the authority he commands · [Notice of Road Authority](../documents/notice-of-road-authority.md) — signed in his name
 - [Lord Seeker Elistan](elistan.md) — his superior at Haven · [Haven](../locations/haven.md) — source of his orders · [Draconians](draconians.md) — bought him, stabbed him
 - [Divine power in the world](../lore/divine-power.md) — the Seekers and religious authority
-- [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)
+- [The Heart of the Swamp](the-heart-of-the-swamp.md) — what he believes killed him
+- [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md) ·
+  [Session 06 — The Promise of Mishakal](../../sessions/06-2026-07-30-the-promise-of-mishakal.md) ·
+  [Session 07 — The Heart of the Swamp](../../sessions/07-2026-08-11-the-heart-of-the-swamp.md)

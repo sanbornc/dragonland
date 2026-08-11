@@ -42,6 +42,13 @@ first-learned: recovered documents
   deliberately left, that the Seekers' claim the gods are dead is a lie — which is also why
   the **[dragon army](../factions/black-banners.md) is collecting Mishakal's relics
   wholesale.** (Session 06)
+- **🕊️ [Goldmoon](../npcs/goldmoon.md) can call on it deliberately to heal.** In the swamp she
+  used the Staff to raise **[Hederick](../npcs/high-theocrat-hederick.md)** after he drowned —
+  **the first time it has been used on command** rather than healing by touch in another's
+  hands (Session 04) or flaring on its own under threat (the song). (Session 07)
+- **The man it healed had called its goddess false.** Hederick confiscated a wooden
+  [Mishakal](../lore/mishakal.md) token as a *"false god token"* and denounced Goldmoon as a
+  fraud — and then said, out loud, **"I am grateful."** (Session 07)
 
 ## Open questions
 - What does the Staff *do* in full — it **heals by touch** (Session 04) and can **flare blue and make its bearer vanish** under threat (the song). Are these one power or several? Why is it worth a manhunt (and worth keeping from X.T.)?

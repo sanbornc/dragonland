@@ -69,6 +69,17 @@ first-learned: session 03
   **[Disks of Mishakal](../quests/the-disks-of-mishakal.md)** ahead of the dragon army.
   (Session 06)
 
+### Session 07 — the swamp
+
+- **She was caught in the [Heart of the Swamp](the-heart-of-the-swamp.md)'s poison gas** during
+  the fight on the seventh island. (Session 07)
+- **🕊️ She raised [Hederick](high-theocrat-hederick.md) with the
+  [Staff](../items/the-staff.md)** after he drowned — the **first deliberate use of the Staff
+  on command** that the party has seen. The High Theocrat who called her a fraud and her
+  goddess false told her he was **grateful.** (Session 07)
+- **She saw [Renob](../characters/renob.md) shove Hederick into the water** — one of two
+  witnesses, with [Riverwind](riverwind.md). Hederick does not know. (Session 07)
+
 ## Open questions
 
 - **"Rightful owner," not "current carrier" — does the Staff answer only to her?** Put beside

@@ -51,8 +51,23 @@ and his Biatches."** Debuted in the Crimson Circus → Dragonland bridge session
 - **His "family crest" is a crudely drawn penis** — his signature mark. He **drew it on a
   dead goblin's forehead** after killing it in the inn fight (Session 04), calling it his
   family crest.
+- **💔 He shoved [Hederick](../npcs/high-theocrat-hederick.md) into the water** during the
+  fight with [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md) — mid-combat, into
+  the tentacles. **Hederick drowned**, and was only brought back because
+  [Boilerdang](boilerdang-criddlycrotch.md) stabilised him and
+  [Goldmoon](../npcs/goldmoon.md) healed him with the [Staff](../items/the-staff.md).
+  **No motive was stated at the table.** Hederick believes the swamp killed him and does not
+  know he was pushed — but **Goldmoon and [Riverwind](../npcs/riverwind.md) both saw it.**
+  (Session 07)
+- **He also carried the fight.** In the same combat he **killed one of the two mud elementals**
+  outright and was the party's steadiest damage. (Session 07)
 
 ## Open questions
+
+- **⚠️ Why did he push Hederick in?** Never stated. Grudge, opportunism, a joke that landed
+  badly, or something the character knows that the party doesn't. (Session 07)
+- **Does it come out?** Two witnesses, and a High Theocrat who currently blames a plant.
+  (Session 07)
 - Alignment, personality, and backstory — TBD.
 - Confirm the magic bone dice are the set from the bridge-session shop, and what
   they do.

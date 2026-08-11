@@ -36,6 +36,10 @@ first-learned: session 02 (2026-06-12)
   and unrited across the region. (Session 06)
 - **First eyewitness account of the Cataclysm: "the mountain fell."** From Emrich, who was
   there. (Session 06)
+- **We probably know what killed the causeway knight.** The island he died on was the body of
+  **[the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md)**, a plant-creature that had
+  made the only road to [Xak Tsaroth](../locations/xak-tsaroth.md) its hunting ground. The
+  party killed it in Session 07. *(Inference — the DM did not state it.)*
 
 ## Open questions
 - Does the order still exist **in the living world**, or only as those who never stood down?

@@ -51,8 +51,29 @@ Mishakal** — and warned that the **dragon army is racing them for the same rel
   extra radiant Divine Smite) lasts **until the battle with the evil at Xak Tsaroth** — it
   gets them there, and then expires. (Session 06)
 
+### Session 07 — the causeway is open, and so is the race
+
+- **⚔️ The party killed [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md)**, the
+  plant-creature keeper that had made the seventh island its body. **Its death thinned the
+  fog** and made the crossing easier. (Session 07)
+- **⚠️ It had been sitting on the only road.** The Heart killed what used the causeway — most
+  likely including the **dead [Knight of Solamnia](../factions/knights-of-solamnia.md)** found
+  on its island. **The party removed the one obstacle standing between the dragon army and
+  Xak Tsaroth.** *(Inference — but the timing is hard to ignore.)* (Session 07)
+- **👁️ The dragon army is already in the swamp.** A [draconian](../npcs/draconians.md) scout
+  watched the fight and withdrew into the fog without engaging. **The race is no longer
+  theoretical — they are on the same road, at the same time.** (Session 07)
+- **🐉 A dragon stands somewhere out in the swamp**, and **looked directly at the party's
+  island.** Two characters are now unable to willingly move toward where it appeared. See
+  [The Dragon in the Fog](../npcs/the-dragon-in-the-fog.md). (Session 07)
+- **The party rested safely on the Heart's corpse** — undisturbed, despite both the scout and
+  the dragon knowing where they were. (Session 07)
+
 ## Open questions
 
+- **⚠️ Did the party open the road for the dragon army by killing the Heart?** (Session 07)
+- **Is the dragon in the fog the "great evil"** the Forest Master warned about, or something
+  separate waiting between here and Xak Tsaroth? (Session 07)
 - **What are the Disks of Mishakal, and what do they do?** Never described.
 - **What is the great evil guarding Xak Tsaroth** — the dragon army's, or older?
 - **How far ahead is the dragon army?**

@@ -54,6 +54,18 @@ first-learned: session 03
   Xak Tsaroth when he took it — a possible source of the faint memory of them. *(Inference,
   not confirmed.)* (Session 06)
 
+### Session 07 — the swamp
+
+- **He guided the party across the drowned causeway** island by island, on the
+  [Forest Master](the-forest-master.md)'s maps — seven islands without a failed crossing.
+  (Session 07)
+- **He was the only one caught in the first poison cloud**, and
+  [Boilerdang](../characters/boilerdang-criddlycrotch.md) **pulled him clear and cast Lesser
+  Restoration** on him. Losing Riverwind would have cost the party its guide. (Session 07)
+- **He saw [Renob](../characters/renob.md) shove
+  [Hederick](high-theocrat-hederick.md) into the water** — one of two witnesses, with
+  [Goldmoon](goldmoon.md). (Session 07)
+
 ## Open questions
 
 - **Is Xak Tsaroth "the lip of the morning"** — the place he found the Staff and half-remembers

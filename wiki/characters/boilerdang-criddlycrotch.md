@@ -101,7 +101,23 @@ As the campaign begins, Boilerdang has started to feel that something is changin
   whose name he is only beginning to recognize"?)*
 - **🎁 Boon (Session 06):** the Forest Master granted him **one extra 4th-level spell slot**,
   lasting **until the battle with the evil at [Xak Tsaroth](../locations/xak-tsaroth.md).**
-  *(Confirm at the table whether it refreshes per long rest.)*
+  *(Confirm at the table whether it refreshes per long rest — the party took its first long
+  rest since the boon at the end of Session 07, so this is now testable.)*
+- **⚔️ He killed [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md) (Session 07)** —
+  and did it the way he ends most things: by walking past it with **Spirit Guardians** running.
+  The aura accounted for **two tentacles, a mud elemental, and the Heart itself.** Against a
+  creature resistant to poison and acid, **radiant was the answer**, and Spirit Guardians is
+  save-based — so it kept working at full strength while he was **prone and poisoned.**
+- **🕊️ He saved three people in one fight (Session 07):**
+  **[Riverwind](../npcs/riverwind.md)** — pulled clear of the first poison cloud and cleansed
+  with **Lesser Restoration**, keeping the party's guide alive; **five party members** healed
+  with a 3rd-level **Mass Healing Word**; and
+  **[Hederick](../npcs/high-theocrat-hederick.md)** — found drowned and **stabilised with Spare
+  the Dying**, then raised by [Goldmoon](../npcs/goldmoon.md) and the
+  [Staff](../items/the-staff.md). The theocrat who once burned his own arm rather than accept
+  Boilerdang's healing said **"I am grateful."**
+- **The contrast is on the record.** In the same fight,
+  **[Renob](../characters/renob.md) put a man in the water and Boilerdang pulled one out.**
 
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~80 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)
