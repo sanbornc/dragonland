@@ -156,7 +156,21 @@ of this is **carried on the party's persons** — weight and attunement actually
   the oldest roots in a dead man's hands. One legible page: a drawing of a dragon-shaped
   silhouette in fog, and *"It isn't a dragon. Whatever you see in the mist—do not follow it."*
 
+## Session 08 — the lockbox on the island by the temple (CARRIED)
+
+Found on an island adjacent to
+**[the Temple of the Two Dragons](../locations/the-temple-of-the-two-dragons.md)**. Still
+**carried** — the wagons remain cached in Darken Wood. (Session 08)
+
+- **Coin added:** **6 gp.**
+- **A ring worth 10 gp.**
+- **A couple of jars of lamp oil.**
+- **📄 A map** — **it warns against going to
+  [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md).** *(Found after the party had
+  already killed it.)*
+
 ## Open questions
+- **Who wrote the lockbox map, and who was it left for?** (Session 08)
 - **Who claims the four magic items, and who attunes to the Mirewalker Ring?** Nothing was
   assigned at the table. (Session 07)
 - **Who is the signet ring**, and does the **ivory dragon carving** mean anything? (Session 07)

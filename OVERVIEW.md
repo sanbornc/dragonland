@@ -27,8 +27,9 @@ so it can't be stacked with another concentration spell like Spirit Guardians.
 The party is a band of professional hunters who call themselves
 **"Boilerdang and his Biatches,"** led by Boilerdang Criddlycrotch.
 
-**Party XP:** **31,310** as of end of Session 07 (level 7; level 8 at 34,000,
-~2,690 to go). *(XP is awarded by the DM as a flat per-character amount.)*
+**Party XP:** **31,310** (level 7; level 8 at 34,000, ~2,690 to go). *(XP is awarded by the DM
+as a flat per-character amount. **No award yet for Session 08** — it ended mid-combat and
+continues next session.)*
 
 - **Boilerdang Criddlycrotch** — Human Cleric 7 (Life Domain), the party's
   leader. See [Boilerdang Criddlycrotch](wiki/characters/boilerdang-criddlycrotch.md).
@@ -160,6 +161,25 @@ on the Heart's corpse — nothing came for them. See
 [Session 07 — The Heart of the Swamp](sessions/07-2026-08-11-the-heart-of-the-swamp.md) and
 [The Dragon in the Fog](wiki/npcs/the-dragon-in-the-fog.md).
 
+**Session 08** brought the party to a **temple in the swamp**, roughly **two days short of Xak
+Tsaroth** — a site [Riverwind](wiki/npcs/riverwind.md) does not recognise, and one the **dragon
+army had already sacked.** Its entry room holds **two massive golden doors** covered in symbols
+and warnings, images of **two dragons fighting**, and a dais bearing **the remnants of a giant
+egg shell**; the doors are **unopened.** The site is **occupied** — a camp under a
+**[warlock](wiki/npcs/the-warlock-at-the-temple.md)**, with goblins and mages who were **arguing
+about old stories being translated** and who tried to **arrest** Boilerdang rather than kill
+him. The fight that followed was ugly: Boilerdang called **the bear** for the first time in
+eight sessions and killed seven goblins; Pip and Vaelor killed two mages;
+[Malix](wiki/characters/malix.md) **Polymorphed a dragon that "seems strange"** — and **a turtle
+fell out of its back**, dropped to 0 HP, and reverted into **a goblin**, which then cast Wall of
+Fire, badly hurting Boilerdang and [Goldmoon](wiki/npcs/goldmoon.md) and **killing
+[Hederick](wiki/npcs/high-theocrat-hederick.md) for the fifth time.** Vaelor was killed by the
+warlock and brought back with a potion by [Renob](wiki/characters/renob.md). **The session ended
+mid-combat** — the warlock alive, the party badly hurt, and Hederick dead on the ground,
+unrevived. See
+[Session 08 — The Temple of the Two Dragons](sessions/08-2026-09-08-the-temple-of-the-two-dragons.md)
+and [The Temple of the Two Dragons](wiki/locations/the-temple-of-the-two-dragons.md).
+
 ## Major threads
 
 - **The gathering war** — unmarked black-banner armies massing eastward; their
@@ -216,5 +236,8 @@ on the Heart's corpse — nothing came for them. See
 - **Que-Shu** (Goldmoon & Riverwind's homeland, near Solace) — [Que-Shu](wiki/locations/que-shu.md)
 - **The Excavation Site** (watch station over the buried archive) —
   [The Excavation Site](wiki/locations/the-excavation-site.md)
+- **The Temple of the Two Dragons** (a temple in the swamp ~2 days short of Xak Tsaroth,
+  sacked by the dragon army and occupied by a warlock's camp; **current location — the party is
+  fighting here**) — [The Temple of the Two Dragons](wiki/locations/the-temple-of-the-two-dragons.md)
 - **Xak Tsaroth** (the site formerly known only as "X.T."; current destination) —
   [Xak Tsaroth](wiki/locations/xak-tsaroth.md)

@@ -32,7 +32,15 @@ first-learned: recovered documents
 - **🐉 A DRAGON — the campaign's first (Session 07).** In [the Drowned Swamp](../locations/the-drowned-swamp.md), minutes after a **[draconian](../npcs/draconians.md) scout** watched the party kill [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md) and withdrew into the fog, a **dragon-shaped silhouette** — long neck, horned head, two enormous wings — stood in the mist at the far edge of the swamp and **turned to look directly at the party's island.** No feet ever visible, no roar, no clear movement. An army named for dragons finally has one on the board. See [The Dragon in the Fog](../npcs/the-dragon-in-the-fog.md).
 - **They are in the swamp, on the same road, at the same time.** The race for the [Disks of Mishakal](../quests/the-disks-of-mishakal.md) is no longer theoretical — and the party may have **cleared the causeway for them** by killing the Heart. (Session 07)
 
+- **⚠️ They sacked a temple on the road to Xak Tsaroth (Session 08).** The party reached
+  **[the Temple of the Two Dragons](../locations/the-temple-of-the-two-dragons.md)**, roughly
+  **two days short of [Xak Tsaroth](../locations/xak-tsaroth.md)**, and found it **already
+  looted by the dragon army** — **many objects gone.** They are **ahead of the party on this
+  road**, and they were stripping sites before the party even knew this one existed.
+
 ## Open questions
+- **What did the dragon army take from the temple**, and were they after the same thing behind
+  its golden doors? (Session 08)
 - **What was the dragon, and whose?** Colour, allegiance, and whether it was physically present at all. (Session 07)
 - **Did the scout report before the dragon appeared** — and does the army now know where Goldmoon and the Staff are? **Nothing attacked during the party's long rest.** (Session 07)
 - **Is "[the Queen](../npcs/the-queen.md)" a god rather than a monarch?** The *Queen of Darkness* constellation vanished in Session 05, and the Forest Master says the vanished constellations **represent the old gods** (Session 06). If so, the gathering war is a **god's** war. *(Inference — not stated.)*
@@ -48,3 +56,5 @@ first-learned: recovered documents
 - [Captain Varek's Papers](../documents/captain-vareks-papers.md) · [Black Banner Guard Orders](../documents/black-banner-guard-orders.md) · [Black Banner Signet Ring](../items/black-banner-signet-ring.md)
 - [The Gathering War](../lore/the-gathering-war.md) · [The Excavation Site](../locations/the-excavation-site.md) · [The Buried Archive](../quests/the-buried-archive.md)
 - [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md)
+- [The Temple of the Two Dragons](../locations/the-temple-of-the-two-dragons.md) — sacked by them ·
+  [Session 08](../../sessions/08-2026-09-08-the-temple-of-the-two-dragons.md)

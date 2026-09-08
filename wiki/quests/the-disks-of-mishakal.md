@@ -69,8 +69,22 @@ Mishakal** — and warned that the **dragon army is racing them for the same rel
 - **The party rested safely on the Heart's corpse** — undisturbed, despite both the scout and
   the dragon knowing where they were. (Session 07)
 
+### Session 08 — two days out, and the army is ahead
+
+- **📍 Distance fixed: roughly two days from [Xak Tsaroth](../locations/xak-tsaroth.md)**, per
+  [Riverwind](../npcs/riverwind.md). (Session 08)
+- **⚠️ The dragon army is ahead of the party.** They found
+  **[the Temple of the Two Dragons](../locations/the-temple-of-the-two-dragons.md)** on the
+  road **already sacked** — many objects looted. (Session 08)
+- **The temple is occupied** by a camp under a
+  **[warlock](../npcs/the-warlock-at-the-temple.md)**, with goblins, mages, a dragon, and
+  draconians. The party is **fighting them now** — Session 09 opens in that combat.
+- **🚪 The temple's golden doors are unopened.** 🧩 (Session 08)
+
 ## Open questions
 
+- **Does the sacking mean the Disks are already lost**, or was this temple a different prize?
+  (Session 08)
 - **⚠️ Did the party open the road for the dragon army by killing the Heart?** (Session 07)
 - **Is the dragon in the fog the "great evil"** the Forest Master warned about, or something
   separate waiting between here and Xak Tsaroth? (Session 07)
@@ -96,3 +110,5 @@ Mishakal** — and warned that the **dragon army is racing them for the same rel
 - [Draconians](../npcs/draconians.md) · [Black Banners](../factions/black-banners.md) — the dragon army racing them
 - [The Buyer](../npcs/the-buyer.md) — insisted the Staff must not reach here
 - [Session 06 — The Promise of Mishakal](../../sessions/06-2026-07-30-the-promise-of-mishakal.md)
+- [Session 07 — The Heart of the Swamp](../../sessions/07-2026-08-11-the-heart-of-the-swamp.md) ·
+  [Session 08 — The Temple of the Two Dragons](../../sessions/08-2026-09-08-the-temple-of-the-two-dragons.md)
