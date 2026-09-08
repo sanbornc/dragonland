@@ -20,7 +20,7 @@ first-learned: session 06
 - **A wild bear does not wear jewellery**: the amulet was **placed on her by someone**, and
   she carried it until she had someone to give it to. Who put it there is unknown.
 - **✅ FIRST USED in Session 08**, at
-  [the Temple of the Two Dragons](../locations/the-temple-of-the-two-dragons.md) — and
+  [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md) — and
   **the larger bear** answered the call, the same one who gave him the amulet. Eight sessions
   after the mercy that earned it. **It works.**
 - Held by **Boilerdang**, who was given it directly; usable on the party's behalf.
@@ -44,4 +44,4 @@ first-learned: session 06
 - [Boilerdang Criddlycrotch](../characters/boilerdang-criddlycrotch.md) — carries it
 - [Session 03](../../sessions/03-2026-06-23-the-friendly-bears.md) — where the mercy was shown
 - [Session 06 — The Promise of Mishakal](../../sessions/06-2026-07-30-the-promise-of-mishakal.md)
-- [Session 08 — The Temple of the Two Dragons](../../sessions/08-2026-09-08-the-temple-of-the-two-dragons.md) — first use
+- [Session 08 — The Tomb of the Two Dragons](../../sessions/08-2026-09-08-the-tomb-of-the-two-dragons.md) — first use

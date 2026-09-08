@@ -56,9 +56,9 @@ fog**, and beneath it:
 - **The party saw it after the Heart was already dead**, so it is **not** the Heart's illusion.
   (Session 07)
 
-## Session 08 — a dragon at the temple, and something inside it
+## Session 08 — a dragon at the tomb, and something inside it
 
-At **[the Temple of the Two Dragons](../locations/the-temple-of-the-two-dragons.md)**, two
+At **[the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)**, two
 days short of Xak Tsaroth, the party met **a dragon in the flesh** — and it did not behave
 like one.
 
@@ -73,13 +73,13 @@ like one.
   [Hederick](high-theocrat-hederick.md).**
 - **⚠️ Set beside the journal's *"It isn't a dragon"***, this is the second time the campaign
   has put a dragon in front of the party that is **not straightforwardly a dragon.** *(Whether
-  the temple dragon and the Session 07 silhouette are the same thing, or even the same kind of
+  the tomb dragon and the Session 07 silhouette are the same thing, or even the same kind of
   thing, is **not established.** — inference, flagged.)*
 
 ## Open questions
 
 - **⚠️ How did a goblin come to be inside / on the back of a dragon?** (Session 08)
-- **Is the temple dragon the same thing seen in the fog**, or unrelated? (Session 08)
+- **Is the tomb dragon the same thing seen in the fog**, or unrelated? (Session 08)
 - **⚠️ If it isn't a dragon, what is it?** A lure, an illusion, a projection, something wearing
   a dragon's shape, or something the writer had no word for.
 - **What happens to those who follow it?** The one person known to have written the warning
@@ -106,5 +106,5 @@ like one.
 - [Black Banners](../factions/black-banners.md) — the dragon army
 - [The Queen](the-queen.md) · [Dragon Prophecy Parchment](../documents/dragon-prophecy-parchment.md)
 - [Session 07 — The Heart of the Swamp](../../sessions/07-2026-08-11-the-heart-of-the-swamp.md)
-- [Session 08 — The Temple of the Two Dragons](../../sessions/08-2026-09-08-the-temple-of-the-two-dragons.md)
-- [The Temple of the Two Dragons](../locations/the-temple-of-the-two-dragons.md)
+- [Session 08 — The Tomb of the Two Dragons](../../sessions/08-2026-09-08-the-tomb-of-the-two-dragons.md)
+- [The Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)

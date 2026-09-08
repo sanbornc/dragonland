@@ -4,7 +4,7 @@ date: 2026-09-08
 players-present: [TBC]
 ---
 
-# Session 08 — The Temple of the Two Dragons
+# Session 08 — The Tomb of the Two Dragons
 
 ## Recap
 
@@ -16,24 +16,24 @@ silhouette out in the swamp, and a dead man's warning that **"it isn't a dragon.
 Their objective: the **[Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.md)** at
 **[Xak Tsaroth](../wiki/locations/xak-tsaroth.md)**.
 
-- **🗺️ The party arrives at a temple.** *(Which temple, and whether it is at
+- **🗺️ The party arrives at a tomb.** *(Which tomb, and whether it is at
   [Xak Tsaroth](../wiki/locations/xak-tsaroth.md), is **not known to the party.**)*
 - **[Riverwind](../wiki/npcs/riverwind.md) does not recognise the place** — he is **not
   familiar with this location.**
 - **They are still a couple of days from [Xak Tsaroth](../wiki/locations/xak-tsaroth.md)**, per
-  Riverwind. So the temple is **a separate site on the road**, not the destination.
-- **🎁 A lockbox on an adjacent island** — *not* in the temple itself. Contents: **a map**,
+  Riverwind. So the tomb is **a separate site on the road**, not the destination.
+- **🎁 A lockbox on an adjacent island** — *not* in the tomb itself. Contents: **a map**,
   **6 gold coins**, and **a ring worth 10 gp**, plus **a couple of jars of lamp oil**.
   *(Carried — the [wagons](../wiki/items/party-wagon.md) are still cached in Darken Wood.)*
 - **🗺️ The map warns against going to the Heart of the Swamp.** *(The party killed
   [the Heart](../wiki/npcs/the-heart-of-the-swamp.md) in Session 07, before finding this.)*
-- **[Pip](../wiki/characters/pip-tumblewhistle.md) approaches the temple stealthily.**
-- **👂 Voices — from a tent outside the temple, not from inside it.** Pip hears them
+- **[Pip](../wiki/characters/pip-tumblewhistle.md) approaches the tomb stealthily.**
+- **👂 Voices — from a tent outside the tomb, not from inside it.** Pip hears them
   **arguing about old stories that are being translated**, and **a warning against using
   force.** *(Speakers, number, and identity unknown.)*
-- **Pip sneaks into the temple** — which is **not** where the voices are. Someone is **camped**
+- **Pip sneaks into the tomb** — which is **not** where the voices are. Someone is **camped**
   at this site.
-- **⚠️ The temple has been sacked by the dragon army.** **Many objects have been looted.**
+- **⚠️ The tomb has been sacked by the dragon army.** **Many objects have been looted.**
 - **🚪 Two massive golden doors** stand on the **back wall of the entry room.**
 - **Many symbols and warnings** appear **on or near the doors.**
 - **Some of the images show two dragons fighting each other.**
@@ -51,14 +51,17 @@ Their objective: the **[Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.
 - **⚔️ Boilerdang kills 7 goblins** over several rounds — the ones who chased him from the
   camp.
 - **[Pip](../wiki/characters/pip-tumblewhistle.md) and
-  [Vaelor](../wiki/characters/vaelor-grinward.md) were inside the temple and killed two
+  [Vaelor](../wiki/characters/vaelor-grinward.md) were inside the tomb and killed two
   mages.**
-- **The leader — a warlock — enters the temple** and is fighting Pip and Vaelor.
-- **[Renob](../wiki/characters/renob.md) gets into the temple with some amazing parkour.**
+- **The leader — a warlock — enters the tomb** and is fighting Pip and Vaelor.
+- **🤸 [Renob](../wiki/characters/renob.md) gets into the tomb with some amazing parkour** —
+  crossing a field of **fallen statue pieces and toppled pillars** and finishing with a
+  **triple backflip into the tomb**, going in **first and alone.** Called *game-changing* at
+  the table. *(Renob arrived late and was not there for the start of the session.)*
 - **So the camp is:** goblins, at least two mages, and **a warlock leader.** These are the
   people who tried to **arrest** Boilerdang.
 - **⚔️ Boilerdang is fighting two [draconians](../wiki/npcs/draconians.md) outside the
-  temple.**
+  tomb.**
 - **🐉 [Malix](../wiki/characters/malix.md) engages a DRAGON and casts Polymorph.**
 - **The dragon "seems strange."** Polymorph was cast **on the dragon**, and **it landed.**
 - **🐢 A turtle fell out of the back of the dragon when that happened.** *(Recorded exactly as
@@ -80,16 +83,16 @@ Their objective: the **[Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.
 
 ## New facts learned
 
-- **There is a temple in the swamp, roughly two days short of
+- **There is a tomb in the swamp, roughly two days short of
   [Xak Tsaroth](../wiki/locations/xak-tsaroth.md)** — a site nobody knew about, and one
   **[Riverwind](../wiki/npcs/riverwind.md) does not recognise.**
-  ([The Temple of the Two Dragons](../wiki/locations/the-temple-of-the-two-dragons.md))
+  ([The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md))
 - **⚠️ The dragon army got there first and sacked it.** Many objects looted. They are **ahead
   of the party on this road.** ([Black Banners](../wiki/factions/black-banners.md))
 - **The site is occupied and camped** — goblins, at least two **mages**, and a **warlock**
-  leader, with a tent outside the temple where they argue about **old stories being
+  leader, with a tent outside the tomb where they argue about **old stories being
   translated** and warn each other **against using force.**
-  ([The Warlock at the Temple](../wiki/npcs/the-warlock-at-the-temple.md))
+  ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
 - **They tried to ARREST Boilerdang**, not kill him or seize the
   [Staff](../wiki/items/the-staff.md) — they behave as if they hold authority here.
 - **🚪 Two massive golden doors** stand on the back wall of the entry room, covered in
@@ -119,7 +122,7 @@ Their objective: the **[Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.
 - **🐉 What is the "dragon"** — and does it connect to the silhouette seen in Session 07 and
   the drowned adventurer's *"It isn't a dragon"*?
 - **How did a goblin come to be inside/on the back of a dragon?**
-- **Does the dragon army's sacking mean the Disks are already lost**, or was this temple a
+- **Does the dragon army's sacking mean the Disks are already lost**, or was this tomb a
   different prize? ([The Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.md))
 - **Was the lockbox map's warning — "do not go to the Heart of the Swamp" — written for
   travellers, or by someone who knew what it was?**

@@ -59,11 +59,13 @@ and his Biatches."** Debuted in the Crimson Circus → Dragonland bridge session
   **No motive was stated at the table.** Hederick believes the swamp killed him and does not
   know he was pushed — but **Goldmoon and [Riverwind](../npcs/riverwind.md) both saw it.**
   (Session 07)
-- **🤸 The tomb leap.** Inside [Xak Tsaroth](../locations/xak-tsaroth.md) he crossed a
+- **🤸 The tomb leap.** At
+  **[the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)** he crossed a
   field of **fallen statue pieces and pillars** by parkour, finishing with a **triple
   backflip into the tomb** — going in first, and alone. Called *game-changing* at the
   table. *(Mechanically of a piece with his Champion **Remarkable Athlete**, despite
   DEX 13.)* (Session 08)
+- **He was not present for the start of the session**, arriving late. (Session 08)
 - **He also carried the fight.** In the same combat he **killed one of the two mud elementals**
   outright and was the party's steadiest damage. (Session 07)
 
@@ -83,5 +85,5 @@ and his Biatches."** Debuted in the Crimson Circus → Dragonland bridge session
 ## See also
 - [Dragonland — Campaign Overview](../../OVERVIEW.md) — party roster
 - [Session 01 — Crimson Circus Crossover (Bridge Session)](../../sessions/01-2026-06-02-crimson-circus-crossover.md)
-- [Session 08 — Into the Tomb](../../sessions/08-2026-09-08-into-the-tomb.md)
+- [Session 08 — The Tomb of the Two Dragons](../../sessions/08-2026-09-08-the-tomb-of-the-two-dragons.md)
 - [Boilerdang Criddlycrotch](boilerdang-criddlycrotch.md)

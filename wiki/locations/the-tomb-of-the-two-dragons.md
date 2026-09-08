@@ -1,14 +1,15 @@
 ---
-name: The Temple of the Two Dragons
-aliases: [the swamp temple, the temple]
+name: The Tomb of the Two Dragons
+aliases: [the swamp tomb, the tomb, "the temple (initial mis-ID)"]
 type: location
-tags: [temple, swamp, ruins, dragons, sacked]
+tags: [tomb, swamp, ruins, dragons, sacked]
 first-learned: session 08
 ---
 
-# The Temple of the Two Dragons
+# The Tomb of the Two Dragons
 
-A temple in [the Drowned Swamp](the-drowned-swamp.md), reached in Session 08.
+A **tomb** in [the Drowned Swamp](the-drowned-swamp.md), reached in Session 08.
+*(The party first took it for a temple; it is a tomb.)*
 **Roughly two days short of [Xak Tsaroth](xak-tsaroth.md)** — a separate site on the road,
 **not** the destination. *(The party's own name for it is not established; this entry is titled
 for the carving on its doors.)*
@@ -19,8 +20,8 @@ for the carving on its doors.)*
   country before. (Session 08)
 - **⚠️ The dragon army sacked it before the party arrived.** **Many objects have been looted.**
   ([Black Banners](../factions/black-banners.md)) (Session 08)
-- **It is occupied.** A camp with a **tent outside** the temple, holding **goblins**, at least
-  **two mages**, and a **[warlock](../npcs/the-warlock-at-the-temple.md)** leader. From
+- **It is occupied.** A camp with a **tent outside** the tomb, holding **goblins**, at least
+  **two mages**, and a **[warlock](../npcs/the-warlock-at-the-tomb.md)** leader. From
   outside, [Pip](../characters/pip-tumblewhistle.md) overheard them **arguing about old
   stories that are being translated**, and **a warning against using force.** (Session 08)
 - **On an adjacent island**: a **lockbox** holding a **map**, **6 gp**, a **ring worth 10 gp**,
@@ -48,12 +49,12 @@ Recorded exactly as presented at the table. **The doors are unopened.**
   take when they sacked it?
 - **What are the mages translating**, and from what?
 - **Who wrote the lockbox map**, and who was it left for?
-- **Why is this temple absent from Riverwind's memory of the region?**
+- **Why is this tomb absent from Riverwind's memory of the region?**
 
 ## See also
 
 - [The Drowned Swamp](the-drowned-swamp.md) · [Xak Tsaroth](xak-tsaroth.md) — two days on
-- [The Warlock at the Temple](../npcs/the-warlock-at-the-temple.md) — the camp's leader
+- [The Warlock at the Tomb](../npcs/the-warlock-at-the-tomb.md) — the camp's leader
 - [Black Banners](../factions/black-banners.md) · [Draconians](../npcs/draconians.md) — sacked it
 - [The Disks of Mishakal](../quests/the-disks-of-mishakal.md)
-- [Session 08 — The Temple of the Two Dragons](../../sessions/08-2026-09-08-the-temple-of-the-two-dragons.md)
+- [Session 08 — The Tomb of the Two Dragons](../../sessions/08-2026-09-08-the-tomb-of-the-two-dragons.md)

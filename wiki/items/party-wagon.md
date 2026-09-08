@@ -156,10 +156,10 @@ of this is **carried on the party's persons** — weight and attunement actually
   the oldest roots in a dead man's hands. One legible page: a drawing of a dragon-shaped
   silhouette in fog, and *"It isn't a dragon. Whatever you see in the mist—do not follow it."*
 
-## Session 08 — the lockbox on the island by the temple (CARRIED)
+## Session 08 — the lockbox on the island by the tomb (CARRIED)
 
 Found on an island adjacent to
-**[the Temple of the Two Dragons](../locations/the-temple-of-the-two-dragons.md)**. Still
+**[the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)**. Still
 **carried** — the wagons remain cached in Darken Wood. (Session 08)
 
 - **Coin added:** **6 gp.**

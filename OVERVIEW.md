@@ -161,12 +161,12 @@ on the Heart's corpse — nothing came for them. See
 [Session 07 — The Heart of the Swamp](sessions/07-2026-08-11-the-heart-of-the-swamp.md) and
 [The Dragon in the Fog](wiki/npcs/the-dragon-in-the-fog.md).
 
-**Session 08** brought the party to a **temple in the swamp**, roughly **two days short of Xak
+**Session 08** brought the party to a **tomb in the swamp**, roughly **two days short of Xak
 Tsaroth** — a site [Riverwind](wiki/npcs/riverwind.md) does not recognise, and one the **dragon
 army had already sacked.** Its entry room holds **two massive golden doors** covered in symbols
 and warnings, images of **two dragons fighting**, and a dais bearing **the remnants of a giant
 egg shell**; the doors are **unopened.** The site is **occupied** — a camp under a
-**[warlock](wiki/npcs/the-warlock-at-the-temple.md)**, with goblins and mages who were **arguing
+**[warlock](wiki/npcs/the-warlock-at-the-tomb.md)**, with goblins and mages who were **arguing
 about old stories being translated** and who tried to **arrest** Boilerdang rather than kill
 him. The fight that followed was ugly: Boilerdang called **the bear** for the first time in
 eight sessions and killed seven goblins; Pip and Vaelor killed two mages;
@@ -177,8 +177,8 @@ Fire, badly hurting Boilerdang and [Goldmoon](wiki/npcs/goldmoon.md) and **killi
 warlock and brought back with a potion by [Renob](wiki/characters/renob.md). **The session ended
 mid-combat** — the warlock alive, the party badly hurt, and Hederick dead on the ground,
 unrevived. See
-[Session 08 — The Temple of the Two Dragons](sessions/08-2026-09-08-the-temple-of-the-two-dragons.md)
-and [The Temple of the Two Dragons](wiki/locations/the-temple-of-the-two-dragons.md).
+[Session 08 — The Tomb of the Two Dragons](sessions/08-2026-09-08-the-tomb-of-the-two-dragons.md)
+and [The Tomb of the Two Dragons](wiki/locations/the-tomb-of-the-two-dragons.md).
 
 ## Major threads
 
@@ -236,8 +236,8 @@ and [The Temple of the Two Dragons](wiki/locations/the-temple-of-the-two-dragons
 - **Que-Shu** (Goldmoon & Riverwind's homeland, near Solace) — [Que-Shu](wiki/locations/que-shu.md)
 - **The Excavation Site** (watch station over the buried archive) —
   [The Excavation Site](wiki/locations/the-excavation-site.md)
-- **The Temple of the Two Dragons** (a temple in the swamp ~2 days short of Xak Tsaroth,
+- **The Tomb of the Two Dragons** (a tomb in the swamp ~2 days short of Xak Tsaroth,
   sacked by the dragon army and occupied by a warlock's camp; **current location — the party is
-  fighting here**) — [The Temple of the Two Dragons](wiki/locations/the-temple-of-the-two-dragons.md)
+  fighting here**) — [The Tomb of the Two Dragons](wiki/locations/the-tomb-of-the-two-dragons.md)
 - **Xak Tsaroth** (the site formerly known only as "X.T."; current destination) —
   [Xak Tsaroth](wiki/locations/xak-tsaroth.md)

@@ -3,14 +3,14 @@ name: High Theocrat Hederick
 aliases: [Hederick]
 type: npc
 tags: [religion, authority, solace, captive, companion]
-status: DEAD (fifth death, Session 08) — killed at the temple and not revived before session end
+status: DEAD (fifth death, Session 08) — killed at the tomb and not revived before session end
 first-learned: session 03
 ---
 
 # High Theocrat Hederick
 
 > **💀 CURRENT STATUS: DEAD (Session 08)** — killed at
-> [the Temple of the Two Dragons](../locations/the-temple-of-the-two-dragons.md) by a goblin's
+> [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md) by a goblin's
 > Wall of Fire, and **not revived before the session ended.** Fifth death, four returns.
 >
 > *(Historical, end of Session 04:)* **Alive — the party's bound prisoner.** Across one night he
@@ -166,12 +166,12 @@ first-learned: session 03
 
 > **Death & revival tally:** killed (Spiritual Weapon) → revived → suicide (leapt from the
 > tree) → revived → stabbed by the draconians → revived → **drowned in the swamp → raised by
-> the Staff** → **killed at the temple (Session 08).** **Five deaths, four returns.**
+> the Staff** → **killed at the tomb (Session 08).** **Five deaths, four returns.**
 
 ## Session 08 — the fifth death
 
-- **💀 Killed at [the Temple of the Two Dragons](../locations/the-temple-of-the-two-dragons.md).**
-  In the fight at the temple, a **goblin cast Wall of Fire**, badly hurting
+- **💀 Killed at [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md).**
+  In the fight at the tomb, a **goblin cast Wall of Fire**, badly hurting
   [Boilerdang](../characters/boilerdang-criddlycrotch.md) and
   [Goldmoon](goldmoon.md) — **and killing Hederick.** (Session 08)
 - **⚠️ He was NOT revived before the session ended.** The fight is still running and the party
@@ -219,4 +219,4 @@ first-learned: session 03
 - [Session 05 — The Missing Stars](../../sessions/05-2026-07-07-the-missing-stars.md) ·
   [Session 06 — The Promise of Mishakal](../../sessions/06-2026-07-30-the-promise-of-mishakal.md) ·
   [Session 07 — The Heart of the Swamp](../../sessions/07-2026-08-11-the-heart-of-the-swamp.md) ·
-  [Session 08 — The Temple of the Two Dragons](../../sessions/08-2026-09-08-the-temple-of-the-two-dragons.md)
+  [Session 08 — The Tomb of the Two Dragons](../../sessions/08-2026-09-08-the-tomb-of-the-two-dragons.md)
