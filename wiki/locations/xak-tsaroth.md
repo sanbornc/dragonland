@@ -9,10 +9,15 @@ first-learned: recovered documents (as "X.T.") / Session 06 (full name)
 # Xak Tsaroth
 
 **The site referred to for the whole campaign only as "X.T." — full name revealed in
-Session 06.** The party is now travelling there.
+Session 06.** **The party arrived in Session 08.**
 
 ## What we know
 
+- **🏛️ The party has arrived.** They are **inside Xak Tsaroth** as of Session 08, having
+  crossed the drowned swamp causeway. (Session 08)
+- **The interior holds fallen statue pieces and toppled pillars**, and beyond them a
+  **tomb** — the first known interior feature of the ruin. **[Renob](../characters/renob.md)
+  reached it by leaping the rubble.** (Session 08)
 - **"X.T." is Xak Tsaroth.** Named outright by the [Forest Master](../npcs/the-forest-master.md)
   in [Darken Wood](darken-wood.md), who directed the party to travel there. (Session 06)
 - Referred to in the Ringmaster's ledger only by initials — **"do not speak the full
@@ -64,3 +69,4 @@ Session 06.** The party is now travelling there.
 - [The Buyer](../npcs/the-buyer.md) — insists the Staff must not reach here · [The Ringmaster](../npcs/the-ringmaster.md) · [Fewmaster Toede](../npcs/fewmaster-toede.md)
 - [Riverwind](../npcs/riverwind.md) — may have been here before · [Draconians](../npcs/draconians.md)
 - [Session 06 — The Promise of Mishakal](../../sessions/06-2026-07-30-the-promise-of-mishakal.md)
+- [Session 08 — Into the Tomb](../../sessions/08-2026-09-08-into-the-tomb.md) — the party arrives, and the tomb
