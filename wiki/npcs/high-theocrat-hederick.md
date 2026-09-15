@@ -216,9 +216,6 @@ first-learned: session 03
 - Was he the **Seekers' supreme leader**, or one High Theocrat among several? (His death
   may leave a power vacuum — or bring a worse successor.)
 - Why did the party dislike him — past history, or just his manner?
-
-## Open questions
-
 - **⚠️ Why did he lead the way into the tomb, willingly?** A bound prisoner who has tried to
   kill himself to escape the party **volunteered to go first** into a flooding tomb.
   (Session 09)
