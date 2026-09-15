@@ -86,13 +86,20 @@ Recorded **verbatim** from the DM. 🧩
 - **🐊 The crocodile then attacked Renob — and missed**, leaving **its weapon lodged
   in the ground**, and said **“Strength without restraint becomes its own prison”**.
   (Session 09) 🧩
+- **👊 Renob then “booped” the crocodile gently on the nose with it.** The
+  crocodile said **“restraint is noted”**, stepped back and **powered down** —
+  **ending the fight.** (Session 09)
+- **⚒️ It belonged to a SMITH**, named on the
+  [funerary tablet](../documents/funerary-inscription-tablet.md) only as **“He whose hand
+  armed the world against wings.”** (Session 09)
 - **Nothing is recorded about attunement, properties, or whether it can be worn.**
 
 ## Open questions 🧩
 
 - **What do the runes say?** Not yet read.
 - **"Not the first"** — not the first *what*? 🧩
-- **Whose arm was it, and what did they forge?** 🧩
+- **Whose arm was it?** A **smith** — **unnamed by design** on the funerary tablet.
+  **What did he forge, and does any of it survive?**
 - **What is "salvation"** in the statue's phrase? 🧩
 - **Is it safe to touch, take, or wear?** **Renob has handled it and struck with it** —
   **no consequence is recorded either way.** (Session 09)

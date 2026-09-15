@@ -259,6 +259,26 @@ the **two golden doors** untouched.
 
   *(Recorded exactly as presented. **No interpretation logged.** — 🧩)*
 
+- **🏹⚕️ [Pip](../wiki/characters/pip-tumblewhistle.md) and
+  [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) both take the READY action.**
+- **👊✨ [Renob](../wiki/characters/renob.md) takes
+  [the silver hand](../wiki/items/the-silver-arm.md) and “BOOPS” THE CROCODILE GENTLY
+  ON THE NOSE.**
+- **🐊 The crocodile says:**
+
+  > “restraint is noted”
+
+  **— takes a step back and “POWERS DOWN.”**
+- **✅ COMBAT OVER.** All four statues are down.
+- **🎰 Also found in the sarcophagus:**
+  - **[A pale blue whetstone](../wiki/items/pale-blue-whetstone.md)** — *“A small
+    whetstone of pale blue stone that never seems to dull. Once per long rest, using it on a
+    weapon gives +1 to the next damage roll made with that weapon.”*
+  - **[A short funerary inscription tablet](../wiki/documents/funerary-inscription-tablet.md)**,
+    naming the smith **only indirectly**:
+
+    > “He whose hand armed the world against wings.”
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -383,9 +403,19 @@ of them may be mages.** Everything above counts only what has actually engaged.
   to see until the light catches them. The statues call it **“the silver hand”** and
   **“the hand that forged salvation.”**
   ([The Silver Arm](../wiki/items/the-silver-arm.md)) 🧩
-- **🗿 The statues were in an ATTACK STANCE**, and **stand down one at a time.** The
-  **falcon**, **cat** and **jackal** have relaxed. **The CROCODILE has NOT** — it
-  **attacked Renob**, **missed**, and **its weapon is lodged in the ground.** 🧩
+- **✅ THE STATUE TRIAL IS PASSED. All four statues stood down and powered off, and combat
+  ended.** The **falcon**, **cat** and **jackal** relaxed in turn; the **crocodile** finally
+  did after Renob **“booped” it gently on the nose with the silver hand** and it said
+  **“restraint is noted.”**
+  ([The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md))
+- **⚒️ ⚰️ THE MAN IN THE SARCOPHAGUS WAS A SMITH — AND HE ARMED THE
+  WORLD AGAINST DRAGONS.** The funerary tablet names him only as **“He whose hand armed the
+  world against wings.”** His **silver arm** is **“the hand that forged salvation.”**
+  **His name is deliberately withheld.**
+  ([Funerary Inscription Tablet](../wiki/documents/funerary-inscription-tablet.md))
+- **🗡️ A [pale blue whetstone](../wiki/items/pale-blue-whetstone.md)** was also in
+  the sarcophagus — **once per long rest, +1 to the next damage roll** with the weapon it
+  is used on, and **it never dulls.**
 - **🗡️ Vaelor disarmed himself** in front of the jackal — weapon laid at its
   feet. 🧩
 - **🕊️ TWO STATUE DOMAINS ARE NAMED: the FALCON is TRUTH, the CAT is

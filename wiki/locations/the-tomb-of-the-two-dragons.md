@@ -103,13 +103,16 @@ willingly.** (Session 09)
   addressed the party, **from an attack stance.** (Session 09) 🧩
 - **🕊️ Domains named by the DM: FALCON = TRUTH, CAT = UNDERSTANDING.** The
   **crocodile's** and **jackal's** domains are **not given.** (Session 09) 🧩
-- **🗿 Statues that have STOOD DOWN: the falcon, the cat, and the jackal.** The
-  **CROCODILE has not** — it **attacked [Renob](../characters/renob.md)**, **missed**, and
-  **its weapon is lodged in the ground.** (Session 09) 🧩
+- **✅ ALL FOUR STATUES STOOD DOWN AND POWERED OFF.** The falcon, cat and jackal relaxed in
+  turn; the **crocodile** attacked [Renob](../characters/renob.md), **missed** (its weapon
+  lodging in the ground), and stood down after he **“booped” it gently on the nose with
+  [the silver hand](../items/the-silver-arm.md).** (Session 09)
 - **⚰️ A sarcophagus — opened in Session 09. It holds NO BODY**: dust, collapsed
   linen in the shape of a man, fragments of bone — and **[a silver
   arm](../items/the-silver-arm.md)** where the right arm should be, **untouched by age.**
-  (Session 09) 🧩
+  Also inside: **[a pale blue whetstone](../items/pale-blue-whetstone.md)** and **[a funerary
+  inscription tablet](../documents/funerary-inscription-tablet.md)** naming the occupant only as
+  **“He whose hand armed the world against wings.”** **He was a SMITH.** (Session 09)
 - **🕰️ The statues and the sarcophagus are in DIFFERENT STYLES**, suggesting they were
   **created at different times.** (Session 09) 🧩
 - **🕰️ The archaeologist dates the tomb PRE-CATACLYSM, and the sarcophagus as MUCH NEWER** —
@@ -222,6 +225,15 @@ After [Renob](../characters/renob.md) struck the shield with
 missed. Its weapon is now lodged in the ground.** It said, verbatim: 🧩
 
 > “Strength without restraint becomes its own prison”
+
+**[Pip](../characters/pip-tumblewhistle.md) and
+[Boilerdang](../characters/boilerdang-criddlycrotch.md) both readied.** Then **Renob took the
+silver hand and “booped” the crocodile gently on the nose.** The crocodile said:
+
+> “restraint is noted”
+
+**— stepped back and “powered down.” ✅ COMBAT OVER; all four statues are
+down.**
 
 ### 🔥🧊⚡ The braziers
 
