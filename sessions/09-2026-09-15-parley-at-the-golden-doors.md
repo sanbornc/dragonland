@@ -140,6 +140,19 @@ the **two golden doors** untouched.
   try to open the sarcophagus** — **they get it HALFWAY open.** *(What is inside is not yet
   recorded.)*
 
+- **🐊 THE CROCODILE STATUE STEPS FORWARD AND SPEAKS.** One of the statues in the lower
+  chamber **moves** and addresses the party. **Verbatim:**
+
+  > “Many who come for power call themselves protectors.”
+  >
+  > “Many who fear evil become eager to destroy.”
+  >
+  > “Show me the difference.”
+  >
+  > “When victory is yours… what do you spare?”
+
+  *(Recorded exactly as presented. **No answer, candidate answer, or hint logged.** — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -258,7 +271,9 @@ of them may be mages.** Everything above counts only what has actually engaged.
 - **🌊 ⚠️ How fast is the water rising, and is there another way out?** The party is **below
   ground** in a **still-flooding** tomb.
 - **⚰️ What is in the sarcophagus?** Renob and Vaelor have it **halfway open.** 🧩
-- **🗿 What are the four statues?** Not yet described. 🧩
+- **🐊 The statues are ANIMATE and one of them TALKS.** The **crocodile** statue
+  **stepped forward** and put a question to the party. **What the other three are, and whether
+  they also speak, is not recorded.** 🧩
 - **⚰️ WHO IS IN THE SARCOPHAGUS**, and **who put a much newer burial inside a pre-Cataclysm
   tomb?** 🧩
 - **🕰️ How much newer is the sarcophagus** — decades, centuries, since the Cataclysm? 🧩
