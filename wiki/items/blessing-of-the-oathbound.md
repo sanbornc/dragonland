@@ -19,6 +19,9 @@ each oathbound bears.
 - **✨ It glows.** Inside [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md),
   [Vaelor](../characters/vaelor-grinward.md) noticed his mark **glowing slightly** — the first time
   the blessing has been observed to do anything unprompted. (session 09) 🧩
+- **✋ It glowed again when Vaelor put his hand in one of the slots on the golden doors** at
+  [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md). *(Which slot is
+  not recorded.)* (session 09) 🧩
 - **Every party member present received it — including Renob** (despite paying nothing at the Sacrifice altars). **Pip is the only party member who did not get the blessing** — Ryan was out for the session. (session 02)
 - Earned beneath the tower, tied to the **Hall of Oaths** oath and the release of the **Marshal** (and earlier **Sir Garreck**). (session 02)
 

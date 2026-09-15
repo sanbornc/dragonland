@@ -91,6 +91,13 @@ the **two golden doors** untouched.
 - **🛡️ They say ONLY THE WARLOCK CAN ENTER.**
 - **❓ They are CURIOUS HOW THE PARTY CAN ENTER.** *(Recorded as presented. — 🧩)*
 
+- **📜 SOLAMNIC KNIGHT WRITING ON THE DOORS.** The party sees
+  **[Solamnic](../wiki/factions/knights-of-solamnia.md) knight writing on the golden doors.**
+  **It does not match the rest of the markings in the tomb.** *(Recorded as presented. — 🧩)*
+- **✋ [Vaelor](../wiki/characters/vaelor-grinward.md) puts his hand in one of the slots**, and
+  **his marking glows.** *(Recorded as presented. Which slot — the **lance** or the **fist** —
+  is not recorded. — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -113,6 +120,12 @@ the **two golden doors** untouched.
   back.** Melee on this man costs HP until that ward is gone — **ranged and spell attacks do
   not trigger it.**
   ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
+- **📜 There is Solamnic writing on the golden doors, and it does not match the rest of the
+  markings in the tomb.** ([Knights of Solamnia](../wiki/factions/knights-of-solamnia.md) ·
+  [The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md)) 🧩
+- **✋ Vaelor's [Blessing of the Oathbound](../wiki/items/blessing-of-the-oathbound.md) marking
+  glowed with his hand in one of the door slots.** *(Second recorded glow this session; the
+  first was earlier, inside the tomb.)* 🧩
 - **🛡️ THE TOMB IS WARDED.** Said by the **warlock** earlier in the session, and borne out by
   **[the archaeologist](../wiki/npcs/the-archaeologist.md)**, who **would not enter** and says
   **only the warlock can.** **The party is inside anyway**, and the archaeologist **wants to
@@ -171,6 +184,9 @@ of them may be mages.** Everything above counts only what has actually engaged.
 
 ## Loose threads
 
+- **📜 What does the Solamnic writing on the doors say?** Not yet read out / recorded. 🧩
+- **Why is Solamnic writing on these doors when nothing else in the tomb matches it?** 🧩
+- **Which slot did Vaelor use — the lance or the fist?** *(Recording gap.)* 🧩
 - **🛡️ Who set the ward, and what is it meant to keep out?** 🧩
 - **Why can the warlock enter?** 🧩
 - **Is the archaeologist physically unable to enter, or unwilling?** They said *only the

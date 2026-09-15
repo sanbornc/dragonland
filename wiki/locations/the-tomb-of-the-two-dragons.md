@@ -72,12 +72,19 @@ Recorded exactly as presented at the table. **The doors are unopened.**
 - **A dais near the doors** holds an object: **the remnants of a giant egg shell.**
 - **On the two fighting dragons:** one holds **a lance with a place for something to be
   placed**; the other has **a fist**, likewise **with a place for something to be placed.**
+- **📜 [Solamnic](../factions/knights-of-solamnia.md) knight writing appears on the doors** —
+  and **it does not match the rest of the markings in the tomb.** (Session 09)
+- **✋ [Vaelor](../characters/vaelor-grinward.md) put his hand in one of the slots, and his
+  [Blessing of the Oathbound](../items/blessing-of-the-oathbound.md) marking glowed.**
+  *(Which slot is not recorded.)* (Session 09)
 
 ## Open questions
 
 - **What is behind the golden doors?**
 - **What is the giant egg shell on the dais?**
 - **What are the symbols and warnings, and what do they warn of?**
+- **📜 What does the Solamnic writing say, and why is it here** when nothing else in the tomb
+  matches it? (Session 09)
 - **Why is the dragon army here at all**, two days short of Xak Tsaroth — and what did they
   take when they sacked it?
 - **What are the mages translating**, and from what?

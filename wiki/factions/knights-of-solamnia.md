@@ -40,8 +40,14 @@ first-learned: session 02 (2026-06-12)
   **[the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md)**, a plant-creature that had
   made the only road to [Xak Tsaroth](../locations/xak-tsaroth.md) its hunting ground. The
   party killed it in Session 07. *(Inference — the DM did not state it.)*
+- **📜 Solamnic knight writing appears on the golden doors of
+  [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)**, deep in
+  [the Drowned Swamp](../locations/the-drowned-swamp.md) — and **it does not match the rest of
+  the markings in the tomb.** (session 09) 🧩
 
 ## Open questions
+- **📜 Why is Solamnic writing on the doors of a swamp tomb** that nothing else in it matches?
+  (session 09) 🧩
 - Does the order still exist **in the living world**, or only as those who never stood down?
   *(Session 06: Emrich fell **at** the Cataclysm, so the order was intact up to that moment.)*
 - **Is there a horn** left where Emrich's knights stood — the object his whole haunting
