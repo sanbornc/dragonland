@@ -103,6 +103,8 @@ willingly.** (Session 09)
   addressed the party, **from an attack stance.** (Session 09) 🧩
 - **🕊️ Domains named by the DM: FALCON = TRUTH, CAT = UNDERSTANDING.** The
   **crocodile's** and **jackal's** domains are **not given.** (Session 09) 🧩
+- **🗿 Statues that have STOOD DOWN: the falcon, the cat, and the jackal.** The
+  **crocodile is not recorded as having stood down.** (Session 09) 🧩
 - **⚰️ A sarcophagus — opened in Session 09. It holds NO BODY**: dust, collapsed
   linen in the shape of a man, fragments of bone — and **[a silver
   arm](../items/the-silver-arm.md)** where the right arm should be, **untouched by age.**
@@ -204,6 +206,13 @@ jackal statue.** It answered, verbatim: 🧩
 > “Power displayed is not respect shown.”
 
 *(**[Hederick](../npcs/high-theocrat-hederick.md) ran out of the tomb** around this point.)*
+
+Then **[Vaelor](../characters/vaelor-grinward.md) laid his weapon at the jackal's feet.** The
+jackal said, verbatim:
+
+> “Respect was shown”
+
+**— and stepped back, relaxing.** 🧩
 
 ### 🔥🧊⚡ The braziers
 

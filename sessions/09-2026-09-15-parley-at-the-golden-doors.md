@@ -241,6 +241,16 @@ the **two golden doors** untouched.
 
   *(Recorded exactly as presented. **No interpretation logged.** — 🧩)*
 
+- **🗡️ [Vaelor](../wiki/characters/vaelor-grinward.md) LAYS HIS WEAPON AT THE FEET
+  OF THE JACKAL.**
+- **🐕 The jackal says:**
+
+  > “Respect was shown”
+
+  **— and STEPPED BACK, RELAXING.**
+
+  *(Recorded exactly as presented. **No interpretation logged.** — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -365,9 +375,11 @@ of them may be mages.** Everything above counts only what has actually engaged.
   to see until the light catches them. The statues call it **“the silver hand”** and
   **“the hand that forged salvation.”**
   ([The Silver Arm](../wiki/items/the-silver-arm.md)) 🧩
-- **🗿 The statues were in an ATTACK STANCE**, and **stand down one at a time as
-  questions are answered** — the **bird** and the **cat** have both visibly relaxed.
-  🧩
+- **🗿 The statues were in an ATTACK STANCE**, and **stand down one at a time.** So far
+  the **falcon**, the **cat** and the **jackal** have relaxed. **The crocodile is not recorded
+  as having stood down.** 🧩
+- **🗡️ Vaelor disarmed himself** in front of the jackal — weapon laid at its
+  feet. 🧩
 - **🕊️ TWO STATUE DOMAINS ARE NAMED: the FALCON is TRUTH, the CAT is
   UNDERSTANDING.** *(DM, group chat. The **crocodile** and **jackal** domains are **not
   given**.)* 🧩

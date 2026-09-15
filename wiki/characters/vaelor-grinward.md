@@ -56,6 +56,17 @@ his Biatches."**
   Devotion), and is set in the Forgotten Realms (Icewind Dale, Calimshan). It is
   **not** treated as Vaelor's canon here.
 
+## Session 09
+
+- **🗡️ He laid his weapon at the feet of the jackal statue** in
+  [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md). The jackal said
+  **“Respect was shown”** and **stepped back, relaxing.** (Session 09)
+- **✋ His [Blessing of the Oathbound](../items/blessing-of-the-oathbound.md) mark glowed**
+  — first on entering the tomb, then again with his hand in one of the door slots.
+  (Session 09)
+- **🩵 He placed the [wooden Mishakal token](../items/wooden-mishakal-token.md) in a door
+  slot**, which **closed around his arm** and later released it. (Session 09)
+
 ## Open questions
 - Vaelor's actual backstory and personality for Dragonland (the sheet's notes
   belong to a different character/setting — confirm with Jason).
