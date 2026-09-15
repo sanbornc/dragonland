@@ -17,11 +17,10 @@ players-present: [TBC]
 [the warlock](../wiki/npcs/the-warlock-at-the-tomb.md) still up, and
 the **two golden doors** untouched.
 
-- **🗣️ [Pip](../wiki/characters/pip-tumblewhistle.md) opens a conversation with the caster
-  the party is fighting** — the camp's leader, recorded in Session 08 as
-  **[the warlock](../wiki/npcs/the-warlock-at-the-tomb.md)**, referred to at the table this
-  session as **"the mage."** *(Same individual as far as the log records — his two mages were
-  killed in Session 08.)*
+- **🗣️ [Pip](../wiki/characters/pip-tumblewhistle.md) opens a conversation with
+  [the warlock](../wiki/npcs/the-warlock-at-the-tomb.md)** — the camp's leader.
+  *(Called "the mage" at the table on Pip's and Malix's turns; he is the warlock, not one of
+  the camp's actual mages.)*
 - **Pip asks: _"What is behind the door?"_** *(Answer not yet recorded.)*
 - **The caster asks back: _"How did you get in?"_** *(Answer not yet recorded.)*
 - **🕊️ He spends his turn conversing with the party** — **he did not attack.** The parley
@@ -42,8 +41,8 @@ the **two golden doors** untouched.
   caster is **dead.**
 - **Boilerdang steps closer to the caster** — **Spirit Guardians does significant damage.**
 - **🐻 The [bear](../wiki/items/amulet-of-the-remembered-paw.md) attacks twice and kills the
-  final mage the party was in battle with.** *(Second combat kill for the summoned bear's
-  first-ever outing.)*
+  final mage the party was in battle with.** **The camp's mages are now all dead** — there were
+  more than the two killed in Session 08. *(The warlock is a separate man and still up.)*
 - **🐉🗝️ On the dragon's turn, [Malix](../wiki/characters/malix.md) hears GOBLINS INSIDE the
   dragon — struggling to control it.** **The dragon did nothing on its turn.**
 - **⚔️ [Renob](../wiki/characters/renob.md) walks up to the grappled warlock and stabs him.**
@@ -79,11 +78,14 @@ the **two golden doors** untouched.
   weight on its first use.
 - **The Wall of Fire goblin is dead** — killed by Boilerdang with Toll the Dead.
 
-### ⚠️ Headcount to confirm
-Session 08 recorded **two mages killed** by Pip and Vaelor, plus a **warlock** leader. This
-session the **bear killed "the final mage,"** and the **warlock is still alive and grappled**
-— so either there was **a third mage**, or "the final mage" and "the warlock" are the same
-person and the stabbing happened before he died. **Logged both ways pending confirmation.**
+### ✅ Headcount — resolved
+**The camp had multiple mages**, more than the two killed in Session 08. **The bear killed the
+last of them.** The **[warlock](../wiki/npcs/the-warlock-at-the-tomb.md) is a separate
+individual** and is **still alive and grappled.**
+
+*Note on the log's wording:* the warlock was **referred to as "the mage" at the table** on
+**Pip's and Malix's turns** — so "the mage" in the parley above is **the warlock**, while
+**"the final mage"** killed by the bear was **an actual mage.** (Confirmed by Charlie.)
 
 ## Loose threads
 

@@ -24,6 +24,10 @@ for the carving on its doors.)*
   **two mages**, and a **[warlock](../npcs/the-warlock-at-the-tomb.md)** leader. From
   outside, [Pip](../characters/pip-tumblewhistle.md) overheard them **arguing about old
   stories that are being translated**, and **a warning against using force.** (Session 08)
+- **The camp fielded multiple mages — more than the two first seen — and by Session 09 they
+  are all dead**, along with the goblin that cast Wall of Fire. The
+  **[warlock](../npcs/the-warlock-at-the-tomb.md) is the last caster left on that side.**
+  (Session 09)
 - **On an adjacent island**: a **lockbox** holding a **map**, **6 gp**, a **ring worth 10 gp**,
   and **a couple of jars of lamp oil.** **The map warns against going to
   [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md)** — which the party had already

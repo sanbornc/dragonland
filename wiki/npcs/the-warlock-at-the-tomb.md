@@ -28,9 +28,16 @@ The **leader** of the party camped at
   [Renob](../characters/renob.md) brought Vaelor back with a potion. (Session 08)
 - **His two mages are dead** — killed by [Pip](../characters/pip-tumblewhistle.md) and Vaelor
   inside the tomb. **Seven of his goblins** were killed by Boilerdang outside. (Session 08)
+- **☠️ He had MORE than two mages — and now has none.** The camp fielded **multiple mages**;
+  the **last one was killed by the summoned
+  [bear](../items/amulet-of-the-remembered-paw.md)** in Session 09. **He is the last caster
+  standing on his side.** (Session 09)
 - **🗣️ He can be talked to.** In Session 09 [Pip](../characters/pip-tumblewhistle.md) opened
   a conversation mid-fight and **he spent his turn conversing rather than attacking.**
-  Referred to at the table this session as **"the mage."** (Session 09)
+  (Session 09)
+- **📛 Naming note:** he is **called "the mage" at the table** at times (Pip's and Malix's
+  turns in Session 09). He is **not** one of the camp's mages — those were separate people and
+  are **all dead now.** (Session 09)
 - **His first question back was _"How did you get in?"_** — not a threat and not a demand for
   surrender. He wants to know how the party entered the tomb. (Session 09)
 - **Asked by Pip _"What is behind the door?"_ and by
