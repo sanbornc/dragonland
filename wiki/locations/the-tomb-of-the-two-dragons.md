@@ -41,17 +41,30 @@ for the carving on its doors.)*
   glowing slightly** — the Solamnic rose tattoo from Session 02. First time it has been
   observed to glow. (Session 09) 🧩
 
+## 🛡️ The tomb is WARDED
+
+Recorded exactly as presented at the table. **No speculation logged.**
+
+- **The [warlock](../npcs/the-warlock-at-the-tomb.md) said the tomb was warded.** (Session 09)
+- **The [archaeologist](../npcs/the-archaeologist.md) would not enter the building**, and says
+  **only the warlock can enter.** (Session 09)
+- **The party is inside regardless** — all of them. **The archaeologist is curious how they
+  can.** (Session 09)
+- His first question during the parley was **"How did you get in?"** (Session 09)
+
+**Open, unspeculated:** who set the ward, what it keeps out, why the warlock has access, and
+whether the archaeologist is unable or merely unwilling. 🧩
+
 ## 🧩 The entry room
 
 Recorded exactly as presented at the table. **The doors are unopened.**
 
-> **Session 09 state:** the interior is **uncontested** —
+> **Session 09 state:** **the whole party is inside**, and the interior is **uncontested** —
 > [Pip](../characters/pip-tumblewhistle.md), [Vaelor](../characters/vaelor-grinward.md),
 > [Malix](../characters/malix.md) and [Renob](../characters/renob.md) are inside with **no
 > enemies present**, after the [warlock](../npcs/the-warlock-at-the-tomb.md) vanished.
-> [Boilerdang](../characters/boilerdang-criddlycrotch.md) is **outside** — and **one unidentified
-> [archaeologist](../npcs/the-archaeologist.md) is walking calmly toward the building** while
-> the rest of the camp flees.
+> [Boilerdang](../characters/boilerdang-criddlycrotch.md) has joined them. The
+> **[archaeologist](../npcs/the-archaeologist.md) stopped outside and would not come in.**
 
 - **Two massive golden doors** on the **back wall of the entry room.**
 - **Many symbols and warnings** appear **on or near the doors.**

@@ -23,6 +23,11 @@ run.** **Name unknown.**
 - **🕊️ They are not interested in fighting.** (Session 09)
 - **They walked toward four armed PCs** who had just destroyed the machine and killed the
   camp's mages — **unhurried.** (Session 09)
+- **🚫 They WOULD NOT ENTER the tomb.** They stopped at the building and stayed outside.
+  (Session 09)
+- **🛡️ They say ONLY THE WARLOCK CAN ENTER.** (Session 09)
+- **❓ They are CURIOUS HOW THE PARTY CAN ENTER** — the party is inside and they are not.
+  (Session 09) 🧩
 
 ## Probable connection to Session 08 *(inference — not stated at the table)*
 
@@ -43,6 +48,9 @@ against force, is not established.**
 - **Did they know the dragon was a machine, and who crewed it?**
 - **Were they one of the voices in the tent** arguing about the translations? *(Inference,
   above.)*
+- **Are they unable to enter, or unwilling?** They stated *only the warlock can* — but they
+  also **did not try.** 🧩
+- **How do they know the tomb is warded**, and what else do they know about it? 🧩
 - **Why walk toward the party at all** — to talk, to surrender, to claim the site, or to stop
   something?
 - **What were they translating, and from what?** *(Carried from Session 08.)*

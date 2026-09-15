@@ -23,6 +23,8 @@ the **two golden doors** untouched.
   the camp's actual mages.)*
 - **Pip asks: _"What is behind the door?"_** *(Answer not yet recorded.)*
 - **The caster asks back: _"How did you get in?"_** *(Answer not yet recorded.)*
+- **🛡️ Earlier in the exchange, the warlock said THE TOMB WAS WARDED.** *(Reported later in the
+  session. Recorded as presented. — 🧩)*
 - **🕊️ He spends his turn conversing with the party** — **he did not attack.** The parley
   attempt is holding, at least for a round.
 - **[Vaelor](../wiki/characters/vaelor-grinward.md) asks: _"Who do you serve?"_**
@@ -82,6 +84,13 @@ the **two golden doors** untouched.
 - **🔍 The figure is an ARCHAEOLOGIST — and is NOT INTERESTED IN FIGHTING.**
   ([The Archaeologist](../wiki/npcs/the-archaeologist.md))
 
+- **🏛️ The whole party is now inside the tomb** — including
+  [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md).
+- **🚫 [The archaeologist](../wiki/npcs/the-archaeologist.md) WOULD NOT ENTER.** They stopped
+  at the building and stayed out.
+- **🛡️ They say ONLY THE WARLOCK CAN ENTER.**
+- **❓ They are CURIOUS HOW THE PARTY CAN ENTER.** *(Recorded as presented. — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -104,6 +113,14 @@ the **two golden doors** untouched.
   back.** Melee on this man costs HP until that ward is gone — **ranged and spell attacks do
   not trigger it.**
   ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
+- **🛡️ THE TOMB IS WARDED.** Said by the **warlock** earlier in the session, and borne out by
+  **[the archaeologist](../wiki/npcs/the-archaeologist.md)**, who **would not enter** and says
+  **only the warlock can.** **The party is inside anyway**, and the archaeologist **wants to
+  know how.** *(All recorded as presented — no speculation logged. — 🧩)*
+  ([The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md))
+- **🔑 The warlock has access the rest of his own expedition does not.** Their scholar **cannot
+  or will not** cross the threshold; **he can.** ([The Warlock at the
+  Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
 - **🔍 THERE IS AN ARCHAEOLOGIST AT THIS SITE, AND THEY DO NOT WANT TO FIGHT.** Their whole
   camp **ran** when the machine blew; **this one walked toward the building instead.** A
   **non-combatant scholar** was part of the expedition occupying the tomb — which fits Session
@@ -154,6 +171,10 @@ of them may be mages.** Everything above counts only what has actually engaged.
 
 ## Loose threads
 
+- **🛡️ Who set the ward, and what is it meant to keep out?** 🧩
+- **Why can the warlock enter?** 🧩
+- **Is the archaeologist physically unable to enter, or unwilling?** They said *only the
+  warlock can* — but they also **didn't try.** 🧩
 - **🔍 Who is the archaeologist, and who do they work for?** Dragon army, Seekers, or their own
   expedition?
 - **What is their relationship to the vanished [warlock](../wiki/npcs/the-warlock-at-the-tomb.md)?**

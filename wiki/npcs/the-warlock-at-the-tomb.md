@@ -45,6 +45,10 @@ The **leader** of the party camped at
 - **📛 Naming note:** he is **called "the mage" at the table** at times (Pip's and Malix's
   turns in Session 09). He is **not** one of the camp's mages — those were separate people and
   are **all dead now.** (Session 09)
+- **🛡️ He said THE TOMB WAS WARDED.** (Session 09)
+- **🔑 He can enter the tomb — and per
+  [the archaeologist](the-archaeologist.md), he is the ONLY one who can.** Their own scholar
+  **would not cross the threshold.** (Session 09) 🧩
 - **His first question back was _"How did you get in?"_** — not a threat and not a demand for
   surrender. He wants to know how the party entered the tomb. (Session 09)
 - **Asked by Pip _"What is behind the door?"_ and by
@@ -71,6 +75,8 @@ The **leader** of the party camped at
 - **~~Can he be talked to?~~ Yes — he held a parley in Session 09** instead of attacking.
   **What he actually said is still unrecorded.**
 - **Why does he care how the party got in?**
+- **🛡️ Why can HE enter a warded tomb?** What gives him access his own expedition lacks?
+  (Session 09) 🧩
 - **How much Armor of Agathys is left, and can he re-cast it?** (Session 09)
 - **⚠️ How many of his people have not committed yet, and how many are casters?** (Session 09)
 - **💨 Where did he go, and is he still watching?** He broke a grapple by vanishing while
