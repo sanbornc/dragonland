@@ -519,5 +519,10 @@ of them may be mages.** Everything above counts only what has actually engaged.
 
 ## XP (Session 09)
 
-**Not yet awarded** — pending the DM's number. Running total remains **31,310** per character
-(level 7; level 8 at 34,000).
+**Awarded: 3,750 XP per character** (DM's award) — a **combined award covering Sessions 08
+and 09**, since Session 08 ended mid-combat and the arc finished here.
+
+- **New running total: 31,310 → 35,060 per character.**
+- **🎉 THE PARTY IS LEVEL 8.** (Level 9 at 48,000 — **12,940 to go**.)
+- ⚠️ **Character wiki entries still show level 7 mechanics** — HP, proficiency,
+  spell slots and new features need updating from everyone's sheets.

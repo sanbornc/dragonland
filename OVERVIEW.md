@@ -27,19 +27,20 @@ so it can't be stacked with another concentration spell like Spirit Guardians.
 The party is a band of professional hunters who call themselves
 **"Boilerdang and his Biatches,"** led by Boilerdang Criddlycrotch.
 
-**Party XP:** **31,310** (level 7; level 8 at 34,000, ~2,690 to go). *(XP is awarded by the DM
-as a flat per-character amount. **No award yet for Session 08** — it ended mid-combat and
-continues next session.)*
+**Party XP:** **35,060** — **🎉 LEVEL 8** (level 9 at 48,000, ~12,940 to go). *(XP is awarded by the DM
+as a flat per-character amount. **Sessions 08 + 09 were paid out together: 3,750 per
+character.** ⚠️ **Character entries below still list level 7 mechanics** and need
+updating from everyone's sheets.)*
 
-- **Boilerdang Criddlycrotch** — Human Cleric 7 (Life Domain), the party's
+- **Boilerdang Criddlycrotch** — Human Cleric 7 (Life Domain) *(now 8)*, the party's
   leader. See [Boilerdang Criddlycrotch](wiki/characters/boilerdang-criddlycrotch.md).
-- **Renob "The Stabinator"** — Dwarf Fighter 7 (Champion), Chris's character.
+- **Renob "The Stabinator"** — Dwarf Fighter 7 (Champion) *(now 8)*, Chris's character.
   See [Renob The Stabinator](wiki/characters/renob.md).
-- **Vaelor Grinward** — Elf Paladin 7 (Oath of Devotion), Jason's character.
+- **Vaelor Grinward** — Elf Paladin 7 (Oath of Devotion) *(now 8)*, Jason's character.
   See [Vaelor Grinward](wiki/characters/vaelor-grinward.md).
-- **Malix** — Tiefling Sorcerer 7 (Shadow Magic), TJ's character.
+- **Malix** — Tiefling Sorcerer 7 (Shadow Magic) *(now 8)*, TJ's character.
   See [Malix](wiki/characters/malix.md).
-- **Pip Tumblewhistle** — Halfling Ranger 7 (Hunter), Ryan's character.
+- **Pip Tumblewhistle** — Halfling Ranger 7 (Hunter) *(now 8)*, Ryan's character.
   See [Pip Tumblewhistle](wiki/characters/pip-tumblewhistle.md).
 
 Add new characters in `wiki/characters/` and list them here.

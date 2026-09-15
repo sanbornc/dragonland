@@ -17,6 +17,9 @@ Chris Gibbons' player character — a Dwarf Fighter and member of **"Boilerdang
 and his Biatches."** Debuted in the Crimson Circus → Dragonland bridge session.
 *(The name is "Boner" reversed, in keeping with the party's naming humor.)*
 
+> ⚠️ **Level 8 as of Session 09** (party XP 35,060). The mechanics below are
+> **still the level 7 numbers** — update from the live sheet.
+
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~88 · **AC 17** (Chain Mail + Defense style); attacks against him have
   disadvantage while the **Cloak of Displacement** is active (until he takes damage)

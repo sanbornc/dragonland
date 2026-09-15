@@ -16,6 +16,9 @@ first-learned: session 01
 Jason Allen's player character — an Elf Paladin and member of **"Boilerdang and
 his Biatches."**
 
+> ⚠️ **Level 8 as of Session 09** (party XP 35,060). The mechanics below are
+> **still the level 7 numbers** — update from the live sheet.
+
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~60 · **AC 19** with shield (Chain Mail + Shield + Defense
   style); ~17 when two-handing the Greataxe +1

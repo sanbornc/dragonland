@@ -138,5 +138,10 @@ Their objective: the **[Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.
 
 ## XP (Session 08)
 
-**Not yet awarded** — the session ended mid-combat and will continue. Running total remains
-**31,310** per character (level 7; level 8 at 34,000).
+**Awarded as part of a combined Session 08 + 09 award: 3,750 XP per character** (DM's award).
+Session 08 ended mid-combat, so Jeremy paid the whole arc out at the end of Session 09.
+
+- **New running total: 31,310 → 35,060 per character.**
+- **🎉 LEVEL 8.** (Level 8 at 34,000; level 9 at 48,000 — **12,940 to go**.)
+
+See [Session 09](09-2026-09-15-parley-at-the-golden-doors.md).

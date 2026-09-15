@@ -119,6 +119,9 @@ As the campaign begins, Boilerdang has started to feel that something is changin
 - **The contrast is on the record.** In the same fight,
   **[Renob](../characters/renob.md) put a man in the water and Boilerdang pulled one out.**
 
+> ⚠️ **Level 8 as of Session 09** (party XP 35,060). The mechanics below are
+> **still the level 7 numbers** — update from the live sheet.
+
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~80 (+5 temp) · **AC 22** (Adamantine Plate + Shield +1 + Cloak of Protection)
 - **Speed** 30 ft, plus a climbing speed; Boots of Speed for doubling

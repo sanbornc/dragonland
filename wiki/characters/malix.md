@@ -16,6 +16,9 @@ first-learned: session 01
 TJ Smith's player character — a Tiefling Shadow-Magic Sorcerer and member of
 **"Boilerdang and his Biatches."**
 
+> ⚠️ **Level 8 as of Session 09** (party XP 35,060). The mechanics below are
+> **still the level 7 numbers** — update from the live sheet.
+
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~44 · **AC 15** (Elven Chain); attacks against him have disadvantage
   while the **Cloak of Displacement** is active

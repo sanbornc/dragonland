@@ -16,6 +16,9 @@ first-learned: session 01
 Ryan Christensen's player character — a Halfling Hunter ranger and member of
 **"Boilerdang and his Biatches."** Built as a dedicated archer/scout.
 
+> ⚠️ **Level 8 as of Session 09** (party XP 35,060). The mechanics below are
+> **still the level 7 numbers** — update from the live sheet.
+
 ## Mechanics (level 7, proficiency +3)
 - **HP** ~60 · **AC 18** (Studded Leather +1 + Dex + Cloak of Protection)
 - **Abilities:** STR 8 (−1) · DEX 18 (+4) · CON 14 (+2) · INT 10 (+0) · WIS 15 (+2) · CHA 12 (+1)
