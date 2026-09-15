@@ -104,7 +104,9 @@ willingly.** (Session 09)
   **created at different times.** (Session 09) 🧩
 - **🕰️ The archaeologist dates the tomb PRE-CATACLYSM, and the sarcophagus as MUCH NEWER** —
   so **a far later burial sits inside a far older tomb.** (Session 09) 🧩
-- **🌊 The chamber is below ground and the tomb is flooding.** (Session 09)
+- **🌊 The chamber is below ground and the tomb is still filling with water.** (Session 09)
+- **⚰️ [Renob](../characters/renob.md) and [Vaelor](../characters/vaelor-grinward.md) got the
+  sarcophagus HALFWAY OPEN.** *(Contents not yet recorded.)* (Session 09) 🧩
 
 ### 🗣️ Words HEARD on Dispel Magic (Session 09)
 

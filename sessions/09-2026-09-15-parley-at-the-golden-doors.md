@@ -135,6 +135,11 @@ the **two golden doors** untouched.
   is not recorded.** Posted verbatim by the DM in the group chat, 2026-09-15 13:55; the post
   closes a quotation it never opens, so **there may be more.**)*
 
+- **🌊 The tomb continues to fill with water.**
+- **⚰️ [Renob](../wiki/characters/renob.md) and [Vaelor](../wiki/characters/vaelor-grinward.md)
+  try to open the sarcophagus** — **they get it HALFWAY open.** *(What is inside is not yet
+  recorded.)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -251,7 +256,8 @@ of them may be mages.** Everything above counts only what has actually engaged.
 ## Loose threads
 
 - **🌊 ⚠️ How fast is the water rising, and is there another way out?** The party is **below
-  ground** in a **flooding** tomb.
+  ground** in a **still-flooding** tomb.
+- **⚰️ What is in the sarcophagus?** Renob and Vaelor have it **halfway open.** 🧩
 - **🗿 What are the four statues?** Not yet described. 🧩
 - **⚰️ WHO IS IN THE SARCOPHAGUS**, and **who put a much newer burial inside a pre-Cataclysm
   tomb?** 🧩
