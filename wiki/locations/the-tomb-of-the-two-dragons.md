@@ -106,6 +106,18 @@ willingly.** (Session 09)
   so **a far later burial sits inside a far older tomb.** (Session 09) 🧩
 - **🌊 The chamber is below ground and the tomb is flooding.** (Session 09)
 
+### 📜 Text revealed on Dispel Magic (Session 09)
+
+[Malix](../characters/malix.md) cast **Dispel Magic**, and this text was delivered — recorded
+**verbatim**, with **no interpretation**: 🧩
+
+> **The dead may surrender what they carried.**
+>
+> **The living must prove what they intend.**
+
+*(What it is written on, or who speaks it, is **not recorded**. The DM's post closes a
+quotation it does not open, so **there may be more.**)*
+
 ### 🔥🧊⚡ The braziers
 
 - **There are braziers in the tomb, each with a bag beside it.** (Session 09)
