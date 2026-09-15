@@ -192,6 +192,14 @@ the **two golden doors** untouched.
 
   *(Answer not yet recorded. — 🧩)*
 
+- **⚕️ [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) takes the READY
+  action and asks:**
+
+  > “what is the silver hand”
+
+  *(Answer not yet recorded. **“The silver hand” is not described anywhere else in the
+  record yet** — where the party saw or heard of it is unlogged. — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on

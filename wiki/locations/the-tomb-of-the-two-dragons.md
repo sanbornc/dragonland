@@ -172,6 +172,16 @@ statue**. Recorded **verbatim**: 🧩
 
 ***Answer not yet recorded.***
 
+### ⚕️ Boilerdang asks about the silver hand (Session 09)
+
+[Boilerdang](../characters/boilerdang-criddlycrotch.md) took the **Ready action** and asked.
+Recorded **verbatim**: 🧩
+
+> “what is the silver hand”
+
+***Answer not yet recorded.*** *(**“The silver hand” is not described anywhere else in
+this knowledge base** — where the party saw or heard of it is not logged.)*
+
 ### 🔥🧊⚡ The braziers
 
 - **There are braziers in the tomb, each with a bag beside it.** (Session 09)
@@ -189,6 +199,8 @@ statue**. Recorded **verbatim**: 🧩
 - **⚰️ Who is in the sarcophagus, and who placed a much newer burial in a pre-Cataclysm tomb?**
   (Session 09)
 - **⚔️ What does the crocodile answer to “who is here entombed”?** (Session 09)
+- **🤍 What is “the silver hand”?** Asked by Boilerdang; **undescribed
+  elsewhere in the record.** (Session 09)
 - **🐦 Why did the bird statue address Hederick?** (Session 09)
 - **🗣️ Who or what spoke when Dispel Magic was cast?** (Session 09)
 - **🌊 Is there another way out of a flooding tomb?** (Session 09)
