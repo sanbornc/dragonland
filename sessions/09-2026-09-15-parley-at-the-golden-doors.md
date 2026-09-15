@@ -216,6 +216,12 @@ the **two golden doors** untouched.
   almost-invisible runes.** **Full description recorded verbatim** on
   [The Silver Arm](../wiki/items/the-silver-arm.md). 🧩
 
+- **🐈 The cat speaks again:**
+
+  > “You see what was. You see what became. Understanding is enough”
+
+  *(Recorded exactly as presented. **No interpretation logged.** — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on

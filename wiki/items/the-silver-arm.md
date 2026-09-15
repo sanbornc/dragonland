@@ -24,7 +24,11 @@ occupant's **right arm** should have been. The statues call it **"the silver han
 
   > “It is the hand that forged salvation.”
 
-  **The cat then visibly relaxed from its attack stance.** (Session 09)
+  **The cat then visibly relaxed from its attack stance**, and added:
+
+  > “You see what was. You see what became. Understanding is enough”
+
+  (Session 09)
 
 ## The sarcophagus, as described
 

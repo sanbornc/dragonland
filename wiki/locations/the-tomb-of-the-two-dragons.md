@@ -188,8 +188,11 @@ The **cat-headed statue** answered, verbatim:
 
 > “It is the hand that forged salvation.”
 
-**The cat then visibly relaxed from its attack stance.** See
-[The Silver Arm](../items/the-silver-arm.md).
+**The cat then visibly relaxed from its attack stance**, and said:
+
+> “You see what was. You see what became. Understanding is enough”
+
+See [The Silver Arm](../items/the-silver-arm.md).
 
 ### 🔥🧊⚡ The braziers
 
