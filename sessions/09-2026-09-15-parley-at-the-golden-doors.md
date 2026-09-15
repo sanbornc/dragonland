@@ -1,12 +1,12 @@
 ---
 session: 09
 date: 2026-09-15
-players-present: [TBC]
+players-present: [Charlie, Chris, Ryan, TJ, Jason]
 ---
 
 # Session 09 — Parley at the Golden Doors
 
-> **Running log — session in progress.** Entries are recorded as they are reported.
+> **Session complete.** Recorded live as it was played.
 
 ## Recap
 
