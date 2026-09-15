@@ -40,6 +40,12 @@ for the carving on its doors.)*
 
 Recorded exactly as presented at the table. **The doors are unopened.**
 
+> **Session 09 state:** the interior is **uncontested** —
+> [Pip](../characters/pip-tumblewhistle.md), [Vaelor](../characters/vaelor-grinward.md),
+> [Malix](../characters/malix.md) and [Renob](../characters/renob.md) are inside with **no
+> enemies present**, after the [warlock](../npcs/the-warlock-at-the-tomb.md) vanished.
+> [Boilerdang](../characters/boilerdang-criddlycrotch.md) is **outside.**
+
 - **Two massive golden doors** on the **back wall of the entry room.**
 - **Many symbols and warnings** appear **on or near the doors.**
 - **Some of the images show two dragons fighting each other.**

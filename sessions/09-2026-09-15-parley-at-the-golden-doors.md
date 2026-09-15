@@ -52,6 +52,18 @@ the **two golden doors** untouched.
   He **deals damage but takes almost as much back** from the warlock's **Armor of Agathys.**
   *(Called an idiot move at the table.)*
 
+- **💨 THE WARLOCK DISAPPEARS on his turn.** Bloodied and grappled, he **vanishes** — breaking
+  [Vaelor](../wiki/characters/vaelor-grinward.md)'s hold. *(Whether he teleported away, went
+  invisible, or is still in the room is **not established.**)*
+- **🏛️ The building is empty of enemies.** Inside are
+  **[Pip](../wiki/characters/pip-tumblewhistle.md),
+  [Vaelor](../wiki/characters/vaelor-grinward.md),
+  [Malix](../wiki/characters/malix.md) and [Renob](../wiki/characters/renob.md)** — and
+  **no one else.**
+- **✨ Vaelor got in by Misty Step** on his previous turn.
+- **⚠️ The party is split** — those four are inside; **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)
+  is not among them.** *(His exact position outside is not recorded this session.)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -74,8 +86,13 @@ the **two golden doors** untouched.
   back.** Melee on this man costs HP until that ward is gone — **ranged and spell attacks do
   not trigger it.**
   ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
-- **🩸 The warlock is BLOODIED** — grappled by Vaelor, caught twice by Spirit Guardians, stabbed
-  by Renob, and shot twice by Pip. **He is under half.**
+- **🩸 The warlock was BLOODIED, then VANISHED.** Grappled by Vaelor, caught twice by Spirit
+  Guardians, stabbed by Renob, shot twice by Pip — and **on his turn he disappeared**, breaking
+  the grapple. **He escaped under half HP.** He is **not confirmed dead, and not confirmed
+  gone.** ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
+- **🏛️ The tomb interior is uncontested.** Four PCs inside, **no enemies with them**, and the
+  **golden doors still unopened.**
+  ([The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md)) 🧩
 - **⚠️ The camp has reserves.** **Characters who have not entered combat yet remain, and some
   may be mages.** The fight is not as won as the body count suggests.
 - **🐻 The summoned bear kills.** Two attacks, one dead mage — the
@@ -98,7 +115,10 @@ of them may be mages.** Everything above counts only what has actually engaged.
 
 ## Loose threads
 
+- **💨 Where did the warlock go?** Teleported clear, turned invisible, or still standing in
+  that room — **unestablished.** He left **bloodied**, knowing the party's faces.
 - **⚠️ Who has NOT entered combat yet, how many, and how many are mages?**
+- **⚠️ The party is split** — four inside, Boilerdang outside. Who is still out there with him?
 - **🐉 Who is inside the dragon, how many, and what IS the thing they are inside?** They were
   **struggling to control it** — and it **did nothing on its turn.**
 - **Can the crew be separated from it** — smoked out, talked to, or the thing disabled?
