@@ -251,6 +251,14 @@ the **two golden doors** untouched.
 
   *(Recorded exactly as presented. **No interpretation logged.** — 🧩)*
 
+- **🐊 THE CROCODILE ATTACKS [Renob](../wiki/characters/renob.md) — AND MISSES.**
+  **Its weapon is now LODGED IN THE GROUND.**
+- **🐊 It said:**
+
+  > “Strength without restraint becomes its own prison”
+
+  *(Recorded exactly as presented. **No interpretation logged.** — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -375,9 +383,9 @@ of them may be mages.** Everything above counts only what has actually engaged.
   to see until the light catches them. The statues call it **“the silver hand”** and
   **“the hand that forged salvation.”**
   ([The Silver Arm](../wiki/items/the-silver-arm.md)) 🧩
-- **🗿 The statues were in an ATTACK STANCE**, and **stand down one at a time.** So far
-  the **falcon**, the **cat** and the **jackal** have relaxed. **The crocodile is not recorded
-  as having stood down.** 🧩
+- **🗿 The statues were in an ATTACK STANCE**, and **stand down one at a time.** The
+  **falcon**, **cat** and **jackal** have relaxed. **The CROCODILE has NOT** — it
+  **attacked Renob**, **missed**, and **its weapon is lodged in the ground.** 🧩
 - **🗡️ Vaelor disarmed himself** in front of the jackal — weapon laid at its
   feet. 🧩
 - **🕊️ TWO STATUE DOMAINS ARE NAMED: the FALCON is TRUTH, the CAT is

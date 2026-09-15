@@ -104,7 +104,8 @@ willingly.** (Session 09)
 - **🕊️ Domains named by the DM: FALCON = TRUTH, CAT = UNDERSTANDING.** The
   **crocodile's** and **jackal's** domains are **not given.** (Session 09) 🧩
 - **🗿 Statues that have STOOD DOWN: the falcon, the cat, and the jackal.** The
-  **crocodile is not recorded as having stood down.** (Session 09) 🧩
+  **CROCODILE has not** — it **attacked [Renob](../characters/renob.md)**, **missed**, and
+  **its weapon is lodged in the ground.** (Session 09) 🧩
 - **⚰️ A sarcophagus — opened in Session 09. It holds NO BODY**: dust, collapsed
   linen in the shape of a man, fragments of bone — and **[a silver
   arm](../items/the-silver-arm.md)** where the right arm should be, **untouched by age.**
@@ -213,6 +214,14 @@ jackal said, verbatim:
 > “Respect was shown”
 
 **— and stepped back, relaxing.** 🧩
+
+### 🐊 The crocodile attacks (Session 09)
+
+After [Renob](../characters/renob.md) struck the shield with
+**[the silver arm](../items/the-silver-arm.md)**, the **crocodile attacked him — and
+missed. Its weapon is now lodged in the ground.** It said, verbatim: 🧩
+
+> “Strength without restraint becomes its own prison”
 
 ### 🔥🧊⚡ The braziers
 

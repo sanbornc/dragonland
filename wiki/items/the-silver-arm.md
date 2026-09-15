@@ -83,6 +83,9 @@ Recorded **verbatim** from the DM. 🧩
 - **⚔️ He walked to the crocodile statue and WHACKED THE SHIELD with it.** *(Which
   shield — the crocodile's or his own — is not recorded. **Outcome not yet
   recorded.**)* (Session 09)
+- **🐊 The crocodile then attacked Renob — and missed**, leaving **its weapon lodged
+  in the ground**, and said **“Strength without restraint becomes its own prison”**.
+  (Session 09) 🧩
 - **Nothing is recorded about attunement, properties, or whether it can be worn.**
 
 ## Open questions 🧩
