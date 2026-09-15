@@ -101,7 +101,10 @@ willingly.** (Session 09)
 - **🗿 Four statues — ANIMATE, and all four SPEAK.** They are a **crocodile**, a
   **bird-headed** one, a **cat-headed** one, and a **jackal-headed** one. They **stepped
   forward** and addressed the party. (Session 09) 🧩
-- **⚰️ A sarcophagus.** (Session 09)
+- **⚰️ A sarcophagus — opened in Session 09. It holds NO BODY**: dust, collapsed
+  linen in the shape of a man, fragments of bone — and **[a silver
+  arm](../items/the-silver-arm.md)** where the right arm should be, **untouched by age.**
+  (Session 09) 🧩
 - **🕰️ The statues and the sarcophagus are in DIFFERENT STYLES**, suggesting they were
   **created at different times.** (Session 09) 🧩
 - **🕰️ The archaeologist dates the tomb PRE-CATACLYSM, and the sarcophagus as MUCH NEWER** —
@@ -170,7 +173,9 @@ statue**. Recorded **verbatim**: 🧩
 
 > “who is here entombed”
 
-***Answer not yet recorded.***
+The **crocodile** answered, verbatim:
+
+> “Not the first. Only the silver hand remains.”
 
 ### ⚕️ Boilerdang asks about the silver hand (Session 09)
 
@@ -179,8 +184,12 @@ Recorded **verbatim**: 🧩
 
 > “what is the silver hand”
 
-***Answer not yet recorded.*** *(**“The silver hand” is not described anywhere else in
-this knowledge base** — where the party saw or heard of it is not logged.)*
+The **cat-headed statue** answered, verbatim:
+
+> “It is the hand that forged salvation.”
+
+**The cat then visibly relaxed from its attack stance.** See
+[The Silver Arm](../items/the-silver-arm.md).
 
 ### 🔥🧊⚡ The braziers
 
@@ -198,9 +207,9 @@ this knowledge base** — where the party saw or heard of it is not logged.)*
   matches it? (Session 09)
 - **⚰️ Who is in the sarcophagus, and who placed a much newer burial in a pre-Cataclysm tomb?**
   (Session 09)
-- **⚔️ What does the crocodile answer to “who is here entombed”?** (Session 09)
-- **🤍 What is “the silver hand”?** Asked by Boilerdang; **undescribed
-  elsewhere in the record.** (Session 09)
+- **🤍 What do the runes on [the silver arm](../items/the-silver-arm.md) say?**
+  (Session 09)
+- **“Not the first” — not the first what?** (Session 09)
 - **🐦 Why did the bird statue address Hederick?** (Session 09)
 - **🗣️ Who or what spoke when Dispel Magic was cast?** (Session 09)
 - **🌊 Is there another way out of a flooding tomb?** (Session 09)
@@ -215,6 +224,7 @@ this knowledge base** — where the party saw or heard of it is not logged.)*
 ## See also
 
 - [The Drowned Swamp](the-drowned-swamp.md) · [Xak Tsaroth](xak-tsaroth.md) — two days on
+- [The Silver Arm](../items/the-silver-arm.md) — what the sarcophagus held
 - [The Archaeologist](../npcs/the-archaeologist.md) — the one who didn't run
 - [The Warlock at the Tomb](../npcs/the-warlock-at-the-tomb.md) — the camp's leader
 - [Black Banners](../factions/black-banners.md) · [Draconians](../npcs/draconians.md) — sacked it

@@ -200,6 +200,22 @@ the **two golden doors** untouched.
   *(Answer not yet recorded. **“The silver hand” is not described anywhere else in the
   record yet** — where the party saw or heard of it is unlogged. — 🧩)*
 
+- **🐊 The crocodile answers Pip's _“who is here entombed”_:**
+
+  > “Not the first. Only the silver hand remains.”
+
+- **🐈 The CAT-HEADED statue answers Boilerdang's _“what is the silver hand”_:**
+
+  > “It is the hand that forged salvation.”
+
+- **🐈 The cat VISIBLY RELAXES FROM HIS ATTACK STANCE.** *(So the statues had been in an
+  **attack stance** — the bird and the cat have now stood down.)*
+- **⚰️ THE SARCOPHAGUS IS OPENED — and there is NO BODY, only the remains of one:
+  dust, collapsed linen in the shape of a man, fragments of bone — and, where the right arm
+  should be, [A SILVER ARM](../wiki/items/the-silver-arm.md), untouched by age, covered in
+  almost-invisible runes.** **Full description recorded verbatim** on
+  [The Silver Arm](../wiki/items/the-silver-arm.md). 🧩
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -318,6 +334,15 @@ of them may be mages.** Everything above counts only what has actually engaged.
 - **🌊 ⚠️ How fast is the water rising, and is there another way out?** The party is **below
   ground** in a **still-flooding** tomb.
 - **⚰️ What is in the sarcophagus?** Renob and Vaelor have it **halfway open.** 🧩
+- **⚔️ ⚰️ THERE IS A SILVER ARM IN THE SARCOPHAGUS — and no body.**
+  Shoulder to fingertips, articulated pale silver plates, **not a gauntlet and not armor**,
+  **untouched by age** beside an occupant reduced to powder, and **covered in runes** too fine
+  to see until the light catches them. The statues call it **“the silver hand”** and
+  **“the hand that forged salvation.”**
+  ([The Silver Arm](../wiki/items/the-silver-arm.md)) 🧩
+- **🗿 The statues were in an ATTACK STANCE**, and **stand down one at a time as
+  questions are answered** — the **bird** and the **cat** have both visibly relaxed.
+  🧩
 - **🗿 ALL FOUR STATUES ARE IDENTIFIED: a CROCODILE, a BIRD-HEADED one, a CAT-HEADED
   one, and a JACKAL-HEADED one.** All four are **animate**, all four **speak**, and all four
   **stepped forward.** The **bird-headed** one **addressed
