@@ -65,6 +65,16 @@ the **two golden doors** untouched.
 - **⚠️ The party is split** — those four are inside; **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)
   is not among them.** *(His exact position outside is not recorded this session.)*
 
+- **💀➡️❤️ [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) RAISES
+  [Hederick](../wiki/npcs/high-theocrat-hederick.md).** Dead since Session 08 — **back.**
+  **Sixth life, fifth return.**
+- **⚔️ Boilerdang hits the dragon.**
+- **🐻 The [bear](../wiki/items/amulet-of-the-remembered-paw.md) also attacks the dragon.**
+- **💥 ON THE DRAGON'S TURN THEY CRITICALLY FAIL — IT OVERPRESSURES AND EXPLODES.**
+  The thing the goblins were struggling to control **blew up.**
+- **⚠️ The bear was within damage range of the explosion.** *(Her condition after the blast is
+  **not yet recorded.**)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -87,6 +97,17 @@ the **two golden doors** untouched.
   back.** Melee on this man costs HP until that ward is gone — **ranged and spell attacks do
   not trigger it.**
   ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
+- **💥🐉 THE DRAGON EXPLODED. It OVERPRESSURED.** On its turn the crew **critically failed**
+  and the machine **blew up.** A living dragon does not overpressure — **this was a pressure
+  vessel**, crewed by goblins who **could not control it.** Two sessions of "it seems strange,"
+  Polymorph landing, a **shat goblin**, and **voices inside** end in a **boiler failure.**
+  ([The Dragon in the Fog](../wiki/npcs/the-dragon-in-the-fog.md)) 🗝️
+- **💀➡️❤️ [Hederick](../wiki/npcs/high-theocrat-hederick.md) IS RECOVERABLE — and is back.**
+  Session 08's open question is **answered**: Boilerdang raised him. **Sixth life.**
+  ([High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md))
+- **⚠️ The bear was in the blast radius.** Outcome **not yet recorded** — this would be the
+  first test of what happens to a summoned
+  [bear](../wiki/items/amulet-of-the-remembered-paw.md) that takes lethal damage.
 - **🩸 The warlock was BLOODIED, then VANISHED.** Grappled by Vaelor, caught twice by Spirit
   Guardians, stabbed by Renob, shot twice by Pip — and **on his turn he disappeared**, breaking
   the grapple. **He escaped under half HP.** He is **not confirmed dead, and not confirmed
@@ -116,6 +137,12 @@ of them may be mages.** Everything above counts only what has actually engaged.
 
 ## Loose threads
 
+- **💥 What is left of the dragon** — wreckage, parts, a frame, markings? **Who built it?**
+- **☠️ Did the goblins inside survive the explosion**, and can any be questioned?
+- **🐻 Did the bear survive the blast?** *(See
+  [Amulet of the Remembered Paw](../wiki/items/amulet-of-the-remembered-paw.md) — what happens
+  to a summoned bear that drops is untested.)*
+- **Was the Session 07 fog silhouette this same machine, or another one like it?**
 - **💨 Where did the warlock go?** Teleported clear, turned invisible, or still standing in
   that room — **unestablished.** He left **bloodied**, knowing the party's faces.
 - **⚠️ Who has NOT entered combat yet, how many, and how many are mages?**

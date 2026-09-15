@@ -3,15 +3,17 @@ name: High Theocrat Hederick
 aliases: [Hederick]
 type: npc
 tags: [religion, authority, solace, captive, companion]
-status: DEAD (fifth death, Session 08) — killed at the tomb and not revived before session end
+status: ALIVE (sixth life, Session 09) — raised by Boilerdang at the tomb after his fifth death
 first-learned: session 03
 ---
 
 # High Theocrat Hederick
 
-> **💀 CURRENT STATUS: DEAD (Session 08)** — killed at
-> [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md) by a goblin's
-> Wall of Fire, and **not revived before the session ended.** Fifth death, four returns.
+> **❤️ CURRENT STATUS: ALIVE (Session 09)** — **raised by
+> [Boilerdang](../characters/boilerdang-criddlycrotch.md)** at
+> [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md), after being
+> killed there in Session 08 by a goblin's Wall of Fire. **Sixth life, fifth return.**
+> The man **cannot stay dead.**
 >
 > *(Historical, end of Session 04:)* **Alive — the party's bound prisoner.** Across one night he
 > was **healed by the Staff (refused) → killed by Spiritual Weapon → revived → leapt to his
@@ -21,6 +23,10 @@ first-learned: session 03
 > Theocrat now travels with the party as a captive — and a potential source of answers.
 
 ## What we know
+
+- **💀➡️❤️ He died a fifth time and came back a fifth time.** Killed by **Wall of Fire** at the
+  tomb (Session 08) and left dead when that session ended; **raised by Boilerdang** in
+  Session 09. **Six lives so far.** (Sessions 08–09)
 
 - A figure titled **"High Theocrat"** whom the [Two Travelers](the-two-travelers.md)
   are trying to find **for information.** (Session 03)

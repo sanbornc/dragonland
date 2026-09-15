@@ -93,9 +93,38 @@ like one.
 - **Not yet established:** how many are inside, what the shell is made of, whether it is the
   same thing seen in the fog in Session 07, and who built or sent it.
 
+## 💥 Session 09 — IT OVERPRESSURED AND EXPLODED
+
+**On the dragon's turn the crew CRITICALLY FAILED, and the machine OVERPRESSURED and BLEW
+UP.** (Session 09)
+
+- **A dragon does not overpressure.** The word is the answer: this was a **pressure vessel** —
+  a built machine — **crewed by goblins who could not control it**, exactly as
+  [Malix](../characters/malix.md) heard moments before.
+- It had just been **hit by [Boilerdang](../characters/boilerdang-criddlycrotch.md)** and
+  **attacked by the summoned [bear](../items/amulet-of-the-remembered-paw.md)**. **The bear was
+  within damage range of the explosion.**
+- **The full arc, across two sessions:** *"it seems strange"* → **Polymorph lands on it** → it
+  **shits a polymorphed goblin** → **goblins heard inside struggling to control it** → it
+  **takes no action on its turn** → it **overpressures and explodes.**
+- **⚠️ The drowned adventurer was right in the most literal possible way.** *"It isn't a
+  dragon."* See
+  [The Drowned Adventurer's Journal](../documents/drowned-adventurers-journal.md).
+- **Not established:** what the shell is made of, what powered it, **who built it**, how many
+  were inside, whether any survived, and whether the **Session 07 fog silhouette** was this
+  same machine or another like it.
+
 ## Open questions
 
-- **🐉 How many goblins are inside, and what exactly are they inside?** (Session 09)
+- **💥 What is left of it?** Wreckage, plating, a frame, maker's marks? (Session 09)
+- **☠️ Did anyone inside survive** — and can a survivor be questioned? (Session 09)
+- **🔧 WHO BUILT IT, and how many exist?** A machine implies **makers, a workshop, and a
+  supply.** (Session 09)
+- **Is the [dragon army](../factions/black-banners.md)'s strength partly FAKE?** If the war's
+  dragons are crewed machines, the campaign's central threat reads differently. *(Inference —
+  one machine is not a fleet.)* (Session 09)
+- **🐉 How many goblins are inside, and what exactly are they inside?** (Session 09) — *the
+  "what" is now answered: a machine that can overpressure.*
 - **Can the crew be separated from it** — smoked out, talked down, or the shell disabled?
   (Session 09)
 - **Why were they _struggling_ to control it?** Poorly trained, over-matched, or is the thing

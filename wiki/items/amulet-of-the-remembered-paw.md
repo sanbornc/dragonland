@@ -25,6 +25,8 @@ first-learned: session 06
   after the mercy that earned it. **It works.**
 - **⚔️ The bear kills.** In Session 09 she **attacked twice and killed a mage outright** —
   still inside her 10-minute summon from the same call. (Session 09)
+- **She also attacked the dragon** — and was **within damage range when it overpressured and
+  exploded.** **Her condition after the blast is not yet recorded.** (Session 09)
 - Held by **Boilerdang**, who was given it directly; usable on the party's behalf.
   *(Per party convention most loot pools to the [wagon](party-wagon.md) — this was a personal
   gift and stays with him.)*
@@ -37,7 +39,9 @@ first-learned: session 06
   [Forest Master](../npcs/the-forest-master.md), or older than her?
 - Were the **goblin wounds** the bears carried in Session 03 connected to something hunting
   the amulet?
-- **Answered Session 08: the larger bear comes.** What happens if she is killed while summoned?
+- **Answered Session 08: the larger bear comes.** **What happens if she is killed while
+  summoned?** — **⚠️ possibly about to be tested:** she was caught in the dragon's explosion in
+  Session 09.
 
 ## See also
 
