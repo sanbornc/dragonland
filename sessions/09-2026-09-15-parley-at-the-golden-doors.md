@@ -153,6 +153,21 @@ the **two golden doors** untouched.
 
   *(Recorded exactly as presented. **No answer, candidate answer, or hint logged.** — 🧩)*
 
+- **🗿 THE REMAINING STATUES SPEAK IN TURN** — **ending on the crocodile statue with
+  the last line.** **Verbatim:**
+
+  > “Strength is easy.”
+  >
+  > “Restraint is not.”
+  >
+  > “Strike if you must.”
+  >
+  > “But prove you know when to stop.”
+
+  **They each took one step forward.**
+
+  *(Recorded exactly as presented. **No answer, candidate answer, or hint logged.** — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -271,9 +286,10 @@ of them may be mages.** Everything above counts only what has actually engaged.
 - **🌊 ⚠️ How fast is the water rising, and is there another way out?** The party is **below
   ground** in a **still-flooding** tomb.
 - **⚰️ What is in the sarcophagus?** Renob and Vaelor have it **halfway open.** 🧩
-- **🐊 The statues are ANIMATE and one of them TALKS.** The **crocodile** statue
-  **stepped forward** and put a question to the party. **What the other three are, and whether
-  they also speak, is not recorded.** 🧩
+- **🗿 ALL FOUR STATUES ARE ANIMATE AND ALL FOUR SPEAK.** The **crocodile** spoke first
+  and also **delivered the final line**; the other three spoke **in turn** between. **They each
+  took one step forward.** *(What the other three statues depict is **not recorded**.)*
+  🧩
 - **⚰️ WHO IS IN THE SARCOPHAGUS**, and **who put a much newer burial inside a pre-Cataclysm
   tomb?** 🧩
 - **🕰️ How much newer is the sarcophagus** — decades, centuries, since the Cataclysm? 🧩

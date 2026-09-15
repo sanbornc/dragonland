@@ -98,8 +98,8 @@ below.
 Down the stairs, entered with [Hederick](../npcs/high-theocrat-hederick.md) **leading
 willingly.** (Session 09)
 
-- **🗿 Four statues — and they are ANIMATE.** One of them, a **crocodile**,
-  **stepped forward and spoke** to the party. **What the other three are is not recorded.**
+- **🗿 Four statues — ANIMATE, and all four SPEAK.** One is a **crocodile**; **what
+  the other three depict is not recorded.** They **stepped forward** and addressed the party.
   (Session 09) 🧩
 - **⚰️ A sarcophagus.** (Session 09)
 - **🕰️ The statues and the sarcophagus are in DIFFERENT STYLES**, suggesting they were
@@ -135,6 +135,20 @@ The **crocodile statue stepped forward** and addressed the party. Recorded **ver
 >
 > “When victory is yours… what do you spare?”
 
+### 🗿 The remaining statues speak, in turn (Session 09)
+
+Spoken **in turn by the remaining statues**, **ending on the crocodile with the last line.**
+**They each took one step forward.** Recorded **verbatim**, with **no interpretation and no
+answer logged**: 🧩
+
+> “Strength is easy.”
+>
+> “Restraint is not.”
+>
+> “Strike if you must.”
+>
+> “But prove you know when to stop.”
+
 ### 🔥🧊⚡ The braziers
 
 - **There are braziers in the tomb, each with a bag beside it.** (Session 09)
@@ -151,7 +165,8 @@ The **crocodile statue stepped forward** and addressed the party. Recorded **ver
   matches it? (Session 09)
 - **⚰️ Who is in the sarcophagus, and who placed a much newer burial in a pre-Cataclysm tomb?**
   (Session 09)
-- **🗿 What are the other three statues, and do they speak too?** (Session 09)
+- **🗿 What do the other three statues depict?** Only the **crocodile** is recorded.
+  (Session 09)
 - **🗣️ Who or what spoke when Dispel Magic was cast?** (Session 09)
 - **🌊 Is there another way out of a flooding tomb?** (Session 09)
 - **Why is the dragon army here at all**, two days short of Xak Tsaroth — and what did they
