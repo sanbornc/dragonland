@@ -78,8 +78,9 @@ the **two golden doors** untouched.
 - **🏃 THE CAMP ROUTS.** When the dragon explodes, **the rest of the people outside run
   away** — including the ones who had never entered combat.
 - **🚶 EXCEPT ONE.** A single figure **does not run.** They start **walking calmly toward the
-  building.** *(Identity unknown. Whether this is the vanished
-  [warlock](../wiki/npcs/the-warlock-at-the-tomb.md) is **not established.**)*
+  building.**
+- **🔍 The figure is an ARCHAEOLOGIST — and is NOT INTERESTED IN FIGHTING.**
+  ([The Archaeologist](../wiki/npcs/the-archaeologist.md))
 
 ## New facts learned
 
@@ -103,9 +104,12 @@ the **two golden doors** untouched.
   back.** Melee on this man costs HP until that ward is gone — **ranged and spell attacks do
   not trigger it.**
   ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
-- **🚶 SOMEONE IS WALKING CALMLY TOWARD THE BUILDING.** Their whole camp **ran** when the
-  machine blew, and **this one did not.** Walking, not charging — and **toward** four armed PCs
-  who just destroyed a dragon. **Identity unknown.**
+- **🔍 THERE IS AN ARCHAEOLOGIST AT THIS SITE, AND THEY DO NOT WANT TO FIGHT.** Their whole
+  camp **ran** when the machine blew; **this one walked toward the building instead.** A
+  **non-combatant scholar** was part of the expedition occupying the tomb — which fits Session
+  08's overheard **argument about old stories being translated** and the **warning against
+  using force.** *(That connection is an inference, not stated at the table.)*
+  ([The Archaeologist](../wiki/npcs/the-archaeologist.md))
 - **🏃 The camp's reserves are gone.** The people who had **not entered combat** — some
   possibly mages — **fled at the explosion.** The unengaged-reinforcements question is
   **largely closed**, except for the one who stayed.
@@ -150,9 +154,11 @@ of them may be mages.** Everything above counts only what has actually engaged.
 
 ## Loose threads
 
-- **🚶 WHO IS WALKING TOWARD THE BUILDING?** Is it the **vanished warlock** returning, or
-  **someone the party has not met** — the person the camp actually answered to? They watched a
-  dragon explode and **did not flinch.**
+- **🔍 Who is the archaeologist, and who do they work for?** Dragon army, Seekers, or their own
+  expedition?
+- **What is their relationship to the vanished [warlock](../wiki/npcs/the-warlock-at-the-tomb.md)?**
+- **Were they one of the voices in the tent** arguing about the translations, or the one who
+  **warned against using force?**
 - **Where is [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) relative to them?**
   He is **outside**; the other four are **inside**; the walker is heading **in.**
 - **💥 What is left of the dragon** — wreckage, parts, a frame, markings? **Who built it?**

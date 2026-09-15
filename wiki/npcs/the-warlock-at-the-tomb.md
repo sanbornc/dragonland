@@ -76,13 +76,14 @@ The **leader** of the party camped at
 - **💨 Where did he go, and is he still watching?** He broke a grapple by vanishing while
   bloodied — a deliberate exit, not a rout. (Session 09)
 - **Does he come back, and with what?** (Session 09)
-- **🚶 Is he the figure walking calmly toward the building?** After the dragon exploded, the
-  whole camp **ran** except **one**, who started **walking toward the tomb.** **Identity not
-  established** — it may be him returning, or someone the party has not met. (Session 09)
+- **🔍 What is his relationship to [the archaeologist](the-archaeologist.md)?** The one member
+  of the camp who **didn't run** is a **non-combatant scholar** — employer, employee,
+  colleague, or someone he was holding? (Session 09)
 
 ## See also
 
 - [The Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)
+- [The Archaeologist](the-archaeologist.md) — the one from his camp who stayed
 - [Black Banners](../factions/black-banners.md) · [Draconians](draconians.md)
 - [Session 08 — The Tomb of the Two Dragons](../../sessions/08-2026-09-08-the-tomb-of-the-two-dragons.md)
 - [Session 09 — Parley at the Golden Doors](../../sessions/09-2026-09-15-parley-at-the-golden-doors.md)
