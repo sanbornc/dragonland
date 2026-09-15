@@ -77,13 +77,24 @@ Recorded **verbatim** from the DM. 🧩
 - **The tomb is pre-Cataclysm; the sarcophagus is much newer**, per
   [the archaeologist](../npcs/the-archaeologist.md). (Session 09)
 
+## Session 09 — taken, and swung
+
+- **🥈 [Renob](../characters/renob.md) grabbed it** out of the sarcophagus. (Session 09)
+- **⚔️ He walked to the crocodile statue and WHACKED THE SHIELD with it.** *(Which
+  shield — the crocodile's or his own — is not recorded. **Outcome not yet
+  recorded.**)* (Session 09)
+- **Nothing is recorded about attunement, properties, or whether it can be worn.**
+
 ## Open questions 🧩
 
 - **What do the runes say?** Not yet read.
 - **"Not the first"** — not the first *what*? 🧩
 - **Whose arm was it, and what did they forge?** 🧩
 - **What is "salvation"** in the statue's phrase? 🧩
-- **Is it safe to touch, take, or wear?** *(Unattempted as of this entry.)*
+- **Is it safe to touch, take, or wear?** **Renob has handled it and struck with it** —
+  **no consequence is recorded either way.** (Session 09)
+- **Who holds it?** Renob took it by hand; the party normally pools loot to the
+  [wagon](party-wagon.md). Unsettled.
 - **Does it connect to the empty settings on the golden doors** — the **lance** and the
   **fist**? *(Question only; nothing in the record answers it.)* 🧩
 

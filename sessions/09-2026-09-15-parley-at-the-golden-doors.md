@@ -222,6 +222,12 @@ the **two golden doors** untouched.
 
   *(Recorded exactly as presented. **No interpretation logged.** — 🧩)*
 
+- **🥈 [Renob](../wiki/characters/renob.md) GRABS
+  [the silver arm](../wiki/items/the-silver-arm.md)** out of the sarcophagus.
+- **⚔️ Renob walks over to the CROCODILE and WHACKS THE SHIELD with the newly obtained
+  silver arm.** *(Recorded as presented. **Which shield — the crocodile's or Renob's own
+  — is not recorded.** Outcome not yet recorded.)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
