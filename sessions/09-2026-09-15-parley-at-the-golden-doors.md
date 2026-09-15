@@ -183,6 +183,15 @@ the **two golden doors** untouched.
 
   *(Recorded exactly as presented. **No answer, candidate answer, or hint logged.** — 🧩)*
 
+- **🗿 ALL FOUR STATUES ARE NOW IDENTIFIED: crocodile, bird-headed, cat-headed, and
+  jackal-headed.**
+- **🏹 [Pip](../wiki/characters/pip-tumblewhistle.md) takes the READY action and asks
+  the crocodile:**
+
+  > “who is here entombed”
+
+  *(Answer not yet recorded. — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -301,9 +310,11 @@ of them may be mages.** Everything above counts only what has actually engaged.
 - **🌊 ⚠️ How fast is the water rising, and is there another way out?** The party is **below
   ground** in a **still-flooding** tomb.
 - **⚰️ What is in the sarcophagus?** Renob and Vaelor have it **halfway open.** 🧩
-- **🐦 A SECOND STATUE IS IDENTIFIED: BIRD-HEADED.** It **addressed Hederick directly**
-  — he was **right in front of it** — and **visibly relaxed** after Malix answered.
-  **Two of the four statues are now described: a crocodile and a bird-headed one.** 🧩
+- **🗿 ALL FOUR STATUES ARE IDENTIFIED: a CROCODILE, a BIRD-HEADED one, a CAT-HEADED
+  one, and a JACKAL-HEADED one.** All four are **animate**, all four **speak**, and all four
+  **stepped forward.** The **bird-headed** one **addressed
+  [Hederick](../wiki/npcs/high-theocrat-hederick.md) directly** — he was **right in front
+  of it** — and **visibly relaxed** after Malix answered. 🧩
 - **⚔️ The party entered COMBAT** in the lower chamber. 🧩
 - **🗿 ALL FOUR STATUES ARE ANIMATE AND ALL FOUR SPEAK.** The **crocodile** spoke first
   and also **delivered the final line**; the other three spoke **in turn** between. **They each

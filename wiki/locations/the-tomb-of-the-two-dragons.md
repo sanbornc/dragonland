@@ -98,8 +98,8 @@ below.
 Down the stairs, entered with [Hederick](../npcs/high-theocrat-hederick.md) **leading
 willingly.** (Session 09)
 
-- **🗿 Four statues — ANIMATE, and all four SPEAK.** Two are described: a
-  **crocodile** and a **bird-headed** one. **The other two are not recorded.** They **stepped
+- **🗿 Four statues — ANIMATE, and all four SPEAK.** They are a **crocodile**, a
+  **bird-headed** one, a **cat-headed** one, and a **jackal-headed** one. They **stepped
   forward** and addressed the party. (Session 09) 🧩
 - **⚰️ A sarcophagus.** (Session 09)
 - **🕰️ The statues and the sarcophagus are in DIFFERENT STYLES**, suggesting they were
@@ -163,6 +163,15 @@ On his turn, **[Malix](../characters/malix.md)** answered:
 
 **Malix then took the Ready action. The bird statue visibly relaxed.**
 
+### 🏹 Pip questions the crocodile (Session 09)
+
+[Pip](../characters/pip-tumblewhistle.md) took the **Ready action** and asked the **crocodile
+statue**. Recorded **verbatim**: 🧩
+
+> “who is here entombed”
+
+***Answer not yet recorded.***
+
 ### 🔥🧊⚡ The braziers
 
 - **There are braziers in the tomb, each with a bag beside it.** (Session 09)
@@ -179,8 +188,7 @@ On his turn, **[Malix](../characters/malix.md)** answered:
   matches it? (Session 09)
 - **⚰️ Who is in the sarcophagus, and who placed a much newer burial in a pre-Cataclysm tomb?**
   (Session 09)
-- **🗿 What do the other two statues depict?** A **crocodile** and a **bird-headed** one
-  are recorded. (Session 09)
+- **⚔️ What does the crocodile answer to “who is here entombed”?** (Session 09)
 - **🐦 Why did the bird statue address Hederick?** (Session 09)
 - **🗣️ Who or what spoke when Dispel Magic was cast?** (Session 09)
 - **🌊 Is there another way out of a flooding tomb?** (Session 09)
