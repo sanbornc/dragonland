@@ -60,7 +60,8 @@ the **two golden doors** untouched.
   [Vaelor](../wiki/characters/vaelor-grinward.md),
   [Malix](../wiki/characters/malix.md) and [Renob](../wiki/characters/renob.md)** — and
   **no one else.**
-- **✨ Vaelor got in by Misty Step** on his previous turn.
+- **✨ [Malix](../wiki/characters/malix.md) got in by Misty Step** on his previous turn.
+  *(Vaelor was already inside — he has been in the tomb since Session 08.)*
 - **⚠️ The party is split** — those four are inside; **[Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md)
   is not among them.** *(His exact position outside is not recorded this session.)*
 
