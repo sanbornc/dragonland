@@ -24,6 +24,9 @@ first-learned: session 03
 
 ## What we know
 
+- **🐦 A STATUE SINGLED HIM OUT.** In the lower chamber the **bird-headed statue** asked
+  **him** — he was **right in front of it** — **“why do you seek the tomb”**.
+  [Malix](../characters/malix.md) answered on his turn instead. (Session 09)
 - **🚶 ⚠️ HE LED THE WAY DOWN — WILLINGLY.** With the golden doors open and stairs descending
   into a flooding, pre-Cataclysm tomb, the party's **captive** High Theocrat **went first, of
   his own accord.** Nothing recorded about him before this explains it. (Session 09)

@@ -98,9 +98,9 @@ below.
 Down the stairs, entered with [Hederick](../npcs/high-theocrat-hederick.md) **leading
 willingly.** (Session 09)
 
-- **🗿 Four statues — ANIMATE, and all four SPEAK.** One is a **crocodile**; **what
-  the other three depict is not recorded.** They **stepped forward** and addressed the party.
-  (Session 09) 🧩
+- **🗿 Four statues — ANIMATE, and all four SPEAK.** Two are described: a
+  **crocodile** and a **bird-headed** one. **The other two are not recorded.** They **stepped
+  forward** and addressed the party. (Session 09) 🧩
 - **⚰️ A sarcophagus.** (Session 09)
 - **🕰️ The statues and the sarcophagus are in DIFFERENT STYLES**, suggesting they were
   **created at different times.** (Session 09) 🧩
@@ -149,6 +149,20 @@ answer logged**: 🧩
 >
 > “But prove you know when to stop.”
 
+### 🐦 The bird-headed statue questions Hederick (Session 09)
+
+**Combat had been entered.** The **bird-headed statue** put a question to
+**[Hederick](../npcs/high-theocrat-hederick.md)**, who was **right in front of it**. Recorded
+**verbatim**, with **no interpretation and no answer logged**: 🧩
+
+> “why do you seek the tomb”
+
+On his turn, **[Malix](../characters/malix.md)** answered:
+
+> “to gain knowledge and insight”
+
+**Malix then took the Ready action. The bird statue visibly relaxed.**
+
 ### 🔥🧊⚡ The braziers
 
 - **There are braziers in the tomb, each with a bag beside it.** (Session 09)
@@ -165,8 +179,9 @@ answer logged**: 🧩
   matches it? (Session 09)
 - **⚰️ Who is in the sarcophagus, and who placed a much newer burial in a pre-Cataclysm tomb?**
   (Session 09)
-- **🗿 What do the other three statues depict?** Only the **crocodile** is recorded.
-  (Session 09)
+- **🗿 What do the other two statues depict?** A **crocodile** and a **bird-headed** one
+  are recorded. (Session 09)
+- **🐦 Why did the bird statue address Hederick?** (Session 09)
 - **🗣️ Who or what spoke when Dispel Magic was cast?** (Session 09)
 - **🌊 Is there another way out of a flooding tomb?** (Session 09)
 - **Why is the dragon army here at all**, two days short of Xak Tsaroth — and what did they

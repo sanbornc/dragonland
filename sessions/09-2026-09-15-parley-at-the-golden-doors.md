@@ -168,6 +168,21 @@ the **two golden doors** untouched.
 
   *(Recorded exactly as presented. **No answer, candidate answer, or hint logged.** — 🧩)*
 
+- **⚔️ COMBAT IS ENTERED.**
+- **🐦 THE BIRD-HEADED STATUE** — a second statue identified — **asks
+  [Hederick](../wiki/npcs/high-theocrat-hederick.md), who is right in front of him:**
+
+  > “why do you seek the tomb”
+
+- **🗣️ On [Malix](../wiki/characters/malix.md)'s turn, Malix answers:**
+
+  > “to gain knowledge and insight”
+
+- **Malix takes the READY action.**
+- **🐦 The bird statue VISIBLY RELAXES.**
+
+  *(Recorded exactly as presented. **No answer, candidate answer, or hint logged.** — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -286,6 +301,10 @@ of them may be mages.** Everything above counts only what has actually engaged.
 - **🌊 ⚠️ How fast is the water rising, and is there another way out?** The party is **below
   ground** in a **still-flooding** tomb.
 - **⚰️ What is in the sarcophagus?** Renob and Vaelor have it **halfway open.** 🧩
+- **🐦 A SECOND STATUE IS IDENTIFIED: BIRD-HEADED.** It **addressed Hederick directly**
+  — he was **right in front of it** — and **visibly relaxed** after Malix answered.
+  **Two of the four statues are now described: a crocodile and a bird-headed one.** 🧩
+- **⚔️ The party entered COMBAT** in the lower chamber. 🧩
 - **🗿 ALL FOUR STATUES ARE ANIMATE AND ALL FOUR SPEAK.** The **crocodile** spoke first
   and also **delivered the final line**; the other three spoke **in turn** between. **They each
   took one step forward.** *(What the other three statues depict is **not recorded**.)*
