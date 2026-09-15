@@ -25,8 +25,12 @@ for the carving on its doors.)*
   outside, [Pip](../characters/pip-tumblewhistle.md) overheard them **arguing about old
   stories that are being translated**, and **a warning against using force.** (Session 08)
 - **The camp fielded multiple mages — more than the two first seen.** By Session 09 every mage
-  **that entered combat** is dead, along with the goblin that cast Wall of Fire. **⚠️ But the
-  camp is not spent: members have not entered combat yet, and some may be mages.** (Session 09)
+  **that entered combat** is dead, along with the goblin that cast Wall of Fire. (Session 09)
+- **🏃 THE CAMP BROKE.** When the dragon **overpressured and exploded**, **everyone left outside
+  ran** — including those who had never engaged. (Session 09)
+- **🚶 One figure did not run.** They began **walking calmly toward the building.** **Identity
+  unknown**; whether it is the vanished
+  **[warlock](../npcs/the-warlock-at-the-tomb.md)** is **not established.** (Session 09)
 - **On an adjacent island**: a **lockbox** holding a **map**, **6 gp**, a **ring worth 10 gp**,
   and **a couple of jars of lamp oil.** **The map warns against going to
   [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md)** — which the party had already
@@ -44,7 +48,8 @@ Recorded exactly as presented at the table. **The doors are unopened.**
 > [Pip](../characters/pip-tumblewhistle.md), [Vaelor](../characters/vaelor-grinward.md),
 > [Malix](../characters/malix.md) and [Renob](../characters/renob.md) are inside with **no
 > enemies present**, after the [warlock](../npcs/the-warlock-at-the-tomb.md) vanished.
-> [Boilerdang](../characters/boilerdang-criddlycrotch.md) is **outside.**
+> [Boilerdang](../characters/boilerdang-criddlycrotch.md) is **outside** — and **one unidentified
+> figure is walking calmly toward the building** while the rest of the camp flees.
 
 - **Two massive golden doors** on the **back wall of the entry room.**
 - **Many symbols and warnings** appear **on or near the doors.**
@@ -64,8 +69,8 @@ Recorded exactly as presented at the table. **The doors are unopened.**
 - **Who wrote the lockbox map**, and who was it left for?
 - **Why is this tomb absent from Riverwind's memory of the region?**
 - **✨ Why did Vaelor's Solamnic mark glow here?** Only his was checked. (Session 09)
-- **⚠️ How many people are at this camp in total?** Some have still not entered the fight.
-  (Session 09)
+- **🚶 Who is the one who didn't run?** Everyone else fled the explosion; this one walks
+  **toward** the party. (Session 09)
 
 ## See also
 

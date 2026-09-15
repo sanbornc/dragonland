@@ -31,8 +31,8 @@ The **leader** of the party camped at
 - **☠️ He had MORE than two mages.** The camp fielded **multiple mages**; the **last one to
   enter combat was killed by the summoned
   [bear](../items/amulet-of-the-remembered-paw.md)** in Session 09. (Session 09)
-- **⚠️ He still has reserves.** **Members of the camp have not entered combat yet, and some of
-  them may be mages.** (Session 09)
+- **🏃 His camp broke.** When the dragon exploded, **the people outside ran** — reserves
+  included. **One stayed**, and walked toward the building. (Session 09)
 - **🩸 He was BLOODIED.** [Pip](../characters/pip-tumblewhistle.md) shot him **twice with a
   bow** — ranged, so **Armor of Agathys did not retaliate** — putting him **under half.**
   (Session 09)
@@ -76,6 +76,9 @@ The **leader** of the party camped at
 - **💨 Where did he go, and is he still watching?** He broke a grapple by vanishing while
   bloodied — a deliberate exit, not a rout. (Session 09)
 - **Does he come back, and with what?** (Session 09)
+- **🚶 Is he the figure walking calmly toward the building?** After the dragon exploded, the
+  whole camp **ran** except **one**, who started **walking toward the tomb.** **Identity not
+  established** — it may be him returning, or someone the party has not met. (Session 09)
 
 ## See also
 

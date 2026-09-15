@@ -75,6 +75,12 @@ the **two golden doors** untouched.
 - **⚠️ The bear was within damage range of the explosion.** *(Her condition after the blast is
   **not yet recorded.**)*
 
+- **🏃 THE CAMP ROUTS.** When the dragon explodes, **the rest of the people outside run
+  away** — including the ones who had never entered combat.
+- **🚶 EXCEPT ONE.** A single figure **does not run.** They start **walking calmly toward the
+  building.** *(Identity unknown. Whether this is the vanished
+  [warlock](../wiki/npcs/the-warlock-at-the-tomb.md) is **not established.**)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -97,6 +103,13 @@ the **two golden doors** untouched.
   back.** Melee on this man costs HP until that ward is gone — **ranged and spell attacks do
   not trigger it.**
   ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
+- **🚶 SOMEONE IS WALKING CALMLY TOWARD THE BUILDING.** Their whole camp **ran** when the
+  machine blew, and **this one did not.** Walking, not charging — and **toward** four armed PCs
+  who just destroyed a dragon. **Identity unknown.**
+- **🏃 The camp's reserves are gone.** The people who had **not entered combat** — some
+  possibly mages — **fled at the explosion.** The unengaged-reinforcements question is
+  **largely closed**, except for the one who stayed.
+  ([The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md))
 - **💥🐉 THE DRAGON EXPLODED. It OVERPRESSURED.** On its turn the crew **critically failed**
   and the machine **blew up.** A living dragon does not overpressure — **this was a pressure
   vessel**, crewed by goblins who **could not control it.** Two sessions of "it seems strange,"
@@ -137,6 +150,11 @@ of them may be mages.** Everything above counts only what has actually engaged.
 
 ## Loose threads
 
+- **🚶 WHO IS WALKING TOWARD THE BUILDING?** Is it the **vanished warlock** returning, or
+  **someone the party has not met** — the person the camp actually answered to? They watched a
+  dragon explode and **did not flinch.**
+- **Where is [Boilerdang](../wiki/characters/boilerdang-criddlycrotch.md) relative to them?**
+  He is **outside**; the other four are **inside**; the walker is heading **in.**
 - **💥 What is left of the dragon** — wreckage, parts, a frame, markings? **Who built it?**
 - **☠️ Did the goblins inside survive the explosion**, and can any be questioned?
 - **🐻 Did the bear survive the blast?** *(See
@@ -145,7 +163,7 @@ of them may be mages.** Everything above counts only what has actually engaged.
 - **Was the Session 07 fog silhouette this same machine, or another one like it?**
 - **💨 Where did the warlock go?** Teleported clear, turned invisible, or still standing in
   that room — **unestablished.** He left **bloodied**, knowing the party's faces.
-- **⚠️ Who has NOT entered combat yet, how many, and how many are mages?**
+- **~~⚠️ Who has NOT entered combat yet?~~** — **they ran.** All but one.
 - **⚠️ The party is split** — four inside, Boilerdang outside. Who is still out there with him?
 - **🐉 Who is inside the dragon, how many, and what IS the thing they are inside?** They were
   **struggling to control it** — and it **did nothing on its turn.**
