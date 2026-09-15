@@ -43,6 +43,17 @@ No name, no date, no other legible entry. Nothing else was recorded from the bod
   adventurer under the roots, and whatever else the Heart had swallowed over the years. The
   causeway to [Xak Tsaroth](../locations/xak-tsaroth.md) is well-travelled and badly survived.
 
+## 🗝️ Session 09 — the warning is confirmed
+
+**[Malix](../characters/malix.md) heard goblins INSIDE the dragon at
+[the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md), struggling to
+control it**, and the dragon **took no action on its turn.** Whoever wrote *"It isn't a
+dragon"* was **right** — the thing is crewed from the inside. See
+[The Dragon in the Fog](../npcs/the-dragon-in-the-fog.md). (Session 09)
+
+*(Whether the tomb's machine is the same silhouette this writer drew in the fog is still
+**not** established.)*
+
 ## Open questions
 
 - **Who was the adventurer**, and were they going to Xak Tsaroth too?

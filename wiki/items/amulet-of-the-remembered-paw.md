@@ -23,6 +23,8 @@ first-learned: session 06
   [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md) — and
   **the larger bear** answered the call, the same one who gave him the amulet. Eight sessions
   after the mercy that earned it. **It works.**
+- **⚔️ The bear kills.** In Session 09 she **attacked twice and killed a mage outright** —
+  still inside her 10-minute summon from the same call. (Session 09)
 - Held by **Boilerdang**, who was given it directly; usable on the party's behalf.
   *(Per party convention most loot pools to the [wagon](party-wagon.md) — this was a personal
   gift and stays with him.)*

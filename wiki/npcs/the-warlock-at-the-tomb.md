@@ -12,7 +12,8 @@ The **leader** of the party camped at
 **[the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)** in
 [the Drowned Swamp](../locations/the-drowned-swamp.md). **Name unknown.**
 
-> **Status: ALIVE — in parley.** Session 09 opened with him conversing rather than attacking.
+> **Status: ALIVE, GRAPPLED, and badly hurt.** Parleyed, then was grabbed by Vaelor. **Armor of
+> Agathys is up — melee attackers take damage back.**
 
 ## What we know
 
@@ -35,6 +36,13 @@ The **leader** of the party camped at
 - **Asked by Pip _"What is behind the door?"_ and by
   [Vaelor](../characters/vaelor-grinward.md) _"Who do you serve?"_** — **his answers are not
   yet recorded.** (Session 09)
+- **✊ He is GRAPPLED** by [Vaelor](../characters/vaelor-grinward.md), who took hold of him
+  during the parley. (Session 09)
+- **🧊 He has Armor of Agathys up.** [Renob](../characters/renob.md) stabbed him and **took
+  almost as much damage back as he dealt.** **Melee costs HP until that ward is spent —
+  ranged and spell attacks do not trigger it.** (Session 09)
+- **He is badly hurt** — [Boilerdang](../characters/boilerdang-criddlycrotch.md)'s **Spirit
+  Guardians** caught him twice, plus Renob's hit. (Session 09)
 
 ## Open questions
 
@@ -49,6 +57,7 @@ The **leader** of the party camped at
 - **~~Can he be talked to?~~ Yes — he held a parley in Session 09** instead of attacking.
   **What he actually said is still unrecorded.**
 - **Why does he care how the party got in?**
+- **How much Armor of Agathys is left, and can he re-cast it?** (Session 09)
 
 ## See also
 

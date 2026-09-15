@@ -77,9 +77,33 @@ like one.
   the tomb dragon and the Session 07 silhouette are the same thing, or even the same kind of
   thing, is **not established.** — inference, flagged.)*
 
+## 🗝️ Session 09 — IT IS CREWED
+
+**[Malix](../characters/malix.md) heard GOBLINS INSIDE the dragon, struggling to control it.**
+**The dragon did nothing on its turn.** (Session 09)
+
+- The thing is **operated from the inside**, and whoever is in there is **not fully in command
+  of it** — they were *struggling.*
+- **It took no action at all** on its turn. Combined with Session 08 — Polymorph **landing** on
+  it, and it **excreting a polymorphed goblin** — the picture is a **crewed contraption or
+  shell**, not a living dragon.
+- **⚠️ This is the drowned adventurer's warning made literal.** *"It isn't a dragon. Whatever
+  you see in the mist — do not follow it."* See
+  [The Drowned Adventurer's Journal](../documents/drowned-adventurers-journal.md).
+- **Not yet established:** how many are inside, what the shell is made of, whether it is the
+  same thing seen in the fog in Session 07, and who built or sent it.
+
 ## Open questions
 
-- **⚠️ Why did the dragon shit a polymorphed goblin?** (Session 08)
+- **🐉 How many goblins are inside, and what exactly are they inside?** (Session 09)
+- **Can the crew be separated from it** — smoked out, talked down, or the shell disabled?
+  (Session 09)
+- **Why were they _struggling_ to control it?** Poorly trained, over-matched, or is the thing
+  fighting them? (Session 09)
+- **Is the Session 07 fog silhouette this same machine?** Still unestablished — but "no feet,
+  no roar, no clear movement" now reads differently. (Session 09)
+- **⚠️ Why did the dragon shit a polymorphed goblin?** (Session 08) — *now partly answered: the
+  goblins are **inside it.*** (Session 09)
 - **Is the tomb dragon the same thing seen in the fog**, or unrelated? (Session 08)
 - **⚠️ If it isn't a dragon, what is it?** A lure, an illusion, a projection, something wearing
   a dragon's shape, or something the writer had no word for.
@@ -108,4 +132,5 @@ like one.
 - [The Queen](the-queen.md) · [Dragon Prophecy Parchment](../documents/dragon-prophecy-parchment.md)
 - [Session 07 — The Heart of the Swamp](../../sessions/07-2026-08-11-the-heart-of-the-swamp.md)
 - [Session 08 — The Tomb of the Two Dragons](../../sessions/08-2026-09-08-the-tomb-of-the-two-dragons.md)
+- [Session 09 — Parley at the Golden Doors](../../sessions/09-2026-09-15-parley-at-the-golden-doors.md)
 - [The Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)
