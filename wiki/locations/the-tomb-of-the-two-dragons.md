@@ -77,6 +77,17 @@ Recorded exactly as presented at the table. **The doors are unopened.**
 - **✋ [Vaelor](../characters/vaelor-grinward.md) put his hand in one of the slots, and his
   [Blessing of the Oathbound](../items/blessing-of-the-oathbound.md) marking glowed.**
   *(Which slot is not recorded.)* (Session 09)
+- **🪵 Vaelor then placed the [wooden Mishakal token](../items/wooden-mishakal-token.md) in the
+  hole — and THE SLOT CLOSED AROUND HIS ARM.** (Session 09)
+- **🧩 [The archaeologist](../npcs/the-archaeologist.md) says he has THE OTHER PART in his
+  tent**, and left to retrieve it. (Session 09)
+
+### 🔥🧊⚡ The braziers
+
+- **There are braziers in the tomb, each with a bag beside it.** (Session 09)
+- **On the archaeologist's instruction the party filled them** from those bags. (Session 09)
+- **One holds a small fire. One holds ice. One holds small crackling lightning.**
+  (Session 09) 🧩
 
 ## Open questions
 

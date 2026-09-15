@@ -98,6 +98,16 @@ the **two golden doors** untouched.
   **his marking glows.** *(Recorded as presented. Which slot — the **lance** or the **fist** —
   is not recorded. — 🧩)*
 
+- **🪵 [Vaelor](../wiki/characters/vaelor-grinward.md) puts the
+  [wooden Mishakal token](../wiki/items/wooden-mishakal-token.md) in the hole — and IT CLOSES
+  AROUND HIS ARM.** *(Recorded as presented. — 🧩)*
+- **🧩 [The archaeologist](../wiki/npcs/the-archaeologist.md) says HE HAS THE OTHER PART IN HIS
+  TENT**, and **goes to retrieve it.**
+- **🔥 He instructs the party to FILL THE BRAZIERS** with **the stuff in the bags near each
+  brazier**, while he is gone. **The party does.**
+- **🔥🧊⚡ Result: one brazier has a SMALL FIRE, one has ICE, one has SMALL CRACKLING
+  LIGHTNING.** *(Recorded as presented. — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -120,6 +130,16 @@ the **two golden doors** untouched.
   back.** Melee on this man costs HP until that ward is gone — **ranged and spell attacks do
   not trigger it.**
   ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
+- **🪵 The wooden Mishakal token — the Seekers' "false god token" — does something at these
+  doors.** Placed in a slot, **the slot closed around Vaelor's arm.**
+  ([Wooden Mishakal Token](../wiki/items/wooden-mishakal-token.md)) 🧩
+- **🧩 The archaeologist has "the other part"** — in his tent. He left to fetch it.
+  ([The Archaeologist](../wiki/npcs/the-archaeologist.md))
+- **🔥🧊⚡ There are BRAZIERS in the tomb**, each with **a bag beside it**. Filled as the
+  archaeologist instructed, they now hold **a small fire**, **ice**, and **small crackling
+  lightning.** ([The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md)) 🧩
+- **🤝 The archaeologist is cooperating with the party** — he gave them instructions and they
+  followed them.
 - **📜 There is Solamnic writing on the golden doors, and it does not match the rest of the
   markings in the tomb.** ([Knights of Solamnia](../wiki/factions/knights-of-solamnia.md) ·
   [The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md)) 🧩
@@ -184,6 +204,9 @@ of them may be mages.** Everything above counts only what has actually engaged.
 
 ## Loose threads
 
+- **✋ Is Vaelor's arm released?** The slot **closed around it.** 🧩
+- **🧩 What is "the other part"**, and does the archaeologist come back with it?
+- **🔥🧊⚡ Were there only three braziers**, and what was in the bags? 🧩
 - **📜 What does the Solamnic writing on the doors say?** Not yet read out / recorded. 🧩
 - **Why is Solamnic writing on these doors when nothing else in the tomb matches it?** 🧩
 - **Which slot did Vaelor use — the lance or the fist?** *(Recording gap.)* 🧩

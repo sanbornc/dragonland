@@ -80,6 +80,11 @@ Mishakal** — and warned that the **dragon army is racing them for the same rel
   **[warlock](../npcs/the-warlock-at-the-tomb.md)**, with goblins, mages, a dragon, and
   draconians. The party is **fighting them now** — Session 09 opens in that combat.
 - **🚪 The tomb's golden doors are unopened.** 🧩 (Session 08)
+- **🪵 The wooden Mishakal token matters at
+  [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md).** Placed in a
+  slot on the golden doors by [Vaelor](../characters/vaelor-grinward.md), **the slot closed
+  around his arm** — and [the archaeologist](../npcs/the-archaeologist.md) says **he has "the
+  other part."** See [Wooden Mishakal Token](../items/wooden-mishakal-token.md). (Session 09) 🧩
 
 ## Open questions
 
