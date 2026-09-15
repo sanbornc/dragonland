@@ -24,6 +24,9 @@ first-learned: session 03
 
 ## What we know
 
+- **🚶 ⚠️ HE LED THE WAY DOWN — WILLINGLY.** With the golden doors open and stairs descending
+  into a flooding, pre-Cataclysm tomb, the party's **captive** High Theocrat **went first, of
+  his own accord.** Nothing recorded about him before this explains it. (Session 09)
 - **💀➡️❤️ He died a fifth time and came back a fifth time.** Killed by **Wall of Fire** at the
   tomb (Session 08) and left dead when that session ended; **raised by Boilerdang** in
   Session 09. **Six lives so far.** (Sessions 08–09)
@@ -213,6 +216,14 @@ first-learned: session 03
 - Was he the **Seekers' supreme leader**, or one High Theocrat among several? (His death
   may leave a power vacuum — or bring a worse successor.)
 - Why did the party dislike him — past history, or just his manner?
+
+## Open questions
+
+- **⚠️ Why did he lead the way into the tomb, willingly?** A bound prisoner who has tried to
+  kill himself to escape the party **volunteered to go first** into a flooding tomb.
+  (Session 09)
+- **Does he know something about this place** — or about what is in the sarcophagus?
+  (Session 09)
 
 ## See also
 

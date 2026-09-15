@@ -57,7 +57,8 @@ whether the archaeologist is unable or merely unwilling. 🧩
 
 ## 🧩 The entry room
 
-Recorded exactly as presented at the table. **The doors are unopened.**
+Recorded exactly as presented at the table. **The doors were opened in Session 09** — see
+below.
 
 > **Session 09 state:** **the whole party is inside**, and the interior is **uncontested** —
 > [Pip](../characters/pip-tumblewhistle.md), [Vaelor](../characters/vaelor-grinward.md),
@@ -82,6 +83,27 @@ Recorded exactly as presented at the table. **The doors are unopened.**
 - **🧩 [The archaeologist](../npcs/the-archaeologist.md) says he has THE OTHER PART in his
   tent**, and left to retrieve it. (Session 09)
 
+### 🚪 The doors OPEN (Session 09)
+
+- **The golden doors were opened.** Behind them: **stairs leading down.** (Session 09)
+- **🛡️ Opening them LIFTED THE PROTECTIVE SPELLS** on the tomb, per
+  [the archaeologist](../npcs/the-archaeologist.md) — the same wards that reportedly admitted
+  **only the [warlock](../npcs/the-warlock-at-the-tomb.md).** (Session 09)
+- **🌊 ⚠️ WATER BEGAN FILLING THE TOMB** as the doors opened. (Session 09)
+
+## ⚰️ The lower chamber
+
+Down the stairs, entered with [Hederick](../npcs/high-theocrat-hederick.md) **leading
+willingly.** (Session 09)
+
+- **🗿 Four statues.** (Session 09)
+- **⚰️ A sarcophagus.** (Session 09)
+- **🕰️ The statues and the sarcophagus are in DIFFERENT STYLES**, suggesting they were
+  **created at different times.** (Session 09) 🧩
+- **🕰️ The archaeologist dates the tomb PRE-CATACLYSM, and the sarcophagus as MUCH NEWER** —
+  so **a far later burial sits inside a far older tomb.** (Session 09) 🧩
+- **🌊 The chamber is below ground and the tomb is flooding.** (Session 09)
+
 ### 🔥🧊⚡ The braziers
 
 - **There are braziers in the tomb, each with a bag beside it.** (Session 09)
@@ -96,6 +118,10 @@ Recorded exactly as presented at the table. **The doors are unopened.**
 - **What are the symbols and warnings, and what do they warn of?**
 - **📜 What does the Solamnic writing say, and why is it here** when nothing else in the tomb
   matches it? (Session 09)
+- **⚰️ Who is in the sarcophagus, and who placed a much newer burial in a pre-Cataclysm tomb?**
+  (Session 09)
+- **🗿 What are the four statues?** (Session 09)
+- **🌊 Is there another way out of a flooding tomb?** (Session 09)
 - **Why is the dragon army here at all**, two days short of Xak Tsaroth — and what did they
   take when they sacked it?
 - **What are the mages translating**, and from what?

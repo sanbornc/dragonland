@@ -36,6 +36,13 @@ run.** **Name unknown.**
   beside them while he was gone — **and they did.** (Session 09)
 - **He knows this site.** He knew about the braziers, the bags, and "the other part."
   (Session 09)
+- **🛡️ He says opening the golden doors LIFTED THE PROTECTIVE SPELLS** on the tomb.
+  (Session 09)
+- **🕰️ He dates the tomb as PRE-CATACLYSM — and the sarcophagus as MUCH NEWER.** He is reading
+  this site as a professional, and the party is getting his assessments in real time.
+  (Session 09)
+- **⚠️ Whether he has now entered the tomb** — the wards being down — **is not recorded.**
+  (Session 09)
 
 ## Probable connection to Session 08 *(inference — not stated at the table)*
 
@@ -54,6 +61,9 @@ against force, is not established.**
 - **What is his relationship to
   [the warlock](the-warlock-at-the-tomb.md)?** Employer, employee, colleague, or hostage?
 - **🧩 What is "the other part"**, and does he come back with it?
+- **🕰️ How does he know the tomb is pre-Cataclysm?** What is he reading it from? 🧩
+- **Does he know who is in the sarcophagus?** 🧩
+- **Did he know opening the doors would flood the place?** 🌊
 - **Does he know what the braziers do?** He knew how to fill them. 🧩
 - **Did he know the dragon was a machine, and who crewed it?**
 - **Was he one of the voices in the tent** arguing about the translations? *(Inference,

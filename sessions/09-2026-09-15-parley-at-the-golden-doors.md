@@ -108,6 +108,18 @@ the **two golden doors** untouched.
 - **🔥🧊⚡ Result: one brazier has a SMALL FIRE, one has ICE, one has SMALL CRACKLING
   LIGHTNING.** *(Recorded as presented. — 🧩)*
 
+- **🚪 THE GOLDEN DOORS ARE OPEN.** Behind them: **stairs going down.** The party descends.
+- **💀 [Hederick](../wiki/npcs/high-theocrat-hederick.md) leads the way — WILLINGLY.** The
+  party's captive High Theocrat, six lives in, **went down first of his own accord.**
+- **🗿 Below: FOUR STATUES and A SARCOPHAGUS.**
+- **🕰️ The statues and the sarcophagus are in DIFFERENT STYLES** — suggesting they were
+  **created at different times.** *(Recorded as presented. — 🧩)*
+- **🛡️ Opening the doors LIFTED THE PROTECTIVE SPELLS**, per
+  [the archaeologist](../wiki/npcs/the-archaeologist.md).
+- **🌊 WATER STARTS FILLING THE TOMB.**
+- **🕰️ The archaeologist dates the tomb PRE-CATACLYSM — but says the SARCOPHAGUS IS MUCH
+  NEWER.**
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -130,6 +142,18 @@ the **two golden doors** untouched.
   back.** Melee on this man costs HP until that ward is gone — **ranged and spell attacks do
   not trigger it.**
   ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
+- **🚪 THE GOLDEN DOORS OPENED**, revealing **stairs down** to a chamber holding **four statues
+  and a sarcophagus.**
+  ([The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md)) 🧩
+- **🕰️ THE TOMB IS PRE-CATACLYSM — BUT THE SARCOPHAGUS IS MUCH NEWER**, per the archaeologist,
+  and the **statues and sarcophagus are in different styles.** **Someone put a burial into a
+  far older tomb.** ([The Archaeologist](../wiki/npcs/the-archaeologist.md))
+- **🛡️ The ward is DOWN.** Opening the doors **lifted the protective spells** — the same wards
+  that supposedly let **only the warlock** enter. 🧩
+- **🌊 ⚠️ THE TOMB IS FLOODING.** Water began filling it as the doors opened.
+- **💀 Hederick went down the stairs first, willingly.** After five deaths, a suicide attempt
+  and a lifetime of being dragged along in a wagon, **he led.**
+  ([High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md))
 - **🪵 The wooden Mishakal token — the Seekers' "false god token" — does something at these
   doors.** Placed in a slot, **the slot closed around Vaelor's arm.**
   ([Wooden Mishakal Token](../wiki/items/wooden-mishakal-token.md)) 🧩
@@ -204,6 +228,14 @@ of them may be mages.** Everything above counts only what has actually engaged.
 
 ## Loose threads
 
+- **🌊 ⚠️ How fast is the water rising, and is there another way out?** The party is **below
+  ground** in a **flooding** tomb.
+- **🗿 What are the four statues?** Not yet described. 🧩
+- **⚰️ WHO IS IN THE SARCOPHAGUS**, and **who put a much newer burial inside a pre-Cataclysm
+  tomb?** 🧩
+- **🕰️ How much newer is the sarcophagus** — decades, centuries, since the Cataclysm? 🧩
+- **🛡️ With the wards lifted, can the archaeologist now enter — and has he?** *(Not recorded
+  whether he is inside or still calling from outside.)*
 - **✋ Is Vaelor's arm released?** The slot **closed around it.** 🧩
 - **🧩 What is "the other part"**, and does the archaeologist come back with it?
 - **🔥🧊⚡ Were there only three braziers**, and what was in the bags? 🧩
