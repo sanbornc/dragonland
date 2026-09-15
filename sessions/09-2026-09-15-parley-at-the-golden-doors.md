@@ -123,17 +123,17 @@ the **two golden doors** untouched.
 - **🚶 [The archaeologist](../wiki/npcs/the-archaeologist.md) IS NOW WITH THE PARTY** — inside
   the tomb, having refused to enter while the wards were up.
 
-- **✨ [Malix](../wiki/characters/malix.md) casts DISPEL MAGIC** — and text is delivered.
-  Posted by the DM in the group chat, **verbatim**:
+- **✨ [Malix](../wiki/characters/malix.md) casts DISPEL MAGIC — and THE PARTY HEARS THIS.**
+  **Verbatim:**
 
   > **The dead may surrender what they carried.**
   >
   > **The living must prove what they intend.**
 
   *(Recorded exactly as presented. No interpretation logged. — 🧩)*
-  *(Source posted 2026-09-15 13:55 by Jeremy Maughan. The post ends with a closing quotation
-  mark and no opening one, so **there may be more to the quotation that was not posted.**
-  **What the text is written on or spoken by is not recorded.**)*
+  *(**Heard, not read** — this is spoken, not the writing on the doors. **Who or what speaks it
+  is not recorded.** Posted verbatim by the DM in the group chat, 2026-09-15 13:55; the post
+  closes a quotation it never opens, so **there may be more.**)*
 
 ## New facts learned
 
@@ -157,8 +157,9 @@ the **two golden doors** untouched.
   back.** Melee on this man costs HP until that ward is gone — **ranged and spell attacks do
   not trigger it.**
   ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
-- **📜 Text delivered on Malix's DISPEL MAGIC** (DM, verbatim): *"The dead may surrender what
-  they carried. The living must prove what they intend."* **Logged as presented — no reading
+- **🗣️ THE TOMB SPEAKS WHEN DISPEL MAGIC IS CAST.** The party **heard** — verbatim: *"The dead
+  may surrender what they carried. The living must prove what they intend."* **Heard, not
+  read.** **Who or what speaks it is not recorded.** **Logged as presented — no reading
   offered.** 🧩
 - **🚪 THE GOLDEN DOORS OPENED**, revealing **stairs down** to a chamber holding **four statues
   and a sarcophagus.**
@@ -258,8 +259,8 @@ of them may be mages.** Everything above counts only what has actually engaged.
 - **What does the archaeologist want out of this**, now that he is inside with them?
 - **🧩 What is "the other part"**, and does the archaeologist come back with it?
 - **🔥🧊⚡ Were there only three braziers**, and what was in the bags? 🧩
-- **📜 Is the Dispel Magic text the Solamnic writing on the doors, something spoken, or
-  something else?** **Source not recorded.** 🧩
+- **🗣️ WHO OR WHAT SPOKE when Malix cast Dispel Magic?** The party **heard** it — not read it
+  off the doors. 🧩
 - **Is there more to that quotation?** The DM's post closes a quote it never opens. 🧩
 - **📜 What does the Solamnic writing on the doors say?** Not yet read out / recorded. 🧩
 - **Why is Solamnic writing on these doors when nothing else in the tomb matches it?** 🧩

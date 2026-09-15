@@ -106,17 +106,17 @@ willingly.** (Session 09)
   so **a far later burial sits inside a far older tomb.** (Session 09) 🧩
 - **🌊 The chamber is below ground and the tomb is flooding.** (Session 09)
 
-### 📜 Text revealed on Dispel Magic (Session 09)
+### 🗣️ Words HEARD on Dispel Magic (Session 09)
 
-[Malix](../characters/malix.md) cast **Dispel Magic**, and this text was delivered — recorded
+[Malix](../characters/malix.md) cast **Dispel Magic**, and the party **heard** this — recorded
 **verbatim**, with **no interpretation**: 🧩
 
 > **The dead may surrender what they carried.**
 >
 > **The living must prove what they intend.**
 
-*(What it is written on, or who speaks it, is **not recorded**. The DM's post closes a
-quotation it does not open, so **there may be more.**)*
+*(**Heard, not read** — this is not the writing on the doors. **Who or what speaks it is not
+recorded.** The DM's post closes a quotation it does not open, so **there may be more.**)*
 
 ### 🔥🧊⚡ The braziers
 
@@ -135,6 +135,7 @@ quotation it does not open, so **there may be more.**)*
 - **⚰️ Who is in the sarcophagus, and who placed a much newer burial in a pre-Cataclysm tomb?**
   (Session 09)
 - **🗿 What are the four statues?** (Session 09)
+- **🗣️ Who or what spoke when Dispel Magic was cast?** (Session 09)
 - **🌊 Is there another way out of a flooding tomb?** (Session 09)
 - **Why is the dragon army here at all**, two days short of Xak Tsaroth — and what did they
   take when they sacked it?
