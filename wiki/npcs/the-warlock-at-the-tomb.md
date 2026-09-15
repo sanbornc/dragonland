@@ -12,7 +12,7 @@ The **leader** of the party camped at
 **[the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)** in
 [the Drowned Swamp](../locations/the-drowned-swamp.md). **Name unknown.**
 
-> **Status: ALIVE and fighting.** Session 08 ended mid-combat with the warlock still up.
+> **Status: ALIVE — in parley.** Session 09 opened with him conversing rather than attacking.
 
 ## What we know
 
@@ -27,6 +27,14 @@ The **leader** of the party camped at
   [Renob](../characters/renob.md) brought Vaelor back with a potion. (Session 08)
 - **His two mages are dead** — killed by [Pip](../characters/pip-tumblewhistle.md) and Vaelor
   inside the tomb. **Seven of his goblins** were killed by Boilerdang outside. (Session 08)
+- **🗣️ He can be talked to.** In Session 09 [Pip](../characters/pip-tumblewhistle.md) opened
+  a conversation mid-fight and **he spent his turn conversing rather than attacking.**
+  Referred to at the table this session as **"the mage."** (Session 09)
+- **His first question back was _"How did you get in?"_** — not a threat and not a demand for
+  surrender. He wants to know how the party entered the tomb. (Session 09)
+- **Asked by Pip _"What is behind the door?"_ and by
+  [Vaelor](../characters/vaelor-grinward.md) _"Who do you serve?"_** — **his answers are not
+  yet recorded.** (Session 09)
 
 ## Open questions
 
@@ -38,11 +46,13 @@ The **leader** of the party camped at
   else?
 - **What is he translating, and why here?**
 - **Who warned against using force, and about what?**
-- **Can he be talked to?** The first attempt ended in an arrest attempt — but he is the only
-  person here who knows what this place is.
+- **~~Can he be talked to?~~ Yes — he held a parley in Session 09** instead of attacking.
+  **What he actually said is still unrecorded.**
+- **Why does he care how the party got in?**
 
 ## See also
 
 - [The Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)
 - [Black Banners](../factions/black-banners.md) · [Draconians](draconians.md)
 - [Session 08 — The Tomb of the Two Dragons](../../sessions/08-2026-09-08-the-tomb-of-the-two-dragons.md)
+- [Session 09 — Parley at the Golden Doors](../../sessions/09-2026-09-15-parley-at-the-golden-doors.md)

@@ -28,6 +28,10 @@ for the carving on its doors.)*
   and **a couple of jars of lamp oil.** **The map warns against going to
   [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md)** — which the party had already
   killed. (Session 08)
+- **✨ Inside the tomb, [Vaelor](../characters/vaelor-grinward.md)'s
+  [Blessing of the Oathbound](../items/blessing-of-the-oathbound.md) mark was
+  glowing slightly** — the Solamnic rose tattoo from Session 02. First time it has been
+  observed to glow. (Session 09) 🧩
 
 ## 🧩 The entry room
 
@@ -50,6 +54,7 @@ Recorded exactly as presented at the table. **The doors are unopened.**
 - **What are the mages translating**, and from what?
 - **Who wrote the lockbox map**, and who was it left for?
 - **Why is this tomb absent from Riverwind's memory of the region?**
+- **✨ Why did Vaelor's Solamnic mark glow here?** Only his was checked. (Session 09)
 
 ## See also
 
@@ -58,3 +63,4 @@ Recorded exactly as presented at the table. **The doors are unopened.**
 - [Black Banners](../factions/black-banners.md) · [Draconians](../npcs/draconians.md) — sacked it
 - [The Disks of Mishakal](../quests/the-disks-of-mishakal.md)
 - [Session 08 — The Tomb of the Two Dragons](../../sessions/08-2026-09-08-the-tomb-of-the-two-dragons.md)
+- [Session 09 — Parley at the Golden Doors](../../sessions/09-2026-09-15-parley-at-the-golden-doors.md)
