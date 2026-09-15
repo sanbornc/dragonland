@@ -170,8 +170,8 @@ egg shell**; the doors are **unopened.** The site is **occupied** — a camp und
 about old stories being translated** and who tried to **arrest** Boilerdang rather than kill
 him. The fight that followed was ugly: Boilerdang called **the bear** for the first time in
 eight sessions and killed seven goblins; Pip and Vaelor killed two mages;
-[Malix](wiki/characters/malix.md) **Polymorphed a dragon that "seems strange"** — and **a turtle
-fell out of its back**, dropped to 0 HP, and reverted into **a goblin**, which then cast Wall of
+[Malix](wiki/characters/malix.md) **Polymorphed a dragon that "seems strange"** — and it
+**shat a turtle**, which dropped to 0 HP and reverted into **a goblin**, which then cast Wall of
 Fire, badly hurting Boilerdang and [Goldmoon](wiki/npcs/goldmoon.md) and **killing
 [Hederick](wiki/npcs/high-theocrat-hederick.md) for the fifth time.** Vaelor was killed by the
 warlock and brought back with a potion by [Renob](wiki/characters/renob.md). **The session ended

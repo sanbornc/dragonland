@@ -56,7 +56,7 @@ fog**, and beneath it:
 - **The party saw it after the Heart was already dead**, so it is **not** the Heart's illusion.
   (Session 07)
 
-## Session 08 — a dragon at the tomb, and something inside it
+## Session 08 — a dragon at the tomb, and the turtle it shat
 
 At **[the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)**, two
 days short of Xak Tsaroth, the party met **a dragon in the flesh** — and it did not behave
@@ -64,9 +64,10 @@ like one.
 
 - **It "seems strange."** (Party's read, at the table.)
 - **[Malix](../characters/malix.md) cast Polymorph on it — and it landed.**
-- **🐢 A turtle fell out of the back of the dragon** when that happened.
+- **🐢 The dragon shat a turtle** when that happened. *(Corrected Session 08 wording: not
+  "fell out of the back" — excreted.)*
 - **🗝️ The turtle hit 0 HP from the fall and reverted — into a GOBLIN.** So the turtle was a
-  **polymorphed goblin**, and it came **out of the back of the dragon.**
+  **polymorphed goblin**, and the dragon **shat it**.
 - **That goblin then cast Wall of Fire**, badly hurting
   [Boilerdang](../characters/boilerdang-criddlycrotch.md) and
   [Goldmoon](goldmoon.md) and **killing
@@ -78,7 +79,7 @@ like one.
 
 ## Open questions
 
-- **⚠️ How did a goblin come to be inside / on the back of a dragon?** (Session 08)
+- **⚠️ Why did the dragon shit a polymorphed goblin?** (Session 08)
 - **Is the tomb dragon the same thing seen in the fog**, or unrelated? (Session 08)
 - **⚠️ If it isn't a dragon, what is it?** A lure, an illusion, a projection, something wearing
   a dragon's shape, or something the writer had no word for.

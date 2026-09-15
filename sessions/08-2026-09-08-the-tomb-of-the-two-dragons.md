@@ -64,10 +64,10 @@ Their objective: the **[Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.
   tomb.**
 - **🐉 [Malix](../wiki/characters/malix.md) engages a DRAGON and casts Polymorph.**
 - **The dragon "seems strange."** Polymorph was cast **on the dragon**, and **it landed.**
-- **🐢 A turtle fell out of the back of the dragon when that happened.** *(Recorded exactly as
-  described at the table.)*
-- **🗝️ The turtle fell, dropped to 0 HP from the fall, and reverted — into a GOBLIN.**
-  So the turtle was a **polymorphed goblin**, and it came **out of the back of the dragon.**
+- **🐢 The dragon shat a turtle** when Polymorph landed. *(Corrected by Chris / Renob — earlier
+  notes had "fell out of the back"; it was excreted.)*
+- **🗝️ The turtle hit 0 HP from the fall and reverted — into a GOBLIN.** So the turtle was a
+  **polymorphed goblin**, and the dragon **shat it**.
 - **⚠️ Compare the [drowned adventurer's journal](../wiki/documents/drowned-adventurers-journal.md)
   (Session 07): *"It isn't a dragon."*** *(Inference — not stated at the table.)*
 - **🔥 The fallen goblin casts Wall of Fire** — significant damage to **Boilerdang** and
@@ -102,8 +102,8 @@ Their objective: the **[Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.
 - **🐻 The [Amulet of the Remembered Paw](../wiki/items/amulet-of-the-remembered-paw.md) works**
   — first use in eight sessions, and **the larger bear** answered.
 - **🐉🗝️ A "dragon" here is not what it appears.** It **"seems strange"**, **Polymorph landed
-  on it**, and **a turtle fell out of its back** — which dropped to 0 HP on landing and
-  reverted into a **goblin.** ([The Dragon in the Fog](../wiki/npcs/the-dragon-in-the-fog.md))
+  on it**, and it **shat a turtle** — which dropped to 0 HP on landing and reverted into a
+  **goblin.** ([The Dragon in the Fog](../wiki/npcs/the-dragon-in-the-fog.md))
 - **[Hederick](../wiki/npcs/high-theocrat-hederick.md) can, in fact, stay dead** — at least
   for now. **Five deaths**, and this is the first the party has not immediately undone.
 
@@ -121,7 +121,7 @@ Their objective: the **[Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.
 - **What were the two dead mages translating**, and is it still in the tent or on the bodies?
 - **🐉 What is the "dragon"** — and does it connect to the silhouette seen in Session 07 and
   the drowned adventurer's *"It isn't a dragon"*?
-- **How did a goblin come to be inside/on the back of a dragon?**
+- **Why did the dragon shit a polymorphed goblin?**
 - **Does the dragon army's sacking mean the Disks are already lost**, or was this tomb a
   different prize? ([The Disks of Mishakal](../wiki/quests/the-disks-of-mishakal.md))
 - **Was the lockbox map's warning — "do not go to the Heart of the Swamp" — written for
