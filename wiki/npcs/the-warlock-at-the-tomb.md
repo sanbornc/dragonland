@@ -12,7 +12,7 @@ The **leader** of the party camped at
 **[the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)** in
 [the Drowned Swamp](../locations/the-drowned-swamp.md). **Name unknown.**
 
-> **Status: ALIVE, GRAPPLED, and badly hurt.** Parleyed, then was grabbed by Vaelor. **Armor of
+> **Status: ALIVE, GRAPPLED, and BLOODIED.** Parleyed, then was grabbed by Vaelor. **Armor of
 > Agathys is up — melee attackers take damage back.**
 
 ## What we know
@@ -28,10 +28,14 @@ The **leader** of the party camped at
   [Renob](../characters/renob.md) brought Vaelor back with a potion. (Session 08)
 - **His two mages are dead** — killed by [Pip](../characters/pip-tumblewhistle.md) and Vaelor
   inside the tomb. **Seven of his goblins** were killed by Boilerdang outside. (Session 08)
-- **☠️ He had MORE than two mages — and now has none.** The camp fielded **multiple mages**;
-  the **last one was killed by the summoned
-  [bear](../items/amulet-of-the-remembered-paw.md)** in Session 09. **He is the last caster
-  standing on his side.** (Session 09)
+- **☠️ He had MORE than two mages.** The camp fielded **multiple mages**; the **last one to
+  enter combat was killed by the summoned
+  [bear](../items/amulet-of-the-remembered-paw.md)** in Session 09. (Session 09)
+- **⚠️ He still has reserves.** **Members of the camp have not entered combat yet, and some of
+  them may be mages.** (Session 09)
+- **🩸 He is BLOODIED.** [Pip](../characters/pip-tumblewhistle.md) shot him **twice with a
+  bow** — ranged, so **Armor of Agathys did not retaliate** — putting him **under half.**
+  (Session 09)
 - **🗣️ He can be talked to.** In Session 09 [Pip](../characters/pip-tumblewhistle.md) opened
   a conversation mid-fight and **he spent his turn conversing rather than attacking.**
   (Session 09)
@@ -65,6 +69,7 @@ The **leader** of the party camped at
   **What he actually said is still unrecorded.**
 - **Why does he care how the party got in?**
 - **How much Armor of Agathys is left, and can he re-cast it?** (Session 09)
+- **⚠️ How many of his people have not committed yet, and how many are casters?** (Session 09)
 
 ## See also
 

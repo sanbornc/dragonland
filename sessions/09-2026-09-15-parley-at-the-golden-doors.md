@@ -41,10 +41,13 @@ the **two golden doors** untouched.
   caster is **dead.**
 - **Boilerdang steps closer to the caster** — **Spirit Guardians does significant damage.**
 - **🐻 The [bear](../wiki/items/amulet-of-the-remembered-paw.md) attacks twice and kills the
-  final mage the party was in battle with.** **The camp's mages are now all dead** — there were
-  more than the two killed in Session 08. *(The warlock is a separate man and still up.)*
+  final mage the party was in battle with.** That is the last mage **who has entered combat** —
+  there were more than the two killed in Session 08. *(The warlock is a separate man and still
+  up.)*
 - **🐉🗝️ On the dragon's turn, [Malix](../wiki/characters/malix.md) hears GOBLINS INSIDE the
   dragon — struggling to control it.** **The dragon did nothing on its turn.**
+- **🏹 [Pip](../wiki/characters/pip-tumblewhistle.md) shoots the warlock twice with his bow and
+  BLOODIES him.** *(Ranged — no Armor of Agathys retaliation.)*
 - **⚔️ [Renob](../wiki/characters/renob.md) walks up to the grappled warlock and stabs him.**
   He **deals damage but takes almost as much back** from the warlock's **Armor of Agathys.**
   *(Called an idiot move at the table.)*
@@ -71,8 +74,10 @@ the **two golden doors** untouched.
   back.** Melee on this man costs HP until that ward is gone — **ranged and spell attacks do
   not trigger it.**
   ([The Warlock at the Tomb](../wiki/npcs/the-warlock-at-the-tomb.md))
-- **✊ The warlock is grappled** by Vaelor and **badly hurt** — Spirit Guardians twice over plus
-  Renob's stab.
+- **🩸 The warlock is BLOODIED** — grappled by Vaelor, caught twice by Spirit Guardians, stabbed
+  by Renob, and shot twice by Pip. **He is under half.**
+- **⚠️ The camp has reserves.** **Characters who have not entered combat yet remain, and some
+  may be mages.** The fight is not as won as the body count suggests.
 - **🐻 The summoned bear kills.** Two attacks, one dead mage — the
   [Amulet of the Remembered Paw](../wiki/items/amulet-of-the-remembered-paw.md) is pulling real
   weight on its first use.
@@ -80,8 +85,12 @@ the **two golden doors** untouched.
 
 ### ✅ Headcount — resolved
 **The camp had multiple mages**, more than the two killed in Session 08. **The bear killed the
-last of them.** The **[warlock](../wiki/npcs/the-warlock-at-the-tomb.md) is a separate
-individual** and is **still alive and grappled.**
+last one that had entered combat.** The
+**[warlock](../wiki/npcs/the-warlock-at-the-tomb.md) is a separate individual** and is **still
+alive and grappled.**
+
+**⚠️ The camp is not spent.** There are **characters who have not entered combat yet, and some
+of them may be mages.** Everything above counts only what has actually engaged.
 
 *Note on the log's wording:* the warlock was **referred to as "the mage" at the table** on
 **Pip's and Malix's turns** — so "the mage" in the parley above is **the warlock**, while
@@ -89,6 +98,7 @@ individual** and is **still alive and grappled.**
 
 ## Loose threads
 
+- **⚠️ Who has NOT entered combat yet, how many, and how many are mages?**
 - **🐉 Who is inside the dragon, how many, and what IS the thing they are inside?** They were
   **struggling to control it** — and it **did nothing on its turn.**
 - **Can the crew be separated from it** — smoked out, talked to, or the thing disabled?

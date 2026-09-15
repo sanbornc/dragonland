@@ -24,10 +24,9 @@ for the carving on its doors.)*
   **two mages**, and a **[warlock](../npcs/the-warlock-at-the-tomb.md)** leader. From
   outside, [Pip](../characters/pip-tumblewhistle.md) overheard them **arguing about old
   stories that are being translated**, and **a warning against using force.** (Session 08)
-- **The camp fielded multiple mages — more than the two first seen — and by Session 09 they
-  are all dead**, along with the goblin that cast Wall of Fire. The
-  **[warlock](../npcs/the-warlock-at-the-tomb.md) is the last caster left on that side.**
-  (Session 09)
+- **The camp fielded multiple mages — more than the two first seen.** By Session 09 every mage
+  **that entered combat** is dead, along with the goblin that cast Wall of Fire. **⚠️ But the
+  camp is not spent: members have not entered combat yet, and some may be mages.** (Session 09)
 - **On an adjacent island**: a **lockbox** holding a **map**, **6 gp**, a **ring worth 10 gp**,
   and **a couple of jars of lamp oil.** **The map warns against going to
   [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md)** — which the party had already
@@ -59,6 +58,8 @@ Recorded exactly as presented at the table. **The doors are unopened.**
 - **Who wrote the lockbox map**, and who was it left for?
 - **Why is this tomb absent from Riverwind's memory of the region?**
 - **✨ Why did Vaelor's Solamnic mark glow here?** Only his was checked. (Session 09)
+- **⚠️ How many people are at this camp in total?** Some have still not entered the fight.
+  (Session 09)
 
 ## See also
 
