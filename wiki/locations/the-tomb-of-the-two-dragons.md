@@ -99,8 +99,10 @@ Down the stairs, entered with [Hederick](../npcs/high-theocrat-hederick.md) **le
 willingly.** (Session 09)
 
 - **🗿 Four statues — ANIMATE, and all four SPEAK.** They are a **crocodile**, a
-  **bird-headed** one, a **cat-headed** one, and a **jackal-headed** one. They **stepped
-  forward** and addressed the party. (Session 09) 🧩
+  **falcon**, a **cat-headed** one, and a **jackal-headed** one. They **stepped forward** and
+  addressed the party, **from an attack stance.** (Session 09) 🧩
+- **🕊️ Domains named by the DM: FALCON = TRUTH, CAT = UNDERSTANDING.** The
+  **crocodile's** and **jackal's** domains are **not given.** (Session 09) 🧩
 - **⚰️ A sarcophagus — opened in Session 09. It holds NO BODY**: dust, collapsed
   linen in the shape of a man, fragments of bone — and **[a silver
   arm](../items/the-silver-arm.md)** where the right arm should be, **untouched by age.**
@@ -193,6 +195,15 @@ The **cat-headed statue** answered, verbatim:
 > “You see what was. You see what became. Understanding is enough”
 
 See [The Silver Arm](../items/the-silver-arm.md).
+
+### 🐕 Goldmoon and the jackal (Session 09)
+
+**[Goldmoon](../npcs/goldmoon.md) waved [the Staff](../items/the-staff.md) in front of the
+jackal statue.** It answered, verbatim: 🧩
+
+> “Power displayed is not respect shown.”
+
+*(**[Hederick](../npcs/high-theocrat-hederick.md) ran out of the tomb** around this point.)*
 
 ### 🔥🧊⚡ The braziers
 

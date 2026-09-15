@@ -79,6 +79,9 @@ first-learned: session 03
   goddess false told her he was **grateful.** (Session 07)
 - **She saw [Renob](../characters/renob.md) shove Hederick into the water** — one of two
   witnesses, with [Riverwind](riverwind.md). Hederick does not know. (Session 07)
+- **🪄 She is inside [the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)
+  with the party**, and **waved [the Staff](../items/the-staff.md) in front of the jackal
+  statue.** It answered: **“Power displayed is not respect shown.”** (Session 09) 🧩
 
 ## Open questions
 

@@ -24,6 +24,9 @@ first-learned: session 03
 
 ## What we know
 
+- **🏃 ⚠️ THEN HE RAN OUT OF THE TOMB.** Having **led the way in**, he
+  **fled the temple** once the statues were active. **Where he went is not recorded** — and
+  he is the party's **captive.** (Session 09)
 - **🐦 A STATUE SINGLED HIM OUT.** In the lower chamber the **bird-headed statue** asked
   **him** — he was **right in front of it** — **“why do you seek the tomb”**.
   [Malix](../characters/malix.md) answered on his turn instead. (Session 09)
@@ -219,6 +222,8 @@ first-learned: session 03
 - Was he the **Seekers' supreme leader**, or one High Theocrat among several? (His death
   may leave a power vacuum — or bring a worse successor.)
 - Why did the party dislike him — past history, or just his manner?
+- **⚠️ Where is he now?** He **ran out of the tomb** and the party is **below ground
+  in a flooding chamber.** A captive, loose, outside. (Session 09)
 - **⚠️ Why did he lead the way into the tomb, willingly?** A bound prisoner who has tried to
   kill himself to escape the party **volunteered to go first** into a flooding tomb.
   (Session 09)

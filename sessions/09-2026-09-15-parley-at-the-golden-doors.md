@@ -228,6 +228,19 @@ the **two golden doors** untouched.
   silver arm.** *(Recorded as presented. **Which shield — the crocodile's or Renob's own
   — is not recorded.** Outcome not yet recorded.)*
 
+- **🕊️ The statues' domains, named by the DM:** **falcon — TRUTH.** **cat —
+  UNDERSTANDING.** *(So the “bird-headed” statue is a **falcon**. The crocodile's and
+  jackal's domains are **not given**.)*
+- **🏃 [Hederick](../wiki/npcs/high-theocrat-hederick.md) RUNS OUT of the temple.** The
+  man who led the way down **fled.**
+- **🪄 [Goldmoon](../wiki/npcs/goldmoon.md) waves
+  [her staff](../wiki/items/the-staff.md) in front of the JACKAL statue.**
+- **🐕 The jackal says:**
+
+  > “Power displayed is not respect shown.”
+
+  *(Recorded exactly as presented. **No interpretation logged.** — 🧩)*
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on
@@ -355,8 +368,13 @@ of them may be mages.** Everything above counts only what has actually engaged.
 - **🗿 The statues were in an ATTACK STANCE**, and **stand down one at a time as
   questions are answered** — the **bird** and the **cat** have both visibly relaxed.
   🧩
-- **🗿 ALL FOUR STATUES ARE IDENTIFIED: a CROCODILE, a BIRD-HEADED one, a CAT-HEADED
-  one, and a JACKAL-HEADED one.** All four are **animate**, all four **speak**, and all four
+- **🕊️ TWO STATUE DOMAINS ARE NAMED: the FALCON is TRUTH, the CAT is
+  UNDERSTANDING.** *(DM, group chat. The **crocodile** and **jackal** domains are **not
+  given**.)* 🧩
+- **🏃 Hederick fled the tomb.** He **led the way in willingly** and then **ran out.**
+  ([High Theocrat Hederick](../wiki/npcs/high-theocrat-hederick.md))
+- **🗿 ALL FOUR STATUES ARE IDENTIFIED: a CROCODILE, a FALCON (“bird-headed”), a
+  CAT-HEADED one, and a JACKAL-HEADED one.** All four are **animate**, all four **speak**, and all four
   **stepped forward.** The **bird-headed** one **addressed
   [Hederick](../wiki/npcs/high-theocrat-hederick.md) directly** — he was **right in front
   of it** — and **visibly relaxed** after Malix answered. 🧩
