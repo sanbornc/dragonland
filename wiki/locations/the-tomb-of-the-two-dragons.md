@@ -60,7 +60,9 @@ whether the archaeologist is unable or merely unwilling. 🧩
 Recorded exactly as presented at the table. **The doors were opened in Session 09** — see
 below.
 
-> **Session 09 state:** **the whole party is inside**, and the interior is **uncontested** —
+> **Session 09 state:** **the whole party is inside** — plus
+> **[the archaeologist](../npcs/the-archaeologist.md)**, who came in once the wards were
+> lifted. The interior is **uncontested** —
 > [Pip](../characters/pip-tumblewhistle.md), [Vaelor](../characters/vaelor-grinward.md),
 > [Malix](../characters/malix.md) and [Renob](../characters/renob.md) are inside with **no
 > enemies present**, after the [warlock](../npcs/the-warlock-at-the-tomb.md) vanished.
@@ -79,7 +81,7 @@ below.
   [Blessing of the Oathbound](../items/blessing-of-the-oathbound.md) marking glowed.**
   *(Which slot is not recorded.)* (Session 09)
 - **🪵 Vaelor then placed the [wooden Mishakal token](../items/wooden-mishakal-token.md) in the
-  hole — and THE SLOT CLOSED AROUND HIS ARM.** (Session 09)
+  hole — and THE SLOT CLOSED AROUND HIS ARM**, releasing it later. (Session 09)
 - **🧩 [The archaeologist](../npcs/the-archaeologist.md) says he has THE OTHER PART in his
   tent**, and left to retrieve it. (Session 09)
 

@@ -12,9 +12,9 @@ The one person from the camp at
 **[the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)** who **did not
 run.** **Name unknown.**
 
-> **Status: ALIVE, NON-HOSTILE, and COOPERATING.** Walked calmly to the tomb after the dragon
-> exploded while the rest of the camp fled — then **would not enter**, and **left for his tent
-> to fetch "the other part."**
+> **Status: ALIVE, NON-HOSTILE, COOPERATING — and INSIDE THE TOMB with the party.** Walked
+> calmly to the tomb after the dragon exploded while the rest of the camp fled, would not enter
+> while the wards were up, and came in once the doors were open.
 
 ## What we know
 
@@ -41,7 +41,9 @@ run.** **Name unknown.**
 - **🕰️ He dates the tomb as PRE-CATACLYSM — and the sarcophagus as MUCH NEWER.** He is reading
   this site as a professional, and the party is getting his assessments in real time.
   (Session 09)
-- **⚠️ Whether he has now entered the tomb** — the wards being down — **is not recorded.**
+- **🚶 HE IS NOW INSIDE THE TOMB WITH THE PARTY.** He refused to cross the threshold while the
+  **wards were up**; once the doors were open and the **protective spells lifted**, he came in.
+  *(Sequence recorded as it happened — he did not say the wards were what stopped him.)*
   (Session 09)
 
 ## Probable connection to Session 08 *(inference — not stated at the table)*

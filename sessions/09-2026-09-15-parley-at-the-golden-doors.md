@@ -119,6 +119,9 @@ the **two golden doors** untouched.
 - **🌊 WATER STARTS FILLING THE TOMB.**
 - **🕰️ The archaeologist dates the tomb PRE-CATACLYSM — but says the SARCOPHAGUS IS MUCH
   NEWER.**
+- **✋ [Vaelor](../wiki/characters/vaelor-grinward.md)'s arm was RELEASED** from the slot.
+- **🚶 [The archaeologist](../wiki/npcs/the-archaeologist.md) IS NOW WITH THE PARTY** — inside
+  the tomb, having refused to enter while the wards were up.
 
 ## New facts learned
 
@@ -162,8 +165,11 @@ the **two golden doors** untouched.
 - **🔥🧊⚡ There are BRAZIERS in the tomb**, each with **a bag beside it**. Filled as the
   archaeologist instructed, they now hold **a small fire**, **ice**, and **small crackling
   lightning.** ([The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md)) 🧩
-- **🤝 The archaeologist is cooperating with the party** — he gave them instructions and they
-  followed them.
+- **🤝 The archaeologist is cooperating with the party** — he gave them instructions, they
+  followed them, and **he is now inside the tomb with them.** He would not cross the threshold
+  while the **wards were up**; with the doors open and the **protective spells lifted**, he
+  came in. *(The sequence is recorded; he did not state the wards were what stopped him.)*
+- **✋ Vaelor's arm was released** from the slot that closed around it.
 - **📜 There is Solamnic writing on the golden doors, and it does not match the rest of the
   markings in the tomb.** ([Knights of Solamnia](../wiki/factions/knights-of-solamnia.md) ·
   [The Tomb of the Two Dragons](../wiki/locations/the-tomb-of-the-two-dragons.md)) 🧩
@@ -234,9 +240,7 @@ of them may be mages.** Everything above counts only what has actually engaged.
 - **⚰️ WHO IS IN THE SARCOPHAGUS**, and **who put a much newer burial inside a pre-Cataclysm
   tomb?** 🧩
 - **🕰️ How much newer is the sarcophagus** — decades, centuries, since the Cataclysm? 🧩
-- **🛡️ With the wards lifted, can the archaeologist now enter — and has he?** *(Not recorded
-  whether he is inside or still calling from outside.)*
-- **✋ Is Vaelor's arm released?** The slot **closed around it.** 🧩
+- **What does the archaeologist want out of this**, now that he is inside with them?
 - **🧩 What is "the other part"**, and does the archaeologist come back with it?
 - **🔥🧊⚡ Were there only three braziers**, and what was in the bags? 🧩
 - **📜 What does the Solamnic writing on the doors say?** Not yet read out / recorded. 🧩
