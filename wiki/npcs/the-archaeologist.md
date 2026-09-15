@@ -50,8 +50,8 @@ against force, is not established.**
 
 - **Who is he, and who does he work for?** The
   [dragon army](../factions/black-banners.md) that sacked this tomb, the
-  [Seekers](../factions/the-seekers.md), or an expedition of their own?
-- **What is their relationship to
+  [Seekers](../factions/the-seekers.md), or an expedition of his own?
+- **What is his relationship to
   [the warlock](the-warlock-at-the-tomb.md)?** Employer, employee, colleague, or hostage?
 - **🧩 What is "the other part"**, and does he come back with it?
 - **Does he know what the braziers do?** He knew how to fill them. 🧩
