@@ -36,6 +36,9 @@ run.** **Name unknown.**
   beside them while he was gone — **and they did.** (Session 09)
 - **He knows this site.** He knew about the braziers, the bags, and "the other part."
   (Session 09)
+- **📜 HIS SATCHEL held translated notes, charcoal rubbings, and sketches of the EGG
+  PLATFORM and the INNER-DOOR SYMBOLS** — recovered by the party with the rest of the camp
+  loot. **This is what the tent voices were arguing about in Session 08.** (Session 09)
 - **🛡️ He says opening the golden doors LIFTED THE PROTECTIVE SPELLS** on the tomb.
   (Session 09)
 - **🕰️ He dates the tomb as PRE-CATACLYSM — and the sarcophagus as MUCH NEWER.** He is reading

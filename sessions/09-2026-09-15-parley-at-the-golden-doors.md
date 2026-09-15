@@ -279,6 +279,38 @@ the **two golden doors** untouched.
 
     > “He whose hand armed the world against wings.”
 
+## 🎰 Loot — the camp at the tomb (Session 09)
+
+Pooled to the [party wagon](../wiki/items/party-wagon.md) by convention unless claimed.
+
+- **2 Potions of Greater Healing** — officers' medical chest.
+- **1 Scroll of Dispel Magic** and **1 Scroll of Protection from Evil and Good** — the
+  mages' work area.
+- **💰 Dragon Army pay chest:** **145 gp, 380 sp**, and **several stamped military
+  tokens.**
+- **📜 [The archaeologist](../wiki/npcs/the-archaeologist.md)'s satchel:** **translated
+  notes, charcoal rubbings, and sketches of the egg platform and the inner-door symbols.**
+- **🥚 Three dragon-egg shell fragments wrapped in black cloth — one still has
+  faint magical residue.**
+  ([Dragon-Egg Shell Fragments](../wiki/items/dragon-egg-shell-fragments.md))
+- **Ancient funerary dagger** — copper blade, black-stone handle. **~75 gp**, but
+  **clearly ceremonial.**
+- **Pair of gold-and-lapis burial cuffs** from the antechamber — **100 gp for the pair.**
+- **🪲 Small carved scarab-like charm** from the antechamber — *once per long rest,
+  the wearer can add **1d4 to a failed Wisdom save**.*
+  ([Scarab Charm](../wiki/items/scarab-charm.md))
+- **Copper funerary mask**, badly tarnished but intact — **150 gp to a collector.**
+- **🗿 Black stone tablet fragment** showing **an ancient figure holding a long spear
+  toward a dragon.**
+  ([Black Stone Tablet Fragment](../wiki/documents/black-stone-tablet-fragment.md))
+- **⚒️ Silver smithing chisel**, untouched by corrosion. **Not magical enough to
+  identify immediately** — and **it belonged to the later group who repurposed the tomb.**
+- **🕏 One sealed clay vessel of ancient incense** — *burned during a short rest,
+  everyone nearby gains **advantage on their next Religion or History check related to the
+  tomb**.*
+- **⚠️ A [Dragon Army requisition order](../wiki/documents/dragon-army-requisition-order.md)
+  proving THE EGG WAS TRANSPORTED AWAY UNDER HEAVY GUARD.**
+
 ## New facts learned
 
 - **The caster can be talked to.** After Session 08's arrest attempt and a killing blow on

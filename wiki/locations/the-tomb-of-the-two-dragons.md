@@ -73,6 +73,9 @@ below.
 - **Many symbols and warnings** appear **on or near the doors.**
 - **Some of the images show two dragons fighting each other.**
 - **A dais near the doors** holds an object: **the remnants of a giant egg shell.**
+  **⚠️ Session 09: a recovered
+  [Dragon Army requisition order](../documents/dragon-army-requisition-order.md) proves THE EGG
+  WAS TRANSPORTED AWAY UNDER HEAVY GUARD** — the shell is **what was left behind.**
 - **On the two fighting dragons:** one holds **a lance with a place for something to be
   placed**; the other has **a fist**, likewise **with a place for something to be placed.**
 - **📜 [Solamnic](../factions/knights-of-solamnia.md) knight writing appears on the doors** —
@@ -245,7 +248,8 @@ down.**
 ## Open questions
 
 - **What is behind the golden doors?**
-- **What is the giant egg shell on the dais?**
+- **~~What is the giant egg shell on the dais?~~** — **it held an egg the dragon army
+  shipped out under heavy guard.** (Session 09) **Where did the egg go, and whose was it?**
 - **What are the symbols and warnings, and what do they warn of?**
 - **📜 What does the Solamnic writing say, and why is it here** when nothing else in the tomb
   matches it? (Session 09)

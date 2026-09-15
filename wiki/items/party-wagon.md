@@ -169,10 +169,54 @@ Found on an island adjacent to
   [the Heart of the Swamp](../npcs/the-heart-of-the-swamp.md).** *(Found after the party had
   already killed it.)*
 
+## Session 09 — the tomb camp haul (party inventory)
+
+Taken from the camp and the tomb at
+**[the Tomb of the Two Dragons](../locations/the-tomb-of-the-two-dragons.md)** after the fight.
+**Still carried** — the wagons remain cached in Darken Wood. (Session 09)
+
+- **Coin added:** **145 gp, 380 sp** (Dragon Army pay chest), plus **several stamped military
+  tokens.** *(⚠️ The running party total in this file is only reconciled through
+  Session 03 — Boilerdang's D&D Beyond sheet is the live source.)*
+- **Magic items:**
+  - **[The Silver Arm](the-silver-arm.md)** — taken from the sarcophagus by
+    [Renob](../characters/renob.md). **Unassigned.**
+  - **[Pale Blue Whetstone](pale-blue-whetstone.md)** — 1/long rest, **+1 to the next
+    damage roll** with the weapon it is used on.
+  - **[Scarab Charm](scarab-charm.md)** — 1/long rest, **add 1d4 to a failed Wisdom save.**
+  - **1 sealed clay vessel of ancient incense** — burned during a **short rest**, everyone
+    nearby gains **advantage on their next Religion or History check related to the tomb.**
+- **Consumables:** **2 Potions of Greater Healing**; **1 Scroll of Dispel Magic**; **1 Scroll of
+  Protection from Evil and Good.**
+- **Valuables:**
+  - **Copper funerary mask**, tarnished but intact — **150 gp to a collector.**
+  - **Pair of gold-and-lapis burial cuffs** (antechamber) — **100 gp for the pair.**
+  - **Ancient funerary dagger**, copper blade and black-stone handle — **~75 gp**, clearly
+    **ceremonial.**
+- **Curiosities / evidence:**
+  - **⚒️ Silver smithing chisel**, untouched by corrosion — **not immediately
+    identifiable as magical**, and **it belonged to the later group who repurposed the tomb.**
+  - **[Dragon-Egg Shell Fragments](dragon-egg-shell-fragments.md)** — three, wrapped in
+    black cloth; **one has faint magical residue.**
+- **Documents (kept for the record):**
+  - **[Dragon Army Requisition Order](../documents/dragon-army-requisition-order.md)** —
+    **proves the egg was transported away under heavy guard.**
+  - **[Funerary Inscription Tablet](../documents/funerary-inscription-tablet.md)** — the
+    smith, **"He whose hand armed the world against wings."**
+  - **[Black Stone Tablet Fragment](../documents/black-stone-tablet-fragment.md)** — a
+    figure with a long spear, facing a dragon.
+  - **The archaeologist's satchel:** **translated notes, charcoal rubbings, and sketches of the
+    egg platform and the inner-door symbols.**
+
 ## Open questions
 - **Who wrote the lockbox map, and who was it left for?** (Session 08)
 - **Who claims the four magic items, and who attunes to the Mirewalker Ring?** Nothing was
   assigned at the table. (Session 07)
+- **Who claims [the Silver Arm](the-silver-arm.md), the
+  [whetstone](pale-blue-whetstone.md) and the [scarab charm](scarab-charm.md)?** Renob took the
+  arm by hand; nothing assigned. (Session 09)
+- **⚠️ The running coin total needs reconciling** — it is only summed through
+  Session 03 here. (Session 09)
 - **Who is the signet ring**, and does the **ivory dragon carving** mean anything? (Session 07)
 - **Who is "the right buyer" for a Swamp Heart Core** — and does selling pieces of a dead
   guardian spirit have a cost? (Session 07)
